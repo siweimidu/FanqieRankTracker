@@ -1,230 +1,231 @@
 {
   "type": "悬疑脑洞",
-  "date": "2026-07-26",
-  "prev_date": "2026-07-25",
+  "date": "2026-07-27",
+  "prev_date": "2026-07-26",
   "category": {
     "name": "悬疑脑洞",
     "trend": {
-      "new_count": 2,
-      "dropped_count": 2,
+      "new_count": 3,
+      "dropped_count": 3,
       "new_books": [
-        "盗墓：楚氏铁骑，踏碎幽冥",
-        "茅山大师兄：我石坚，正的发邪！"
+        "女儿特长填盗墓，我被国家找上门",
+        "盗墓：神级吞噬，从蛇沼之主开始",
+        "正在努力观察人类"
       ],
       "dropped_books": [
         {
-          "title": "女儿特长填盗墓，我被国家找上门",
-          "intro": "苏晨，传承千年的摸金后人。 却因世道安稳、律法严明，空有一身盗墓理论，从未踏足过古墓。 然而有一天，幼儿园的女儿在调查问卷父亲职业中，写了——盗墓摸金校尉。 导致警察直接找上门。 “苏先生，请你如实回"
+          "title": "盗墓：满级出棺，带飞铁三角",
+          "intro": "【盗墓+搞笑+带飞铁三角】一觉醒来，陈安居然躺在了一个棺材里，身旁还依偎着一具冰冷的美女古尸，他蒙圈了，这咋回事？ 就在他搞不清状况的时候，眼前一亮，棺材被撬开了，上面探出来三张脸，两瘦一胖，正是铁三"
         },
         {
-          "title": "人在九叔世界，绑定万界武道系统",
-          "intro": "（评分刚出，后面会涨。） 陆玄穿越到僵尸世界，拜入茅山之时却被告知修道天赋只有下等资质，今生与仙道无缘，恰逢此时武道系统激活，他毅然转修武道，系统赠送逆天武道体质，融合当天，惊现武神虚影，震惊了整个茅"
+          "title": "茅山大师兄：我石坚，正的发邪！",
+          "intro": "穿越成《僵尸至尊》石坚，开局便是茅山大师兄。 自幼入道，天赋冠绝当代，潜心修道二十载，身着阴阳道袍，道法深不可测。 红尘历练？俗事纷扰？大可不必！ 不娶妻、不生子，石少坚那个拖油瓶更是从未存在。 师弟"
+        },
+        {
+          "title": "我在茅山炼制万魂幡！",
+          "intro": "（本书慢节奏，但是不拖拉，中间会有挫折。重要的事情：无女主） 石枭这辈子从来不信神神鬼鬼，于是便开始当起了灵异主播。 可是夜路走多了，总会碰到的！ 好消息：他没有死，只是穿越了，还被茅山大师兄石坚给捡"
         }
       ],
       "top_risers": [
         {
+          "title": "祖上十八鬼帝，你让我恐怖求生？",
+          "change": "+1"
+        },
+        {
           "title": "伪人降临！我是全场唯一预言家",
-          "change": "+5"
-        },
-        {
-          "title": "屋外诡异横行？我靠宅家就能变强",
-          "change": "+2"
-        },
-        {
-          "title": "序列公路：一天一个海克斯",
-          "change": "+2"
+          "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "盗墓：满级出棺，带飞铁三角",
-          "change": "-4"
+          "title": "盗墓天师，开局被九门张家挖出棺",
+          "change": "-6"
         },
         {
-          "title": "刚成为警察，你告诉我这是双瞳",
-          "change": "-3"
+          "title": "盗墓：沙海开局，面板成神",
+          "change": "-2"
         },
         {
-          "title": "万界庇护所：我的天赋能篡改规则",
+          "title": "课本求生，开局变成小蝌蚪找妈妈",
           "change": "-2"
         }
       ],
       "reads_growth": [
         {
-          "title": "恐怖入侵，开局吃掉饿死鬼",
+          "title": "伪人降临！我是全场唯一预言家",
+          "growth": "+2.9万"
+        },
+        {
+          "title": "盗墓：背棺送葬，奖励龙象般若功",
           "growth": "+6000"
         },
         {
-          "title": "伪人降临！我是全场唯一预言家",
-          "growth": "+5000"
-        },
-        {
           "title": "序列公路：一天一个海克斯",
-          "growth": "+4000"
+          "growth": "+3000"
         }
       ],
-      "summary": "**🔥 题材趋势** “盗墓”和“诡异降临/复苏”构成绝对双核，前者依托头部IP（盗墓笔记、鬼吹灯）持续变现，后者则与“伪人”“规则怪谈”等恐惧新概念结合。\n**📖 读者偏好** 读者青睐有明确成长体系（系统、面板）的硬核生存文，对“金手指解谜”接受度极高，喜欢“轻松”与“惊悚”微妙平衡的叙事。\n**🆕 新上榜作品** 《盗墓：楚氏铁骑》和《茅山大师兄：我石坚，正的发邪！》分别加码“盗墓铁骑”和“茅山正道”设定，进一步巩固了IP衍生和经典流派的统治地位。\n**📉 掉出榜单** 《女儿特长填盗墓》和《人在九叔世界》或因设定缺乏新意、或剧情节奏偏慢，未能顶住新进者的冲击，证明单一IP依赖风险增加。\n**💡 值得关注** 第10名《序列公路：一天一个海克斯》融合“公路片”与“海克斯”游戏化设定，在丧尸围城背景下开辟独特赛道，长尾增长潜力值得关注。"
+      "summary": "**🔥 题材趋势**  \n盗墓+系统仍是绝对主力，本月10本"
     },
     "books": [
       {
         "title": "盗墓：背棺送葬，奖励龙象般若功",
         "author": "何君清风远",
-        "reads": "17.1万",
+        "reads": "17.7万",
         "intro": "李长生穿越到盗墓世界，成为送葬人。 【成功送葬瓶山尸王，奖励满级龙象般若。】 【成功送葬血尸周穆王，奖励双全手。】 【成功送葬……】 只要奖励到位，古神也给你送葬。 我叫李长生，盗人盗宝还盗墓，葬天葬地葬众生！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o915494293afb28d74f4b73a783fc2a6e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=sDrdgSUBpI7ktA1hHdUCQbdWxwE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o915494293afb28d74f4b73a783fc2a6e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=LRzk2kuESR8gvq17nyUszjGZ6Io%3D",
         "url": "https://fanqienovel.com/page/7628919682925333566"
       },
       {
         "title": "我创立的组织，被重生者曝光了！",
         "author": "突兔兔",
-        "reads": "12.8万",
+        "reads": "11.4万",
         "intro": "我叫洛倾烟，我重生了，重生到了诡异降临前夕。 　　前世的龙国沦为血腥炼狱，唯有那个神秘的隐世组织才能挽大厦于将倾。 　　这一世，我要改变龙国命运，改变一切。 　　我要找到那个组织…【破晓】！ 　　…… 　　我叫苏宇，我借助在洛青烟的家中。 　　这一天，我觉醒了救世系统，系统却要求我成立一个救世组织。 　　破除黑暗，重铸黎明！ 　　我创立了破晓！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob20492f18085deb60b0f425fe1e072e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=orh%2FDS76E3fqkbL07QytN1XvhEU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob20492f18085deb60b0f425fe1e072e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=lDLDRVpz1k1a3QyfcMDGQhxTsmM%3D",
         "url": "https://fanqienovel.com/page/7649178879772347416"
-      },
-      {
-        "title": "黑熊敲门：开局获得光头强体质",
-        "author": "孙梓病发",
-        "reads": "10.4万",
-        "intro": "晓强穿越到一个有“恐怖怪谈”游戏的平行世界，绑定了前世动画片《熊出没》当中光头强的体质……第一个副本却是“黑熊敲门” 黑熊：“为什么我一见到他，就有一种灵魂在颤栗的感觉？” 观众：“为什么他用螺丝和钉子什么都能搓出来？这不合理！” 晓强：“家人们相信我，我只是一个遵纪守法的好人呐……”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0b1664afe09a9bae6786a0b924625794~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=44o9ykfwE8KUvAl8AHZALpln8cQ%3D",
-        "url": "https://fanqienovel.com/page/7621097137765354558"
       },
       {
         "title": "祖上十八鬼帝，你让我恐怖求生？",
         "author": "二十六郎",
-        "reads": "12.9万",
+        "reads": "12.8万",
         "intro": "全球诡异降临，每个人成年当天必须通关一次恐怖副本。 轮到陆也的那天，他连夜坐车回老家，跪在祖坟前哭哭啼啼。 “祖宗在上，小子不孝，呜呜呜，咱老陆家到我这一代算是彻底断根儿了！” “明天就进副本，我是没打算活着出来。” “以后就没人给你们烧纸了！” 这一嗓子直接把陆家18座老坟里躺着的祖宗全嚎醒了。 登时冒出滚滚黑烟，天地为之色变。 “哭哭哭，就知道哭，把咱鬼帝一门的福气都哭没了！” “瞒了孩子这么久，祖上十八位鬼帝这事也该摊牌了。” “玄孙莫怕，祖奶奶这就给你准备一筐鬼道帝兵。” “哼！我陆氏一脉还能让鬼给欺负了？” 祖宗显灵，直接躺平。 仗着有鬼帝祖宗撑腰，陆也这才发现原来诡异副本还有不一样的玩法。 “听过陆霸天陆鬼帝没？那是我太祖爷。” “S级女诡？哦，麻烦告诉她一声。” “我祖奶奶相中她这个孙媳妇儿了。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oae6689a63621c7d3a7f02c4c89b9d306~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=Y93jzPYcqB2PjAeB8EQho4dC%2FW0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oae6689a63621c7d3a7f02c4c89b9d306~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=1aD3eb5mlDubBgF0Y8lvFcZHIok%3D",
         "url": "https://fanqienovel.com/page/7654569948647263294"
       },
       {
-        "title": "屋外诡异横行？我靠宅家就能变强",
-        "author": "木浴丛生",
-        "reads": "8.4万",
-        "intro": "【评分刚出，会涨】【诡异世界】+【系统面板】+【苟道】+【种田流】 遭遇大运撞击的沈飞穿越到另一个世界，刚醒来就遭遇诡异诅咒缠身。 家中附近怪事横生，夜间屋外诡异横行。 还好他觉醒了宅家系统，只要乖乖待在家中，完成系统布置的简单任务，就能获得大量的道具和属性。 从此往后，沈飞再也不出门一步。 他发誓要一直宅在家中，蹲到天荒地老，蹲到海枯石烂，等到自己彻底无敌的那一天，才重出江湖。 …… 多年以后，面对被自己一巴掌拍死的诡异之神，沈飞会回想起自己刚获得系统的那一个夜晚",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdbaecc4f01623f14644c5f0cec5543b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=psdt%2B5o69SZxqvsHcgFl98GCqg8%3D",
-        "url": "https://fanqienovel.com/page/7649751345573923864"
+        "title": "黑熊敲门：开局获得光头强体质",
+        "author": "孙梓病发",
+        "reads": "9.7万",
+        "intro": "晓强穿越到一个有“恐怖怪谈”游戏的平行世界，绑定了前世动画片《熊出没》当中光头强的体质……第一个副本却是“黑熊敲门” 黑熊：“为什么我一见到他，就有一种灵魂在颤栗的感觉？” 观众：“为什么他用螺丝和钉子什么都能搓出来？这不合理！” 晓强：“家人们相信我，我只是一个遵纪守法的好人呐……”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0b1664afe09a9bae6786a0b924625794~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=0tptg5jBJMPDopj%2Fu9j1VHtkAL8%3D",
+        "url": "https://fanqienovel.com/page/7621097137765354558"
       },
       {
         "title": "伪人降临！我是全场唯一预言家",
         "author": "蘑菇炖猪头",
-        "reads": "11.5万",
-        "intro": "（刚开分，后续会涨）【非无脑】【惊悚黑暗】【预言家】【伪人】【求生】 这里伪人深藏身侧，异常实体四处游动。 这里是后面的惊悚世界。后人称其为「后世」亦是「后室」 没有人能找到那深藏人群中的伪人，只能静待屠戮！ 万幸，林羊得到了【预言家】的身份。 【您每日可查验一人身份，或获得一份生存情报。】 当绝望笼罩所有生灵的眼睛之时，林羊带着他还算可靠的脑子，为所有迷惘的人，开辟出半条道路。 【尊贵的预言家，您今日要查验的目标身份是.....】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe45bc3d9fac4f2b6c71a74b935e32314~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=hEDmtp3p7gsYCM%2FbfqM4GjHWPl8%3D",
+        "reads": "14.4万",
+        "intro": "（刚开分，后续会涨）【非无脑】【惊悚黑暗】【预言家】【伪人】【求生】 这里伪人深藏身侧，异常实体四处游动。 这里是后面的惊悚世界。后人称其为「后世」亦是「后室」 没有人能找到那深藏人群中的伪人，只能静待屠戮！ 万幸，林羊得到了【预言家】的身份。 【您每日可查验一人身份，或获得一份生存情报。】 当绝望笼罩所有生灵的眼睛之时，林羊带着他还算可靠的脑子，为所有迷惘的人，开辟出半条道路。 【尊贵的预言家，您今日要查验的目标身份是.....】 —————— 注:本书又名《撒旦的预言》",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe45bc3d9fac4f2b6c71a74b935e32314~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=y%2BmEzYGVXeicdEhU8kTLsUzbKro%3D",
         "url": "https://fanqienovel.com/page/7652970460308589592"
+      },
+      {
+        "title": "屋外诡异横行？我靠宅家就能变强",
+        "author": "木浴丛生",
+        "reads": "8.5万",
+        "intro": "【评分刚出，会涨】【诡异世界】+【系统面板】+【苟道】+【种田流】 遭遇大运撞击的沈飞穿越到另一个世界，刚醒来就遭遇诡异诅咒缠身。 家中附近怪事横生，夜间屋外诡异横行。 还好他觉醒了宅家系统，只要乖乖待在家中，完成系统布置的简单任务，就能获得大量的道具和属性。 从此往后，沈飞再也不出门一步。 他发誓要一直宅在家中，蹲到天荒地老，蹲到海枯石烂，等到自己彻底无敌的那一天，才重出江湖。 …… 多年以后，面对被自己一巴掌拍死的诡异之神，沈飞会回想起自己刚获得系统的那一个夜晚",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdbaecc4f01623f14644c5f0cec5543b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=UtmalONt%2Fzc5nlmtvahMMuzsA8g%3D",
+        "url": "https://fanqienovel.com/page/7649751345573923864"
       },
       {
         "title": "万界庇护所：我的天赋能篡改规则",
         "author": "三更卖报",
-        "reads": "8.3万",
+        "reads": "8.4万",
         "intro": "全球进入庇护所求生游戏，每人开局一座专属庇护所。 别人是便利店、诊所、加油站，林序却只有一间废弃报刊亭。 夜晚有人敲窗买报，白天顾客可能不是人。 灰雾里，报刊亭灯还亮着。 想活命？ 先买份今日早报。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3e2b63859477b92e31a4062ed1021462~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=KqA%2BilDPcIa3NHc7YFC%2Fvzq6MuU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3e2b63859477b92e31a4062ed1021462~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=VWtKh%2BgvmctunObP9%2FcTQyoFQMI%3D",
         "url": "https://fanqienovel.com/page/7646363905563839513"
       },
       {
         "title": "末世，开局提前觉醒三大神级异能",
         "author": "不熬夜的小杨",
-        "reads": "7万",
+        "reads": "7.2万",
         "intro": "【评分刚出，听说后续会涨】2029年1月1日晚，血月凌空，天崩地裂，无数诡异降临，人类迎来末世。 杨辰凭借觉醒的“吞噬异能”迅速崛起，经过十年的发展，终于成为蓝星五大巨头之一。 不料被最亲近的手下背叛，被舔了十几年的女人用沾满S级诡异毒素的匕首捅死。 死后重生到诡异降临前四月，大学开学的第一天。 这一世他不再做舔狗，不再相信任何人。 这一世，他要提前截胡时间和空间两大神级异能，这一世他要手刃所有仇人，他要亲手终结诡异时代。 然而，他重生后感觉有点不对劲，前世没有交集的夏国第一财阀的美女继承人竟然转学到他们学校，对他百般讨好。 欧洲古老家族的美女继承人也来到他们学校，开始各种接近他......",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51c8a5c2e27f05c7035af7cece7cce8d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=yJwJWhLjpYFGJ6kShF9UhTUwQfc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51c8a5c2e27f05c7035af7cece7cce8d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=QAZLRsrxzQrCrCNkCWo0Yp9VrP4%3D",
         "url": "https://fanqienovel.com/page/7644052647569263641"
       },
       {
-        "title": "盗墓：沙海开局，面板成神",
-        "author": "太极剑尊",
-        "reads": "4.8万",
-        "intro": "苏辰穿越到《盗墓笔记》，成了黎簇同学，还绑定了熟练度面板。 飞刀未入门？练！拳法刚熟练？肝！ 精通得内劲，大成长化劲，宗师悟丹劲，神话铸神境。 从沙海杀到青铜门，熟练度满了，这天下便再无对手。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51c5f45880bc483e8ed1448761961928~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=ysYF0DpCRfHHCEMYX%2FERwDY%2BwUI%3D",
-        "url": "https://fanqienovel.com/page/7477817488672033816"
+        "title": "女儿特长填盗墓，我被国家找上门",
+        "author": "天下第一",
+        "reads": "5.8万",
+        "intro": "苏晨，传承千年的摸金后人。 却因世道安稳、律法严明，空有一身盗墓理论，从未踏足过古墓。 然而有一天，幼儿园的女儿在调查问卷父亲职业中，写了——盗墓摸金校尉。 导致警察直接找上门。 “苏先生，请你如实回答，你是不是会盗墓？” 就在苏晨想解释的时候，对方却话锋一转。 “全球古墓降临，龙国面临SSS级古墓七星鲁王宫挑战屡屡失败，请苏先生出山！” 关键时刻苏晨又觉醒了神级盗墓系统。 只要完成系统任务，就能获得失传已久的盗墓绝技。 苏晨：“我自愿加入探险队，进入七星鲁王宫，救龙国于危难！” 于是，在他的带领下，云顶天宫、蛇沼鬼城、精绝古城等，一个又一个诡谲万分的古墓被攻略。 灵气资源、土地资源、……丰厚的奖励不断降临龙国。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o29013c513ecbbdb289c0f352b2d60c58~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=22FrXlUb76NWsf12LlaFdQLAclw%3D",
+        "url": "https://fanqienovel.com/page/7649217666900560958"
       },
       {
         "title": "序列公路：一天一个海克斯",
         "author": "爱笑的橙子",
-        "reads": "6.1万",
+        "reads": "6.4万",
         "intro": "【日更 6000】【不圣母】 血月降临，诡异复苏，城市沦陷，人间如狱。 诡异无法被杀死！！！ 序列者也无法杀死诡异！！！ 遇到诡异人类只能逃跑！！！ 人类越多的地方，出现的诡异越多。 人类被迫远离城市，在野外永不停息的迁徙，躲避诡异的追杀。 只有加入序列者车队，才有活下去的机会。 在车队中属于吊车尾的宋词，随时都有可能跟不上车队，死在诡异手中。 就在宋词以为自己看不到明天的太阳了，却发现他觉醒了海克斯强化系统。 每天都可以从三个海克斯选择一个。 当别人还在冒着生命危险，从诡异手中抢夺食物的时候，宋词已经是开上房车，吃着火锅喝着酒。 当别人为了成为序列者，千辛万苦找到一瓶序列药剂的时候，宋词已经开启彩色大羁绊 了。 【变形重组】【公理圆弧】【狩猎律动】【战争财宝】【飞升】…… 当一个个强大的海克斯，被宋词选择了之后。 宋词突然发现，诡异好像也没有那么恐怖。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o36ccc3e5e1f161b82dca6d6977fffb79~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=OocbLfXUGm3bL6zzXERhoxoAID0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o36ccc3e5e1f161b82dca6d6977fffb79~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=N1EYlp9Zgyg1UR14jc%2BShQz7tmM%3D",
         "url": "https://fanqienovel.com/page/7657804998184537112"
+      },
+      {
+        "title": "盗墓：沙海开局，面板成神",
+        "author": "太极剑尊",
+        "reads": "4.2万",
+        "intro": "苏辰穿越到《盗墓笔记》，成了黎簇同学，还绑定了熟练度面板。 飞刀未入门？练！拳法刚熟练？肝！ 精通得内劲，大成长化劲，宗师悟丹劲，神话铸神境。 从沙海杀到青铜门，熟练度满了，这天下便再无对手。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51c5f45880bc483e8ed1448761961928~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=38dzpuoE3BqM6%2BJSvaDd3dN5Cs0%3D",
+        "url": "https://fanqienovel.com/page/7477817488672033816"
       },
       {
         "title": "豪门真少爷，开局五雷正法",
         "author": "一夜渢情",
-        "reads": "5.4万",
+        "reads": "5.3万",
         "intro": "【真假少爷】+【无敌爽文】+【全网震惊】+【暴躁天师】 顾玄霆被接回豪门，却发现父母偏心，姐姐冷漠，绿茶假少爷暗中陷害。本以为是狗血宅斗，直到假少爷玩笔仙招来红衣厉鬼，全家陷入绝望死局。顾玄霆默默点亮【暴躁天师】模板，浑身金雷缠绕，反手一巴掌将厉鬼拍得魂飞魄散！全家震惊，跪求他原谅。顾玄霆冷笑：“亲情？狗都不要。我抓一只鬼赚的钱，能买下你们整个豪门！”从此，豪门少了个废物，玄门多了位雷电暴徒。首富奉他为座上宾，镇灵局求他当大佬，全网惊呼：这才是真祖宗！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7b859e0568779520fe47a86813bcaa1f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=XhYAbp8pJjBRkdPwADyomITu%2FSM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7b859e0568779520fe47a86813bcaa1f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=jCy4tfv2hYGZHVEt8ix76ltuuog%3D",
         "url": "https://fanqienovel.com/page/7657152141202558014"
       },
       {
         "title": "刚成为警察，你告诉我这是双瞳",
         "author": "我爱张张张",
-        "reads": "2.9万",
+        "reads": "2.5万",
         "intro": "【双瞳+无限流+第四天灾+扮演角色+现实灵气复苏】 穿越副本世界，成为一名【平平无奇】的警校生， 本以为这是个类似于蓝星一样的平行世界，没想到竟是类似双瞳一样的副本世界， 不但有双瞳，五狱酷刑，兵解成仙， 还有第一诫，鬼怪难缠，附身之法， 甚至驱鬼警察，玄门道法，借尸运毒…… 面对这一个个鬼怪横生的副本，罗杰表示很慌， 幸好罗杰知晓剧情，轻松破获双瞳案件，进而获得【驱魔警察】。 罗杰一下硬了，拳头硬了了。 兵解成仙？ 邪道也想成仙，做你的春秋大梦去吧！ 还有附身、夺舍？ 好啊，我倒要看看在我的满级金光咒下，你能不能附我的身？ 至于借尸运毒…… 呵呵，真是天台有路你不走，地铁无门自来投，看我大威天龙……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa22dbdbb1c04da51a46728b2ad9a3aed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=LL71FeKSr8Jy9vSRonKL1GbTHlE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa22dbdbb1c04da51a46728b2ad9a3aed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=By64s%2BxzHk%2Bt4MlTRTVPlIpe0hk%3D",
         "url": "https://fanqienovel.com/page/7647918465155615806"
-      },
-      {
-        "title": "盗墓天师，开局被九门张家挖出棺",
-        "author": "林C135",
-        "reads": "4.5万",
-        "intro": "【南部档案馆】+{老九门】+【民国+九叔】+{张起灵小哥}+【马小玲僵约】 开局就被张海楼从棺中挖出来，就到了老九门的世界。 穿越明朝，和汪藏海一个时代，出身东北张家，因父亲和天师道张家嫡女结婚生下主角儿被逐出张家。 天师道因嫡女外嫁，又追杀主角一家。主角身负交易系统，利用系统，虽躲过追杀，也布局不少。但终究因为年少，被天师道打成重伤，不得不假死修行《九死重生涅槃诀》，然后在民国被张海楼从墓中挖了出来。 张昊陵发现，这居然到老九门的世界了。 但渐渐地，张昊陵发现，这不对劲啊，怎么还有九叔，还有况中华？ 有二创，毕竟终极是什么，南派普通人也说不出来。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obbda6a4cb655d57af8b66a9b377de256~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=LARpGoAbkKYrPUCeL%2F6UM4o7qDc%3D",
-        "url": "https://fanqienovel.com/page/7655231568625011737"
       },
       {
         "title": "盗墓：楚氏铁骑，踏碎幽冥",
         "author": "对方正在更新8",
-        "reads": "6.4万",
+        "reads": "6.7万",
         "intro": "穿越1978接任族长，觉醒家族系统。 别人摸金分金，我带全村倒斗！ 洗髓伐毛，修炼吞噬星空法。 精绝古城？云顶天宫？ 我楚家铁骑所过之处，皆是祖坟！ 区区粽子，一铲子干碎！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa8c129ee61207359b3ccab472ea0b3aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=TXIpU9BldhBX9qp%2FHS%2B7VJJ%2FzEk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa8c129ee61207359b3ccab472ea0b3aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=GZ3pwK6TVC2GVlXQpvh9GW4GCmA%3D",
         "url": "https://fanqienovel.com/page/7657845953331727385"
       },
       {
         "title": "地铁诡站",
         "author": "小时南",
-        "reads": "5万",
+        "reads": "4.9万",
         "intro": "【无限流+惊悚+求生+规则怪谈】 午夜十一点，况野从警局加完班，刚踏上末班地铁。 一条朋友的消息突然弹出：“况野，千万别上地铁，会没命！” 恶作剧？况野看了眼紧闭的地铁门，没搭理。 接着又发来一张 P 图，画面里他直挺挺躺在棺中，形同死尸。 这就过分了，他正要皱眉怒斥，短信又发了过来。 “如果已经上了，一定一定要在忘川路下车！” “否则，必死无疑！” 地铁骤然减速，冰冷的播报声骤然响起……前方到站：忘川路站。 他心头一骇，拔腿就要下车，却撞见整车人齐齐回头。 眼神惶恐得像在看一个死人…… 原来，这是一趟永远到不了站的地铁，除非有人…… —— 「欢迎乘坐午夜地铁4号线，你的朋友正在等你。」",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9723e2f4b539bce02f6e87d1ddc46be6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=%2BQ7eFcgUqpByPsqaHk1h51je654%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9723e2f4b539bce02f6e87d1ddc46be6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=5gKMGVXZbAhZ%2B%2FwtHlL5P2eBCXU%3D",
         "url": "https://fanqienovel.com/page/7650510668415650878"
+      },
+      {
+        "title": "盗墓：神级吞噬，从蛇沼之主开始",
+        "author": "景兴星",
+        "reads": "5.3万",
+        "intro": "【盗墓探险】【系统进化】【爽文】【轻松搞笑】 一觉醒来，社畜徐龙没能成为富二代，反而穿越成了蛇沼鬼城里一条一米长的幼年鸡冠蛇。 开局为了求生强咬阿宁，却意外绑定了唯一共生契约！ 她死，他永久失去进化资格；他死，她当场命丧黄泉！ 为了活命，高冷御姐阿宁被迫开启“护蛇”模式，直接将剧毒的徐龙当成了贴身挂件。 吴天真当场懵了：“阿宁，你把剧毒鸡冠蛇当宠物，还亲它一口？！” 王胖子吓得直哆嗦：“这黑不溜秋的玩意儿，怎么一天长两米，还带隐身特效？！” 就连战力天花板的小哥，看着盘在阿宁雪白玉臂上、眼神冰冷如刀的黑蛇，都默默握紧了黑金古刀。 拥有微薄蛟龙血脉的徐龙，开启神级进化系统。 水下行动、热感锁定、神速、五级致命毒液…… 吞噬同类，捕杀异兽，从一米蛇崽，到蛇沼之王，再到九天真龙！ 且看徐龙如何以蛇之躯，盘卧美人香肩，横扫各大禁区古墓，笑傲终极长生！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8e87db8fa5fd7c77efedf96ffda57d59~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=6R34tcdw00wNtbJwEBT0cAGwTiQ%3D",
+        "url": "https://fanqienovel.com/page/7653531385050696728"
+      },
+      {
+        "title": "正在努力观察人类",
+        "author": "菊花枸杞金银花茶",
+        "reads": "5.5万",
+        "intro": "【无cp】【评分刚出，之后会涨……吧】 【主角第一人称，其他第三人称，多视角来回切换】 【非主流恐怖故事，风格更偏向温馨日常。】 …… 突然发现好多读者都误以为这本是女频……此书分类为【男频无cp】。 主角设定为刚诞生不久的小诡异，本体无性别，只是最常用的人类外表为小女孩。 …… 如果你带入主角的诡异视角，那就是偏向温馨日常家庭成长向。 （此处“家庭”指的是主角作为诡异boss的副本【温馨的家】，“成长”指的是主角宝宝在心理年龄状态上的缓慢成长，并非实力成长，实力开局就已经满了。） 如果你代入人类玩家视角，那可能大部分都有点死了。（？） …… 写简介好难啊……要不你们还是直接去看评论区吧，我觉得大部分总结的都很好，差评还可以给你们避避雷。 不过大部分差评似乎都是来自某误入诡异世界的修仙界人士，认为其画风格格不入，出现的太突兀了。 要不裴某你赔我点儿钱吧（？）。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odd7cbf37e1e05c959e7fe53a04cab89b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=60goy3t%2BG%2B20kLCG3E0cfk%2BhTig%3D",
+        "url": "https://fanqienovel.com/page/7630731868576418840"
       },
       {
         "title": "课本求生，开局变成小蝌蚪找妈妈",
         "author": "椒盐咖啡豆",
         "reads": "4.7万",
         "intro": "【毁童年+魔改课文+死亡游戏+S级天赋+铁拳教育+多】 一觉醒来，全球校园强制封闭，十多亿学生被迫不断进入“魔改课本”中求生！ 曾经温馨美好的课文沦为地狱！ 小红帽的篮子里装着人头，神笔马良的墨水是活人的血肉，卖火柴的小女孩在雪夜里微笑着点燃了整座城市的业火…… 从幼儿园的黑暗启蒙，到大学的名著地狱，所有学生都要疯了。 考试不及格？抹杀！月考班级战败？全员抹杀！ “本周研究课题：《小蝌蚪找妈妈》” 本以为是再简单不过的送分题，直到同学们进入课文变成了一群小蝌蚪，但是发现，脸还在！ 清澈的荷叶池塘沦为血肉沼泽，周围全是想吞噬他们的变异水族，而那所谓的“青蛙妈妈”，更是不可名状的怪物！ 就在所有人陷入绝望时，楚云却听到了系统的提示音： 【叮！恭喜你觉醒S级天赋，已成为本班班长并隐藏身份！】 【天赋】：文灵（S级） 【效果】：可以使用文学中的“修辞手法”造句，借由精神力具象化，发动能力将降低SAN值。 1.夸张：放大或缩小事物的特征、程度、范围等。 2.拟人：赋予无生命事物（或抽象概念）人的思想、情感、行为等。 3.比喻：用本质不同但有相似点的事物描绘另一事物，进行形态转化、属性替换、优劣转化等。 ……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o06fc94818258caf1ef4b5588aa934c2e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=PCfty3aoDeI0LnGJFSfAowtFyyM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o06fc94818258caf1ef4b5588aa934c2e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=jPFI2SNk6mJwpSaoDX40ylx%2FV6U%3D",
         "url": "https://fanqienovel.com/page/7651887386355305534"
       },
       {
-        "title": "盗墓：满级出棺，带飞铁三角",
-        "author": "倩女幽魂11",
-        "reads": "3.3万",
-        "intro": "【盗墓+搞笑+带飞铁三角】一觉醒来，陈安居然躺在了一个棺材里，身旁还依偎着一具冰冷的美女古尸，他蒙圈了，这咋回事？ 就在他搞不清状况的时候，眼前一亮，棺材被撬开了，上面探出来三张脸，两瘦一胖，正是铁三角。 他们看到陈安搂着女尸，还眨巴着大眼睛也吓一跳。 胖子：“卧槽！诈尸了！快点拿黑驴蹄子塞他嘴！” 吴邪：“别闹，这家伙好像是活的！小哥快点拧他脖子！” 小哥：“我感觉我......打不过他。” “？？？” “你说啥？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o568c32fdffdc96d3116ff0f0eb5a607c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=ZzQ3YHeWp2kZHRXnuybzUWNzLoE%3D",
-        "url": "https://fanqienovel.com/page/7651901472107400217"
-      },
-      {
-        "title": "茅山大师兄：我石坚，正的发邪！",
-        "author": "看一看一",
-        "reads": "4.8万",
-        "intro": "穿越成《僵尸至尊》石坚，开局便是茅山大师兄。 自幼入道，天赋冠绝当代，潜心修道二十载，身着阴阳道袍，道法深不可测。 红尘历练？俗事纷扰？大可不必！ 不娶妻、不生子，石少坚那个拖油瓶更是从未存在。 师弟林凤娇、四目、千鹤、屠龙，全由他代师授艺，亦兄亦父，一手带大。 师弟们学成下山开枝散叶，他仍坐镇茅山，闭门苦修。 直到中元节，九叔两个徒弟闯下大祸，百鬼出逃，义庄告急，飞符求援。 【玄门正道系统激活！】 【主线任务：收服《僵尸至尊》出逃群鬼，平定阳间祸乱！】 石坚眸色微冷，执纯阳剑下山。 这一日，整个灵异圈才知道，茅山真正的天花板，从来都不是下山的那些人。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2e347dff0595db04f16106456552f4dc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=YQznuGJiOW3nrkrGpC%2FomL6H1Nk%3D",
-        "url": "https://fanqienovel.com/page/7657793836457937945"
+        "title": "盗墓天师，开局被九门张家挖出棺",
+        "author": "林C135",
+        "reads": "4.4万",
+        "intro": "【南部档案馆】+{老九门】+【民国+九叔】+{张起灵小哥}+【马小玲僵约】 开局就被张海楼从棺中挖出来，就到了老九门的世界。 穿越明朝，和汪藏海一个时代，出身东北张家，因父亲和天师道张家嫡女结婚生下主角儿被逐出张家。 天师道因嫡女外嫁，又追杀主角一家。主角身负交易系统，利用系统，虽躲过追杀，也布局不少。但终究因为年少，被天师道打成重伤，不得不假死修行《九死重生涅槃诀》，然后在民国被张海楼从墓中挖了出来。 张昊陵发现，这居然到老九门的世界了。 但渐渐地，张昊陵发现，这不对劲啊，怎么还有九叔，还有况中华？ 有二创，毕竟终极是什么，南派普通人也说不出来。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obbda6a4cb655d57af8b66a9b377de256~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=CK5FuKnlg%2FRbZVO0F8JUA0CTS%2B4%3D",
+        "url": "https://fanqienovel.com/page/7655231568625011737"
       },
       {
         "title": "恐怖入侵，开局吃掉饿死鬼",
         "author": "请给我一支蘭州",
-        "reads": "5.5万",
+        "reads": "5.8万",
         "intro": "一个憨憨守村人，却也是天生鬼种。 陈黄懂得谁对他好，但他却不懂自己，也不懂这个世界。 他不明白，在这个恐怖复苏的世界里，人是随时会死的。 小村里，绝望的黑暗里有吃人恶鬼在啃食。 镇子上，重重鬼影几乎断绝所有人的生路。 精神病院里，诡异的人皮在夜里四处游荡。 一次次的流离失所，一次次的身无所依。 这个绝望的世界，到底哪里才是最终的安身之所？ 还是要把阻拦自己的所有一切都吃掉？ 陈黄不懂，也不明白。 他只想找回妈妈，找回姐姐，他只想回家。 “妈……，姐……” 无尽的绝望黑暗中，有疯癫阴森的呢喃声。 模糊了人鬼界限的陈黄，到底该何去何从？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o776d98b02a5a42f486483dc4a570bd45~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=1qa3hAA2ljle0QS85oyHyeZA4xI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o776d98b02a5a42f486483dc4a570bd45~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=j1T89D2IoBok%2Fyn6I51wk4aOyxY%3D",
         "url": "https://fanqienovel.com/page/7651948949724482585"
-      },
-      {
-        "title": "我在茅山炼制万魂幡！",
-        "author": "破坏段",
-        "reads": "3.8万",
-        "intro": "（本书慢节奏，但是不拖拉，中间会有挫折。重要的事情：无女主） 石枭这辈子从来不信神神鬼鬼，于是便开始当起了灵异主播。 可是夜路走多了，总会碰到的！ 好消息：他没有死，只是穿越了，还被茅山大师兄石坚给捡走了。 坏消息：身在茅山修行，觉醒了最强魔尊系统。 道友，请到贫道人皇幡一叙！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o396af698ae6bb982396c02de203b7ed6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=c25L%2BCS84NDcr2x0nwvgn4vJP%2FU%3D",
-        "url": "https://fanqienovel.com/page/7644524349076032536"
       }
     ]
   },
@@ -232,226 +233,227 @@
     {
       "name": "悬疑脑洞",
       "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
+        "new_count": 3,
+        "dropped_count": 3,
         "new_books": [
-          "盗墓：楚氏铁骑，踏碎幽冥",
-          "茅山大师兄：我石坚，正的发邪！"
+          "女儿特长填盗墓，我被国家找上门",
+          "盗墓：神级吞噬，从蛇沼之主开始",
+          "正在努力观察人类"
         ],
         "dropped_books": [
           {
-            "title": "女儿特长填盗墓，我被国家找上门",
-            "intro": "苏晨，传承千年的摸金后人。 却因世道安稳、律法严明，空有一身盗墓理论，从未踏足过古墓。 然而有一天，幼儿园的女儿在调查问卷父亲职业中，写了——盗墓摸金校尉。 导致警察直接找上门。 “苏先生，请你如实回"
+            "title": "盗墓：满级出棺，带飞铁三角",
+            "intro": "【盗墓+搞笑+带飞铁三角】一觉醒来，陈安居然躺在了一个棺材里，身旁还依偎着一具冰冷的美女古尸，他蒙圈了，这咋回事？ 就在他搞不清状况的时候，眼前一亮，棺材被撬开了，上面探出来三张脸，两瘦一胖，正是铁三"
           },
           {
-            "title": "人在九叔世界，绑定万界武道系统",
-            "intro": "（评分刚出，后面会涨。） 陆玄穿越到僵尸世界，拜入茅山之时却被告知修道天赋只有下等资质，今生与仙道无缘，恰逢此时武道系统激活，他毅然转修武道，系统赠送逆天武道体质，融合当天，惊现武神虚影，震惊了整个茅"
+            "title": "茅山大师兄：我石坚，正的发邪！",
+            "intro": "穿越成《僵尸至尊》石坚，开局便是茅山大师兄。 自幼入道，天赋冠绝当代，潜心修道二十载，身着阴阳道袍，道法深不可测。 红尘历练？俗事纷扰？大可不必！ 不娶妻、不生子，石少坚那个拖油瓶更是从未存在。 师弟"
+          },
+          {
+            "title": "我在茅山炼制万魂幡！",
+            "intro": "（本书慢节奏，但是不拖拉，中间会有挫折。重要的事情：无女主） 石枭这辈子从来不信神神鬼鬼，于是便开始当起了灵异主播。 可是夜路走多了，总会碰到的！ 好消息：他没有死，只是穿越了，还被茅山大师兄石坚给捡"
           }
         ],
         "top_risers": [
           {
+            "title": "祖上十八鬼帝，你让我恐怖求生？",
+            "change": "+1"
+          },
+          {
             "title": "伪人降临！我是全场唯一预言家",
-            "change": "+5"
-          },
-          {
-            "title": "屋外诡异横行？我靠宅家就能变强",
-            "change": "+2"
-          },
-          {
-            "title": "序列公路：一天一个海克斯",
-            "change": "+2"
+            "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "盗墓：满级出棺，带飞铁三角",
-            "change": "-4"
+            "title": "盗墓天师，开局被九门张家挖出棺",
+            "change": "-6"
           },
           {
-            "title": "刚成为警察，你告诉我这是双瞳",
-            "change": "-3"
+            "title": "盗墓：沙海开局，面板成神",
+            "change": "-2"
           },
           {
-            "title": "万界庇护所：我的天赋能篡改规则",
+            "title": "课本求生，开局变成小蝌蚪找妈妈",
             "change": "-2"
           }
         ],
         "reads_growth": [
           {
-            "title": "恐怖入侵，开局吃掉饿死鬼",
+            "title": "伪人降临！我是全场唯一预言家",
+            "growth": "+2.9万"
+          },
+          {
+            "title": "盗墓：背棺送葬，奖励龙象般若功",
             "growth": "+6000"
           },
           {
-            "title": "伪人降临！我是全场唯一预言家",
-            "growth": "+5000"
-          },
-          {
             "title": "序列公路：一天一个海克斯",
-            "growth": "+4000"
+            "growth": "+3000"
           }
         ],
-        "summary": "**🔥 题材趋势** “盗墓”和“诡异降临/复苏”构成绝对双核，前者依托头部IP（盗墓笔记、鬼吹灯）持续变现，后者则与“伪人”“规则怪谈”等恐惧新概念结合。\n**📖 读者偏好** 读者青睐有明确成长体系（系统、面板）的硬核生存文，对“金手指解谜”接受度极高，喜欢“轻松”与“惊悚”微妙平衡的叙事。\n**🆕 新上榜作品** 《盗墓：楚氏铁骑》和《茅山大师兄：我石坚，正的发邪！》分别加码“盗墓铁骑”和“茅山正道”设定，进一步巩固了IP衍生和经典流派的统治地位。\n**📉 掉出榜单** 《女儿特长填盗墓》和《人在九叔世界》或因设定缺乏新意、或剧情节奏偏慢，未能顶住新进者的冲击，证明单一IP依赖风险增加。\n**💡 值得关注** 第10名《序列公路：一天一个海克斯》融合“公路片”与“海克斯”游戏化设定，在丧尸围城背景下开辟独特赛道，长尾增长潜力值得关注。"
+        "summary": "**🔥 题材趋势**  \n盗墓+系统仍是绝对主力，本月10本"
       },
       "books": [
         {
           "title": "盗墓：背棺送葬，奖励龙象般若功",
           "author": "何君清风远",
-          "reads": "17.1万",
+          "reads": "17.7万",
           "intro": "李长生穿越到盗墓世界，成为送葬人。 【成功送葬瓶山尸王，奖励满级龙象般若。】 【成功送葬血尸周穆王，奖励双全手。】 【成功送葬……】 只要奖励到位，古神也给你送葬。 我叫李长生，盗人盗宝还盗墓，葬天葬地葬众生！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o915494293afb28d74f4b73a783fc2a6e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=sDrdgSUBpI7ktA1hHdUCQbdWxwE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o915494293afb28d74f4b73a783fc2a6e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=LRzk2kuESR8gvq17nyUszjGZ6Io%3D",
           "url": "https://fanqienovel.com/page/7628919682925333566"
         },
         {
           "title": "我创立的组织，被重生者曝光了！",
           "author": "突兔兔",
-          "reads": "12.8万",
+          "reads": "11.4万",
           "intro": "我叫洛倾烟，我重生了，重生到了诡异降临前夕。 　　前世的龙国沦为血腥炼狱，唯有那个神秘的隐世组织才能挽大厦于将倾。 　　这一世，我要改变龙国命运，改变一切。 　　我要找到那个组织…【破晓】！ 　　…… 　　我叫苏宇，我借助在洛青烟的家中。 　　这一天，我觉醒了救世系统，系统却要求我成立一个救世组织。 　　破除黑暗，重铸黎明！ 　　我创立了破晓！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob20492f18085deb60b0f425fe1e072e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=orh%2FDS76E3fqkbL07QytN1XvhEU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob20492f18085deb60b0f425fe1e072e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=lDLDRVpz1k1a3QyfcMDGQhxTsmM%3D",
           "url": "https://fanqienovel.com/page/7649178879772347416"
-        },
-        {
-          "title": "黑熊敲门：开局获得光头强体质",
-          "author": "孙梓病发",
-          "reads": "10.4万",
-          "intro": "晓强穿越到一个有“恐怖怪谈”游戏的平行世界，绑定了前世动画片《熊出没》当中光头强的体质……第一个副本却是“黑熊敲门” 黑熊：“为什么我一见到他，就有一种灵魂在颤栗的感觉？” 观众：“为什么他用螺丝和钉子什么都能搓出来？这不合理！” 晓强：“家人们相信我，我只是一个遵纪守法的好人呐……”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0b1664afe09a9bae6786a0b924625794~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=44o9ykfwE8KUvAl8AHZALpln8cQ%3D",
-          "url": "https://fanqienovel.com/page/7621097137765354558"
         },
         {
           "title": "祖上十八鬼帝，你让我恐怖求生？",
           "author": "二十六郎",
-          "reads": "12.9万",
+          "reads": "12.8万",
           "intro": "全球诡异降临，每个人成年当天必须通关一次恐怖副本。 轮到陆也的那天，他连夜坐车回老家，跪在祖坟前哭哭啼啼。 “祖宗在上，小子不孝，呜呜呜，咱老陆家到我这一代算是彻底断根儿了！” “明天就进副本，我是没打算活着出来。” “以后就没人给你们烧纸了！” 这一嗓子直接把陆家18座老坟里躺着的祖宗全嚎醒了。 登时冒出滚滚黑烟，天地为之色变。 “哭哭哭，就知道哭，把咱鬼帝一门的福气都哭没了！” “瞒了孩子这么久，祖上十八位鬼帝这事也该摊牌了。” “玄孙莫怕，祖奶奶这就给你准备一筐鬼道帝兵。” “哼！我陆氏一脉还能让鬼给欺负了？” 祖宗显灵，直接躺平。 仗着有鬼帝祖宗撑腰，陆也这才发现原来诡异副本还有不一样的玩法。 “听过陆霸天陆鬼帝没？那是我太祖爷。” “S级女诡？哦，麻烦告诉她一声。” “我祖奶奶相中她这个孙媳妇儿了。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oae6689a63621c7d3a7f02c4c89b9d306~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=Y93jzPYcqB2PjAeB8EQho4dC%2FW0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oae6689a63621c7d3a7f02c4c89b9d306~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=1aD3eb5mlDubBgF0Y8lvFcZHIok%3D",
           "url": "https://fanqienovel.com/page/7654569948647263294"
         },
         {
-          "title": "屋外诡异横行？我靠宅家就能变强",
-          "author": "木浴丛生",
-          "reads": "8.4万",
-          "intro": "【评分刚出，会涨】【诡异世界】+【系统面板】+【苟道】+【种田流】 遭遇大运撞击的沈飞穿越到另一个世界，刚醒来就遭遇诡异诅咒缠身。 家中附近怪事横生，夜间屋外诡异横行。 还好他觉醒了宅家系统，只要乖乖待在家中，完成系统布置的简单任务，就能获得大量的道具和属性。 从此往后，沈飞再也不出门一步。 他发誓要一直宅在家中，蹲到天荒地老，蹲到海枯石烂，等到自己彻底无敌的那一天，才重出江湖。 …… 多年以后，面对被自己一巴掌拍死的诡异之神，沈飞会回想起自己刚获得系统的那一个夜晚",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdbaecc4f01623f14644c5f0cec5543b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=psdt%2B5o69SZxqvsHcgFl98GCqg8%3D",
-          "url": "https://fanqienovel.com/page/7649751345573923864"
+          "title": "黑熊敲门：开局获得光头强体质",
+          "author": "孙梓病发",
+          "reads": "9.7万",
+          "intro": "晓强穿越到一个有“恐怖怪谈”游戏的平行世界，绑定了前世动画片《熊出没》当中光头强的体质……第一个副本却是“黑熊敲门” 黑熊：“为什么我一见到他，就有一种灵魂在颤栗的感觉？” 观众：“为什么他用螺丝和钉子什么都能搓出来？这不合理！” 晓强：“家人们相信我，我只是一个遵纪守法的好人呐……”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0b1664afe09a9bae6786a0b924625794~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=0tptg5jBJMPDopj%2Fu9j1VHtkAL8%3D",
+          "url": "https://fanqienovel.com/page/7621097137765354558"
         },
         {
           "title": "伪人降临！我是全场唯一预言家",
           "author": "蘑菇炖猪头",
-          "reads": "11.5万",
-          "intro": "（刚开分，后续会涨）【非无脑】【惊悚黑暗】【预言家】【伪人】【求生】 这里伪人深藏身侧，异常实体四处游动。 这里是后面的惊悚世界。后人称其为「后世」亦是「后室」 没有人能找到那深藏人群中的伪人，只能静待屠戮！ 万幸，林羊得到了【预言家】的身份。 【您每日可查验一人身份，或获得一份生存情报。】 当绝望笼罩所有生灵的眼睛之时，林羊带着他还算可靠的脑子，为所有迷惘的人，开辟出半条道路。 【尊贵的预言家，您今日要查验的目标身份是.....】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe45bc3d9fac4f2b6c71a74b935e32314~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=hEDmtp3p7gsYCM%2FbfqM4GjHWPl8%3D",
+          "reads": "14.4万",
+          "intro": "（刚开分，后续会涨）【非无脑】【惊悚黑暗】【预言家】【伪人】【求生】 这里伪人深藏身侧，异常实体四处游动。 这里是后面的惊悚世界。后人称其为「后世」亦是「后室」 没有人能找到那深藏人群中的伪人，只能静待屠戮！ 万幸，林羊得到了【预言家】的身份。 【您每日可查验一人身份，或获得一份生存情报。】 当绝望笼罩所有生灵的眼睛之时，林羊带着他还算可靠的脑子，为所有迷惘的人，开辟出半条道路。 【尊贵的预言家，您今日要查验的目标身份是.....】 —————— 注:本书又名《撒旦的预言》",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe45bc3d9fac4f2b6c71a74b935e32314~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=y%2BmEzYGVXeicdEhU8kTLsUzbKro%3D",
           "url": "https://fanqienovel.com/page/7652970460308589592"
+        },
+        {
+          "title": "屋外诡异横行？我靠宅家就能变强",
+          "author": "木浴丛生",
+          "reads": "8.5万",
+          "intro": "【评分刚出，会涨】【诡异世界】+【系统面板】+【苟道】+【种田流】 遭遇大运撞击的沈飞穿越到另一个世界，刚醒来就遭遇诡异诅咒缠身。 家中附近怪事横生，夜间屋外诡异横行。 还好他觉醒了宅家系统，只要乖乖待在家中，完成系统布置的简单任务，就能获得大量的道具和属性。 从此往后，沈飞再也不出门一步。 他发誓要一直宅在家中，蹲到天荒地老，蹲到海枯石烂，等到自己彻底无敌的那一天，才重出江湖。 …… 多年以后，面对被自己一巴掌拍死的诡异之神，沈飞会回想起自己刚获得系统的那一个夜晚",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdbaecc4f01623f14644c5f0cec5543b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=UtmalONt%2Fzc5nlmtvahMMuzsA8g%3D",
+          "url": "https://fanqienovel.com/page/7649751345573923864"
         },
         {
           "title": "万界庇护所：我的天赋能篡改规则",
           "author": "三更卖报",
-          "reads": "8.3万",
+          "reads": "8.4万",
           "intro": "全球进入庇护所求生游戏，每人开局一座专属庇护所。 别人是便利店、诊所、加油站，林序却只有一间废弃报刊亭。 夜晚有人敲窗买报，白天顾客可能不是人。 灰雾里，报刊亭灯还亮着。 想活命？ 先买份今日早报。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3e2b63859477b92e31a4062ed1021462~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=KqA%2BilDPcIa3NHc7YFC%2Fvzq6MuU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3e2b63859477b92e31a4062ed1021462~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=VWtKh%2BgvmctunObP9%2FcTQyoFQMI%3D",
           "url": "https://fanqienovel.com/page/7646363905563839513"
         },
         {
           "title": "末世，开局提前觉醒三大神级异能",
           "author": "不熬夜的小杨",
-          "reads": "7万",
+          "reads": "7.2万",
           "intro": "【评分刚出，听说后续会涨】2029年1月1日晚，血月凌空，天崩地裂，无数诡异降临，人类迎来末世。 杨辰凭借觉醒的“吞噬异能”迅速崛起，经过十年的发展，终于成为蓝星五大巨头之一。 不料被最亲近的手下背叛，被舔了十几年的女人用沾满S级诡异毒素的匕首捅死。 死后重生到诡异降临前四月，大学开学的第一天。 这一世他不再做舔狗，不再相信任何人。 这一世，他要提前截胡时间和空间两大神级异能，这一世他要手刃所有仇人，他要亲手终结诡异时代。 然而，他重生后感觉有点不对劲，前世没有交集的夏国第一财阀的美女继承人竟然转学到他们学校，对他百般讨好。 欧洲古老家族的美女继承人也来到他们学校，开始各种接近他......",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51c8a5c2e27f05c7035af7cece7cce8d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=yJwJWhLjpYFGJ6kShF9UhTUwQfc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51c8a5c2e27f05c7035af7cece7cce8d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=QAZLRsrxzQrCrCNkCWo0Yp9VrP4%3D",
           "url": "https://fanqienovel.com/page/7644052647569263641"
         },
         {
-          "title": "盗墓：沙海开局，面板成神",
-          "author": "太极剑尊",
-          "reads": "4.8万",
-          "intro": "苏辰穿越到《盗墓笔记》，成了黎簇同学，还绑定了熟练度面板。 飞刀未入门？练！拳法刚熟练？肝！ 精通得内劲，大成长化劲，宗师悟丹劲，神话铸神境。 从沙海杀到青铜门，熟练度满了，这天下便再无对手。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51c5f45880bc483e8ed1448761961928~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=ysYF0DpCRfHHCEMYX%2FERwDY%2BwUI%3D",
-          "url": "https://fanqienovel.com/page/7477817488672033816"
+          "title": "女儿特长填盗墓，我被国家找上门",
+          "author": "天下第一",
+          "reads": "5.8万",
+          "intro": "苏晨，传承千年的摸金后人。 却因世道安稳、律法严明，空有一身盗墓理论，从未踏足过古墓。 然而有一天，幼儿园的女儿在调查问卷父亲职业中，写了——盗墓摸金校尉。 导致警察直接找上门。 “苏先生，请你如实回答，你是不是会盗墓？” 就在苏晨想解释的时候，对方却话锋一转。 “全球古墓降临，龙国面临SSS级古墓七星鲁王宫挑战屡屡失败，请苏先生出山！” 关键时刻苏晨又觉醒了神级盗墓系统。 只要完成系统任务，就能获得失传已久的盗墓绝技。 苏晨：“我自愿加入探险队，进入七星鲁王宫，救龙国于危难！” 于是，在他的带领下，云顶天宫、蛇沼鬼城、精绝古城等，一个又一个诡谲万分的古墓被攻略。 灵气资源、土地资源、……丰厚的奖励不断降临龙国。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o29013c513ecbbdb289c0f352b2d60c58~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=22FrXlUb76NWsf12LlaFdQLAclw%3D",
+          "url": "https://fanqienovel.com/page/7649217666900560958"
         },
         {
           "title": "序列公路：一天一个海克斯",
           "author": "爱笑的橙子",
-          "reads": "6.1万",
+          "reads": "6.4万",
           "intro": "【日更 6000】【不圣母】 血月降临，诡异复苏，城市沦陷，人间如狱。 诡异无法被杀死！！！ 序列者也无法杀死诡异！！！ 遇到诡异人类只能逃跑！！！ 人类越多的地方，出现的诡异越多。 人类被迫远离城市，在野外永不停息的迁徙，躲避诡异的追杀。 只有加入序列者车队，才有活下去的机会。 在车队中属于吊车尾的宋词，随时都有可能跟不上车队，死在诡异手中。 就在宋词以为自己看不到明天的太阳了，却发现他觉醒了海克斯强化系统。 每天都可以从三个海克斯选择一个。 当别人还在冒着生命危险，从诡异手中抢夺食物的时候，宋词已经是开上房车，吃着火锅喝着酒。 当别人为了成为序列者，千辛万苦找到一瓶序列药剂的时候，宋词已经开启彩色大羁绊 了。 【变形重组】【公理圆弧】【狩猎律动】【战争财宝】【飞升】…… 当一个个强大的海克斯，被宋词选择了之后。 宋词突然发现，诡异好像也没有那么恐怖。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o36ccc3e5e1f161b82dca6d6977fffb79~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613448&x-signature=OocbLfXUGm3bL6zzXERhoxoAID0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o36ccc3e5e1f161b82dca6d6977fffb79~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699880&x-signature=N1EYlp9Zgyg1UR14jc%2BShQz7tmM%3D",
           "url": "https://fanqienovel.com/page/7657804998184537112"
+        },
+        {
+          "title": "盗墓：沙海开局，面板成神",
+          "author": "太极剑尊",
+          "reads": "4.2万",
+          "intro": "苏辰穿越到《盗墓笔记》，成了黎簇同学，还绑定了熟练度面板。 飞刀未入门？练！拳法刚熟练？肝！ 精通得内劲，大成长化劲，宗师悟丹劲，神话铸神境。 从沙海杀到青铜门，熟练度满了，这天下便再无对手。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51c5f45880bc483e8ed1448761961928~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=38dzpuoE3BqM6%2BJSvaDd3dN5Cs0%3D",
+          "url": "https://fanqienovel.com/page/7477817488672033816"
         },
         {
           "title": "豪门真少爷，开局五雷正法",
           "author": "一夜渢情",
-          "reads": "5.4万",
+          "reads": "5.3万",
           "intro": "【真假少爷】+【无敌爽文】+【全网震惊】+【暴躁天师】 顾玄霆被接回豪门，却发现父母偏心，姐姐冷漠，绿茶假少爷暗中陷害。本以为是狗血宅斗，直到假少爷玩笔仙招来红衣厉鬼，全家陷入绝望死局。顾玄霆默默点亮【暴躁天师】模板，浑身金雷缠绕，反手一巴掌将厉鬼拍得魂飞魄散！全家震惊，跪求他原谅。顾玄霆冷笑：“亲情？狗都不要。我抓一只鬼赚的钱，能买下你们整个豪门！”从此，豪门少了个废物，玄门多了位雷电暴徒。首富奉他为座上宾，镇灵局求他当大佬，全网惊呼：这才是真祖宗！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7b859e0568779520fe47a86813bcaa1f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=XhYAbp8pJjBRkdPwADyomITu%2FSM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7b859e0568779520fe47a86813bcaa1f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=jCy4tfv2hYGZHVEt8ix76ltuuog%3D",
           "url": "https://fanqienovel.com/page/7657152141202558014"
         },
         {
           "title": "刚成为警察，你告诉我这是双瞳",
           "author": "我爱张张张",
-          "reads": "2.9万",
+          "reads": "2.5万",
           "intro": "【双瞳+无限流+第四天灾+扮演角色+现实灵气复苏】 穿越副本世界，成为一名【平平无奇】的警校生， 本以为这是个类似于蓝星一样的平行世界，没想到竟是类似双瞳一样的副本世界， 不但有双瞳，五狱酷刑，兵解成仙， 还有第一诫，鬼怪难缠，附身之法， 甚至驱鬼警察，玄门道法，借尸运毒…… 面对这一个个鬼怪横生的副本，罗杰表示很慌， 幸好罗杰知晓剧情，轻松破获双瞳案件，进而获得【驱魔警察】。 罗杰一下硬了，拳头硬了了。 兵解成仙？ 邪道也想成仙，做你的春秋大梦去吧！ 还有附身、夺舍？ 好啊，我倒要看看在我的满级金光咒下，你能不能附我的身？ 至于借尸运毒…… 呵呵，真是天台有路你不走，地铁无门自来投，看我大威天龙……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa22dbdbb1c04da51a46728b2ad9a3aed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=LL71FeKSr8Jy9vSRonKL1GbTHlE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa22dbdbb1c04da51a46728b2ad9a3aed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=By64s%2BxzHk%2Bt4MlTRTVPlIpe0hk%3D",
           "url": "https://fanqienovel.com/page/7647918465155615806"
-        },
-        {
-          "title": "盗墓天师，开局被九门张家挖出棺",
-          "author": "林C135",
-          "reads": "4.5万",
-          "intro": "【南部档案馆】+{老九门】+【民国+九叔】+{张起灵小哥}+【马小玲僵约】 开局就被张海楼从棺中挖出来，就到了老九门的世界。 穿越明朝，和汪藏海一个时代，出身东北张家，因父亲和天师道张家嫡女结婚生下主角儿被逐出张家。 天师道因嫡女外嫁，又追杀主角一家。主角身负交易系统，利用系统，虽躲过追杀，也布局不少。但终究因为年少，被天师道打成重伤，不得不假死修行《九死重生涅槃诀》，然后在民国被张海楼从墓中挖了出来。 张昊陵发现，这居然到老九门的世界了。 但渐渐地，张昊陵发现，这不对劲啊，怎么还有九叔，还有况中华？ 有二创，毕竟终极是什么，南派普通人也说不出来。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obbda6a4cb655d57af8b66a9b377de256~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=LARpGoAbkKYrPUCeL%2F6UM4o7qDc%3D",
-          "url": "https://fanqienovel.com/page/7655231568625011737"
         },
         {
           "title": "盗墓：楚氏铁骑，踏碎幽冥",
           "author": "对方正在更新8",
-          "reads": "6.4万",
+          "reads": "6.7万",
           "intro": "穿越1978接任族长，觉醒家族系统。 别人摸金分金，我带全村倒斗！ 洗髓伐毛，修炼吞噬星空法。 精绝古城？云顶天宫？ 我楚家铁骑所过之处，皆是祖坟！ 区区粽子，一铲子干碎！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa8c129ee61207359b3ccab472ea0b3aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=TXIpU9BldhBX9qp%2FHS%2B7VJJ%2FzEk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa8c129ee61207359b3ccab472ea0b3aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=GZ3pwK6TVC2GVlXQpvh9GW4GCmA%3D",
           "url": "https://fanqienovel.com/page/7657845953331727385"
         },
         {
           "title": "地铁诡站",
           "author": "小时南",
-          "reads": "5万",
+          "reads": "4.9万",
           "intro": "【无限流+惊悚+求生+规则怪谈】 午夜十一点，况野从警局加完班，刚踏上末班地铁。 一条朋友的消息突然弹出：“况野，千万别上地铁，会没命！” 恶作剧？况野看了眼紧闭的地铁门，没搭理。 接着又发来一张 P 图，画面里他直挺挺躺在棺中，形同死尸。 这就过分了，他正要皱眉怒斥，短信又发了过来。 “如果已经上了，一定一定要在忘川路下车！” “否则，必死无疑！” 地铁骤然减速，冰冷的播报声骤然响起……前方到站：忘川路站。 他心头一骇，拔腿就要下车，却撞见整车人齐齐回头。 眼神惶恐得像在看一个死人…… 原来，这是一趟永远到不了站的地铁，除非有人…… —— 「欢迎乘坐午夜地铁4号线，你的朋友正在等你。」",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9723e2f4b539bce02f6e87d1ddc46be6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=%2BQ7eFcgUqpByPsqaHk1h51je654%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9723e2f4b539bce02f6e87d1ddc46be6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=5gKMGVXZbAhZ%2B%2FwtHlL5P2eBCXU%3D",
           "url": "https://fanqienovel.com/page/7650510668415650878"
+        },
+        {
+          "title": "盗墓：神级吞噬，从蛇沼之主开始",
+          "author": "景兴星",
+          "reads": "5.3万",
+          "intro": "【盗墓探险】【系统进化】【爽文】【轻松搞笑】 一觉醒来，社畜徐龙没能成为富二代，反而穿越成了蛇沼鬼城里一条一米长的幼年鸡冠蛇。 开局为了求生强咬阿宁，却意外绑定了唯一共生契约！ 她死，他永久失去进化资格；他死，她当场命丧黄泉！ 为了活命，高冷御姐阿宁被迫开启“护蛇”模式，直接将剧毒的徐龙当成了贴身挂件。 吴天真当场懵了：“阿宁，你把剧毒鸡冠蛇当宠物，还亲它一口？！” 王胖子吓得直哆嗦：“这黑不溜秋的玩意儿，怎么一天长两米，还带隐身特效？！” 就连战力天花板的小哥，看着盘在阿宁雪白玉臂上、眼神冰冷如刀的黑蛇，都默默握紧了黑金古刀。 拥有微薄蛟龙血脉的徐龙，开启神级进化系统。 水下行动、热感锁定、神速、五级致命毒液…… 吞噬同类，捕杀异兽，从一米蛇崽，到蛇沼之王，再到九天真龙！ 且看徐龙如何以蛇之躯，盘卧美人香肩，横扫各大禁区古墓，笑傲终极长生！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8e87db8fa5fd7c77efedf96ffda57d59~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=6R34tcdw00wNtbJwEBT0cAGwTiQ%3D",
+          "url": "https://fanqienovel.com/page/7653531385050696728"
+        },
+        {
+          "title": "正在努力观察人类",
+          "author": "菊花枸杞金银花茶",
+          "reads": "5.5万",
+          "intro": "【无cp】【评分刚出，之后会涨……吧】 【主角第一人称，其他第三人称，多视角来回切换】 【非主流恐怖故事，风格更偏向温馨日常。】 …… 突然发现好多读者都误以为这本是女频……此书分类为【男频无cp】。 主角设定为刚诞生不久的小诡异，本体无性别，只是最常用的人类外表为小女孩。 …… 如果你带入主角的诡异视角，那就是偏向温馨日常家庭成长向。 （此处“家庭”指的是主角作为诡异boss的副本【温馨的家】，“成长”指的是主角宝宝在心理年龄状态上的缓慢成长，并非实力成长，实力开局就已经满了。） 如果你代入人类玩家视角，那可能大部分都有点死了。（？） …… 写简介好难啊……要不你们还是直接去看评论区吧，我觉得大部分总结的都很好，差评还可以给你们避避雷。 不过大部分差评似乎都是来自某误入诡异世界的修仙界人士，认为其画风格格不入，出现的太突兀了。 要不裴某你赔我点儿钱吧（？）。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odd7cbf37e1e05c959e7fe53a04cab89b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=60goy3t%2BG%2B20kLCG3E0cfk%2BhTig%3D",
+          "url": "https://fanqienovel.com/page/7630731868576418840"
         },
         {
           "title": "课本求生，开局变成小蝌蚪找妈妈",
           "author": "椒盐咖啡豆",
           "reads": "4.7万",
           "intro": "【毁童年+魔改课文+死亡游戏+S级天赋+铁拳教育+多】 一觉醒来，全球校园强制封闭，十多亿学生被迫不断进入“魔改课本”中求生！ 曾经温馨美好的课文沦为地狱！ 小红帽的篮子里装着人头，神笔马良的墨水是活人的血肉，卖火柴的小女孩在雪夜里微笑着点燃了整座城市的业火…… 从幼儿园的黑暗启蒙，到大学的名著地狱，所有学生都要疯了。 考试不及格？抹杀！月考班级战败？全员抹杀！ “本周研究课题：《小蝌蚪找妈妈》” 本以为是再简单不过的送分题，直到同学们进入课文变成了一群小蝌蚪，但是发现，脸还在！ 清澈的荷叶池塘沦为血肉沼泽，周围全是想吞噬他们的变异水族，而那所谓的“青蛙妈妈”，更是不可名状的怪物！ 就在所有人陷入绝望时，楚云却听到了系统的提示音： 【叮！恭喜你觉醒S级天赋，已成为本班班长并隐藏身份！】 【天赋】：文灵（S级） 【效果】：可以使用文学中的“修辞手法”造句，借由精神力具象化，发动能力将降低SAN值。 1.夸张：放大或缩小事物的特征、程度、范围等。 2.拟人：赋予无生命事物（或抽象概念）人的思想、情感、行为等。 3.比喻：用本质不同但有相似点的事物描绘另一事物，进行形态转化、属性替换、优劣转化等。 ……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o06fc94818258caf1ef4b5588aa934c2e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=PCfty3aoDeI0LnGJFSfAowtFyyM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o06fc94818258caf1ef4b5588aa934c2e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=jPFI2SNk6mJwpSaoDX40ylx%2FV6U%3D",
           "url": "https://fanqienovel.com/page/7651887386355305534"
         },
         {
-          "title": "盗墓：满级出棺，带飞铁三角",
-          "author": "倩女幽魂11",
-          "reads": "3.3万",
-          "intro": "【盗墓+搞笑+带飞铁三角】一觉醒来，陈安居然躺在了一个棺材里，身旁还依偎着一具冰冷的美女古尸，他蒙圈了，这咋回事？ 就在他搞不清状况的时候，眼前一亮，棺材被撬开了，上面探出来三张脸，两瘦一胖，正是铁三角。 他们看到陈安搂着女尸，还眨巴着大眼睛也吓一跳。 胖子：“卧槽！诈尸了！快点拿黑驴蹄子塞他嘴！” 吴邪：“别闹，这家伙好像是活的！小哥快点拧他脖子！” 小哥：“我感觉我......打不过他。” “？？？” “你说啥？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o568c32fdffdc96d3116ff0f0eb5a607c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=ZzQ3YHeWp2kZHRXnuybzUWNzLoE%3D",
-          "url": "https://fanqienovel.com/page/7651901472107400217"
-        },
-        {
-          "title": "茅山大师兄：我石坚，正的发邪！",
-          "author": "看一看一",
-          "reads": "4.8万",
-          "intro": "穿越成《僵尸至尊》石坚，开局便是茅山大师兄。 自幼入道，天赋冠绝当代，潜心修道二十载，身着阴阳道袍，道法深不可测。 红尘历练？俗事纷扰？大可不必！ 不娶妻、不生子，石少坚那个拖油瓶更是从未存在。 师弟林凤娇、四目、千鹤、屠龙，全由他代师授艺，亦兄亦父，一手带大。 师弟们学成下山开枝散叶，他仍坐镇茅山，闭门苦修。 直到中元节，九叔两个徒弟闯下大祸，百鬼出逃，义庄告急，飞符求援。 【玄门正道系统激活！】 【主线任务：收服《僵尸至尊》出逃群鬼，平定阳间祸乱！】 石坚眸色微冷，执纯阳剑下山。 这一日，整个灵异圈才知道，茅山真正的天花板，从来都不是下山的那些人。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2e347dff0595db04f16106456552f4dc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=YQznuGJiOW3nrkrGpC%2FomL6H1Nk%3D",
-          "url": "https://fanqienovel.com/page/7657793836457937945"
+          "title": "盗墓天师，开局被九门张家挖出棺",
+          "author": "林C135",
+          "reads": "4.4万",
+          "intro": "【南部档案馆】+{老九门】+【民国+九叔】+{张起灵小哥}+【马小玲僵约】 开局就被张海楼从棺中挖出来，就到了老九门的世界。 穿越明朝，和汪藏海一个时代，出身东北张家，因父亲和天师道张家嫡女结婚生下主角儿被逐出张家。 天师道因嫡女外嫁，又追杀主角一家。主角身负交易系统，利用系统，虽躲过追杀，也布局不少。但终究因为年少，被天师道打成重伤，不得不假死修行《九死重生涅槃诀》，然后在民国被张海楼从墓中挖了出来。 张昊陵发现，这居然到老九门的世界了。 但渐渐地，张昊陵发现，这不对劲啊，怎么还有九叔，还有况中华？ 有二创，毕竟终极是什么，南派普通人也说不出来。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obbda6a4cb655d57af8b66a9b377de256~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=CK5FuKnlg%2FRbZVO0F8JUA0CTS%2B4%3D",
+          "url": "https://fanqienovel.com/page/7655231568625011737"
         },
         {
           "title": "恐怖入侵，开局吃掉饿死鬼",
           "author": "请给我一支蘭州",
-          "reads": "5.5万",
+          "reads": "5.8万",
           "intro": "一个憨憨守村人，却也是天生鬼种。 陈黄懂得谁对他好，但他却不懂自己，也不懂这个世界。 他不明白，在这个恐怖复苏的世界里，人是随时会死的。 小村里，绝望的黑暗里有吃人恶鬼在啃食。 镇子上，重重鬼影几乎断绝所有人的生路。 精神病院里，诡异的人皮在夜里四处游荡。 一次次的流离失所，一次次的身无所依。 这个绝望的世界，到底哪里才是最终的安身之所？ 还是要把阻拦自己的所有一切都吃掉？ 陈黄不懂，也不明白。 他只想找回妈妈，找回姐姐，他只想回家。 “妈……，姐……” 无尽的绝望黑暗中，有疯癫阴森的呢喃声。 模糊了人鬼界限的陈黄，到底该何去何从？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o776d98b02a5a42f486483dc4a570bd45~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=1qa3hAA2ljle0QS85oyHyeZA4xI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o776d98b02a5a42f486483dc4a570bd45~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785699884&x-signature=j1T89D2IoBok%2Fyn6I51wk4aOyxY%3D",
           "url": "https://fanqienovel.com/page/7651948949724482585"
-        },
-        {
-          "title": "我在茅山炼制万魂幡！",
-          "author": "破坏段",
-          "reads": "3.8万",
-          "intro": "（本书慢节奏，但是不拖拉，中间会有挫折。重要的事情：无女主） 石枭这辈子从来不信神神鬼鬼，于是便开始当起了灵异主播。 可是夜路走多了，总会碰到的！ 好消息：他没有死，只是穿越了，还被茅山大师兄石坚给捡走了。 坏消息：身在茅山修行，觉醒了最强魔尊系统。 道友，请到贫道人皇幡一叙！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o396af698ae6bb982396c02de203b7ed6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785613451&x-signature=c25L%2BCS84NDcr2x0nwvgn4vJP%2FU%3D",
-          "url": "https://fanqienovel.com/page/7644524349076032536"
         }
       ]
     }
