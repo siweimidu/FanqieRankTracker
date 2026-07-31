@@ -1,93 +1,71 @@
 {
   "type": "游戏体育",
-  "date": "2026-07-31",
-  "prev_date": "2026-07-30",
+  "date": "2026-08-01",
+  "prev_date": "2026-07-31",
   "category": {
     "name": "游戏体育",
     "trend": {
-      "new_count": 2,
-      "dropped_count": 2,
+      "new_count": 1,
+      "dropped_count": 1,
       "new_books": [
-        "转职苗疆蛊师，全服被我毒麻了",
-        "开局心之钢，你管这叫史莱姆？"
+        "UFC：开局被欲望之神赐福？"
       ],
       "dropped_books": [
         {
-          "title": "对抗路之神，我开局霸榜巅峰前三",
-          "intro": "陈枫穿越平行世界2022年，成为一名王者荣耀的小主播。 所幸绑定神级电竞系统，开局奖励战士系英雄神级技术！ 至此，陈枫成为对抗路的杀神。 当他霸榜S26赛季巅峰前三的那一刻，整个王者圈掀起大地震。 K"
-        },
-        {
-          "title": "游戏入侵：我能无限装备",
-          "intro": "（评分刚出，会涨的） 【游戏入侵】+【装备无限】+【套装叠加】+【第四天灾】+【轻松搞笑】 游戏直接入侵了，降临现实，全民进入末日倒计时。 陆观之没重生，没穿越，没参加什么内测，就是个突然被卷入的普通"
+          "title": "木筏求生，开局捡到国民女神",
+          "intro": "评分刚出，还会涨的。 【海上求生+系统暴击+多女主+杀伐果断+爽文+囤货升级+不圣母】 全民穿越无尽海域，开局一艘破木筏。 王珂一睁眼，发现身边躺着国民女神白若溪。 让人惊讶的是，两人竟然坦诚相见，那"
         }
       ],
       "top_risers": [
         {
-          "title": "足球：带老C罗世界杯三连冠",
+          "title": "全民求生，从小木屋对抗极寒",
           "change": "+5"
         },
         {
-          "title": "网游：什么？你说原神硬核？！",
-          "change": "+4"
-        },
-        {
-          "title": "梦幻西游：气死服战大佬提现百亿",
+          "title": "转职苗疆蛊师，全服被我毒麻了",
           "change": "+3"
         }
       ],
-      "top_fallers": [
-        {
-          "title": "综武游戏入侵：我全都要！",
-          "change": "-2"
-        },
-        {
-          "title": "回村躺平，我成唯一内测玩家",
-          "change": "-1"
-        },
-        {
-          "title": "全民海洋求生：我的加持无限升级",
-          "change": "-1"
-        }
-      ],
+      "top_fallers": [],
       "reads_growth": [
         {
-          "title": "三角洲：我一扶贫主播却被喊CS",
-          "growth": "+1.5万"
+          "title": "洲：质检打手，你五分钟诛仙清图",
+          "growth": "+1.0万"
         },
         {
-          "title": "洲：质检打手，你五分钟诛仙清图",
-          "growth": "+1.4万"
+          "title": "足球：带老C罗世界杯三连冠",
+          "growth": "+1.0万"
         },
         {
           "title": "moba：联盟是个运气游戏！",
-          "growth": "+1.4万"
+          "growth": "+9000"
         }
       ],
-      "summary": "**🔥 题材趋势** 题材高度细分，三角洲、率土之滨等具体游戏为背景成为热门元素。游戏直播、求生生存是核心内容，电竞文有复苏迹象。\n**📖 读者偏好** 读者偏爱“爽文”和“反套路”。弹幕互动、直播打脸、系统暴击、海克斯三选一等创新设定，以及游戏内的真实操作和战术讲解，更易吸引读者。\n**🆕 新上榜作品** 《转职苗疆蛊师，全服被我毒麻了》以冷门游戏职业和叠毒机制取胜；《开局心之钢，你管这叫史莱姆？》延续了“万物皆可钢”的搞笑玩梗风。\n**📉 掉出榜单** 《对抗路之神》和《游戏入侵》落榜，反映出纯粹的升级流或传统生存题材，在当前竞争激烈的市场中热度难以持续。\n**💡 值得关注** 《足球：带老C罗世界杯三连冠》排名上升显著，验证了经典体育IP（如C罗）与“带飞”设定结合，具备强大的吸量能力。"
+      "summary": "**🔥 题材趋势** 三角洲/率土之滨等具体游戏IP化明显，求生/虚拟网游持续稳定；“直播+玩梗+反套路”成为新书突围利器。\n**📖 读者偏好** 追求“代入爽感”与“现实职业”结合，如质检打手、扶贫主播；系统流与数值流保持基本盘，体育类偏好“重生+模板+情怀”。\n**🆕 新上榜作品** 《UFC：开局被欲望之神赐福》以“七宗罪+体育”混搭切入，擦边争议与强者人设吸引眼球。\n**📉 掉出榜单** 《木筏求生》等纯系统求生类因创新不足跌出，同赛道竞争激烈，开局钩子决定去留。\n**💡 值得关注** 《全民求生，从小木屋对抗极寒》排名+5，灾害求生+庇护所升级契合稳定需求；体育频道需强化“真实赛场感”或“跨界梗”避免悬浮。"
     },
     "books": [
       {
         "title": "洲：质检打手，你五分钟诛仙清图",
         "author": "喜欢吃辣子",
-        "reads": "17.9万",
+        "reads": "18.9万",
         "intro": "【直播+天才+思路分享，保证兄弟们看完能学到东西！】 被誉为三角洲天才第一人的顾天穿越平行世界，成为棠舟电竞的一品打手。 这天刚好是哈基瑶质检打手实力的日子。 前面已有十人质检不过被裁，下一位就是顾天。 天崩开局，没人相信一品打手的顾天能过。 面对无数质疑，顾天直接用实际行动向人证明何为天才。 落地一分钟秒踢两队，谁人都无法在他面前撑过三秒。 “什么是威龙，会飞的龙才是威龙！” 顾天这么说着，从天而降一把镭射AW锁死胜利。 五分钟诛仙清图，直接一战成名。 在这之后，顾天用他绝对的实力彻底坐稳棠舟第一武将的位置。 而在武将杯，陈泽杯等无数比赛中，领奖冠军的身影从来都是同一道。 就连获奖感言每次也都是一样的： “我见过很多天才，但他们都叫我天才！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ac298ca5af3f5952882124be9cd151e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=Ka7MnGgrmzMFffEbcKS4tcdQ%2BQg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ac298ca5af3f5952882124be9cd151e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=XFqbhlM%2FWX5ufmphlyiyALQP1ik%3D",
         "url": "https://fanqienovel.com/page/7647836670414294041"
       },
       {
         "title": "率土之滨：什么叫军费百倍到账？",
         "author": "儿时再无",
-        "reads": "11.8万",
+        "reads": "12.5万",
         "intro": "【率土之滨】【重生】【征战】【名场面】【系统】【顶战】 s1： 林烦：不要给我扯什么对面多少人，只要钱到位！神也干废！ 金主：哥，你是哥，你们土匪团是真土匪啊，我这几百块军费，你硬是打出了几万块的执行力啊！ 林烦：那有啥，对了老板，我团又纳新了，麻烦结一下账，30块的入团费 s2： 敌盟金主：老子花了十多万，踏马没打过你一个不到一万军费军费的团？ 林烦：别跟我说那些有的没的，我土匪团拿钱办事儿，既然金主给了钱，那我就得帮他把事儿办了！ 试师： 林烦：可曾听闻过土匪团的威名？ 敌盟各团：卧槽了，这踏马是s赛季来的？跟踏马推土机一样！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o05bcbaf23d917ebc93f6e4f451d2e833~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=CkwCFurWOFhXBJiFRFUY3pAOACQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o05bcbaf23d917ebc93f6e4f451d2e833~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=64CsGZqSndOkfkM7rERLJXED6GA%3D",
         "url": "https://fanqienovel.com/page/7627894248586611737"
       },
       {
         "title": "三角洲：我一扶贫主播却被喊CS",
         "author": "一位不知名的宸语",
-        "reads": "10.6万",
+        "reads": "11.1万",
         "intro": "【三角洲】+【直播】+【搞笑玩梗】+【CS打法】+【无女主】+【癫】 【评分刚出，后续会涨！】 陈煜意外穿越到平行世界，由于扶贫返现系统的缘故，做起了扶贫主播。 在这个三角洲打法单一的世界，陈煜第一场直播就给弹幕上了一课。 落地中控抽二员，两枪点碎护航魂。 上桥杀鼠只为公道，感谢老板音符一号！ 大坝撞车王昊宇，头甲枪胸挂花来！ 芒果：“浩天，能给我个止痛药吗？” “不是哥们，你这什么打法？” “恩师，快多给我传点焚决吧！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o046c40261735e6a638f7f5857626a95b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=0N4cQgVA3cy3XzSMIBZMLWEwaXw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o046c40261735e6a638f7f5857626a95b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=EiXzkNmnE8t6m6VpKyxlgqiu47M%3D",
         "url": "https://fanqienovel.com/page/7648113567941528600"
       },
       {
@@ -95,103 +73,103 @@
         "author": "绿色的木星",
         "reads": "8.8万",
         "intro": "【游戏降临+轻松爽文+乡村+打怪升级+高武】 大城市当社畜卷到住院，刘风裸辞回村，只想种菜钓鱼躺平养老。 刚进村口，世界突然变了—— 【你已进入新手村】 村民全是NPC，后山是副本，连村口的土狗都能爆物品。 他是全服唯一玩家。 帮王奶奶喂鸡，触发隐藏任务，得装备戒指。 教训讹人村霸，首杀爆百万现金+技能书。 后山打野猪，爆出传说神器。 拍死一只蚊子，都能赚一块钱。 …… 别人在城里卷生卷死做牛马。 他在乡下晒太阳、刷野怪、做任务。 不知不觉攒下千亿身家，战力登顶全球。 直到一年后。 游戏降临，全民解锁玩家身份，发现各大榜单全被刘风霸榜。 全球集体破防：“凭什么他是内测不删档玩家？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob02950cfce1815a623996a274ffb041b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=puyfk3ML9O8V0Psmq2LpB9qtiAk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob02950cfce1815a623996a274ffb041b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=LvMkoy1iszKMlD7vBKTXLXZEQnQ%3D",
         "url": "https://fanqienovel.com/page/7656126195108416574"
       },
       {
         "title": "年龄差契约系统？补药电我啊啊啊",
         "author": "柴郡柴郡喵",
-        "reads": "6.4万",
+        "reads": "6.3万",
         "intro": "【网游+召唤师+美少女契约灵+非单女主】 被一道从天而降的闪电送到网游世界的白铖，初始职业获得了c级的契约召唤师。 好在职业不够，系统来凑。 “契约养成系统绑定成功！” 就在白铖以为可以靠着强大的契约灵横扫游戏时，却发现，这个系统貌似不是特别正经？ 什么叫做种族不重要，天赋不重要，契约灵的年龄很重要？ “本系统会根据宿主与契约灵的年龄差距，获得养成加成或是属性加成！” “注意，根据系统准则，本系统不提倡雇佣童工，违者将受到惩罚。” 而在初始的三个契约灵里，唯一符合条件的似乎只有一只三岁的，幼年的，雌性小章鱼。 白铖：系统你听我解释！ 系统：解释啥？直接电！ 哇啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊…… …… “那家伙，肩上坐着个会召唤触手，脸上毫无表情的白毛小萝莉。” “前面飘着个浑身冒火，还长着翅膀和鳞片的红龙小萝莉。” “身后还跟着个怯生生的，但是实际砍起人来比谁都狠的会变身的粉白毛小萝莉。” “对了！他身上还会时不时的冒电！” 熟悉白铖的人如此评价。 白铖：我只是养养萝莉而已，怎么好像突然就无敌了？ 系统：我电电电电电电电死你这个变态！ 靠年龄差拿奖励，但也没让你只契约幼的啊！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o546b62d4850e037fe1b0f86cb6ea95a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=nCD6PBkrqQYx1S%2BJDGlV%2BbGthKE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o546b62d4850e037fe1b0f86cb6ea95a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=BbP1uqfjt27k%2BgLImNUi22sugd4%3D",
         "url": "https://fanqienovel.com/page/7625280346929499161"
       },
       {
         "title": "moba：联盟是个运气游戏！",
         "author": "神之信徒",
-        "reads": "9.7万",
+        "reads": "10.6万",
         "intro": "穿越S7，开局被踢出RNG。 江辰觉醒运气金手指，凡事发生，必有利于我。 依靠运气金手指，江辰以白银之躯比肩职业，从路人王到职业新秀，从无名之辈到名动电竞圈。 同年，江辰在鸟巢捧杯。 面对诸多赞誉和采访时，江辰微微一笑，“我真的只是运气好而已啊。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2off1a17d5f2c5dcf38d9975c3e356b851~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=CUcRRyucepjQzsgDbbZ1hawFpng%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2off1a17d5f2c5dcf38d9975c3e356b851~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=gVfGMwKD26UZRIARYZmaonePJo8%3D",
         "url": "https://fanqienovel.com/page/7646092995011283992"
       },
       {
         "title": "末世公路：开局匹配校花宿舍",
         "author": "赫小号",
-        "reads": "7.1万",
+        "reads": "7.5万",
         "intro": "全民穿越公路求生世界，所有人都会和身边的人组成小队。  而徐青的队友竟是一整个宿舍的校花！  开局载具随机，徐青的载具是一辆房车。 不仅如此，徐青还觉醒了唯一SSS级天赋“神级卡牌” 每天都可以随机在万千卡牌当中随机抽取一张。  恭喜抽取： F级卡牌泡面一箱 A级卡牌龙符咒一枚  S级卡牌兽娘一只 S级卡牌魅魔一只  就在其他玩家还在为了温饱和生存发愁的时候，徐青已经带着校花们吃着海鲜喝着红酒，过上了没羞没臊的生活。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o68e85c8af1226774b397088ede4d2faf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=J4pLdSX%2Fgr1p0oH0IiPaWG3jwuA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o68e85c8af1226774b397088ede4d2faf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=RZjhANcMhPi2Ah8YGCblgEn8W2w%3D",
         "url": "https://fanqienovel.com/page/7653449220501818430"
       },
       {
         "title": "休赛期，陈贺拉我上五哈",
         "author": "钓鱼佬看不看小说",
-        "reads": "3.7万",
+        "reads": "3.4万",
         "intro": "如果你生来就不缺钱， 如果你生来学什么都很容易， 如果你生来得到什么都很容易。 这不是一种恩赐，更像是一种惩罚。 我是陈鸣，我就是这样的一个人。 还好那一年我遇到了她，遇到了篮球。 似乎让本来应该波澜不惊的人生，开始有了水花。 1、穷屌丝的YY作品，没享受过这种人生，写篇文，自己YY一下； 2、时间线是乱的，事情也是乱的；如果你是他们粉丝，非常介意，勿进，别浪费时间，因为我对他们不那么熟悉，仅限于跑男，五哈，和一些电影； 3、NBA也是，我是一个外行中的外行，偶尔看看文 4、单女主， （五哈、NBA、老歌，女主虚构人物望茜）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofbc2e84f0925c137ea41703477a7ca83~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=JuzFkvi%2FMbdLZPh7AHxxyjl5C8M%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofbc2e84f0925c137ea41703477a7ca83~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=0%2FxQ7zBvkt3v2%2F6E07b7DsbzbYs%3D",
         "url": "https://fanqienovel.com/page/7655844837781933118"
       },
       {
         "title": "最强治疗！我的技能无CD",
         "author": "我爱喝中药",
-        "reads": "5.3万",
+        "reads": "4.6万",
         "intro": "虚拟网游+SSS级天赋+治疗流+无CD使用技能+升级流+无女主 社畜李亦赌上全部人生，辞职杀入全民游戏《第二世界》！ 他选了自己热爱的治疗职业，很不幸前期没有随机到攻击技能。 艰难撑到转职，成为了能将攻击伤害转化为治疗量的裁决者。 能打能加，是他的职业特性！ 赐予技能无CD的天赋，却是他的登顶第一的底气！ 治疗之环无限释放，全员血条锁死满血； 神圣裁决不停释放，巨兽瞬间血肉崩塌。 当虚空异兽席卷大陆，城池濒临陷落。 当输出强者全部倒下，似乎等待死亡的来临。 李亦一人站在城墙之上，一边疯狂抬满万千友军血量，一边对深渊巨兽降下无尽审判。 谁都不曾想到，拯救这个世界的。 居然会是一名奶妈！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1d37cd05f28d2cb0b69223758ea23bbd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=poA7vf8V%2FteQprGHrkPG5UMLRLc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1d37cd05f28d2cb0b69223758ea23bbd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=RC7n4TAVVqv8SrqhoMWwfm%2F%2Fun4%3D",
         "url": "https://fanqienovel.com/page/7651555074442791961"
       },
       {
-        "title": "木筏求生，开局捡到国民女神",
-        "author": "会飞的长白山",
-        "reads": "5.7万",
-        "intro": "评分刚出，还会涨的。 【海上求生+系统暴击+多女主+杀伐果断+爽文+囤货升级+不圣母】 全民穿越无尽海域，开局一艘破木筏。 王珂一睁眼，发现身边躺着国民女神白若溪。 让人惊讶的是，两人竟然坦诚相见，那还说什么…… 王珂激活命运熔炉系统，触碰物品，百倍暴击！ 简陋鱼竿进化为精良碳纤维，一瓶水暴击变百瓶，白银宝箱进化为黄金宝箱！ 别人还在为一口淡水抢破头，王珂已经在豪华海上别墅里，搂着女神吃烤肉、洗热水澡。 当其他玩家还在三米木筏上饥渴等死时，王珂的木筏已经变成海上堡垒，日光浴、钓鱼台、舒适大床一应俱全。 “大佬带带我！”区里千万人跪求。 一个月后区域合并，新来的玩家看到王珂的海上宫殿，全都傻了： “这是求生？这他妈是度假吧！” （本书慢热，越往后越精彩，多女主陆续登场，暴击系统越用越猛，杀伐果断不圣母，带你体验极致的海上求生暴爽之旅！）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa96c980550796cd452fdc67345421b2c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=%2B3TjzPbuk%2BHLcyb3tjSr%2BSvxLGg%3D",
-        "url": "https://fanqienovel.com/page/7650870528986598462"
+        "title": "全民求生，从小木屋对抗极寒",
+        "author": "未知音素",
+        "reads": "5.3万",
+        "intro": "[评分刚开，后面会涨]【灾难求生】【庇护所升级】【囤物资】【不圣母】【全民穿越】 全民穿越迷雾世界，开局每人获得一个避难所。 江沐白一觉醒来，全球人类被投入迷雾笼罩的荒野世界。每个人只有一间破旧木屋、一把石斧和一天口粮。 白昼探索，黑夜守屋，资源、图纸、兽核决定谁能活到明天。 江沐白从砍下第一棵树开始，升级庇护所、猎杀异兽、组建小队，一步步抢在灾变降临前变强。 当极寒封锁大地，迷雾深处真正的恐怖，也终于睁开了眼。而活下去，仅仅只是开始。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1016eac33b1e2bf0954253b139fec4ee~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=xRbzYEJxg64rod7LhRtkpCuEuoA%3D",
+        "url": "https://fanqienovel.com/page/7655597008853404697"
       },
       {
         "title": "网游：什么？你说原神硬核？！",
         "author": "星河亦长明",
-        "reads": "4.7万",
+        "reads": "5万",
         "intro": "「评分刚出会涨滴，来看看吧。_(ÒωÓ๑ゝ∠)」 【原神】【网游】【非无敌】【双穿】【文抄】 姜辰穿越20年，本以为这只是个普通的平行世界，靠着前世的记忆成为著名作者，著名音乐制作人。 直到一个带着派蒙大头照的图标广告弹出在他的电脑…… 然后姜辰开始了他的提瓦特之旅…… 与此同时，提瓦特好像也有人开启了他们的蓝星Online之旅.......",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odaf371e4a30863d8c3c016eac6f5d9b3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=oeDDNcVEKyy11YjMYonCORgm2%2Fw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odaf371e4a30863d8c3c016eac6f5d9b3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=8ybXt83u62xeCpu4Zd18ffwFx1s%3D",
         "url": "https://fanqienovel.com/page/7641489008534490136"
       },
       {
         "title": "足球：带老C罗世界杯三连冠",
         "author": "十更怪瘦",
-        "reads": "4.8万",
+        "reads": "5.8万",
         "intro": "美加墨世界杯如期打响！ 龙锋竟然成了葡萄牙队一名足球小将，随队出征。 一时间龙锋成了所有人的攻击对象。 C罗：“这是我最后一次世界杯，我将为大力神杯倾其所有！” 网友1：“该死的龙锋，求你别上场！” 一个月后，龙锋力挽狂澜绝杀比赛！ 葡萄牙捧起大力神杯！ 网友1：“错哥，我们龙了，原谅我们吧！” 龙锋搂着老泪纵横，泣不成声的C罗：老罗，别哭了，捧杯吧！ 4年后。45的C罗精神抖擞的看着龙锋： “龙，我觉得我还能再踢一届世界杯！你觉得呢？” “……” 49岁的老C罗眼冒星星看着龙锋： “两年冠了，峰哥，我觉得我还能给你打替补……”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa2336279e79f41a8ebed2f41b284da7b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=8JYpms2LBlgOOz3Uc%2B4KyeXF5%2BQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa2336279e79f41a8ebed2f41b284da7b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=jVQ6QuDx3XeLfudNT1wCdHPxoRs%3D",
         "url": "https://fanqienovel.com/page/7651928408317758488"
       },
       {
         "title": "荒岛求生：我每日海克斯三选一",
         "author": "一叶竹子",
-        "reads": "4.5万",
+        "reads": "4.3万",
         "intro": "【全民求生】+【铲铲海克斯】+【多女】+【不圣母】+【仇人都得死】+【海上荒岛】 许文被拉进全民求生游戏，正担心自己是一个炮灰，海克斯系统正式激活！ 他每天可进行海克斯三选一！ 同岛之人有个拿折叠刀的杀人疯子？选择【鲜血祭品】，获得一柄饮血剑进行反杀！ 物资缺少？选【团队建设】，获得资源复制卡。 有异兽夜袭影响休息？选【高塔】、【魔像化】，根本不用自己出手！ 天赋觉醒概率低？我有【顶尖构筑】，极品复制卡，可复制天赋！ 金币稀缺？【投资】、【摇钱树】、【对冲基金】参上！！ 同区之人忽然发现，他们还在艰难求生时，许文已经把荒岛大本营建成了女儿国！ 后来，许文以无敌之姿走到游戏的最后一关。 神明召见？还想让他当仆从？ 呵～可曾听闻【登上最高峰】！！ 那一日，许文与诸天神灵对峙。 “我人族敬神，前提是神明给人间带来庇护与贡献！” “若神明不仁，以生灵为棋，用众生取乐，那我许文便承载人族意志，于今日...弑神！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o551a1d9b6bfde6c85d42b67802065587~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=EcC4XXTcxZO5he%2FAlkWwlRBoBrw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o551a1d9b6bfde6c85d42b67802065587~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=RFGYERHsnU97ipJb1bYuHViKowo%3D",
         "url": "https://fanqienovel.com/page/7646101858238352446"
       },
       {
         "title": "综武游戏入侵：我全都要！",
         "author": "开船不靠桨",
-        "reads": "4.5万",
+        "reads": "4.6万",
         "intro": "多女主，综武，全都要 秦枫穿越到平行世界。 本以为自己拿的是娱乐文的剧本。 但一款堪称神迹的武侠游戏横空出世。 没有传统网游的面板，只有最真实的体验。 甚至在这个世界学会的武功也能在现实中使用。 而这个武侠游戏的世界背景。 赫然是自己前世看过的武侠小说。 这让秦枫不得不改变一开始的计划。 不管是武侠世界的美人，还是现实中的美女。 秦枫表示：“我全都要！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of4c9a45dd3adf69755414256afc268e2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=ggb9jZG%2FpPhABXOAL0nqbS2wTFo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of4c9a45dd3adf69755414256afc268e2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=YUk7TPEg4LiY62BSBO7Ak5YGL00%3D",
         "url": "https://fanqienovel.com/page/7649693785533729817"
       },
       {
-        "title": "全民求生，从小木屋对抗极寒",
-        "author": "未知音素",
-        "reads": "5.2万",
-        "intro": "[评分刚开，后面会涨]【灾难求生】【庇护所升级】【囤物资】【不圣母】【全民穿越】 全民穿越迷雾世界，开局每人获得一个避难所。 江沐白一觉醒来，全球人类被投入迷雾笼罩的荒野世界。每个人只有一间破旧木屋、一把石斧和一天口粮。 白昼探索，黑夜守屋，资源、图纸、兽核决定谁能活到明天。 江沐白从砍下第一棵树开始，升级庇护所、猎杀异兽、组建小队，一步步抢在灾变降临前变强。 当极寒封锁大地，迷雾深处真正的恐怖，也终于睁开了眼。而活下去，仅仅只是开始。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1016eac33b1e2bf0954253b139fec4ee~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=J3tJBbKQViWmPoDH8nAUGdzCcdE%3D",
-        "url": "https://fanqienovel.com/page/7655597008853404697"
+        "title": "转职苗疆蛊师，全服被我毒麻了",
+        "author": "剑修猫猫",
+        "reads": "4.6万",
+        "intro": "【网游】+【蛊虫养成】+【无女主】＋【无限叠毒】+【反套路】+【剧情流】 秦阳高中毕业，为了赚大学学费，从二手市场淘一个古董虚拟游戏头盔，进入【星海】游戏打金。 由于未知病毒影响，秦阳意外获得已被删除的超标隐藏职业【苗疆蛊师】。 开局解锁SSS级职业天赋【无限叠毒】+【万蛊之主】。 所有毒系伤害无限叠加，并附带额外真实伤害，所有蛊虫都会增益主人。 普通玩家还在辛苦练级时，秦阳已经开始培养他的蛊虫大军…… 各大公会还在为打不过BOSS苦恼时，秦阳已经依靠蛊虫天灾和无限叠毒，无伤单刷BOSS…… 诸神之战降临时，面对复苏的神明，普通玩家只能选择加入，而秦阳却微微一笑，召唤亿万蛊虫。 “神明吗？你刚才露血条了是吧？”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe8260456b02c410cf60bc752b51d3404~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=ZzoYwBrInQco8FBPyzTVSP%2FP4R4%3D",
+        "url": "https://fanqienovel.com/page/7654761791880186905"
       },
       {
         "title": "梦幻西游：气死服战大佬提现百亿",
         "author": "烘干小西服",
         "reads": "4.1万",
         "intro": "坏消息：负债二十万，游戏更新断了财路！ 好消息：觉醒神豪系统，气死服战大佬提现百亿！ 陈超本是底层军火商，直到这天—— 两百万罗汉鞋出世！三百万净台童子被秒！ 全服大佬疯狂寻人，殊不知…… 他正靠收集破防情绪，狂刷百万现金！ 当虎贲大唐剑会暴打曲阜，全网震惊！ 他反手掏出无级别愤怒腰带，狂砸二十锻黑宝石！ 服战豪门跪求加盟，却不知…… 这只是他买下半个齐云楼的冰山一角！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oce14091df916a1367e3e5216e3da74b3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=Xl32Wnf%2BEoJU5fMi7LwS2%2BJbKiE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oce14091df916a1367e3e5216e3da74b3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=a6GlzJcpHMtMawcK%2BoGaslmzPpM%3D",
         "url": "https://fanqienovel.com/page/7660877576205765656"
       },
       {
@@ -199,23 +177,23 @@
         "author": "开心点zzc",
         "reads": "4.3万",
         "intro": "回到2003年，张兴成为雪城大学的一名黄种人控卫，成为安东尼的队友。 　　开局绑定篮球任务系统，新手礼包直接开出“魔术师”约翰逊模板！ 　　206cm的身高，100kg的体重，却打着一号位！ 　　历史顶级的传球视野，无与伦比的错位优势，在NCAA赛场上掀起腥风血雨，带领球队全胜夺冠，荣膺MOP！ 　　安东尼+张兴，也被评为NCAA最强双子星！ 　　詹姆斯：“既生兴，何生乐邦！有张兴在，我永远拿不到状元！” 　　安东尼：“他是完美的建队基石，我心甘情愿做他的左膀右臂！” 　　乔丹：“这小子的传球像魔术师，三分比所有人都准，他就是来统治NBA的。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o80208bea17e8b044afafef671625b504~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=ooT2dmcc4%2BYYx60I8sK9CAipvEQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o80208bea17e8b044afafef671625b504~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=ZcUDPWlsu9kIybjpZ2tIzWTcLWQ%3D",
         "url": "https://fanqienovel.com/page/7653840997905878040"
       },
       {
-        "title": "转职苗疆蛊师，全服被我毒麻了",
-        "author": "剑修猫猫",
-        "reads": "4.4万",
-        "intro": "【网游】+【蛊虫养成】+【无女主】＋【无限叠毒】+【反套路】+【剧情流】 秦阳高中毕业，为了赚大学学费，从二手市场淘一个古董虚拟游戏头盔，进入【星海】游戏打金。 由于未知病毒影响，秦阳意外获得已被删除的超标隐藏职业【苗疆蛊师】。 开局解锁SSS级职业天赋【无限叠毒】+【万蛊之主】。 所有毒系伤害无限叠加，并附带额外真实伤害，所有蛊虫都会增益主人。 普通玩家还在辛苦练级时，秦阳已经开始培养他的蛊虫大军…… 各大公会还在为打不过BOSS苦恼时，秦阳已经依靠蛊虫天灾和无限叠毒，无伤单刷BOSS…… 诸神之战降临时，面对复苏的神明，普通玩家只能选择加入，而秦阳却微微一笑，召唤亿万蛊虫。 “神明吗？你刚才露血条了是吧？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe8260456b02c410cf60bc752b51d3404~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=gj3rlbG3ABqsInnLRg%2FqptouJXI%3D",
-        "url": "https://fanqienovel.com/page/7654761791880186905"
+        "title": "UFC：开局被欲望之神赐福？",
+        "author": "流木12138",
+        "reads": "4.6万",
+        "intro": "(UFC+多女+七宗罪金手指） 宋安一觉醒来发现被地狱大神拐到了美利坚，获得了色欲之神阿斯莫德的赐福，从此之后，美利坚多了一个泡王，UFC多了一个怪物…… “我从来没有见过如此不自律却又这么强的人，他简直是个怪胎。”——小鹰哈比布 “他在挥霍自己的天赋，如果他可以戒掉那些恶习，他将会更进一步。”——白大拿 “我在宋的面前简直就是个新兵蛋子”——普拉特斯 “他简直是一个怪物!”——卡戴珊姐妹及众女星 都说拳手自律，宋安却是个例外，这是一个黄种人少年从芝加哥南区到世界最大MMA舞台的故事。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oed1079708faf868420483b40695add59~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=%2FAhAw%2F1BVrg8pZPwTcNXrA6GeMQ%3D",
+        "url": "https://fanqienovel.com/page/7650863487358356504"
       },
       {
         "title": "全民海洋求生：我的加持无限升级",
         "author": "蹬狼恶兔",
-        "reads": "3.8万",
+        "reads": "3.7万",
         "intro": "全民穿越到一个海洋求生世界，一切的生存资本都在一条木筏上。 陆云激活SSS唯一级天赋【女神加持】，女神越多他越强。 开局就和福利院的众女组成了团队，各种强大加持当即激活。 【天道奖励加持】，获得的天道奖励翻数十倍，直接领先数个版本。 【开箱加持】，一次开箱抵其他人数十次，更能开出各种高级精品稀有宝物。 【耐久加持】，他现在就是一头累不死的牛。 【属性加持】，属性翻倍，全是数值！ 除此之外，【祝福支援光环】，每天都能白嫖一次收获。 还有【幸运】、【阴阳】、【缩减】一系列加持可以解锁升级，他不无敌谁无敌。 随着求生游戏发展，不仅同村人傻眼，其他世界的玩家也惊住了。 万族天骄气急败坏：“你和我说这是孱弱的蓝星人？可他为什么发育的这么好？比我们还好一万倍？” 三眼族大帝瑟瑟发抖：“凭他一巴掌就能拍死我们。” 精灵族女族长满眼星星：“我一定要上他的船！我带着这么多崇拜他的精灵妹子，应该可以的吧？” 凤凰族女帝无奈抬头望天：“打不过，是真的打不过.....”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o32771bbd8c81bce339cb721ed2746930~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=bpeKxfUTZ90u%2B0%2BbTA3qDViN74E%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o32771bbd8c81bce339cb721ed2746930~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=4k%2BZyLB%2BiaKxEMbTEmUKcxAEFE0%3D",
         "url": "https://fanqienovel.com/page/7651138714512411673"
       },
       {
@@ -223,7 +201,7 @@
         "author": "谁把我金光偷了",
         "reads": "3.5万",
         "intro": "你说的对，但这就是心之钢， 哥布林？钢一下！ 史莱姆？钢一下！ 骷髅战士？钢一下！ ...... 这还有玩家？也钢一下！ ....... 要数值有数值，要机制有数值，要操作有数值, 别问，问就是钢门万岁！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocfbdddcff0ff7f1acdef20f3112d6412~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=JxNe22%2B2PLLDY5GvR%2FrYHUkU7JQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocfbdddcff0ff7f1acdef20f3112d6412~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=jmC58NNVn6vI0kcX1gOgXPfnFQM%3D",
         "url": "https://fanqienovel.com/page/7616407368145833022"
       }
     ]
@@ -232,89 +210,67 @@
     {
       "name": "游戏体育",
       "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
+        "new_count": 1,
+        "dropped_count": 1,
         "new_books": [
-          "转职苗疆蛊师，全服被我毒麻了",
-          "开局心之钢，你管这叫史莱姆？"
+          "UFC：开局被欲望之神赐福？"
         ],
         "dropped_books": [
           {
-            "title": "对抗路之神，我开局霸榜巅峰前三",
-            "intro": "陈枫穿越平行世界2022年，成为一名王者荣耀的小主播。 所幸绑定神级电竞系统，开局奖励战士系英雄神级技术！ 至此，陈枫成为对抗路的杀神。 当他霸榜S26赛季巅峰前三的那一刻，整个王者圈掀起大地震。 K"
-          },
-          {
-            "title": "游戏入侵：我能无限装备",
-            "intro": "（评分刚出，会涨的） 【游戏入侵】+【装备无限】+【套装叠加】+【第四天灾】+【轻松搞笑】 游戏直接入侵了，降临现实，全民进入末日倒计时。 陆观之没重生，没穿越，没参加什么内测，就是个突然被卷入的普通"
+            "title": "木筏求生，开局捡到国民女神",
+            "intro": "评分刚出，还会涨的。 【海上求生+系统暴击+多女主+杀伐果断+爽文+囤货升级+不圣母】 全民穿越无尽海域，开局一艘破木筏。 王珂一睁眼，发现身边躺着国民女神白若溪。 让人惊讶的是，两人竟然坦诚相见，那"
           }
         ],
         "top_risers": [
           {
-            "title": "足球：带老C罗世界杯三连冠",
+            "title": "全民求生，从小木屋对抗极寒",
             "change": "+5"
           },
           {
-            "title": "网游：什么？你说原神硬核？！",
-            "change": "+4"
-          },
-          {
-            "title": "梦幻西游：气死服战大佬提现百亿",
+            "title": "转职苗疆蛊师，全服被我毒麻了",
             "change": "+3"
           }
         ],
-        "top_fallers": [
-          {
-            "title": "综武游戏入侵：我全都要！",
-            "change": "-2"
-          },
-          {
-            "title": "回村躺平，我成唯一内测玩家",
-            "change": "-1"
-          },
-          {
-            "title": "全民海洋求生：我的加持无限升级",
-            "change": "-1"
-          }
-        ],
+        "top_fallers": [],
         "reads_growth": [
           {
-            "title": "三角洲：我一扶贫主播却被喊CS",
-            "growth": "+1.5万"
+            "title": "洲：质检打手，你五分钟诛仙清图",
+            "growth": "+1.0万"
           },
           {
-            "title": "洲：质检打手，你五分钟诛仙清图",
-            "growth": "+1.4万"
+            "title": "足球：带老C罗世界杯三连冠",
+            "growth": "+1.0万"
           },
           {
             "title": "moba：联盟是个运气游戏！",
-            "growth": "+1.4万"
+            "growth": "+9000"
           }
         ],
-        "summary": "**🔥 题材趋势** 题材高度细分，三角洲、率土之滨等具体游戏为背景成为热门元素。游戏直播、求生生存是核心内容，电竞文有复苏迹象。\n**📖 读者偏好** 读者偏爱“爽文”和“反套路”。弹幕互动、直播打脸、系统暴击、海克斯三选一等创新设定，以及游戏内的真实操作和战术讲解，更易吸引读者。\n**🆕 新上榜作品** 《转职苗疆蛊师，全服被我毒麻了》以冷门游戏职业和叠毒机制取胜；《开局心之钢，你管这叫史莱姆？》延续了“万物皆可钢”的搞笑玩梗风。\n**📉 掉出榜单** 《对抗路之神》和《游戏入侵》落榜，反映出纯粹的升级流或传统生存题材，在当前竞争激烈的市场中热度难以持续。\n**💡 值得关注** 《足球：带老C罗世界杯三连冠》排名上升显著，验证了经典体育IP（如C罗）与“带飞”设定结合，具备强大的吸量能力。"
+        "summary": "**🔥 题材趋势** 三角洲/率土之滨等具体游戏IP化明显，求生/虚拟网游持续稳定；“直播+玩梗+反套路”成为新书突围利器。\n**📖 读者偏好** 追求“代入爽感”与“现实职业”结合，如质检打手、扶贫主播；系统流与数值流保持基本盘，体育类偏好“重生+模板+情怀”。\n**🆕 新上榜作品** 《UFC：开局被欲望之神赐福》以“七宗罪+体育”混搭切入，擦边争议与强者人设吸引眼球。\n**📉 掉出榜单** 《木筏求生》等纯系统求生类因创新不足跌出，同赛道竞争激烈，开局钩子决定去留。\n**💡 值得关注** 《全民求生，从小木屋对抗极寒》排名+5，灾害求生+庇护所升级契合稳定需求；体育频道需强化“真实赛场感”或“跨界梗”避免悬浮。"
       },
       "books": [
         {
           "title": "洲：质检打手，你五分钟诛仙清图",
           "author": "喜欢吃辣子",
-          "reads": "17.9万",
+          "reads": "18.9万",
           "intro": "【直播+天才+思路分享，保证兄弟们看完能学到东西！】 被誉为三角洲天才第一人的顾天穿越平行世界，成为棠舟电竞的一品打手。 这天刚好是哈基瑶质检打手实力的日子。 前面已有十人质检不过被裁，下一位就是顾天。 天崩开局，没人相信一品打手的顾天能过。 面对无数质疑，顾天直接用实际行动向人证明何为天才。 落地一分钟秒踢两队，谁人都无法在他面前撑过三秒。 “什么是威龙，会飞的龙才是威龙！” 顾天这么说着，从天而降一把镭射AW锁死胜利。 五分钟诛仙清图，直接一战成名。 在这之后，顾天用他绝对的实力彻底坐稳棠舟第一武将的位置。 而在武将杯，陈泽杯等无数比赛中，领奖冠军的身影从来都是同一道。 就连获奖感言每次也都是一样的： “我见过很多天才，但他们都叫我天才！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ac298ca5af3f5952882124be9cd151e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=Ka7MnGgrmzMFffEbcKS4tcdQ%2BQg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ac298ca5af3f5952882124be9cd151e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=XFqbhlM%2FWX5ufmphlyiyALQP1ik%3D",
           "url": "https://fanqienovel.com/page/7647836670414294041"
         },
         {
           "title": "率土之滨：什么叫军费百倍到账？",
           "author": "儿时再无",
-          "reads": "11.8万",
+          "reads": "12.5万",
           "intro": "【率土之滨】【重生】【征战】【名场面】【系统】【顶战】 s1： 林烦：不要给我扯什么对面多少人，只要钱到位！神也干废！ 金主：哥，你是哥，你们土匪团是真土匪啊，我这几百块军费，你硬是打出了几万块的执行力啊！ 林烦：那有啥，对了老板，我团又纳新了，麻烦结一下账，30块的入团费 s2： 敌盟金主：老子花了十多万，踏马没打过你一个不到一万军费军费的团？ 林烦：别跟我说那些有的没的，我土匪团拿钱办事儿，既然金主给了钱，那我就得帮他把事儿办了！ 试师： 林烦：可曾听闻过土匪团的威名？ 敌盟各团：卧槽了，这踏马是s赛季来的？跟踏马推土机一样！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o05bcbaf23d917ebc93f6e4f451d2e833~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=CkwCFurWOFhXBJiFRFUY3pAOACQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o05bcbaf23d917ebc93f6e4f451d2e833~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=64CsGZqSndOkfkM7rERLJXED6GA%3D",
           "url": "https://fanqienovel.com/page/7627894248586611737"
         },
         {
           "title": "三角洲：我一扶贫主播却被喊CS",
           "author": "一位不知名的宸语",
-          "reads": "10.6万",
+          "reads": "11.1万",
           "intro": "【三角洲】+【直播】+【搞笑玩梗】+【CS打法】+【无女主】+【癫】 【评分刚出，后续会涨！】 陈煜意外穿越到平行世界，由于扶贫返现系统的缘故，做起了扶贫主播。 在这个三角洲打法单一的世界，陈煜第一场直播就给弹幕上了一课。 落地中控抽二员，两枪点碎护航魂。 上桥杀鼠只为公道，感谢老板音符一号！ 大坝撞车王昊宇，头甲枪胸挂花来！ 芒果：“浩天，能给我个止痛药吗？” “不是哥们，你这什么打法？” “恩师，快多给我传点焚决吧！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o046c40261735e6a638f7f5857626a95b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=0N4cQgVA3cy3XzSMIBZMLWEwaXw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o046c40261735e6a638f7f5857626a95b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=EiXzkNmnE8t6m6VpKyxlgqiu47M%3D",
           "url": "https://fanqienovel.com/page/7648113567941528600"
         },
         {
@@ -322,103 +278,103 @@
           "author": "绿色的木星",
           "reads": "8.8万",
           "intro": "【游戏降临+轻松爽文+乡村+打怪升级+高武】 大城市当社畜卷到住院，刘风裸辞回村，只想种菜钓鱼躺平养老。 刚进村口，世界突然变了—— 【你已进入新手村】 村民全是NPC，后山是副本，连村口的土狗都能爆物品。 他是全服唯一玩家。 帮王奶奶喂鸡，触发隐藏任务，得装备戒指。 教训讹人村霸，首杀爆百万现金+技能书。 后山打野猪，爆出传说神器。 拍死一只蚊子，都能赚一块钱。 …… 别人在城里卷生卷死做牛马。 他在乡下晒太阳、刷野怪、做任务。 不知不觉攒下千亿身家，战力登顶全球。 直到一年后。 游戏降临，全民解锁玩家身份，发现各大榜单全被刘风霸榜。 全球集体破防：“凭什么他是内测不删档玩家？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob02950cfce1815a623996a274ffb041b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=puyfk3ML9O8V0Psmq2LpB9qtiAk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob02950cfce1815a623996a274ffb041b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=LvMkoy1iszKMlD7vBKTXLXZEQnQ%3D",
           "url": "https://fanqienovel.com/page/7656126195108416574"
         },
         {
           "title": "年龄差契约系统？补药电我啊啊啊",
           "author": "柴郡柴郡喵",
-          "reads": "6.4万",
+          "reads": "6.3万",
           "intro": "【网游+召唤师+美少女契约灵+非单女主】 被一道从天而降的闪电送到网游世界的白铖，初始职业获得了c级的契约召唤师。 好在职业不够，系统来凑。 “契约养成系统绑定成功！” 就在白铖以为可以靠着强大的契约灵横扫游戏时，却发现，这个系统貌似不是特别正经？ 什么叫做种族不重要，天赋不重要，契约灵的年龄很重要？ “本系统会根据宿主与契约灵的年龄差距，获得养成加成或是属性加成！” “注意，根据系统准则，本系统不提倡雇佣童工，违者将受到惩罚。” 而在初始的三个契约灵里，唯一符合条件的似乎只有一只三岁的，幼年的，雌性小章鱼。 白铖：系统你听我解释！ 系统：解释啥？直接电！ 哇啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊…… …… “那家伙，肩上坐着个会召唤触手，脸上毫无表情的白毛小萝莉。” “前面飘着个浑身冒火，还长着翅膀和鳞片的红龙小萝莉。” “身后还跟着个怯生生的，但是实际砍起人来比谁都狠的会变身的粉白毛小萝莉。” “对了！他身上还会时不时的冒电！” 熟悉白铖的人如此评价。 白铖：我只是养养萝莉而已，怎么好像突然就无敌了？ 系统：我电电电电电电电死你这个变态！ 靠年龄差拿奖励，但也没让你只契约幼的啊！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o546b62d4850e037fe1b0f86cb6ea95a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=nCD6PBkrqQYx1S%2BJDGlV%2BbGthKE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o546b62d4850e037fe1b0f86cb6ea95a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=BbP1uqfjt27k%2BgLImNUi22sugd4%3D",
           "url": "https://fanqienovel.com/page/7625280346929499161"
         },
         {
           "title": "moba：联盟是个运气游戏！",
           "author": "神之信徒",
-          "reads": "9.7万",
+          "reads": "10.6万",
           "intro": "穿越S7，开局被踢出RNG。 江辰觉醒运气金手指，凡事发生，必有利于我。 依靠运气金手指，江辰以白银之躯比肩职业，从路人王到职业新秀，从无名之辈到名动电竞圈。 同年，江辰在鸟巢捧杯。 面对诸多赞誉和采访时，江辰微微一笑，“我真的只是运气好而已啊。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2off1a17d5f2c5dcf38d9975c3e356b851~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=CUcRRyucepjQzsgDbbZ1hawFpng%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2off1a17d5f2c5dcf38d9975c3e356b851~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=gVfGMwKD26UZRIARYZmaonePJo8%3D",
           "url": "https://fanqienovel.com/page/7646092995011283992"
         },
         {
           "title": "末世公路：开局匹配校花宿舍",
           "author": "赫小号",
-          "reads": "7.1万",
+          "reads": "7.5万",
           "intro": "全民穿越公路求生世界，所有人都会和身边的人组成小队。  而徐青的队友竟是一整个宿舍的校花！  开局载具随机，徐青的载具是一辆房车。 不仅如此，徐青还觉醒了唯一SSS级天赋“神级卡牌” 每天都可以随机在万千卡牌当中随机抽取一张。  恭喜抽取： F级卡牌泡面一箱 A级卡牌龙符咒一枚  S级卡牌兽娘一只 S级卡牌魅魔一只  就在其他玩家还在为了温饱和生存发愁的时候，徐青已经带着校花们吃着海鲜喝着红酒，过上了没羞没臊的生活。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o68e85c8af1226774b397088ede4d2faf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=J4pLdSX%2Fgr1p0oH0IiPaWG3jwuA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o68e85c8af1226774b397088ede4d2faf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=RZjhANcMhPi2Ah8YGCblgEn8W2w%3D",
           "url": "https://fanqienovel.com/page/7653449220501818430"
         },
         {
           "title": "休赛期，陈贺拉我上五哈",
           "author": "钓鱼佬看不看小说",
-          "reads": "3.7万",
+          "reads": "3.4万",
           "intro": "如果你生来就不缺钱， 如果你生来学什么都很容易， 如果你生来得到什么都很容易。 这不是一种恩赐，更像是一种惩罚。 我是陈鸣，我就是这样的一个人。 还好那一年我遇到了她，遇到了篮球。 似乎让本来应该波澜不惊的人生，开始有了水花。 1、穷屌丝的YY作品，没享受过这种人生，写篇文，自己YY一下； 2、时间线是乱的，事情也是乱的；如果你是他们粉丝，非常介意，勿进，别浪费时间，因为我对他们不那么熟悉，仅限于跑男，五哈，和一些电影； 3、NBA也是，我是一个外行中的外行，偶尔看看文 4、单女主， （五哈、NBA、老歌，女主虚构人物望茜）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofbc2e84f0925c137ea41703477a7ca83~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=JuzFkvi%2FMbdLZPh7AHxxyjl5C8M%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofbc2e84f0925c137ea41703477a7ca83~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=0%2FxQ7zBvkt3v2%2F6E07b7DsbzbYs%3D",
           "url": "https://fanqienovel.com/page/7655844837781933118"
         },
         {
           "title": "最强治疗！我的技能无CD",
           "author": "我爱喝中药",
-          "reads": "5.3万",
+          "reads": "4.6万",
           "intro": "虚拟网游+SSS级天赋+治疗流+无CD使用技能+升级流+无女主 社畜李亦赌上全部人生，辞职杀入全民游戏《第二世界》！ 他选了自己热爱的治疗职业，很不幸前期没有随机到攻击技能。 艰难撑到转职，成为了能将攻击伤害转化为治疗量的裁决者。 能打能加，是他的职业特性！ 赐予技能无CD的天赋，却是他的登顶第一的底气！ 治疗之环无限释放，全员血条锁死满血； 神圣裁决不停释放，巨兽瞬间血肉崩塌。 当虚空异兽席卷大陆，城池濒临陷落。 当输出强者全部倒下，似乎等待死亡的来临。 李亦一人站在城墙之上，一边疯狂抬满万千友军血量，一边对深渊巨兽降下无尽审判。 谁都不曾想到，拯救这个世界的。 居然会是一名奶妈！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1d37cd05f28d2cb0b69223758ea23bbd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=poA7vf8V%2FteQprGHrkPG5UMLRLc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1d37cd05f28d2cb0b69223758ea23bbd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=RC7n4TAVVqv8SrqhoMWwfm%2F%2Fun4%3D",
           "url": "https://fanqienovel.com/page/7651555074442791961"
         },
         {
-          "title": "木筏求生，开局捡到国民女神",
-          "author": "会飞的长白山",
-          "reads": "5.7万",
-          "intro": "评分刚出，还会涨的。 【海上求生+系统暴击+多女主+杀伐果断+爽文+囤货升级+不圣母】 全民穿越无尽海域，开局一艘破木筏。 王珂一睁眼，发现身边躺着国民女神白若溪。 让人惊讶的是，两人竟然坦诚相见，那还说什么…… 王珂激活命运熔炉系统，触碰物品，百倍暴击！ 简陋鱼竿进化为精良碳纤维，一瓶水暴击变百瓶，白银宝箱进化为黄金宝箱！ 别人还在为一口淡水抢破头，王珂已经在豪华海上别墅里，搂着女神吃烤肉、洗热水澡。 当其他玩家还在三米木筏上饥渴等死时，王珂的木筏已经变成海上堡垒，日光浴、钓鱼台、舒适大床一应俱全。 “大佬带带我！”区里千万人跪求。 一个月后区域合并，新来的玩家看到王珂的海上宫殿，全都傻了： “这是求生？这他妈是度假吧！” （本书慢热，越往后越精彩，多女主陆续登场，暴击系统越用越猛，杀伐果断不圣母，带你体验极致的海上求生暴爽之旅！）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa96c980550796cd452fdc67345421b2c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046590&x-signature=%2B3TjzPbuk%2BHLcyb3tjSr%2BSvxLGg%3D",
-          "url": "https://fanqienovel.com/page/7650870528986598462"
+          "title": "全民求生，从小木屋对抗极寒",
+          "author": "未知音素",
+          "reads": "5.3万",
+          "intro": "[评分刚开，后面会涨]【灾难求生】【庇护所升级】【囤物资】【不圣母】【全民穿越】 全民穿越迷雾世界，开局每人获得一个避难所。 江沐白一觉醒来，全球人类被投入迷雾笼罩的荒野世界。每个人只有一间破旧木屋、一把石斧和一天口粮。 白昼探索，黑夜守屋，资源、图纸、兽核决定谁能活到明天。 江沐白从砍下第一棵树开始，升级庇护所、猎杀异兽、组建小队，一步步抢在灾变降临前变强。 当极寒封锁大地，迷雾深处真正的恐怖，也终于睁开了眼。而活下去，仅仅只是开始。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1016eac33b1e2bf0954253b139fec4ee~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786132998&x-signature=xRbzYEJxg64rod7LhRtkpCuEuoA%3D",
+          "url": "https://fanqienovel.com/page/7655597008853404697"
         },
         {
           "title": "网游：什么？你说原神硬核？！",
           "author": "星河亦长明",
-          "reads": "4.7万",
+          "reads": "5万",
           "intro": "「评分刚出会涨滴，来看看吧。_(ÒωÓ๑ゝ∠)」 【原神】【网游】【非无敌】【双穿】【文抄】 姜辰穿越20年，本以为这只是个普通的平行世界，靠着前世的记忆成为著名作者，著名音乐制作人。 直到一个带着派蒙大头照的图标广告弹出在他的电脑…… 然后姜辰开始了他的提瓦特之旅…… 与此同时，提瓦特好像也有人开启了他们的蓝星Online之旅.......",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odaf371e4a30863d8c3c016eac6f5d9b3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=oeDDNcVEKyy11YjMYonCORgm2%2Fw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odaf371e4a30863d8c3c016eac6f5d9b3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=8ybXt83u62xeCpu4Zd18ffwFx1s%3D",
           "url": "https://fanqienovel.com/page/7641489008534490136"
         },
         {
           "title": "足球：带老C罗世界杯三连冠",
           "author": "十更怪瘦",
-          "reads": "4.8万",
+          "reads": "5.8万",
           "intro": "美加墨世界杯如期打响！ 龙锋竟然成了葡萄牙队一名足球小将，随队出征。 一时间龙锋成了所有人的攻击对象。 C罗：“这是我最后一次世界杯，我将为大力神杯倾其所有！” 网友1：“该死的龙锋，求你别上场！” 一个月后，龙锋力挽狂澜绝杀比赛！ 葡萄牙捧起大力神杯！ 网友1：“错哥，我们龙了，原谅我们吧！” 龙锋搂着老泪纵横，泣不成声的C罗：老罗，别哭了，捧杯吧！ 4年后。45的C罗精神抖擞的看着龙锋： “龙，我觉得我还能再踢一届世界杯！你觉得呢？” “……” 49岁的老C罗眼冒星星看着龙锋： “两年冠了，峰哥，我觉得我还能给你打替补……”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa2336279e79f41a8ebed2f41b284da7b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=8JYpms2LBlgOOz3Uc%2B4KyeXF5%2BQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa2336279e79f41a8ebed2f41b284da7b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=jVQ6QuDx3XeLfudNT1wCdHPxoRs%3D",
           "url": "https://fanqienovel.com/page/7651928408317758488"
         },
         {
           "title": "荒岛求生：我每日海克斯三选一",
           "author": "一叶竹子",
-          "reads": "4.5万",
+          "reads": "4.3万",
           "intro": "【全民求生】+【铲铲海克斯】+【多女】+【不圣母】+【仇人都得死】+【海上荒岛】 许文被拉进全民求生游戏，正担心自己是一个炮灰，海克斯系统正式激活！ 他每天可进行海克斯三选一！ 同岛之人有个拿折叠刀的杀人疯子？选择【鲜血祭品】，获得一柄饮血剑进行反杀！ 物资缺少？选【团队建设】，获得资源复制卡。 有异兽夜袭影响休息？选【高塔】、【魔像化】，根本不用自己出手！ 天赋觉醒概率低？我有【顶尖构筑】，极品复制卡，可复制天赋！ 金币稀缺？【投资】、【摇钱树】、【对冲基金】参上！！ 同区之人忽然发现，他们还在艰难求生时，许文已经把荒岛大本营建成了女儿国！ 后来，许文以无敌之姿走到游戏的最后一关。 神明召见？还想让他当仆从？ 呵～可曾听闻【登上最高峰】！！ 那一日，许文与诸天神灵对峙。 “我人族敬神，前提是神明给人间带来庇护与贡献！” “若神明不仁，以生灵为棋，用众生取乐，那我许文便承载人族意志，于今日...弑神！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o551a1d9b6bfde6c85d42b67802065587~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=EcC4XXTcxZO5he%2FAlkWwlRBoBrw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o551a1d9b6bfde6c85d42b67802065587~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=RFGYERHsnU97ipJb1bYuHViKowo%3D",
           "url": "https://fanqienovel.com/page/7646101858238352446"
         },
         {
           "title": "综武游戏入侵：我全都要！",
           "author": "开船不靠桨",
-          "reads": "4.5万",
+          "reads": "4.6万",
           "intro": "多女主，综武，全都要 秦枫穿越到平行世界。 本以为自己拿的是娱乐文的剧本。 但一款堪称神迹的武侠游戏横空出世。 没有传统网游的面板，只有最真实的体验。 甚至在这个世界学会的武功也能在现实中使用。 而这个武侠游戏的世界背景。 赫然是自己前世看过的武侠小说。 这让秦枫不得不改变一开始的计划。 不管是武侠世界的美人，还是现实中的美女。 秦枫表示：“我全都要！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of4c9a45dd3adf69755414256afc268e2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=ggb9jZG%2FpPhABXOAL0nqbS2wTFo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of4c9a45dd3adf69755414256afc268e2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=YUk7TPEg4LiY62BSBO7Ak5YGL00%3D",
           "url": "https://fanqienovel.com/page/7649693785533729817"
         },
         {
-          "title": "全民求生，从小木屋对抗极寒",
-          "author": "未知音素",
-          "reads": "5.2万",
-          "intro": "[评分刚开，后面会涨]【灾难求生】【庇护所升级】【囤物资】【不圣母】【全民穿越】 全民穿越迷雾世界，开局每人获得一个避难所。 江沐白一觉醒来，全球人类被投入迷雾笼罩的荒野世界。每个人只有一间破旧木屋、一把石斧和一天口粮。 白昼探索，黑夜守屋，资源、图纸、兽核决定谁能活到明天。 江沐白从砍下第一棵树开始，升级庇护所、猎杀异兽、组建小队，一步步抢在灾变降临前变强。 当极寒封锁大地，迷雾深处真正的恐怖，也终于睁开了眼。而活下去，仅仅只是开始。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1016eac33b1e2bf0954253b139fec4ee~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=J3tJBbKQViWmPoDH8nAUGdzCcdE%3D",
-          "url": "https://fanqienovel.com/page/7655597008853404697"
+          "title": "转职苗疆蛊师，全服被我毒麻了",
+          "author": "剑修猫猫",
+          "reads": "4.6万",
+          "intro": "【网游】+【蛊虫养成】+【无女主】＋【无限叠毒】+【反套路】+【剧情流】 秦阳高中毕业，为了赚大学学费，从二手市场淘一个古董虚拟游戏头盔，进入【星海】游戏打金。 由于未知病毒影响，秦阳意外获得已被删除的超标隐藏职业【苗疆蛊师】。 开局解锁SSS级职业天赋【无限叠毒】+【万蛊之主】。 所有毒系伤害无限叠加，并附带额外真实伤害，所有蛊虫都会增益主人。 普通玩家还在辛苦练级时，秦阳已经开始培养他的蛊虫大军…… 各大公会还在为打不过BOSS苦恼时，秦阳已经依靠蛊虫天灾和无限叠毒，无伤单刷BOSS…… 诸神之战降临时，面对复苏的神明，普通玩家只能选择加入，而秦阳却微微一笑，召唤亿万蛊虫。 “神明吗？你刚才露血条了是吧？”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe8260456b02c410cf60bc752b51d3404~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=ZzoYwBrInQco8FBPyzTVSP%2FP4R4%3D",
+          "url": "https://fanqienovel.com/page/7654761791880186905"
         },
         {
           "title": "梦幻西游：气死服战大佬提现百亿",
           "author": "烘干小西服",
           "reads": "4.1万",
           "intro": "坏消息：负债二十万，游戏更新断了财路！ 好消息：觉醒神豪系统，气死服战大佬提现百亿！ 陈超本是底层军火商，直到这天—— 两百万罗汉鞋出世！三百万净台童子被秒！ 全服大佬疯狂寻人，殊不知…… 他正靠收集破防情绪，狂刷百万现金！ 当虎贲大唐剑会暴打曲阜，全网震惊！ 他反手掏出无级别愤怒腰带，狂砸二十锻黑宝石！ 服战豪门跪求加盟，却不知…… 这只是他买下半个齐云楼的冰山一角！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oce14091df916a1367e3e5216e3da74b3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=Xl32Wnf%2BEoJU5fMi7LwS2%2BJbKiE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oce14091df916a1367e3e5216e3da74b3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=a6GlzJcpHMtMawcK%2BoGaslmzPpM%3D",
           "url": "https://fanqienovel.com/page/7660877576205765656"
         },
         {
@@ -426,23 +382,23 @@
           "author": "开心点zzc",
           "reads": "4.3万",
           "intro": "回到2003年，张兴成为雪城大学的一名黄种人控卫，成为安东尼的队友。 　　开局绑定篮球任务系统，新手礼包直接开出“魔术师”约翰逊模板！ 　　206cm的身高，100kg的体重，却打着一号位！ 　　历史顶级的传球视野，无与伦比的错位优势，在NCAA赛场上掀起腥风血雨，带领球队全胜夺冠，荣膺MOP！ 　　安东尼+张兴，也被评为NCAA最强双子星！ 　　詹姆斯：“既生兴，何生乐邦！有张兴在，我永远拿不到状元！” 　　安东尼：“他是完美的建队基石，我心甘情愿做他的左膀右臂！” 　　乔丹：“这小子的传球像魔术师，三分比所有人都准，他就是来统治NBA的。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o80208bea17e8b044afafef671625b504~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=ooT2dmcc4%2BYYx60I8sK9CAipvEQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o80208bea17e8b044afafef671625b504~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=ZcUDPWlsu9kIybjpZ2tIzWTcLWQ%3D",
           "url": "https://fanqienovel.com/page/7653840997905878040"
         },
         {
-          "title": "转职苗疆蛊师，全服被我毒麻了",
-          "author": "剑修猫猫",
-          "reads": "4.4万",
-          "intro": "【网游】+【蛊虫养成】+【无女主】＋【无限叠毒】+【反套路】+【剧情流】 秦阳高中毕业，为了赚大学学费，从二手市场淘一个古董虚拟游戏头盔，进入【星海】游戏打金。 由于未知病毒影响，秦阳意外获得已被删除的超标隐藏职业【苗疆蛊师】。 开局解锁SSS级职业天赋【无限叠毒】+【万蛊之主】。 所有毒系伤害无限叠加，并附带额外真实伤害，所有蛊虫都会增益主人。 普通玩家还在辛苦练级时，秦阳已经开始培养他的蛊虫大军…… 各大公会还在为打不过BOSS苦恼时，秦阳已经依靠蛊虫天灾和无限叠毒，无伤单刷BOSS…… 诸神之战降临时，面对复苏的神明，普通玩家只能选择加入，而秦阳却微微一笑，召唤亿万蛊虫。 “神明吗？你刚才露血条了是吧？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe8260456b02c410cf60bc752b51d3404~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=gj3rlbG3ABqsInnLRg%2FqptouJXI%3D",
-          "url": "https://fanqienovel.com/page/7654761791880186905"
+          "title": "UFC：开局被欲望之神赐福？",
+          "author": "流木12138",
+          "reads": "4.6万",
+          "intro": "(UFC+多女+七宗罪金手指） 宋安一觉醒来发现被地狱大神拐到了美利坚，获得了色欲之神阿斯莫德的赐福，从此之后，美利坚多了一个泡王，UFC多了一个怪物…… “我从来没有见过如此不自律却又这么强的人，他简直是个怪胎。”——小鹰哈比布 “他在挥霍自己的天赋，如果他可以戒掉那些恶习，他将会更进一步。”——白大拿 “我在宋的面前简直就是个新兵蛋子”——普拉特斯 “他简直是一个怪物!”——卡戴珊姐妹及众女星 都说拳手自律，宋安却是个例外，这是一个黄种人少年从芝加哥南区到世界最大MMA舞台的故事。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oed1079708faf868420483b40695add59~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=%2FAhAw%2F1BVrg8pZPwTcNXrA6GeMQ%3D",
+          "url": "https://fanqienovel.com/page/7650863487358356504"
         },
         {
           "title": "全民海洋求生：我的加持无限升级",
           "author": "蹬狼恶兔",
-          "reads": "3.8万",
+          "reads": "3.7万",
           "intro": "全民穿越到一个海洋求生世界，一切的生存资本都在一条木筏上。 陆云激活SSS唯一级天赋【女神加持】，女神越多他越强。 开局就和福利院的众女组成了团队，各种强大加持当即激活。 【天道奖励加持】，获得的天道奖励翻数十倍，直接领先数个版本。 【开箱加持】，一次开箱抵其他人数十次，更能开出各种高级精品稀有宝物。 【耐久加持】，他现在就是一头累不死的牛。 【属性加持】，属性翻倍，全是数值！ 除此之外，【祝福支援光环】，每天都能白嫖一次收获。 还有【幸运】、【阴阳】、【缩减】一系列加持可以解锁升级，他不无敌谁无敌。 随着求生游戏发展，不仅同村人傻眼，其他世界的玩家也惊住了。 万族天骄气急败坏：“你和我说这是孱弱的蓝星人？可他为什么发育的这么好？比我们还好一万倍？” 三眼族大帝瑟瑟发抖：“凭他一巴掌就能拍死我们。” 精灵族女族长满眼星星：“我一定要上他的船！我带着这么多崇拜他的精灵妹子，应该可以的吧？” 凤凰族女帝无奈抬头望天：“打不过，是真的打不过.....”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o32771bbd8c81bce339cb721ed2746930~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=bpeKxfUTZ90u%2B0%2BbTA3qDViN74E%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o32771bbd8c81bce339cb721ed2746930~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=4k%2BZyLB%2BiaKxEMbTEmUKcxAEFE0%3D",
           "url": "https://fanqienovel.com/page/7651138714512411673"
         },
         {
@@ -450,7 +406,7 @@
           "author": "谁把我金光偷了",
           "reads": "3.5万",
           "intro": "你说的对，但这就是心之钢， 哥布林？钢一下！ 史莱姆？钢一下！ 骷髅战士？钢一下！ ...... 这还有玩家？也钢一下！ ....... 要数值有数值，要机制有数值，要操作有数值, 别问，问就是钢门万岁！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocfbdddcff0ff7f1acdef20f3112d6412~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046594&x-signature=JxNe22%2B2PLLDY5GvR%2FrYHUkU7JQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocfbdddcff0ff7f1acdef20f3112d6412~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133002&x-signature=jmC58NNVn6vI0kcX1gOgXPfnFQM%3D",
           "url": "https://fanqienovel.com/page/7616407368145833022"
         }
       ]

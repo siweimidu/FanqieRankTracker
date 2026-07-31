@@ -1,77 +1,77 @@
 {
   "type": "男频衍生",
-  "date": "2026-07-31",
-  "prev_date": "2026-07-30",
+  "date": "2026-08-01",
+  "prev_date": "2026-07-31",
   "category": {
     "name": "男频衍生",
     "trend": {
       "new_count": 2,
       "dropped_count": 2,
       "new_books": [
-        "霍格沃茨：我有一座移动城堡",
-        "名义：狂飙的孙连城"
+        "龙族：我的明非怎么变成明妃了？",
+        "港片：我的老婆全是极品尤物"
       ],
       "dropped_books": [
         {
-          "title": "名义：汉东博弈，能源系的反击",
-          "intro": "【架空世界，不影射任何现实。】 能源系天骄空降汉东，不求进步，只为搞事。 钟家将能源系当做进步的血包。 从钟明国到钟家赘婿，每当需要成绩就对能源系的人出手。 是可忍孰不可忍。 钟家联合王家女婿沙瑞金，"
+          "title": "四合院，开局我选入赘",
+          "intro": "无奈，只能在这里给大家解释一下，我查过资料了，那个时候打猎也不是随便就能打到，是需要林业局给的证明，这个证明是厂里面办的，枪也是厂里面出的，所以每个月往厂里面交一定的份额是正常的，没有工作就没有户口，"
         },
         {
-          "title": "超人面前，萝莉或给，你别无选择",
-          "intro": "评分刚出，后面会涨的(*¯︶¯*) 【真·无敌】【爽文】【漫威】【搞笑+战斗】【部分参考漫画设定】【不是幼儿园的车】 那是鸟？是飞机？不！那是超人！ “谢谢你！艾慕超人！” “别叫我艾慕超人！都说了我"
+          "title": "杨过：我在神雕逆生通天",
+          "intro": "【魂穿】·【天才】·【金手指】·【腹黑】·【权谋】·【争霸】·【无敌流】·【细节控】 现代灵魂穿成少年杨过，开局一支碗只能乞讨要饭？ 无所谓，我脑海中多一卷《逆生三重·通天版》 三重逆生，血肉重构、炁"
         }
       ],
       "top_risers": [
         {
-          "title": "开局南诀小皇子，和母后疯狂贴贴",
+          "title": "名义：开局我举报我自己",
           "change": "+7"
         },
         {
-          "title": "飞驰人生：我带张弛制霸赛道",
-          "change": "+2"
+          "title": "名义：狂飙的孙连城",
+          "change": "+5"
         },
         {
-          "title": "白素贞，我真得好好惩罚你了",
-          "change": "+2"
+          "title": "名义：同伟他死了！你选的嘛瑞金",
+          "change": "+3"
         }
       ],
       "top_fallers": [
         {
           "title": "让你配合反腐，你弄崩汉东GDP",
-          "change": "-5"
+          "change": "-6"
         },
         {
-          "title": "名义：开局我举报我自己",
-          "change": "-4"
+          "title": "名义：从接替老刘开始",
+          "change": "-2"
         },
         {
-          "title": "名义，他才32，怎么就汉东王了",
-          "change": "-3"
+          "title": "倚天：贫道张三丰",
+          "change": "-2"
         }
       ],
       "reads_growth": [
         {
           "title": "名义：开局我举报我自己",
-          "growth": "+4.2万"
+          "growth": "+2.5万"
+        },
+        {
+          "title": "四合院：从李云龙战友开始",
+          "growth": "+1.1万"
         },
         {
           "title": "名义：同伟他死了！你选的嘛瑞金",
-          "growth": "+1.6万"
-        },
-        {
-          "title": "四合院，哈军工副院，部下李云龙",
-          "growth": "+1.5万"
+          "growth": "+8000"
         }
       ],
-      "summary": "**🔥 题材趋势**  \n「人民的名义」官二代重生博弈题材高度扎堆，占比榜单近四成；「四合院+军旅混搭」（李云龙/哈军工）成为新晋流量密码。核心高频元素：穿书、系统、反贪、经济制衡。\n\n**📖 读者偏好**  \n偏好杀伐果断的爽文路线，主角需具“反常识操作”（如举报自己/崩坏GDP）的金手指，同时认同“斗权不斗廉”的务实价值。\n\n**🆕 新上榜作品**  \n- 《霍格沃茨：我有一座移动城堡》：哈利波特+哈尔移动城堡的跨IP混搭，差异化玩法抢眼。  \n- 《名义：狂飙的孙连城》：小混混穿成懒政干部，反套路“以不配合倒逼改革”别具一格。\n\n**📉 掉出榜单**  \n- 《名义：汉东博弈，能源系的反击》：同类题材饱和，缺乏新梗爆点。  \n- 《超人面前，萝莉或给，你别无选择》：漫威+萝莉组合与男频衍生主线偏差，受众匹配度低。\n\n**💡 值得关注**  \n- 《"
+      "summary": "**🔥 题材趋势** 《人民的名义》同人占据半壁江山，官场博弈+经济制衡成流量密码；《四合院》《龙族》等经典IP衍生稳定吸量，神话仙侠与港片综漫亦有补充。\n**📖 读者偏好** 偏好“原世界颠覆性展开”，如举报自己、薅反派羊毛、刺头孙连城等反套路操作；在读数显示，强冲突、快节奏、沙雕爽感比单纯战力碾压更易冲榜。\n**🆕 新上榜作品** 《龙族：我的明非怎么变成明妃了？》以性别反转+日常搞笑切入；《港片：我的老婆全是极品尤物》主打港综黑帮吞并爽点，均属细分赛道补位。\n**📉 掉出榜单** 两本掉榜作品受题材同质化或金手指设定限制，热度回落；《四合院，开局我选入赘》因考据争议影响留存。\n**💡 值得关注** 《名义》系仍在裂变，从“接替老刘”“狂飙孙连城”到“弄崩GDP”，说明读者对官场破局类容忍度高；《霍格沃兹》《倚天》等魔改同人证明“强者人设颠覆”具备长尾潜力。"
     },
     "books": [
       {
         "title": "四合院，哈军工副院，部下李云龙",
         "author": "五月五发发",
-        "reads": "45.8万",
+        "reads": "41.1万",
         "intro": "张仁风年仅十岁参加革命，最年轻的副兵团级，时隔二十年再见到自己的大哥，居然是住在情满四合院的他......",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o19cd49f6a1471426680a748323c27187~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=%2F1bWJ8k09XXE%2BIJoLubObb3G2rg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o19cd49f6a1471426680a748323c27187~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=UFtuGpgzH%2F5tAbIX%2FXN607UI4xw%3D",
         "url": "https://fanqienovel.com/page/7657868783679196184"
       },
       {
@@ -79,152 +79,152 @@
         "author": "七星入梦",
         "reads": "22.9万",
         "intro": "穿进人民名义世界，云东赶在沙瑞金空降汉东之时，临危上位，主管全省经济！ 所有人都在官场站队博弈，唯有云东看得通透——反腐不能拖垮地方发展。 陈岩石拦拆迁损害营商环境，他据理力争； 易学习拆美食城造成大规模失业，他极力劝阻； 沙瑞金冻结干部晋升引发资本恐慌，他直言利弊、力挽狂澜。 手握未来发展大势，云东平衡沙瑞金、高育良、李达康三方势力，整顿吏治的同时稳住经济大盘，在汉东走出一条双赢为官路！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o76075d49dd7f6a25c919ec92bd2c66aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=mHalHiKoER6j02b%2BT5cvRQV675s%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o76075d49dd7f6a25c919ec92bd2c66aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=GZe5eK198qXMcNDusQfg2ITZIeA%3D",
         "url": "https://fanqienovel.com/page/7652422044860025880"
       },
       {
         "title": "霍格沃兹：开局复制满级火盾护身",
         "author": "疯狂的牛二",
-        "reads": "20万",
+        "reads": "19.3万",
         "intro": "【蛇院至上】＋【剧情崩坏】＋【改变巫师界】＋【绝对黑魔王】＋【蓝色煤气灶】 达尔文·罗齐尔穿越成为徳国罗齐尔家族当代唯一继承人。 文达·罗齐尔的孙子辈，并且觉醒好感度复制系统。 只要刷够好感度，就能从对方身上随机复制能力。 天赋，特殊能力等等..... 达尔文从五岁开始在纽蒙迦德刷格林德沃的好感度。 终于在入学前夕，从格皇身上复制到了格皇的黑魔法天赋，满级的黑魔法天赋。 自此，第三代黑魔王，正在冉冉升起。 【格林德沃好感度已满，复制奖励满级火盾护身。】 【文达罗齐尔好感度已满，复制奖励无声无仗索命咒。】 【西弗勒斯斯内普好感度已满，复制奖励满级魔药学天赋。】 【米勒娃麦格好感度已满，复制奖励阿尼马格斯。】 【阿不思邓布利多好感度已满，复制奖励.....】 达尔文仗着自己的口才，俊朗的外表，一路疯狂刷好感。 实力也越来越强，直到这一天，他遇到了一个特殊的玩意。 【死神好感度已满，复制奖励.....】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2offd92bfeae0a6cc4c10bb107ddc6cebd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=U0PEZak6Q97BDZZECs%2F%2F%2Fe1ixz0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2offd92bfeae0a6cc4c10bb107ddc6cebd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=xin9fwqzp3qfriARYwkT66wlNa4%3D",
         "url": "https://fanqienovel.com/page/7654181935677197337"
+      },
+      {
+        "title": "名义：开局我举报我自己",
+        "author": "诸天殿的天者",
+        "reads": "27.1万",
+        "intro": "洛城：侯亮平同学，你不能因为我级别比你高，就查我吧？承认别人比你优秀真的这么难吗？你有没有从自己身上找原因呢？虽然是我自己举报我自己的，但是你够级别吗就查我？",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o30cc3bb97a4c73ece451d79b6e185ce5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=BuuCMFG2QYgyOhmp028KPN3IBPU%3D",
+        "url": "https://fanqienovel.com/page/7650130776280796185"
       },
       {
         "title": "龙族：坏了！路明非得了抑郁症",
         "author": "献给某人的花束",
-        "reads": "19.6万",
+        "reads": "18.9万",
         "intro": "卡塞尔学院最近有些发愁，因为他们新招进来的S级好像有些不太对劲。 自由一日里，只因为有人朝着他放了冷枪吓到了他，于是他转身就抠下了一块板砖，把在场的所有人都拍出了脑震荡。 参加夔门计划，只因为诺诺说了他一句“你要经历的还有很多”，他转头就扎进了水里和次代种肉搏。 前往日本东京，只因为被蛇岐八家背刺，他转身就背着汽油桶把蛇岐八家的神社给点了。 “路明非不是疯子，他只是得了抑郁症，我们要理解他爱护他。” 学院里的心理教授富山雅史说。 “我没有得抑郁症，我只是豁然开朗。” 路明非一板砖敲晕了这个给他造谣的家伙。 “哥哥，交换吗？四分之一的生命……” “还有这种好事？梭哈，全押！” 小魔鬼愣了。 龙族世界里最不吃压力之人就此诞生。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8bb134a127548a594433605ce225ac6b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=ESNTz8Y1Nj7IHcCdGrQltNfglRk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8bb134a127548a594433605ce225ac6b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=h0n94UqmIOCDuGLt0GKOYGLBHyA%3D",
         "url": "https://fanqienovel.com/page/7629649924644162584"
+      },
+      {
+        "title": "开局南诀小皇子，和母后疯狂贴贴",
+        "author": "筱白狐狸",
+        "reads": "18万",
+        "intro": "【少年歌行】+【六指琴魔】+【绝世天才】+【一曲入神游】 北离有个传说，南诀小皇子，七岁入自在，十岁入逍遥，十六踏神游，出生六指被誉为不详。 摘星楼：天生六指，南诀危矣？ 南诀皇后：放你娘狗屁，本后的孩子怎会是灾星！我看谁敢动我儿！ 南诀皇帝：皇后慎言！慎言啊！来人将那妖言惑众的拖下去斩了！ 敖玉：萧楚河赢我一座城又何妨，他有这么个出息的皇弟吗？哈哈哈！什么弟控！我才不是弟控！ 敖诗诗：皇弟这么可爱，当然是女孩纸！ 北离盛南诀衰，武运天运皆不如，朝堂重臣向皇帝提议，让二公主远嫁北离和亲，奈何小皇子熬隐不愿！ “谁也不能左右阿姐命运，包括父皇！天佑北离？那我便斗一斗这个天！” 叮！检测宿主天生六指，奖励‘天魔琴’。 为改变皇朝国运，敖隐只身入北离，挑战北离所有称仙号高手。 第一站:慕凉城-孤剑仙！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o224d0e5a6027240e2900b0a12896c492~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=QfirDQ5%2Bo2RTODksQ4Iw8Ym1zZY%3D",
+        "url": "https://fanqienovel.com/page/7457986034488331288"
       },
       {
         "title": "名义：从接替老刘开始",
         "author": "放千山",
-        "reads": "18.7万",
+        "reads": "19.4万",
         "intro": "穿越名义，林景聪成了祁同伟的同学，但也因此把梁璐的目标从祁同伟变成了自己。 林景聪：什么？梁璐那个老女人看上我了？ 祁同伟：什么？林景聪跑了，我成了背锅侠？ 梁璐：得不到林景聪，得到祁同伟也行！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1345022f146675f1bf2a26672b4e9233~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=m%2F%2F2KTNg8urFPv9lDZ8BhGbLvp8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1345022f146675f1bf2a26672b4e9233~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=SBCrJQQ1ToNT1CSdCO%2FtpRpi4y0%3D",
         "url": "https://fanqienovel.com/page/7651139353963400216"
       },
       {
         "title": "倚天：贫道张三丰",
         "author": "平凡的小蚂蚁",
-        "reads": "17.1万",
+        "reads": "15.8万",
         "intro": "【不一样的张三丰】【不一样的第一人】【护短】 贫道张三丰，甲子荡魔，倚天第一人，战力天花板。 徒弟娶个妖女怎么了？我罩着，谁有意见？ 空闻有意见？ 一拳按进土里：魔头，也配冒充少林方丈？ 灭绝作妖？ 一掌空中五连翻：老妖婆，给你脸了？ 西华子作怪？ 一脚踹飞：妖魔，谁给你的胆子冒充昆仑掌门？ 唐文亮跳出来找存在感？ 弹指掀翻：老魔，也敢代表崆峒五老？ …… 五大派围山逼宫？ 贫道100岁，正是闯的年纪。 真武剑出鞘，猜今天埋几个？ 张三丰：我本低调，你们逼我开大。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1fc7fb93e3b40b196a54a646155f9a82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=dDRL%2FbinSgb%2FfAKn4pzahP3rTN0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1fc7fb93e3b40b196a54a646155f9a82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=te2DiEdpT%2BJUvvAK9UDmEmSbk2k%3D",
         "url": "https://fanqienovel.com/page/7652968888065330201"
-      },
-      {
-        "title": "开局南诀小皇子，和母后疯狂贴贴",
-        "author": "筱白狐狸",
-        "reads": "17.9万",
-        "intro": "【少年歌行】+【六指琴魔】+【绝世天才】+【一曲入神游】 北离有个传说，南诀小皇子，七岁入自在，十岁入逍遥，十六踏神游，出生六指被誉为不详。 摘星楼：天生六指，南诀危矣？ 南诀皇后：放你娘狗屁，本后的孩子怎会是灾星！我看谁敢动我儿！ 南诀皇帝：皇后慎言！慎言啊！来人将那妖言惑众的拖下去斩了！ 敖玉：萧楚河赢我一座城又何妨，他有这么个出息的皇弟吗？哈哈哈！什么弟控！我才不是弟控！ 敖诗诗：皇弟这么可爱，当然是女孩纸！ 北离盛南诀衰，武运天运皆不如，朝堂重臣向皇帝提议，让二公主远嫁北离和亲，奈何小皇子熬隐不愿！ “谁也不能左右阿姐命运，包括父皇！天佑北离？那我便斗一斗这个天！” 叮！检测宿主天生六指，奖励‘天魔琴’。 为改变皇朝国运，敖隐只身入北离，挑战北离所有称仙号高手。 第一站:慕凉城-孤剑仙！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o224d0e5a6027240e2900b0a12896c492~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=ft0uKnuNeN1v26juFx%2FeMeouDo0%3D",
-        "url": "https://fanqienovel.com/page/7457986034488331288"
       },
       {
         "title": "名义：别人斗权，我薅赵瑞龙羊毛",
         "author": "悠闲醉鬼",
         "reads": "17万",
         "intro": "重生成吕洲文旅局长， 别人斗权斗钱， 徐哲抓着赵瑞龙死薅。 赵瑞龙：钱啦，我的钱啦。 徐哲：赵总， 我最近想弄个新项目。 赵瑞龙：徐局长徐局长，带带我。这次1千万。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o152e0aa730f9f3692e71145f1088604f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=XLePIb%2F0O0Tq%2BY8h2wl84lDQKcQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o152e0aa730f9f3692e71145f1088604f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=ogfSAbJnBYXitJ6j7qSi6KCAUQo%3D",
         "url": "https://fanqienovel.com/page/7653118082616921150"
       },
       {
         "title": "飞驰人生：我带张弛制霸赛道",
         "author": "半路江湖人",
-        "reads": "17.8万",
+        "reads": "18万",
         "intro": "新书，评分刚出。 一个不正经的主角，一个不正经的系统，一本不正经的小说。 浪荡富二代男主+躺平装死系统，带满血的张弛和满预算的记星，杀穿巴音布鲁克，登顶世界赛车之巅。 赛道封神，风月不停，五星红旗永不落幕。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o66f3f2d98be8a828d5da3b20a40b8d0a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=XlMEK3DfoDgYyHBp4XISK2Nx9EU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o66f3f2d98be8a828d5da3b20a40b8d0a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=EOBS7bZhEhdQceUUJ4WBq5GevwI%3D",
         "url": "https://fanqienovel.com/page/7624511111462669374"
+      },
+      {
+        "title": "名义：狂飙的孙连城",
+        "author": "大明小皇孙",
+        "reads": "16.9万",
+        "intro": "一个小混混的攀登之路 地痞流氓孙不良被人一板砖干成了名义世界里正在懒政干部学习班上被李达康炮轰的孙连城， 上一世孙不良本就是个混不吝的小混混，他可不会惯着李达康。 我孙连城身正不怕影子斜，收拾不了你们的烂摊子就是懒政不作为是吧？ 那好，老子不玩了，如你所愿，退组， 申请书就写被逼的，一个高级干部被逼到这个地步，看你李达康和沙瑞金怎么和上面交代。 多年后，孙连城站在省委一号楼的落地窗前看着天文望远镜里的星星：我是想退来着，可上面不让啊 直到有一天，他也进去了，这时候他才发现，他从来都是孙不良，不良的那个不良，权太大，他把握不住，",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odea5b815e173403f32d62c1aebdebca5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=7IWnnz%2BdMSzbJkyAWur6F%2FR2lwU%3D",
+        "url": "https://fanqienovel.com/page/7646681787329940504"
       },
       {
         "title": "白素贞，我真得好好惩罚你了",
         "author": "雨夜不出门",
-        "reads": "16.4万",
+        "reads": "16.3万",
         "intro": "【白蛇传+活佛济公+龙女+倩女幽魂+八仙+宝莲灯+仙剑+陆雪琪】 　　王瑄胎穿异世，历经十年寒窗苦读，金榜题名高中探花，之后被外派到钱塘县担任县令。 　　他原本一直以为，这里只是一个平平无奇的架空世界，直到他遇见了准备跳崖的胭脂，激活了【百美录】。 　　每点亮一张图鉴，便能收获一份奖励。 　　紧接着，他又在西湖断桥，遇见了白素贞和小青。 　　他这才知道，这是一个综合的神话世界。 　　有蛇妖，有女鬼，有女仙，有龙女，有神女…… 　　白素贞为了凑钱给许仙开药店，竟然偷走他府库的钱银。 　　好好好！白素贞，我真得好好惩罚你了！ …… 　　【点亮胭脂图鉴，奖励太阳真经！】 　　【点亮白素贞图鉴，奖励袖里乾坤！】 　　【点亮牡丹仙子……】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od581ddb785e1786d99e55fd8e1a1ce0f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=IgfPYydXSe328qXa5mhDI3nnbX4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od581ddb785e1786d99e55fd8e1a1ce0f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=cUHlAMkz79LlVwmEoSugxwwJLss%3D",
         "url": "https://fanqienovel.com/page/7646499547794902078"
-      },
-      {
-        "title": "名义：开局我举报我自己",
-        "author": "诸天殿的天者",
-        "reads": "24.6万",
-        "intro": "洛城：侯亮平同学，你不能因为我级别比你高，就查我吧？承认别人比你优秀真的这么难吗？你有没有从自己身上找原因呢？虽然是我自己举报我自己的，但是你够级别吗就查我？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o30cc3bb97a4c73ece451d79b6e185ce5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=%2FGrPr91qYmYiY7QpXcolyywoWuE%3D",
-        "url": "https://fanqienovel.com/page/7650130776280796185"
       },
       {
         "title": "四合院：从李云龙战友开始",
         "author": "放千山",
-        "reads": "16.1万",
+        "reads": "17.2万",
         "intro": "穿越回30年代，结识老赵，一起去了西北，什么，李云龙那个愣种又惹祸了？战争胜利后寻亲，什么？父母居然搬到禽满四合院了？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od5192b6c368f6775aec161fc5e460732~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=SWMEHO7SiQO0wA%2BYhjr6IBzLKWE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od5192b6c368f6775aec161fc5e460732~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=bEJcpT2tdUyY5gew8hGOqF5OapQ%3D",
         "url": "https://fanqienovel.com/page/7653676539866778648"
-      },
-      {
-        "title": "让你配合反腐，你弄崩汉东GDP",
-        "author": "芝芝为荔枝吖",
-        "reads": "10万",
-        "intro": "陆乘魂穿汉东，成了汉东油气集团常务副总，也是注定要被抓去祭旗的“背锅侠”。 此时沙瑞金空降，李达康狂飙突进搞GDP，侯亮平磨刀霍霍准备清算。他们既想抽干油气集团的血填补政绩，又想把陆乘送进去踩缝纫机。 面对必死局，陆乘毫不慌乱，反手祭出“绝对合规”的大招！ 你要安全生产？好，全省炼化厂停工自查一百天，油价暴涨，物流瘫痪！ 你要环保达标？行，切断重污染企业供气，李达康的光伏产业园当场断电烂尾！ 你要反腐查账？没问题，封存所有账目申请最高级别审计，侯亮平连张发票都摸不到！ 短短一月，汉东全省项目集体停摆，GDP断崖式暴跌！ 李达康急得拍桌大骂，却挑不出半点程序毛病；沙瑞金想问责，却发现陆乘每一步都合法合规！只有高育良笑得连干三大杯白开水直呼痛快。 当大佬们集体慌神求着复工时，陆乘笑了：“不是你们要政绩吗？急什么，流程还没走完呢！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0dac4f20ff4573c2816516d6e99c329c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=%2F5p1QEK6B9KAno5rEMLNXxcsoFg%3D",
-        "url": "https://fanqienovel.com/page/7657114176032083006"
-      },
-      {
-        "title": "霍格沃茨：我有一座移动城堡",
-        "author": "咩崽睡不着",
-        "reads": "14.3万",
-        "intro": "穿越到了哈利波特世界，还附带了一座魔法城堡。 我这是继承了哈尔的房子？！！ 完美继承了中华优秀传统美德的霍尔表示： 来都来了，在哪不是活着。 带着移动城堡的魔法传承，他在魔法界收集素材，研究魔法。 直到他刚毕业，被某个白胡子巫师逮住。 “什么？让我担任黑魔法防御课的教授？” 不去！ 这不是年抛的职位吗，前有没鼻子魔王暗中窥伺，后有斯内普虎视眈眈。 他又不是吃饱了撑的。 在邓布利多的诱惑（威胁）下，霍尔最后还是满心欢喜（咬牙切齿）的应下。 不情不愿上岗的霍尔最后还是将魔爪伸向了西方的学生。 “撕伞？” “不，我这是为他们着想。” “重申一遍，我不是巫师，请叫我魔法师！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8c9e24b34595c1e26ff3ebdde048db50~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=VYmLfzre5EDhtmaLtDGOPUDo95A%3D",
-        "url": "https://fanqienovel.com/page/7553131983061142590"
       },
       {
         "title": "名义：和沙瑞金汉东对掏开始",
         "author": "梁子渊",
         "reads": "15.2万",
         "intro": "左政在沙瑞金吃人的目光下，“最近汉东出现了一个帮派，叫沙家浜。不是我胡说，在坊间还有歌曲在传唱。”说着手机上播放着改编过歌词的《刀光剑影》歌曲，汉东一向我大晒，我玩晒 沙家掌管一省，纪检反贪与抓人，都话事 汉东至高境界，论背景至强大，论抓人随心所欲 而后说道：“听说这个沙家浜成立于瑞金同志上任后，据说只要进入沙家浜的同志，都能快速越级提拔，有人说这个帮有三个头头，叫沙田李。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o440698d116e7fb7b1b4ff94e338f3db2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=krkVUdRezeeSKGAH4p5OKmlsX60%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o440698d116e7fb7b1b4ff94e338f3db2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=PGQSWrirbGrTbHKArOnlrIw7F7w%3D",
         "url": "https://fanqienovel.com/page/7641687713053166617"
-      },
-      {
-        "title": "名义：狂飙的孙连城",
-        "author": "大明小皇孙",
-        "reads": "16.5万",
-        "intro": "一个小混混的攀登之路 地痞流氓孙不良被人一板砖干成了名义世界里正在懒政干部学习班上被李达康炮轰的孙连城， 上一世孙不良本就是个混不吝的小混混，他可不会惯着李达康。 我孙连城身正不怕影子斜，收拾不了你们的烂摊子就是懒政不作为是吧？ 那好，老子不玩了，如你所愿，退组， 申请书就写被逼的，一个高级干部被逼到这个地步，看你李达康和沙瑞金怎么和上面交代。 多年后，孙连城站在省委一号楼的落地窗前看着天文望远镜里的星星：我是想退来着，可上面不让啊 直到有一天，他也进去了，这时候他才发现，他从来都是孙不良，不良的那个不良，权太大，他把握不住，",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odea5b815e173403f32d62c1aebdebca5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=CF6b%2FX31JISg4i9mQ75XvF8Giks%3D",
-        "url": "https://fanqienovel.com/page/7646681787329940504"
-      },
-      {
-        "title": "四合院，开局我选入赘",
-        "author": "周平公",
-        "reads": "9.4万",
-        "intro": "无奈，只能在这里给大家解释一下，我查过资料了，那个时候打猎也不是随便就能打到，是需要林业局给的证明，这个证明是厂里面办的，枪也是厂里面出的，所以每个月往厂里面交一定的份额是正常的，没有工作就没有户口，而且把多出来的猎物卖到厂里面是最安全的，不容易被抓，这个就是一笔带过，大家觉得有问题可以忽略这一点，拜托了各位大佬! 穿越到58年代，成了逃难的，系统的激活条件是入赘到四合院。 郝大力表示，入赘是不可能入赘的，我就是死在这里，饿死穷死，也绝对不可能入赘。 等到看见苏凝烟以后。 唉嘿嘿，入赘，其实也不是不行哈，大丈夫能屈能伸嘛。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o35aac755509c57d783c3eaee90ecebf8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=95FdRCN1ebw%2B802A%2FKBZ%2FtnS%2Fxk%3D",
-        "url": "https://fanqienovel.com/page/7650305257494301721"
       },
       {
         "title": "名义：同伟他死了！你选的嘛瑞金",
         "author": "七重梦境",
-        "reads": "14.6万",
+        "reads": "15.4万",
         "intro": "穿越成高育良，开局就是祁同伟孤鹰岭自尽，纪委上门查水表的必死之局！ 不想去秦城监狱种菜？ 那就只能掀翻整个汉东的棋盘！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o23a8cd8226d27f059fff4e5391f0c0f2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=FkZ98tn7YUSrRydDD2m%2B54BMFjA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o23a8cd8226d27f059fff4e5391f0c0f2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=naPgxggiF4R3KhpuLQgy%2FdzDFEs%3D",
         "url": "https://fanqienovel.com/page/7654510742967684120"
+      },
+      {
+        "title": "霍格沃茨：我有一座移动城堡",
+        "author": "咩崽睡不着",
+        "reads": "13.6万",
+        "intro": "穿越到了哈利波特世界，还附带了一座魔法城堡。 我这是继承了哈尔的房子？！！ 完美继承了中华优秀传统美德的霍尔表示： 来都来了，在哪不是活着。 带着移动城堡的魔法传承，他在魔法界收集素材，研究魔法。 直到他刚毕业，被某个白胡子巫师逮住。 “什么？让我担任黑魔法防御课的教授？” 不去！ 这不是年抛的职位吗，前有没鼻子魔王暗中窥伺，后有斯内普虎视眈眈。 他又不是吃饱了撑的。 在邓布利多的诱惑（威胁）下，霍尔最后还是满心欢喜（咬牙切齿）的应下。 不情不愿上岗的霍尔最后还是将魔爪伸向了西方的学生。 “撕伞？” “不，我这是为他们着想。” “重申一遍，我不是巫师，请叫我魔法师！”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8c9e24b34595c1e26ff3ebdde048db50~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=2xIYzgldFc2NHIroweTzzCtjuIU%3D",
+        "url": "https://fanqienovel.com/page/7553131983061142590"
       },
       {
         "title": "名义，他才32，怎么就汉东王了",
         "author": "六月十二",
-        "reads": "13.6万",
+        "reads": "14.1万",
         "intro": "『纯手搓』『空降』『就是玩』『杀伐果断』『爽文』 不可抗力因素，简介蟹了。 请大家直接移步正文，爽就完了！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5a8f9d8e0055fe26475ffeb3b8070cc4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=1Rfl%2BFrTw5bqoBcLbg%2F9ZH8khGo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5a8f9d8e0055fe26475ffeb3b8070cc4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=PB1Y9uDizwUyYYpITf28W1gJ%2FZc%3D",
         "url": "https://fanqienovel.com/page/7659591607456369688"
       },
       {
-        "title": "杨过：我在神雕逆生通天",
-        "author": "豆包教父",
-        "reads": "10.4万",
-        "intro": "【魂穿】·【天才】·【金手指】·【腹黑】·【权谋】·【争霸】·【无敌流】·【细节控】 现代灵魂穿成少年杨过，开局一支碗只能乞讨要饭？ 无所谓，我脑海中多一卷《逆生三重·通天版》 三重逆生，血肉重构、炁化内脏、人道通天 【黄蓉】：此子眉眼间有杨康之影，不得不防…… 【杨过】：伯母多虑了，侄儿对报仇没兴趣... 【郭靖】：过儿，侠之大者，为国为民！ 【杨过】：郭伯伯说得对，但我对做保姆没兴趣... 【小龙女】：过儿，我们去古墓隐居…… 【杨过】：龙儿说的对，但我对女.......咳咳，这个可以有兴趣... 在他日夜苦修终成正果之时，眼见这世道山河飘摇、生民困苦，早已不复前生国泰民安，心中暗自决意，是时候应该做点什么了......",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obd40b5a18c387abb813065caccd6cf29~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=9Qv6BUQyUHZ%2BLD1Oi1fsMwa%2FYEc%3D",
-        "url": "https://fanqienovel.com/page/7650946533491215385"
+        "title": "龙族：我的明非怎么变成明妃了？",
+        "author": "拿来给我看看",
+        "reads": "14.8万",
+        "intro": "“小妃妃。” “嗯？怎么了，小平乐？” 许平乐沉默了片刻，想了想，“为什么我总感觉我们应该是兄弟？” 路明妃疑惑，“什么意思呀？你不喜欢吃中式馒头？” 许平乐抿抿嘴唇，“额…有没有可能你喂我吃的是汤包？” 许平乐忽的严肃起来，“其实我还怀疑楚师姐和恺撒老大也应该是男的！我认为我们应该正视这个问题！” 路明妃也跟着变得紧张起来，她弯腰捧着许平乐的脸，“那我们该怎么办？” 许平乐严肃地问道，“你想啊，小妃妃，如果楚师姐和恺撒老大也是男的，那她们就是你的两位兄长了……” 抬头用手擦了擦嘴角，许平乐严肃道，“我的意思是，你的两个兄长哪去了？” …… 路明妃沉默片刻，重新压下许平乐的脑袋，恶狠狠地说： “别说话，给我继续吃！”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o91c8ae2a74e069abf31f02a3e0ee921c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=hsjPX3HnKUswCIRkf2BU%2ByP4me0%3D",
+        "url": "https://fanqienovel.com/page/7646284751896071193"
+      },
+      {
+        "title": "让你配合反腐，你弄崩汉东GDP",
+        "author": "芝芝为荔枝吖",
+        "reads": "9万",
+        "intro": "陆乘魂穿汉东，成了汉东油气集团常务副总，也是注定要被抓去祭旗的“背锅侠”。 此时沙瑞金空降，李达康狂飙突进搞GDP，侯亮平磨刀霍霍准备清算。他们既想抽干油气集团的血填补政绩，又想把陆乘送进去踩缝纫机。 面对必死局，陆乘毫不慌乱，反手祭出“绝对合规”的大招！ 你要安全生产？好，全省炼化厂停工自查一百天，油价暴涨，物流瘫痪！ 你要环保达标？行，切断重污染企业供气，李达康的光伏产业园当场断电烂尾！ 你要反腐查账？没问题，封存所有账目申请最高级别审计，侯亮平连张发票都摸不到！ 短短一月，汉东全省项目集体停摆，GDP断崖式暴跌！ 李达康急得拍桌大骂，却挑不出半点程序毛病；沙瑞金想问责，却发现陆乘每一步都合法合规！只有高育良笑得连干三大杯白开水直呼痛快。 当大佬们集体慌神求着复工时，陆乘笑了：“不是你们要政绩吗？急什么，流程还没走完呢！”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0dac4f20ff4573c2816516d6e99c329c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=wlzGa%2Bgr9IQ51XheJcSBhiEJItw%3D",
+        "url": "https://fanqienovel.com/page/7657114176032083006"
+      },
+      {
+        "title": "港片：我的老婆全是极品尤物",
+        "author": "一枚超级大帅哥",
+        "reads": "15.8万",
+        "intro": "赵烈胎穿港综世界二十四年，从东星最底层的蓝灯笼杀成“至尊虎”，系统才姗姗来迟。 巴闭被陈浩南当街追杀，他本只想顺手捞一笔千万酬金，谁知大佬B竟派陈浩南来烧他的仓库，一脚踩进了他的底线。 既然撕破脸，那就别怪他心狠手辣：铜锣湾揸Fit人一家被他吃干抹净，连人带地盘一口吞下。 洪兴太子绑了笑面虎想逼他换人，他反手甩出人形铁球阿海，直接碾平铜锣湾所有场子，逼得蒋天生咽下哑巴亏坐到谈判桌前。 以此一步步斩杀敌人，成为一代至尊地下皇帝。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2a47350187b924691bb9faedbbdd684e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=m9K9kfh8nNFif%2FzfSISEwaK3jWw%3D",
+        "url": "https://fanqienovel.com/page/7660121605615389721"
       }
     ]
   },
@@ -235,70 +235,70 @@
         "new_count": 2,
         "dropped_count": 2,
         "new_books": [
-          "霍格沃茨：我有一座移动城堡",
-          "名义：狂飙的孙连城"
+          "龙族：我的明非怎么变成明妃了？",
+          "港片：我的老婆全是极品尤物"
         ],
         "dropped_books": [
           {
-            "title": "名义：汉东博弈，能源系的反击",
-            "intro": "【架空世界，不影射任何现实。】 能源系天骄空降汉东，不求进步，只为搞事。 钟家将能源系当做进步的血包。 从钟明国到钟家赘婿，每当需要成绩就对能源系的人出手。 是可忍孰不可忍。 钟家联合王家女婿沙瑞金，"
+            "title": "四合院，开局我选入赘",
+            "intro": "无奈，只能在这里给大家解释一下，我查过资料了，那个时候打猎也不是随便就能打到，是需要林业局给的证明，这个证明是厂里面办的，枪也是厂里面出的，所以每个月往厂里面交一定的份额是正常的，没有工作就没有户口，"
           },
           {
-            "title": "超人面前，萝莉或给，你别无选择",
-            "intro": "评分刚出，后面会涨的(*¯︶¯*) 【真·无敌】【爽文】【漫威】【搞笑+战斗】【部分参考漫画设定】【不是幼儿园的车】 那是鸟？是飞机？不！那是超人！ “谢谢你！艾慕超人！” “别叫我艾慕超人！都说了我"
+            "title": "杨过：我在神雕逆生通天",
+            "intro": "【魂穿】·【天才】·【金手指】·【腹黑】·【权谋】·【争霸】·【无敌流】·【细节控】 现代灵魂穿成少年杨过，开局一支碗只能乞讨要饭？ 无所谓，我脑海中多一卷《逆生三重·通天版》 三重逆生，血肉重构、炁"
           }
         ],
         "top_risers": [
           {
-            "title": "开局南诀小皇子，和母后疯狂贴贴",
+            "title": "名义：开局我举报我自己",
             "change": "+7"
           },
           {
-            "title": "飞驰人生：我带张弛制霸赛道",
-            "change": "+2"
+            "title": "名义：狂飙的孙连城",
+            "change": "+5"
           },
           {
-            "title": "白素贞，我真得好好惩罚你了",
-            "change": "+2"
+            "title": "名义：同伟他死了！你选的嘛瑞金",
+            "change": "+3"
           }
         ],
         "top_fallers": [
           {
             "title": "让你配合反腐，你弄崩汉东GDP",
-            "change": "-5"
+            "change": "-6"
           },
           {
-            "title": "名义：开局我举报我自己",
-            "change": "-4"
+            "title": "名义：从接替老刘开始",
+            "change": "-2"
           },
           {
-            "title": "名义，他才32，怎么就汉东王了",
-            "change": "-3"
+            "title": "倚天：贫道张三丰",
+            "change": "-2"
           }
         ],
         "reads_growth": [
           {
             "title": "名义：开局我举报我自己",
-            "growth": "+4.2万"
+            "growth": "+2.5万"
+          },
+          {
+            "title": "四合院：从李云龙战友开始",
+            "growth": "+1.1万"
           },
           {
             "title": "名义：同伟他死了！你选的嘛瑞金",
-            "growth": "+1.6万"
-          },
-          {
-            "title": "四合院，哈军工副院，部下李云龙",
-            "growth": "+1.5万"
+            "growth": "+8000"
           }
         ],
-        "summary": "**🔥 题材趋势**  \n「人民的名义」官二代重生博弈题材高度扎堆，占比榜单近四成；「四合院+军旅混搭」（李云龙/哈军工）成为新晋流量密码。核心高频元素：穿书、系统、反贪、经济制衡。\n\n**📖 读者偏好**  \n偏好杀伐果断的爽文路线，主角需具“反常识操作”（如举报自己/崩坏GDP）的金手指，同时认同“斗权不斗廉”的务实价值。\n\n**🆕 新上榜作品**  \n- 《霍格沃茨：我有一座移动城堡》：哈利波特+哈尔移动城堡的跨IP混搭，差异化玩法抢眼。  \n- 《名义：狂飙的孙连城》：小混混穿成懒政干部，反套路“以不配合倒逼改革”别具一格。\n\n**📉 掉出榜单**  \n- 《名义：汉东博弈，能源系的反击》：同类题材饱和，缺乏新梗爆点。  \n- 《超人面前，萝莉或给，你别无选择》：漫威+萝莉组合与男频衍生主线偏差，受众匹配度低。\n\n**💡 值得关注**  \n- 《"
+        "summary": "**🔥 题材趋势** 《人民的名义》同人占据半壁江山，官场博弈+经济制衡成流量密码；《四合院》《龙族》等经典IP衍生稳定吸量，神话仙侠与港片综漫亦有补充。\n**📖 读者偏好** 偏好“原世界颠覆性展开”，如举报自己、薅反派羊毛、刺头孙连城等反套路操作；在读数显示，强冲突、快节奏、沙雕爽感比单纯战力碾压更易冲榜。\n**🆕 新上榜作品** 《龙族：我的明非怎么变成明妃了？》以性别反转+日常搞笑切入；《港片：我的老婆全是极品尤物》主打港综黑帮吞并爽点，均属细分赛道补位。\n**📉 掉出榜单** 两本掉榜作品受题材同质化或金手指设定限制，热度回落；《四合院，开局我选入赘》因考据争议影响留存。\n**💡 值得关注** 《名义》系仍在裂变，从“接替老刘”“狂飙孙连城”到“弄崩GDP”，说明读者对官场破局类容忍度高；《霍格沃兹》《倚天》等魔改同人证明“强者人设颠覆”具备长尾潜力。"
       },
       "books": [
         {
           "title": "四合院，哈军工副院，部下李云龙",
           "author": "五月五发发",
-          "reads": "45.8万",
+          "reads": "41.1万",
           "intro": "张仁风年仅十岁参加革命，最年轻的副兵团级，时隔二十年再见到自己的大哥，居然是住在情满四合院的他......",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o19cd49f6a1471426680a748323c27187~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=%2F1bWJ8k09XXE%2BIJoLubObb3G2rg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o19cd49f6a1471426680a748323c27187~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=UFtuGpgzH%2F5tAbIX%2FXN607UI4xw%3D",
           "url": "https://fanqienovel.com/page/7657868783679196184"
         },
         {
@@ -306,152 +306,152 @@
           "author": "七星入梦",
           "reads": "22.9万",
           "intro": "穿进人民名义世界，云东赶在沙瑞金空降汉东之时，临危上位，主管全省经济！ 所有人都在官场站队博弈，唯有云东看得通透——反腐不能拖垮地方发展。 陈岩石拦拆迁损害营商环境，他据理力争； 易学习拆美食城造成大规模失业，他极力劝阻； 沙瑞金冻结干部晋升引发资本恐慌，他直言利弊、力挽狂澜。 手握未来发展大势，云东平衡沙瑞金、高育良、李达康三方势力，整顿吏治的同时稳住经济大盘，在汉东走出一条双赢为官路！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o76075d49dd7f6a25c919ec92bd2c66aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=mHalHiKoER6j02b%2BT5cvRQV675s%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o76075d49dd7f6a25c919ec92bd2c66aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=GZe5eK198qXMcNDusQfg2ITZIeA%3D",
           "url": "https://fanqienovel.com/page/7652422044860025880"
         },
         {
           "title": "霍格沃兹：开局复制满级火盾护身",
           "author": "疯狂的牛二",
-          "reads": "20万",
+          "reads": "19.3万",
           "intro": "【蛇院至上】＋【剧情崩坏】＋【改变巫师界】＋【绝对黑魔王】＋【蓝色煤气灶】 达尔文·罗齐尔穿越成为徳国罗齐尔家族当代唯一继承人。 文达·罗齐尔的孙子辈，并且觉醒好感度复制系统。 只要刷够好感度，就能从对方身上随机复制能力。 天赋，特殊能力等等..... 达尔文从五岁开始在纽蒙迦德刷格林德沃的好感度。 终于在入学前夕，从格皇身上复制到了格皇的黑魔法天赋，满级的黑魔法天赋。 自此，第三代黑魔王，正在冉冉升起。 【格林德沃好感度已满，复制奖励满级火盾护身。】 【文达罗齐尔好感度已满，复制奖励无声无仗索命咒。】 【西弗勒斯斯内普好感度已满，复制奖励满级魔药学天赋。】 【米勒娃麦格好感度已满，复制奖励阿尼马格斯。】 【阿不思邓布利多好感度已满，复制奖励.....】 达尔文仗着自己的口才，俊朗的外表，一路疯狂刷好感。 实力也越来越强，直到这一天，他遇到了一个特殊的玩意。 【死神好感度已满，复制奖励.....】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2offd92bfeae0a6cc4c10bb107ddc6cebd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=U0PEZak6Q97BDZZECs%2F%2F%2Fe1ixz0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2offd92bfeae0a6cc4c10bb107ddc6cebd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=xin9fwqzp3qfriARYwkT66wlNa4%3D",
           "url": "https://fanqienovel.com/page/7654181935677197337"
+        },
+        {
+          "title": "名义：开局我举报我自己",
+          "author": "诸天殿的天者",
+          "reads": "27.1万",
+          "intro": "洛城：侯亮平同学，你不能因为我级别比你高，就查我吧？承认别人比你优秀真的这么难吗？你有没有从自己身上找原因呢？虽然是我自己举报我自己的，但是你够级别吗就查我？",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o30cc3bb97a4c73ece451d79b6e185ce5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=BuuCMFG2QYgyOhmp028KPN3IBPU%3D",
+          "url": "https://fanqienovel.com/page/7650130776280796185"
         },
         {
           "title": "龙族：坏了！路明非得了抑郁症",
           "author": "献给某人的花束",
-          "reads": "19.6万",
+          "reads": "18.9万",
           "intro": "卡塞尔学院最近有些发愁，因为他们新招进来的S级好像有些不太对劲。 自由一日里，只因为有人朝着他放了冷枪吓到了他，于是他转身就抠下了一块板砖，把在场的所有人都拍出了脑震荡。 参加夔门计划，只因为诺诺说了他一句“你要经历的还有很多”，他转头就扎进了水里和次代种肉搏。 前往日本东京，只因为被蛇岐八家背刺，他转身就背着汽油桶把蛇岐八家的神社给点了。 “路明非不是疯子，他只是得了抑郁症，我们要理解他爱护他。” 学院里的心理教授富山雅史说。 “我没有得抑郁症，我只是豁然开朗。” 路明非一板砖敲晕了这个给他造谣的家伙。 “哥哥，交换吗？四分之一的生命……” “还有这种好事？梭哈，全押！” 小魔鬼愣了。 龙族世界里最不吃压力之人就此诞生。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8bb134a127548a594433605ce225ac6b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=ESNTz8Y1Nj7IHcCdGrQltNfglRk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8bb134a127548a594433605ce225ac6b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=h0n94UqmIOCDuGLt0GKOYGLBHyA%3D",
           "url": "https://fanqienovel.com/page/7629649924644162584"
+        },
+        {
+          "title": "开局南诀小皇子，和母后疯狂贴贴",
+          "author": "筱白狐狸",
+          "reads": "18万",
+          "intro": "【少年歌行】+【六指琴魔】+【绝世天才】+【一曲入神游】 北离有个传说，南诀小皇子，七岁入自在，十岁入逍遥，十六踏神游，出生六指被誉为不详。 摘星楼：天生六指，南诀危矣？ 南诀皇后：放你娘狗屁，本后的孩子怎会是灾星！我看谁敢动我儿！ 南诀皇帝：皇后慎言！慎言啊！来人将那妖言惑众的拖下去斩了！ 敖玉：萧楚河赢我一座城又何妨，他有这么个出息的皇弟吗？哈哈哈！什么弟控！我才不是弟控！ 敖诗诗：皇弟这么可爱，当然是女孩纸！ 北离盛南诀衰，武运天运皆不如，朝堂重臣向皇帝提议，让二公主远嫁北离和亲，奈何小皇子熬隐不愿！ “谁也不能左右阿姐命运，包括父皇！天佑北离？那我便斗一斗这个天！” 叮！检测宿主天生六指，奖励‘天魔琴’。 为改变皇朝国运，敖隐只身入北离，挑战北离所有称仙号高手。 第一站:慕凉城-孤剑仙！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o224d0e5a6027240e2900b0a12896c492~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=QfirDQ5%2Bo2RTODksQ4Iw8Ym1zZY%3D",
+          "url": "https://fanqienovel.com/page/7457986034488331288"
         },
         {
           "title": "名义：从接替老刘开始",
           "author": "放千山",
-          "reads": "18.7万",
+          "reads": "19.4万",
           "intro": "穿越名义，林景聪成了祁同伟的同学，但也因此把梁璐的目标从祁同伟变成了自己。 林景聪：什么？梁璐那个老女人看上我了？ 祁同伟：什么？林景聪跑了，我成了背锅侠？ 梁璐：得不到林景聪，得到祁同伟也行！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1345022f146675f1bf2a26672b4e9233~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=m%2F%2F2KTNg8urFPv9lDZ8BhGbLvp8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1345022f146675f1bf2a26672b4e9233~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=SBCrJQQ1ToNT1CSdCO%2FtpRpi4y0%3D",
           "url": "https://fanqienovel.com/page/7651139353963400216"
         },
         {
           "title": "倚天：贫道张三丰",
           "author": "平凡的小蚂蚁",
-          "reads": "17.1万",
+          "reads": "15.8万",
           "intro": "【不一样的张三丰】【不一样的第一人】【护短】 贫道张三丰，甲子荡魔，倚天第一人，战力天花板。 徒弟娶个妖女怎么了？我罩着，谁有意见？ 空闻有意见？ 一拳按进土里：魔头，也配冒充少林方丈？ 灭绝作妖？ 一掌空中五连翻：老妖婆，给你脸了？ 西华子作怪？ 一脚踹飞：妖魔，谁给你的胆子冒充昆仑掌门？ 唐文亮跳出来找存在感？ 弹指掀翻：老魔，也敢代表崆峒五老？ …… 五大派围山逼宫？ 贫道100岁，正是闯的年纪。 真武剑出鞘，猜今天埋几个？ 张三丰：我本低调，你们逼我开大。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1fc7fb93e3b40b196a54a646155f9a82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=dDRL%2FbinSgb%2FfAKn4pzahP3rTN0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1fc7fb93e3b40b196a54a646155f9a82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=te2DiEdpT%2BJUvvAK9UDmEmSbk2k%3D",
           "url": "https://fanqienovel.com/page/7652968888065330201"
-        },
-        {
-          "title": "开局南诀小皇子，和母后疯狂贴贴",
-          "author": "筱白狐狸",
-          "reads": "17.9万",
-          "intro": "【少年歌行】+【六指琴魔】+【绝世天才】+【一曲入神游】 北离有个传说，南诀小皇子，七岁入自在，十岁入逍遥，十六踏神游，出生六指被誉为不详。 摘星楼：天生六指，南诀危矣？ 南诀皇后：放你娘狗屁，本后的孩子怎会是灾星！我看谁敢动我儿！ 南诀皇帝：皇后慎言！慎言啊！来人将那妖言惑众的拖下去斩了！ 敖玉：萧楚河赢我一座城又何妨，他有这么个出息的皇弟吗？哈哈哈！什么弟控！我才不是弟控！ 敖诗诗：皇弟这么可爱，当然是女孩纸！ 北离盛南诀衰，武运天运皆不如，朝堂重臣向皇帝提议，让二公主远嫁北离和亲，奈何小皇子熬隐不愿！ “谁也不能左右阿姐命运，包括父皇！天佑北离？那我便斗一斗这个天！” 叮！检测宿主天生六指，奖励‘天魔琴’。 为改变皇朝国运，敖隐只身入北离，挑战北离所有称仙号高手。 第一站:慕凉城-孤剑仙！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o224d0e5a6027240e2900b0a12896c492~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=ft0uKnuNeN1v26juFx%2FeMeouDo0%3D",
-          "url": "https://fanqienovel.com/page/7457986034488331288"
         },
         {
           "title": "名义：别人斗权，我薅赵瑞龙羊毛",
           "author": "悠闲醉鬼",
           "reads": "17万",
           "intro": "重生成吕洲文旅局长， 别人斗权斗钱， 徐哲抓着赵瑞龙死薅。 赵瑞龙：钱啦，我的钱啦。 徐哲：赵总， 我最近想弄个新项目。 赵瑞龙：徐局长徐局长，带带我。这次1千万。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o152e0aa730f9f3692e71145f1088604f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=XLePIb%2F0O0Tq%2BY8h2wl84lDQKcQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o152e0aa730f9f3692e71145f1088604f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=ogfSAbJnBYXitJ6j7qSi6KCAUQo%3D",
           "url": "https://fanqienovel.com/page/7653118082616921150"
         },
         {
           "title": "飞驰人生：我带张弛制霸赛道",
           "author": "半路江湖人",
-          "reads": "17.8万",
+          "reads": "18万",
           "intro": "新书，评分刚出。 一个不正经的主角，一个不正经的系统，一本不正经的小说。 浪荡富二代男主+躺平装死系统，带满血的张弛和满预算的记星，杀穿巴音布鲁克，登顶世界赛车之巅。 赛道封神，风月不停，五星红旗永不落幕。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o66f3f2d98be8a828d5da3b20a40b8d0a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=XlMEK3DfoDgYyHBp4XISK2Nx9EU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o66f3f2d98be8a828d5da3b20a40b8d0a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133021&x-signature=EOBS7bZhEhdQceUUJ4WBq5GevwI%3D",
           "url": "https://fanqienovel.com/page/7624511111462669374"
+        },
+        {
+          "title": "名义：狂飙的孙连城",
+          "author": "大明小皇孙",
+          "reads": "16.9万",
+          "intro": "一个小混混的攀登之路 地痞流氓孙不良被人一板砖干成了名义世界里正在懒政干部学习班上被李达康炮轰的孙连城， 上一世孙不良本就是个混不吝的小混混，他可不会惯着李达康。 我孙连城身正不怕影子斜，收拾不了你们的烂摊子就是懒政不作为是吧？ 那好，老子不玩了，如你所愿，退组， 申请书就写被逼的，一个高级干部被逼到这个地步，看你李达康和沙瑞金怎么和上面交代。 多年后，孙连城站在省委一号楼的落地窗前看着天文望远镜里的星星：我是想退来着，可上面不让啊 直到有一天，他也进去了，这时候他才发现，他从来都是孙不良，不良的那个不良，权太大，他把握不住，",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odea5b815e173403f32d62c1aebdebca5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=7IWnnz%2BdMSzbJkyAWur6F%2FR2lwU%3D",
+          "url": "https://fanqienovel.com/page/7646681787329940504"
         },
         {
           "title": "白素贞，我真得好好惩罚你了",
           "author": "雨夜不出门",
-          "reads": "16.4万",
+          "reads": "16.3万",
           "intro": "【白蛇传+活佛济公+龙女+倩女幽魂+八仙+宝莲灯+仙剑+陆雪琪】 　　王瑄胎穿异世，历经十年寒窗苦读，金榜题名高中探花，之后被外派到钱塘县担任县令。 　　他原本一直以为，这里只是一个平平无奇的架空世界，直到他遇见了准备跳崖的胭脂，激活了【百美录】。 　　每点亮一张图鉴，便能收获一份奖励。 　　紧接着，他又在西湖断桥，遇见了白素贞和小青。 　　他这才知道，这是一个综合的神话世界。 　　有蛇妖，有女鬼，有女仙，有龙女，有神女…… 　　白素贞为了凑钱给许仙开药店，竟然偷走他府库的钱银。 　　好好好！白素贞，我真得好好惩罚你了！ …… 　　【点亮胭脂图鉴，奖励太阳真经！】 　　【点亮白素贞图鉴，奖励袖里乾坤！】 　　【点亮牡丹仙子……】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od581ddb785e1786d99e55fd8e1a1ce0f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046613&x-signature=IgfPYydXSe328qXa5mhDI3nnbX4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od581ddb785e1786d99e55fd8e1a1ce0f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=cUHlAMkz79LlVwmEoSugxwwJLss%3D",
           "url": "https://fanqienovel.com/page/7646499547794902078"
-        },
-        {
-          "title": "名义：开局我举报我自己",
-          "author": "诸天殿的天者",
-          "reads": "24.6万",
-          "intro": "洛城：侯亮平同学，你不能因为我级别比你高，就查我吧？承认别人比你优秀真的这么难吗？你有没有从自己身上找原因呢？虽然是我自己举报我自己的，但是你够级别吗就查我？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o30cc3bb97a4c73ece451d79b6e185ce5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=%2FGrPr91qYmYiY7QpXcolyywoWuE%3D",
-          "url": "https://fanqienovel.com/page/7650130776280796185"
         },
         {
           "title": "四合院：从李云龙战友开始",
           "author": "放千山",
-          "reads": "16.1万",
+          "reads": "17.2万",
           "intro": "穿越回30年代，结识老赵，一起去了西北，什么，李云龙那个愣种又惹祸了？战争胜利后寻亲，什么？父母居然搬到禽满四合院了？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od5192b6c368f6775aec161fc5e460732~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=SWMEHO7SiQO0wA%2BYhjr6IBzLKWE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od5192b6c368f6775aec161fc5e460732~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=bEJcpT2tdUyY5gew8hGOqF5OapQ%3D",
           "url": "https://fanqienovel.com/page/7653676539866778648"
-        },
-        {
-          "title": "让你配合反腐，你弄崩汉东GDP",
-          "author": "芝芝为荔枝吖",
-          "reads": "10万",
-          "intro": "陆乘魂穿汉东，成了汉东油气集团常务副总，也是注定要被抓去祭旗的“背锅侠”。 此时沙瑞金空降，李达康狂飙突进搞GDP，侯亮平磨刀霍霍准备清算。他们既想抽干油气集团的血填补政绩，又想把陆乘送进去踩缝纫机。 面对必死局，陆乘毫不慌乱，反手祭出“绝对合规”的大招！ 你要安全生产？好，全省炼化厂停工自查一百天，油价暴涨，物流瘫痪！ 你要环保达标？行，切断重污染企业供气，李达康的光伏产业园当场断电烂尾！ 你要反腐查账？没问题，封存所有账目申请最高级别审计，侯亮平连张发票都摸不到！ 短短一月，汉东全省项目集体停摆，GDP断崖式暴跌！ 李达康急得拍桌大骂，却挑不出半点程序毛病；沙瑞金想问责，却发现陆乘每一步都合法合规！只有高育良笑得连干三大杯白开水直呼痛快。 当大佬们集体慌神求着复工时，陆乘笑了：“不是你们要政绩吗？急什么，流程还没走完呢！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0dac4f20ff4573c2816516d6e99c329c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=%2F5p1QEK6B9KAno5rEMLNXxcsoFg%3D",
-          "url": "https://fanqienovel.com/page/7657114176032083006"
-        },
-        {
-          "title": "霍格沃茨：我有一座移动城堡",
-          "author": "咩崽睡不着",
-          "reads": "14.3万",
-          "intro": "穿越到了哈利波特世界，还附带了一座魔法城堡。 我这是继承了哈尔的房子？！！ 完美继承了中华优秀传统美德的霍尔表示： 来都来了，在哪不是活着。 带着移动城堡的魔法传承，他在魔法界收集素材，研究魔法。 直到他刚毕业，被某个白胡子巫师逮住。 “什么？让我担任黑魔法防御课的教授？” 不去！ 这不是年抛的职位吗，前有没鼻子魔王暗中窥伺，后有斯内普虎视眈眈。 他又不是吃饱了撑的。 在邓布利多的诱惑（威胁）下，霍尔最后还是满心欢喜（咬牙切齿）的应下。 不情不愿上岗的霍尔最后还是将魔爪伸向了西方的学生。 “撕伞？” “不，我这是为他们着想。” “重申一遍，我不是巫师，请叫我魔法师！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8c9e24b34595c1e26ff3ebdde048db50~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=VYmLfzre5EDhtmaLtDGOPUDo95A%3D",
-          "url": "https://fanqienovel.com/page/7553131983061142590"
         },
         {
           "title": "名义：和沙瑞金汉东对掏开始",
           "author": "梁子渊",
           "reads": "15.2万",
           "intro": "左政在沙瑞金吃人的目光下，“最近汉东出现了一个帮派，叫沙家浜。不是我胡说，在坊间还有歌曲在传唱。”说着手机上播放着改编过歌词的《刀光剑影》歌曲，汉东一向我大晒，我玩晒 沙家掌管一省，纪检反贪与抓人，都话事 汉东至高境界，论背景至强大，论抓人随心所欲 而后说道：“听说这个沙家浜成立于瑞金同志上任后，据说只要进入沙家浜的同志，都能快速越级提拔，有人说这个帮有三个头头，叫沙田李。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o440698d116e7fb7b1b4ff94e338f3db2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=krkVUdRezeeSKGAH4p5OKmlsX60%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o440698d116e7fb7b1b4ff94e338f3db2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=PGQSWrirbGrTbHKArOnlrIw7F7w%3D",
           "url": "https://fanqienovel.com/page/7641687713053166617"
-        },
-        {
-          "title": "名义：狂飙的孙连城",
-          "author": "大明小皇孙",
-          "reads": "16.5万",
-          "intro": "一个小混混的攀登之路 地痞流氓孙不良被人一板砖干成了名义世界里正在懒政干部学习班上被李达康炮轰的孙连城， 上一世孙不良本就是个混不吝的小混混，他可不会惯着李达康。 我孙连城身正不怕影子斜，收拾不了你们的烂摊子就是懒政不作为是吧？ 那好，老子不玩了，如你所愿，退组， 申请书就写被逼的，一个高级干部被逼到这个地步，看你李达康和沙瑞金怎么和上面交代。 多年后，孙连城站在省委一号楼的落地窗前看着天文望远镜里的星星：我是想退来着，可上面不让啊 直到有一天，他也进去了，这时候他才发现，他从来都是孙不良，不良的那个不良，权太大，他把握不住，",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odea5b815e173403f32d62c1aebdebca5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=CF6b%2FX31JISg4i9mQ75XvF8Giks%3D",
-          "url": "https://fanqienovel.com/page/7646681787329940504"
-        },
-        {
-          "title": "四合院，开局我选入赘",
-          "author": "周平公",
-          "reads": "9.4万",
-          "intro": "无奈，只能在这里给大家解释一下，我查过资料了，那个时候打猎也不是随便就能打到，是需要林业局给的证明，这个证明是厂里面办的，枪也是厂里面出的，所以每个月往厂里面交一定的份额是正常的，没有工作就没有户口，而且把多出来的猎物卖到厂里面是最安全的，不容易被抓，这个就是一笔带过，大家觉得有问题可以忽略这一点，拜托了各位大佬! 穿越到58年代，成了逃难的，系统的激活条件是入赘到四合院。 郝大力表示，入赘是不可能入赘的，我就是死在这里，饿死穷死，也绝对不可能入赘。 等到看见苏凝烟以后。 唉嘿嘿，入赘，其实也不是不行哈，大丈夫能屈能伸嘛。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o35aac755509c57d783c3eaee90ecebf8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=95FdRCN1ebw%2B802A%2FKBZ%2FtnS%2Fxk%3D",
-          "url": "https://fanqienovel.com/page/7650305257494301721"
         },
         {
           "title": "名义：同伟他死了！你选的嘛瑞金",
           "author": "七重梦境",
-          "reads": "14.6万",
+          "reads": "15.4万",
           "intro": "穿越成高育良，开局就是祁同伟孤鹰岭自尽，纪委上门查水表的必死之局！ 不想去秦城监狱种菜？ 那就只能掀翻整个汉东的棋盘！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o23a8cd8226d27f059fff4e5391f0c0f2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=FkZ98tn7YUSrRydDD2m%2B54BMFjA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o23a8cd8226d27f059fff4e5391f0c0f2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=naPgxggiF4R3KhpuLQgy%2FdzDFEs%3D",
           "url": "https://fanqienovel.com/page/7654510742967684120"
+        },
+        {
+          "title": "霍格沃茨：我有一座移动城堡",
+          "author": "咩崽睡不着",
+          "reads": "13.6万",
+          "intro": "穿越到了哈利波特世界，还附带了一座魔法城堡。 我这是继承了哈尔的房子？！！ 完美继承了中华优秀传统美德的霍尔表示： 来都来了，在哪不是活着。 带着移动城堡的魔法传承，他在魔法界收集素材，研究魔法。 直到他刚毕业，被某个白胡子巫师逮住。 “什么？让我担任黑魔法防御课的教授？” 不去！ 这不是年抛的职位吗，前有没鼻子魔王暗中窥伺，后有斯内普虎视眈眈。 他又不是吃饱了撑的。 在邓布利多的诱惑（威胁）下，霍尔最后还是满心欢喜（咬牙切齿）的应下。 不情不愿上岗的霍尔最后还是将魔爪伸向了西方的学生。 “撕伞？” “不，我这是为他们着想。” “重申一遍，我不是巫师，请叫我魔法师！”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8c9e24b34595c1e26ff3ebdde048db50~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=2xIYzgldFc2NHIroweTzzCtjuIU%3D",
+          "url": "https://fanqienovel.com/page/7553131983061142590"
         },
         {
           "title": "名义，他才32，怎么就汉东王了",
           "author": "六月十二",
-          "reads": "13.6万",
+          "reads": "14.1万",
           "intro": "『纯手搓』『空降』『就是玩』『杀伐果断』『爽文』 不可抗力因素，简介蟹了。 请大家直接移步正文，爽就完了！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5a8f9d8e0055fe26475ffeb3b8070cc4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=1Rfl%2BFrTw5bqoBcLbg%2F9ZH8khGo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5a8f9d8e0055fe26475ffeb3b8070cc4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=PB1Y9uDizwUyYYpITf28W1gJ%2FZc%3D",
           "url": "https://fanqienovel.com/page/7659591607456369688"
         },
         {
-          "title": "杨过：我在神雕逆生通天",
-          "author": "豆包教父",
-          "reads": "10.4万",
-          "intro": "【魂穿】·【天才】·【金手指】·【腹黑】·【权谋】·【争霸】·【无敌流】·【细节控】 现代灵魂穿成少年杨过，开局一支碗只能乞讨要饭？ 无所谓，我脑海中多一卷《逆生三重·通天版》 三重逆生，血肉重构、炁化内脏、人道通天 【黄蓉】：此子眉眼间有杨康之影，不得不防…… 【杨过】：伯母多虑了，侄儿对报仇没兴趣... 【郭靖】：过儿，侠之大者，为国为民！ 【杨过】：郭伯伯说得对，但我对做保姆没兴趣... 【小龙女】：过儿，我们去古墓隐居…… 【杨过】：龙儿说的对，但我对女.......咳咳，这个可以有兴趣... 在他日夜苦修终成正果之时，眼见这世道山河飘摇、生民困苦，早已不复前生国泰民安，心中暗自决意，是时候应该做点什么了......",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obd40b5a18c387abb813065caccd6cf29~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786046617&x-signature=9Qv6BUQyUHZ%2BLD1Oi1fsMwa%2FYEc%3D",
-          "url": "https://fanqienovel.com/page/7650946533491215385"
+          "title": "龙族：我的明非怎么变成明妃了？",
+          "author": "拿来给我看看",
+          "reads": "14.8万",
+          "intro": "“小妃妃。” “嗯？怎么了，小平乐？” 许平乐沉默了片刻，想了想，“为什么我总感觉我们应该是兄弟？” 路明妃疑惑，“什么意思呀？你不喜欢吃中式馒头？” 许平乐抿抿嘴唇，“额…有没有可能你喂我吃的是汤包？” 许平乐忽的严肃起来，“其实我还怀疑楚师姐和恺撒老大也应该是男的！我认为我们应该正视这个问题！” 路明妃也跟着变得紧张起来，她弯腰捧着许平乐的脸，“那我们该怎么办？” 许平乐严肃地问道，“你想啊，小妃妃，如果楚师姐和恺撒老大也是男的，那她们就是你的两位兄长了……” 抬头用手擦了擦嘴角，许平乐严肃道，“我的意思是，你的两个兄长哪去了？” …… 路明妃沉默片刻，重新压下许平乐的脑袋，恶狠狠地说： “别说话，给我继续吃！”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o91c8ae2a74e069abf31f02a3e0ee921c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=hsjPX3HnKUswCIRkf2BU%2ByP4me0%3D",
+          "url": "https://fanqienovel.com/page/7646284751896071193"
+        },
+        {
+          "title": "让你配合反腐，你弄崩汉东GDP",
+          "author": "芝芝为荔枝吖",
+          "reads": "9万",
+          "intro": "陆乘魂穿汉东，成了汉东油气集团常务副总，也是注定要被抓去祭旗的“背锅侠”。 此时沙瑞金空降，李达康狂飙突进搞GDP，侯亮平磨刀霍霍准备清算。他们既想抽干油气集团的血填补政绩，又想把陆乘送进去踩缝纫机。 面对必死局，陆乘毫不慌乱，反手祭出“绝对合规”的大招！ 你要安全生产？好，全省炼化厂停工自查一百天，油价暴涨，物流瘫痪！ 你要环保达标？行，切断重污染企业供气，李达康的光伏产业园当场断电烂尾！ 你要反腐查账？没问题，封存所有账目申请最高级别审计，侯亮平连张发票都摸不到！ 短短一月，汉东全省项目集体停摆，GDP断崖式暴跌！ 李达康急得拍桌大骂，却挑不出半点程序毛病；沙瑞金想问责，却发现陆乘每一步都合法合规！只有高育良笑得连干三大杯白开水直呼痛快。 当大佬们集体慌神求着复工时，陆乘笑了：“不是你们要政绩吗？急什么，流程还没走完呢！”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0dac4f20ff4573c2816516d6e99c329c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=wlzGa%2Bgr9IQ51XheJcSBhiEJItw%3D",
+          "url": "https://fanqienovel.com/page/7657114176032083006"
+        },
+        {
+          "title": "港片：我的老婆全是极品尤物",
+          "author": "一枚超级大帅哥",
+          "reads": "15.8万",
+          "intro": "赵烈胎穿港综世界二十四年，从东星最底层的蓝灯笼杀成“至尊虎”，系统才姗姗来迟。 巴闭被陈浩南当街追杀，他本只想顺手捞一笔千万酬金，谁知大佬B竟派陈浩南来烧他的仓库，一脚踩进了他的底线。 既然撕破脸，那就别怪他心狠手辣：铜锣湾揸Fit人一家被他吃干抹净，连人带地盘一口吞下。 洪兴太子绑了笑面虎想逼他换人，他反手甩出人形铁球阿海，直接碾平铜锣湾所有场子，逼得蒋天生咽下哑巴亏坐到谈判桌前。 以此一步步斩杀敌人，成为一代至尊地下皇帝。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2a47350187b924691bb9faedbbdd684e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786133025&x-signature=m9K9kfh8nNFif%2FzfSISEwaK3jWw%3D",
+          "url": "https://fanqienovel.com/page/7660121605615389721"
         }
       ]
     }
