@@ -1,13 +1,13 @@
 {
   "slug": "female-read",
-  "date": "2026-08-03",
-  "prev_date": "2026-08-02",
+  "date": "2026-08-04",
+  "prev_date": "2026-08-03",
   "types": [
     {
       "type": "all",
       "url": "api/female-read/lastest/all.json",
       "category_count": 18,
-      "book_count": 350
+      "book_count": 360
     },
     {
       "type": "古风世情",
@@ -27,7 +27,7 @@
     {
       "type": "女频衍生",
       "url": "api/female-read/lastest/%E5%A5%B3%E9%A2%91%E8%A1%8D%E7%94%9F.json",
-      "book_count": 10
+      "book_count": 20
     },
     {
       "type": "玄幻言情",
