@@ -1,225 +1,230 @@
 {
   "type": "玄幻脑洞",
-  "date": "2026-08-04",
-  "prev_date": "2026-08-03",
+  "date": "2026-08-05",
+  "prev_date": "2026-08-04",
   "category": {
     "name": "玄幻脑洞",
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
+      "new_count": 2,
+      "dropped_count": 2,
       "new_books": [
-        "词条修仙，开局美妇登门赊符"
+        "封神守关，万界大阵成叹息之墙",
+        "师尊嫌我肮脏？反手退师帖送上"
       ],
       "dropped_books": [
         {
-          "title": "转生成龟，稳健才是通天大道",
-          "intro": "王玄穿越到异世界，成为了天圣玄宗一处灵湖里面的小龟。 获得生存面板，只要平安度过危险，就能获得奖励。 他靠着稳健求生，从一只平平无奇的小龟，最终觉醒为脚踏阴阳大道，头顶万古星辰的妖帝。"
+          "title": "仙榜状元被替，父母坦白来自帝族",
+          "intro": "【反派+暴爽+杀伐果断+素质帝子+搞笑】 苏砚君穿越玄幻世界，明面上双亲乃是十六国首富，却不知父母真实身份乃是帝族极位大帝，背景滔天恐怖！ 只因养费了两个大号，才不得不下界穷养幼子，寄予了全部的希望！"
+        },
+        {
+          "title": "词条修仙，开局美妇登门赊符",
+          "intro": "陆远穿越修仙界，年轻时摆摊被仇人打伤，八十四岁寿元将近，仍停滞练气三层。 七十四那年觉醒了词条系统，每年可抽取一个词条。 结果抽到的全是白色词条。 这一天，有人来求着他赊符。 命运在此刻发生转变，他抽"
         }
       ],
       "top_risers": [
         {
-          "title": "玄幻：我堕魔后把绝美师尊抓回来",
-          "change": "+7"
+          "title": "我根骨平庸，但分身都是绝世天才",
+          "change": "+4"
         },
         {
-          "title": "逆徒，让你写拜师帖，怎变婚书了",
-          "change": "+6"
+          "title": "魔尊予我足下之辱，反爆一地属性",
+          "change": "+3"
         },
         {
-          "title": "徒弟问我有多强？反手关掉他系统",
+          "title": "诸界归一，还好我早已成仙",
           "change": "+2"
         }
       ],
       "top_fallers": [
         {
-          "title": "啊？什么叫至尊骨已经挖出来了？",
+          "title": "玄幻：我堕魔后把绝美师尊抓回来",
           "change": "-3"
         },
         {
-          "title": "洪荒：穿成通天，紫霄宫我不去了",
+          "title": "逆徒，让你写拜师帖，怎变婚书了",
           "change": "-3"
         },
         {
-          "title": "我根骨平庸，但分身都是绝世天才",
+          "title": "洪荒：我时间魔神，改写开天量劫",
           "change": "-2"
         }
       ],
       "reads_growth": [
         {
           "title": "刚证道混沌天帝，让我身化禁区？",
-          "growth": "+6.3万"
+          "growth": "+5.0万"
+        },
+        {
+          "title": "我根骨平庸，但分身都是绝世天才",
+          "growth": "+1.6万"
         },
         {
           "title": "玄幻：我堕魔后把绝美师尊抓回来",
-          "growth": "+1.7万"
-        },
-        {
-          "title": "徒弟问我有多强？反手关掉他系统",
-          "growth": "+1.1万"
+          "growth": "+1.4万"
         }
       ],
-      "summary": "**🔥 题材趋势** 传统无敌流、洪荒、收徒/反套路系统并存；“关停徒弟系统”“词条修仙”等玩法受青睐。\n**📖 读者偏好** 倾向杀伐果断、不圣母、主角强大且带轻松日常，女帝、迪化、婚书梗热度上升。\n**🆕 新上榜作品** 《词条修仙》以“寿元将尽+词条逆袭”切入，表明寿命局和抽卡式成长仍有空间。\n**📉 掉出榜单** 《转生成龟》出榜，稳健流热度减弱，读者更追求主动强势主线。\n**💡 值得关注** 《堕魔抓师尊》上升最快，强制爱+单女主组合有效；《婚书》上升则验证“女帝+护道人”爽点。"
+      "summary": "**🔥 题材趋势** 高概念“反套路”密集：关系统、身化禁区、分身天才；洪荒、同人续写保持稳定热度。\n**📖 读者偏好** 追求开局即巅峰的爽感与“师父/徒弟”关系反转，对系统、身份错位梗接受度高；字数/更新稳定性影响留存。\n**🆕 新上榜作品** 《封神守关，万界大阵成叹息之墙》将封神与万界召唤融合；《师尊嫌我肮脏？反手退师帖送上》主打微病娇+退婚式反杀。\n**📉 掉出榜单** 《仙榜状元被替》《词条修仙》因叙事偏慢、缺乏强钩子，被快节奏新作挤出Top20。\n**💡 值得关注** 《我根骨平庸，但分身都是绝世天才》升至第7，显示“分身不同身份”的设定具备发酵潜力；洪荒题材需更快进入“穿越者对抗”核心冲突。"
     },
     "books": [
       {
         "title": "刚证道混沌天帝，让我身化禁区？",
         "author": "钰珏玉予",
-        "reads": "68.1万",
+        "reads": "73.1万",
         "intro": "穿越玄幻世界，开局身怀混沌体的陆青云，征战八百年，证道混沌天帝！ 可就在他欲立仙庭，镇压黑暗禁区数十万载之时。 系统到来，开局便让陆青云身化禁区。 对此，他嗤之以鼻！ 堂堂混沌天帝，正值巅峰，何需进入禁区之中苟延残喘！ 【叮——！检测到宿主寿元将尽，垂垂老矣，请身化禁区，于世间长存！】 【奖励：万古真仙经文一部！】 陆青云：“你奖励要是这么丰厚的话，那还说啥！” 自此，仙庭自混沌坠落，成世间第九禁区！ 众生皆寂，深感绝望！ ...... 【于禁区中存世万年，奖励随机十凶宝术×1！】 【于禁区中存世十万年，奖励九道轮回印记，领悟轮回大道！】 【于禁区中存世百万年，奖励唯一道果，俯瞰诸天万界！】 无尽岁月以后，。 黑暗源头，以仙王为兵，仙帝为将，欲要侵吞诸天万界之时。 却是骤然发现，万界之上，一座永恒禁区矗立着，其散发出的黑暗气息，比之黑暗源头都要浓郁无数倍！ 黑暗始祖：“要不.....这黑暗动乱您老来开启？” ......",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o779ea1385c3b1e0f6226c0aaa4a479cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=n3Z22HlIeJ7UG7Ix8X9IS5G3SBU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o779ea1385c3b1e0f6226c0aaa4a479cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=sI8uUVPDDyJOX1b09%2BS97Vf1pfY%3D",
         "url": "https://fanqienovel.com/page/7656783633486711870"
       },
       {
         "title": "徒弟有系统？我反手给他们关掉",
         "author": "幼琳酱",
-        "reads": "20.7万",
+        "reads": "18.5万",
         "intro": "（无敌+爽文+变身+收徒+不圣母+轻松日常+单身）（有在认真讲故事喵，评分刚出会涨喵） 清林穿越到修仙的世界，被坑比师傅变成了一个萝莉，结果师傅飞升跑路了！无奈的清琳金丹后直接摆烂！ 结果自己收到的徒弟怎么都那么奇怪？个个有系统？ 但是不慌，她有的是手段！ 徒弟1：“师傅师傅你到底有多强？” 清琳：“我能把你面前的那个叫系统的面板关掉。” ....... 徒弟2：“师傅，徒儿想回家了。” 清琳：“那我送你回去吧。” 徒弟2：“我家在大夏帝国，朴灵镇。” 清琳：“不，我是把你送回蓝星的大夏国。” ...... 徒弟3：“师傅，您到底有多强啊？” 清琳：“0721。” 徒弟3：“这是啥？您的战力吗师傅？” 清琳：“不，这是送你过来的大运的车牌号。” ...... 徒弟4：“师傅，您现在何等境界？” 清琳：“我可以帮你追到当年那个小姑娘。” 徒弟4：“器宗那位我早已释怀。” 清琳：“不是，我是说你在蓝星喜欢的那个高中坐你前面的小姑娘。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o95242a0dae5262f9a4804978ced0b0c2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=zVfEmoixkrW5DlADXaxlid0es2s%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o95242a0dae5262f9a4804978ced0b0c2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=Sg7pcVA3W8Gc6uV4c5%2BEnYcbSz8%3D",
         "url": "https://fanqienovel.com/page/7659271205207149592"
       },
       {
         "title": "从成为一只白鹿开始的传说",
         "author": "早醒的天蝎",
-        "reads": "23万",
+        "reads": "23.5万",
         "intro": "齐霁穿越重生为一只罕见的白色梅花鹿，靠着拥有的【灵韵珠系统】，每天吃饱后都能获得1点灵韵点，就这样，齐霁走上了一条传奇之路 孙子问爷爷：“爷爷，仙鹿是什么” 爷爷说：“仙鹿是传说中的神兽，它能踏水而行救百姓，能踏碎山峰震魍魉，亦能一鹿鸣，万树拥，葬敌千军万马，还能活死人肉白骨，千年来，无数雄主逐鹿而不得” 孙子再问：“爷爷，那我能见到仙鹿吗” 爷爷说：“不知道，千年来，只有有缘人才能得见，但我们可以去仙鹿庙给它烧香拜佛，传闻中每一个真城敬重仙鹿的人，都能得到仙鹿的赐福”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od6d28b21202fe78eb11200e2914a6c65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=aq7e22NeJJxfuKoQuNypQujO2AU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od6d28b21202fe78eb11200e2914a6c65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=qteWuJrX8sE0M9QkHbxHuYIOObM%3D",
         "url": "https://fanqienovel.com/page/7652903442444192792"
-      },
-      {
-        "title": "洪荒：我时间魔神，改写开天量劫",
-        "author": "秋雨一缕",
-        "reads": "14.9万",
-        "intro": "穿越成时间魔神时辰，得知盘古开天，魔神皆要应劫而死。 可盘古成了我的挚友，开天量劫？我亲手改写！ 联合杨眉，忽悠命运，把三千魔神全变成我的阵营。 洪荒诞生，一切尽在掌握。 直到一群自称“天命之子”的穿越者涌入洪荒，人手一个系统，势必要称霸洪荒， 却发现这个洪荒怎么完全不一样了。 我反手布下弥天大网：“来来来，让本座看看，你们的系统背后，到底藏着什么牛鬼蛇神。” 时间长河在我脚下流淌，诸天万界在我眼中浮沉。 一个个世界被我踏遍，本源吞噬，实力暴涨。 当我终于揪出系统背后那尊冰冷的神祇时，祂问我：“为何不与吾一道于时间中万古高坐？” 我笑了。 “因为” 我就是时间本身。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocf6686043609a0825226a83e96f7d836~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=CbSk5Fbh32Jxyevr%2BI27en4q07U%3D",
-        "url": "https://fanqienovel.com/page/7653877359828814910"
-      },
-      {
-        "title": "玄幻：我堕魔后把绝美师尊抓回来",
-        "author": "旭日如夜长夜破晓",
-        "reads": "18.3万",
-        "intro": "【单女主+爽+魔道+强制爱+主角强大】 （新书，评分刚出，后续会往上涨的） 苏长青遭人陷害后堕入魔道 成为整个东域令人寒风丧胆的魔尊 一次偶然让他遇到了曾经的师尊，东域第一仙子，他回想起往日种种，于是决定把师尊抓了回来 谁知师尊竟然拼命挣扎 看着不听话的师尊，他无奈之下只好进行爱的教育…… 师尊：明明我才是师尊，为什么反而被徒儿教育了？呜呜呜，我可是你师尊…… 无数年后，无数气运之子，正道大能前来营救仙子，结果却发现，他们心中的清冷仙子，已经躺在苏长青怀里羞涩地喊他夫君",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o28cb64592a7a59afc3c3dec5f8985e2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=yQ961LsWjQVAu%2BFDEp2A2Tr1MYY%3D",
-        "url": "https://fanqienovel.com/page/7659863482514295832"
       },
       {
         "title": "诸界归一，还好我早已成仙",
         "author": "叶清闲",
-        "reads": "15.2万",
+        "reads": "14.8万",
         "intro": "【杀伐果断+爽文+半无敌】 十万年前的神魔大战，玄荒大陆被打碎，分裂为灵界、魔界等多重世界。 天道不全，神道缺失，无论人也好、魔也罢，最高只能修到仙境。 二十年前，李安穿越到灵界，拜入清霄宗，踏上修仙之路。 李安本以为仙就是顶点，没想到诸界突然开始并拢，天道竟然开始恢复。 而最让他没想到的是，人界竟是，二十一世纪的地球。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o016295e9ec7a39c726f08b248cee4a73~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=01Vmit6%2FXzAbhUu2cpbfXHBTXwA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o016295e9ec7a39c726f08b248cee4a73~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=czwF%2FDwXjAT1oPFcnm%2FPqHy6hpk%3D",
         "url": "https://fanqienovel.com/page/7650051035230112792"
       },
       {
         "title": "挥刀就变强，长生净身房",
         "author": "湖边七号",
-        "reads": "15.1万",
+        "reads": "15万",
         "intro": "陈鸽拥有神级一刀，一刀挥下就能升级。 他助人为乐。 挥一刀 帮助张二牛净身，奖励十年寿元。 又挥一刀 帮助唐门高手净身，奖励唐门天级功法。 再挥一刀 帮助武道宗师净身，奖励六十年功力。 还挥一刀 帮助修仙者净身，奖励极品天灵根",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o132e0fdcf1ad2f0307e2cae74beb03ad~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=I6yb4GSCH1bG80L2jOJ1IKuS8g8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o132e0fdcf1ad2f0307e2cae74beb03ad~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=WVKczqL5Z%2FyZL9tE1NJ6b7AIctU%3D",
         "url": "https://fanqienovel.com/page/7654135940880813080"
+      },
+      {
+        "title": "洪荒：我时间魔神，改写开天量劫",
+        "author": "秋雨一缕",
+        "reads": "14.8万",
+        "intro": "穿越成时间魔神时辰，得知盘古开天，魔神皆要应劫而死。 可盘古成了我的挚友，开天量劫？我亲手改写！ 联合杨眉，忽悠命运，把三千魔神全变成我的阵营。 洪荒诞生，一切尽在掌握。 直到一群自称“天命之子”的穿越者涌入洪荒，人手一个系统，势必要称霸洪荒， 却发现这个洪荒怎么完全不一样了。 我反手布下弥天大网：“来来来，让本座看看，你们的系统背后，到底藏着什么牛鬼蛇神。” 时间长河在我脚下流淌，诸天万界在我眼中浮沉。 一个个世界被我踏遍，本源吞噬，实力暴涨。 当我终于揪出系统背后那尊冰冷的神祇时，祂问我：“为何不与吾一道于时间中万古高坐？” 我笑了。 “因为” 我就是时间本身。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocf6686043609a0825226a83e96f7d836~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=LetxGiTcHrqRw0wIpQHSY8htQeA%3D",
+        "url": "https://fanqienovel.com/page/7653877359828814910"
+      },
+      {
+        "title": "我根骨平庸，但分身都是绝世天才",
+        "author": "爱吃羊血的苏苓儿",
+        "reads": "17.3万",
+        "intro": "分身一：能变身成大肌霸的极道强者 分身二：受万人敬爱的一宗首席 分身三：消灭魔头和邪神，拯救苍生的救世主 分身四：魔头 分身五：邪神 …… 【分身无自我意识】",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o02d083bf56d34d07f8ca2ba387ba8e23~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=1st3M7Dv3K0M4CvalQ7hnH3g0uI%3D",
+        "url": "https://fanqienovel.com/page/7623051697895525401"
+      },
+      {
+        "title": "玄幻：我堕魔后把绝美师尊抓回来",
+        "author": "旭日如夜长夜破晓",
+        "reads": "19.7万",
+        "intro": "【单女主+爽+魔道+强制爱+主角强大】 （新书，评分刚出，后续会往上涨的） 苏长青遭人陷害后堕入魔道 成为整个东域令人寒风丧胆的魔尊 一次偶然让他遇到了曾经的师尊，东域第一仙子，他回想起往日种种，于是决定把师尊抓了回来 谁知师尊竟然拼命挣扎 看着不听话的师尊，他无奈之下只好进行爱的教育…… 师尊：明明我才是师尊，为什么反而被徒儿教育了？呜呜呜，我可是你师尊…… 无数年后，无数气运之子，正道大能前来营救仙子，结果却发现，他们心中的清冷仙子，已经躺在苏长青怀里羞涩地喊他夫君",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o28cb64592a7a59afc3c3dec5f8985e2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=Wyd8fsi%2B0VGfO3u%2F7tWLgelE5e0%3D",
+        "url": "https://fanqienovel.com/page/7659863482514295832"
       },
       {
         "title": "徒弟问我有多强？反手关掉他系统",
         "author": "小火龙爱喝果粒橙",
-        "reads": "15.9万",
+        "reads": "16.8万",
         "intro": "【史】【窝囊流】【是神农你就来】【全是毒点】【缝合怪】【作者是伪人】 季白五百年前穿越到沧澜界，差点被师父夺舍，幸好觉醒了大爱仙师系统，反向夺舍了师父！ 五百年后季白终于到了大乘期，人称炼天道君，系统提示他可以收徒变强了。 ....... 柳如烟系统宿主：“师父，你到底有多强啊？” 季白：“看我把你的系统关掉。” ....... 绷住系统宿主：“师父，您到底是什么境界呀？” 季白：“看下你的系统。” 绷住系统宿主：“我去，怎么有个糖心APP。” ...... 显圣系统宿主：“师父，您到底有多强啊？” 季白：“3521。” 显圣系统宿主：“我去，您的战力这么高吗？” 季白：“不，回忆一下你和老二一起撞大运的车牌号。” ...... 祖国人系统宿主：“师父，我想家了。” 季白：“我送你回去吧。” 祖国人系统宿主：“是青云镇吗？” 季白：“不是，我说的是那颗蓝色的星球。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeb31ad46d08618f86020aad3c3d15b2c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=urqoVFZBHfZs%2FzZS%2Fs%2F0gUfEp%2B4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeb31ad46d08618f86020aad3c3d15b2c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=0hkHBps1gL1k6mMiQExPKzfidog%3D",
         "url": "https://fanqienovel.com/page/7661230269071903806"
       },
       {
         "title": "跳过跳过！告诉我杀谁就行！",
         "author": "笔辍不耕",
-        "reads": "10.9万",
+        "reads": "11.2万",
         "intro": "【玩家天赋：我爱杀人，本质高手】 【我爱杀人：你是天生的恶魔，杀人对你来说就如吃饭喝水一般，只要杀饱了人，你的心情才会变好】 【本质高手：你具备高手的本质，任何功法对你都没有难度，你可在极短时间内学会一门功法，你可在极短时间内将一门功法修炼至最高境界】 …… 秦牧远误打误撞穿越进玄幻世界，但能看到玩家游戏面板的他，却仍以为自己在游玩一款极其拟真的划时代虚拟游戏。 “世界背景，跳过！” “个人介绍，跳过！” “任务介绍，跳过！” “我不需要知道我是谁，也不需要知道我在哪里，更不需要知道目标是什么。” “我唯一需要的是——战斗爽，杀杀杀！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb594b0f96211b8f79689018735a87e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=oE5vjryd7VJr1SmID0AI1WKtEr4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb594b0f96211b8f79689018735a87e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=dnbgRKYHPUup%2FRkOasuU1sLBqXQ%3D",
         "url": "https://fanqienovel.com/page/7637546908239531070"
       },
       {
         "title": "啊？什么叫至尊骨已经挖出来了？",
         "author": "想整日逍遥的布逍遥",
-        "reads": "11.1万",
+        "reads": "11万",
         "intro": "“默儿，至尊骨已经从那个杂役身上挖下来了，过段时间就给你接上，谁能想到，区区一个杂役竟然能拥有这等妖孽资质呢，她的尸体我已经找人处理过了，听说是丢河里了冲走了。” “你最近修炼还行吧，太乙天灵根怎么还没有吸收？记住修为不是突破的越快越好，基本功还是要打好的，需要什么灵药直接去灵药阁拿就行，至于那个天灵根弟子不用担心，我亲眼看见他从无归崖跳了下去，那等死地，必然是尸骨无存了。” “前些日子你不是对天剑崖的镇派神剑感兴趣吗？那个小宗门已经灭了，杀的很干净，听人报告说只有一个小家伙被路过的狼叼走了，啧，底下的人下手真不干净，不过也没关系，想来是被吃干净了吧。” “还有那个柳霜月，过些日子就和她完婚吧，她可是天惜玲珑体，天生的炉鼎，好好和她双修，她全家的性命都在我们手里，不怕她不乖乖就范，听说她有个青梅竹马的小子走火入魔了，疯疯癫癫的，每天早上就去晒太阳晚上捡垃圾，真是没出息。” 他说这些话的时候语气很随意，就像在汇报今天买了什么菜。 说完还拍了拍我的肩膀，一脸慈爱地补了一句： “默儿，漫漫修仙路，为父能帮你的本就不多，一切还是要靠你自己啊！” 求助。 人在玄幻刚穿越 同时惹了四个天命之子怎么活 在线等，挺急的",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o2b66e2005ddbd942fe7fa5854093a35f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=BMdTqBYbHyOYFqdxdJp%2BJQ8xlOw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o2b66e2005ddbd942fe7fa5854093a35f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=lCOBSJ8DFm5UQ8cKEvIQKqq2mKM%3D",
         "url": "https://fanqienovel.com/page/7649227474240277529"
-      },
-      {
-        "title": "我根骨平庸，但分身都是绝世天才",
-        "author": "爱吃羊血的苏苓儿",
-        "reads": "15.7万",
-        "intro": "分身一：能变身成大肌霸的极道强者 分身二：受万人敬爱的一宗首席 分身三：消灭魔头和邪神，拯救苍生的救世主 分身四：魔头 分身五：邪神 …… 【分身无自我意识】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o02d083bf56d34d07f8ca2ba387ba8e23~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=D8luP%2BYlwBhxa%2BIGl6eVSfuubUM%3D",
-        "url": "https://fanqienovel.com/page/7623051697895525401"
-      },
-      {
-        "title": "逆徒，让你写拜师帖，怎变婚书了",
-        "author": "晚棠深秋",
-        "reads": "10.3万",
-        "intro": "【女帝重生、无敌、迪化、收徒、偏日常】 萧尘穿越成玄天宗归墟峰无法修行的废物峰主。 只因归墟峰连续十年未曾收徒，峰主之位即将被废，恰在此时，他觉醒了最强护道人系统，只要收徒就能变强。 收徒大会上： “仙品冰灵根，还是个转世女帝？” 萧尘看着拒绝了所有人后红着脸给自己递上拜师帖的银发美少女，毫不犹豫地签下了自己的名字。 可就在他沾沾自喜以为可以就此拿到系统新手大礼包时： 系统：“宿主请看清楚，这是婚书，不是拜师帖。” 萧尘认真一看，这竟是一封阴阳拜师帖。 萧尘：“你是来拜师的？” 女帝：“嗯！” 萧尘：“那你怎么给我写婚书。” 女帝：“拿错了……不过，签都签了，师尊你以后可要对人家负责哟！” 萧尘一脸懵逼：“不是，我只想收徒啊，骗婚是什么鬼？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o74754654e6f48131c8c14025fc2c2fca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=ajqJN9sF%2BXSLWEFI2Ad1jLncsvg%3D",
-        "url": "https://fanqienovel.com/page/7657742272548588568"
-      },
-      {
-        "title": "成婚后娘子才知，她是我转世师尊",
-        "author": "纯情教父",
-        "reads": "10.8万",
-        "intro": "一千年前，秦明刚出生便觉醒签到系统，获得重瞳和至尊骨，引来当世最强的七位女帝收他为徒。 秦明被虐了整整一千年。 好不容易突破到仙帝，有了能和师尊一战的实力，结果她们说转生就转生了？ “嘿嘿，我的好师尊，一千年的苦，徒儿可一天都没忘呢。” “让我吃了这么多苦，总该补偿我点什么吧？” ...... 若干年后，师尊们恢复记忆，眼神冰冷的看向秦明。 “逆徒！你趁我转生，都对我干了些什么？” “逆徒，你欺师灭祖，今日要你付出代价！” 秦明嘿嘿一笑： “娘子，一家人说什么两家话啊？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o52e048a030735edc4c03123f17425e71~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=%2FX%2FShEh5qV2zoptiX2tYEUD78tA%3D",
-        "url": "https://fanqienovel.com/page/7659080754965531710"
-      },
-      {
-        "title": "仙榜状元被替，父母坦白来自帝族",
-        "author": "起飞一号机",
-        "reads": "8.2万",
-        "intro": "【反派+暴爽+杀伐果断+素质帝子+搞笑】 苏砚君穿越玄幻世界，明面上双亲乃是十六国首富，却不知父母真实身份乃是帝族极位大帝，背景滔天恐怖！ 只因养费了两个大号，才不得不下界穷养幼子，寄予了全部的希望！ 好在苏砚君从小争气，为了振兴家族，参加金榜考核夺得仙门榜首状元，却不料遭遇未婚妻陷害！ 对方不仅替换了自己状元之位，更是与仙门联合想要谋取苏家亿万财富！ 就在四大仙门与皇族之人联手逼迫的绝境。 这一天终于来了！ 【叮！恭喜主人激活反派系统！】 苏砚君轻蔑一笑，”木秀于林风必摧之！想我虽家境优渥，却藏拙十六年，早就已经料到这一天，真当我只有炼气境吗？“ 修为全开，刚想要彻底拔出这群贪得无厌的败类之时，一道恐怖至极的帝威划破天空，坠落而至！ “本帝倒是想要看看，究竟是谁敢动我宝贝儿子！” “他妈的狗屁族规！今日我苏家不演了，吾乃圣皇道域长渊大帝，吾儿乃是当世第一帝子！” …？！ 这一刻，苏砚君有些傻眼了：“不是，爹，你不是凡人吗？” “娘，您怎么也来了！？” “我不吃牛肉！” …",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/b0f4f83e7904b0e979ca1344a8f462df~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=33yfOxIReCVO%2Fz2ctU4BdbujWIs%3D",
-        "url": "https://fanqienovel.com/page/7588446737908386841"
       },
       {
         "title": "魔尊予我足下之辱，反爆一地属性",
         "author": "我不吃梨子",
-        "reads": "11.2万",
+        "reads": "11.9万",
         "intro": "简介： 开局获得强者之证，结果我才是那个证？ 强者都想占有我，也只有强者能占有我？ 现在在你面前的是：剑仙的意中人，魔君的心间宠，女帝的意难平， 道门圣女的白月光，妖族天骄的求不得…… 林旭：“我真不想吃软饭……”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o26067850e31f1132a92fa82feb9381df~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=lt57rUoSpm9Slw%2F%2FBcrVDV9IYh0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o26067850e31f1132a92fa82feb9381df~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=BWF4%2FswQGSskbq%2FMZCOTkHt%2Ff9I%3D",
         "url": "https://fanqienovel.com/page/7646584672113134616"
+      },
+      {
+        "title": "封神守关，万界大阵成叹息之墙",
+        "author": "北冥之鱼",
+        "reads": "13.5万",
+        "intro": "徐芳穿越封神，成为界牌关总兵，此刻刚刚遇到闻仲溃败，身死绝龙岭，大商岌岌可危，身为界牌关总兵的徐芳以万界召唤大阵，层出不穷的万界大能出现阵中，逼得西岐寸步难行，三界各方震惊，圣人被逼疯！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o639c7733217ed386cae5ba458bb8629c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=3ky3rSUTIhtTO%2B3PvJj1iF5VyKE%3D",
+        "url": "https://fanqienovel.com/page/7657361212010679320"
+      },
+      {
+        "title": "成婚后娘子才知，她是我转世师尊",
+        "author": "纯情教父",
+        "reads": "10.5万",
+        "intro": "一千年前，秦明刚出生便觉醒签到系统，获得重瞳和至尊骨，引来当世最强的七位女帝收他为徒。 秦明被虐了整整一千年。 好不容易突破到仙帝，有了能和师尊一战的实力，结果她们说转生就转生了？ “嘿嘿，我的好师尊，一千年的苦，徒儿可一天都没忘呢。” “让我吃了这么多苦，总该补偿我点什么吧？” ...... 若干年后，师尊们恢复记忆，眼神冰冷的看向秦明。 “逆徒！你趁我转生，都对我干了些什么？” “逆徒，你欺师灭祖，今日要你付出代价！” 秦明嘿嘿一笑： “娘子，一家人说什么两家话啊？”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o52e048a030735edc4c03123f17425e71~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=BtLrIPqzVK4Zg0xZqalZFpZJ%2FsI%3D",
+        "url": "https://fanqienovel.com/page/7659080754965531710"
+      },
+      {
+        "title": "逆徒，让你写拜师帖，怎变婚书了",
+        "author": "晚棠深秋",
+        "reads": "10.1万",
+        "intro": "【女帝重生、无敌、迪化、收徒、偏日常】 萧尘穿越成玄天宗归墟峰无法修行的废物峰主。 只因归墟峰连续十年未曾收徒，峰主之位即将被废，恰在此时，他觉醒了最强护道人系统，只要收徒就能变强。 收徒大会上： “仙品冰灵根，还是个转世女帝？” 萧尘看着拒绝了所有人后红着脸给自己递上拜师帖的银发美少女，毫不犹豫地签下了自己的名字。 可就在他沾沾自喜以为可以就此拿到系统新手大礼包时： 系统：“宿主请看清楚，这是婚书，不是拜师帖。” 萧尘认真一看，这竟是一封阴阳拜师帖。 萧尘：“你是来拜师的？” 女帝：“嗯！” 萧尘：“那你怎么给我写婚书。” 女帝：“拿错了……不过，签都签了，师尊你以后可要对人家负责哟！” 萧尘一脸懵逼：“不是，我只想收徒啊，骗婚是什么鬼？”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o74754654e6f48131c8c14025fc2c2fca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=1wu9SeX8p4bt7dK3BlVNJ%2FoMEq0%3D",
+        "url": "https://fanqienovel.com/page/7657742272548588568"
+      },
+      {
+        "title": "师尊嫌我肮脏？反手退师帖送上",
+        "author": "王小疯",
+        "reads": "15.7万",
+        "intro": "【玄幻/单女主/微病娇/另类养成/微虐但爽！】 “你只不过是我捡回来的一个乞丐，再有非分之想便别再称我为师尊了！” 那一天，手捧着冰玫瑰的王玄看着眼前冰冷的绝美师尊愣住了。 他在她心中......原来一直都只不过是个被她捡回来的肮脏乞丐。 也是那一天，系统觉醒了。 随着冰玫瑰的枯萎，第二天一张醒目的退师帖也被人送到了姜漓面前。 退了师的王玄本以为从此不会与绝情的姜漓再有半分瓜葛，本想另寻一位师尊。 可就在他散播出去退师的消息后，正要被数位长老抢着收作弟子时。 王玄却突然猛的感觉眼前一黑。 等他再醒来时，在他瞪大的错愕双眼中。 那绝情的冰冷师尊，一进屋就将他压制到床榻上紧紧的缠上了他！！？？",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc498c6ca539f62ca73b316c33c19c631~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=dZYq0Vvay5n6az%2BNv%2BdGBKMHs08%3D",
+        "url": "https://fanqienovel.com/page/7656607828005620760"
       },
       {
         "title": "连灭六国，开局皇帝夺我未婚妻？",
         "author": "笑风歌",
-        "reads": "8.8万",
+        "reads": "8.6万",
         "intro": "陈长风穿越异界，十年征战，出生入死，率领三十万精锐大军连灭六国，为皇帝定鼎天下！ 就在这时，皇帝连下数道金牌命令陈长风进京，不仅要以谋反罪名将其杀害，更是下旨要纳陈长风的未婚妻为妃！ 匹夫一怒，江山易主，既然你们非说我谋反，那自今日起，我陈长风真反了又如何？ 这天下，你赵家能坐，我就坐不得？ “叮，恭喜宿主获得天命帝皇系统！” “恭喜宿主获得功法《太初帝皇经》！” “恭喜宿主获得仙灵根！” “恭喜宿主获得诛仙剑阵！” …… 推翻皇朝，平定世家，隐世仙门又如何？兵锋所指，莫敢不从！ 我才是真正的帝皇！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c397deb8bee3c453700398f058b4c64~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=gqMMrsAqQ2nSXSizWjoN4aaaY1w%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c397deb8bee3c453700398f058b4c64~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=9SAoBPXImUcxAZ8TXfbMeJ8Ygo4%3D",
         "url": "https://fanqienovel.com/page/7647928781461539864"
+      },
+      {
+        "title": "带着修仙游戏回到古代当神仙",
+        "author": "我是大猪蹄子",
+        "reads": "9.8万",
+        "intro": "（评分刚出，后面会涨）【不立宗，不收徒，不圣母，不虐主，杀伐果断，长生无敌，遗世独立，惟我独仙。】 高云逸带着一款修仙游戏穿越到了古代世界。 在这个普通的古代世界，拥有修仙游戏系统的他成为了世间唯一真仙。 10级炼气期：他低调内敛， 20级筑基期：他重拳出击， 30级金丹期：他不吃牛肉， 40级元婴期：他即是真理。 ......... 他随手扔掉的丹药变成了王公贵族们疯狂争抢仙丹神药， 他淘汰下来的装备被当成神兵仙器在江湖中掀起血雨腥风， 他遗弃的灵宠更是成为了霍乱一方的魔兽，或者守护人间的神兽。 翻手为云，覆手为雨，改朝换代皆在他的一念之间。 世人狂热的崇拜他，虔诚的信仰他，视他为世间唯一的真仙，为他建祠立庙，著书立传。 但高云逸毫不在乎，因为他升级靠的是经验值，并不是香火，世人的信仰与他无关。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0afe9b13e6f1d6cda747560ea0981924~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=N7qLnI3ZOPvOAaZte3zvyHEMs1s%3D",
+        "url": "https://fanqienovel.com/page/7647813358804028441"
       },
       {
         "title": "洪荒：穿成通天，紫霄宫我不去了",
         "author": "云枕书M",
-        "reads": "7.7万",
+        "reads": "6.8万",
         "intro": "徐通穿越成通天教主，鸿钧紫霄宫开讲消息刚传遍洪荒。别人挤破头想去听道，他却一拍大腿——鸿蒙紫气我不要，截教也不立！盘古以力证道摆在那儿，我按自己的路走，天道能奈我何？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8d76b2790887d6053c55a8160e73134b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=fxRutwce8aAvfuJSCdszXNI8kjQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8d76b2790887d6053c55a8160e73134b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=GDPun2XBn8oeo3wD3YnjWWUTb30%3D",
         "url": "https://fanqienovel.com/page/7657048631802858521"
       },
       {
         "title": "仙武：开局紫气东来三万里",
         "author": "缝合师",
-        "reads": "8.5万",
-        "intro": "【词条+仙武+无敌流+不分身+杀伐果断】 苍茫大世，仙武并峙，苍生如刍狗。 林夜穿越降生国公府邸，身负词条面板，每破一重境界便解锁一道本源词条，条条蕴藏本源大道。 【无垢】：身如琉璃净无垢，心似明月照大千 【龙象】：一念龙起承天力，一念象生镇九幽 【不灭】：真灵不灭魂常在，大道长存自在身 【轮回】：御轮回而转六道，踏生死以证长生【雷骨】【蜕凡】【不朽】【烛龙纹】等词条相继解锁。 待到某日，他立于天上，额生神纹，眸演轮回，脚踏龙象，身化魔神，仙武合一。 世人才知，一尊盖世武仙，已然君临玄黄界，超脱天地外！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob4ddfccc88f2ba2b430229d91c468a1f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=tCy%2Fx66RsNSNs4N8FB6DNn6sVoc%3D",
+        "reads": "8.3万",
+        "intro": "【评分刚出+词条+仙武+半无敌流+不分身+杀伐果断】 苍茫大世，仙武并峙，苍生如刍狗。 林夜穿越降生国公府邸，身负词条面板，每破一重境界便解锁一道本源词条，条条蕴藏本源大道。 【无垢】：身如琉璃净无垢，心似明月照大千 【龙象】：一念龙起承天力，一念象生镇九幽 【不灭】：真灵不灭魂常在，大道长存自在身 【轮回】：御轮回而转六道，踏生死以证长生【雷骨】【蜕凡】【不朽】【烛龙纹】等词条相继解锁。 待到某日，他立于天上，额生神纹，眸演轮回，脚踏龙象，身化魔神，仙武合一。 世人才知，一尊盖世武仙，已然君临玄黄界，超脱天地外！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob4ddfccc88f2ba2b430229d91c468a1f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=vC%2B8bZcXJONDB0yfjqU2k3y%2BOmo%3D",
         "url": "https://fanqienovel.com/page/7657325911187917849"
-      },
-      {
-        "title": "带着修仙游戏回到古代当神仙",
-        "author": "我是大猪蹄子",
-        "reads": "9.5万",
-        "intro": "（评分刚出，后面会涨）【不立宗，不收徒，不圣母，不虐主，杀伐果断，长生无敌，遗世独立，惟我独仙。】 高云逸带着一款修仙游戏穿越到了古代世界。 在这个普通的古代世界，拥有修仙游戏系统的他成为了世间唯一真仙。 10级炼气期：他低调内敛， 20级筑基期：他重拳出击， 30级金丹期：他不吃牛肉， 40级元婴期：他即是真理。 ......... 他随手扔掉的丹药变成了王公贵族们疯狂争抢仙丹神药， 他淘汰下来的装备被当成神兵仙器在江湖中掀起血雨腥风， 他遗弃的灵宠更是成为了霍乱一方的魔兽，或者守护人间的神兽。 翻手为云，覆手为雨，改朝换代皆在他的一念之间。 世人狂热的崇拜他，虔诚的信仰他，视他为世间唯一的真仙，为他建祠立庙，著书立传。 但高云逸毫不在乎，因为他升级靠的是经验值，并不是香火，世人的信仰与他无关。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0afe9b13e6f1d6cda747560ea0981924~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=AILUZpT3QVCVUV7vtMiztN4W9nI%3D",
-        "url": "https://fanqienovel.com/page/7647813358804028441"
-      },
-      {
-        "title": "词条修仙，开局美妇登门赊符",
-        "author": "孤独的进化",
-        "reads": "7.8万",
-        "intro": "陆远穿越修仙界，年轻时摆摊被仇人打伤，八十四岁寿元将近，仍停滞练气三层。 七十四那年觉醒了词条系统，每年可抽取一个词条。 结果抽到的全是白色词条。 这一天，有人来求着他赊符。 命运在此刻发生转变，他抽到彩色词条——",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o600eb5eca4de813cff2dc411e2fd0130~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=Qe6ej4os7%2FCPag3GzKkSaS9OnYk%3D",
-        "url": "https://fanqienovel.com/page/7644419371195960344"
       }
     ]
   },
@@ -227,221 +232,226 @@
     {
       "name": "玄幻脑洞",
       "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
+        "new_count": 2,
+        "dropped_count": 2,
         "new_books": [
-          "词条修仙，开局美妇登门赊符"
+          "封神守关，万界大阵成叹息之墙",
+          "师尊嫌我肮脏？反手退师帖送上"
         ],
         "dropped_books": [
           {
-            "title": "转生成龟，稳健才是通天大道",
-            "intro": "王玄穿越到异世界，成为了天圣玄宗一处灵湖里面的小龟。 获得生存面板，只要平安度过危险，就能获得奖励。 他靠着稳健求生，从一只平平无奇的小龟，最终觉醒为脚踏阴阳大道，头顶万古星辰的妖帝。"
+            "title": "仙榜状元被替，父母坦白来自帝族",
+            "intro": "【反派+暴爽+杀伐果断+素质帝子+搞笑】 苏砚君穿越玄幻世界，明面上双亲乃是十六国首富，却不知父母真实身份乃是帝族极位大帝，背景滔天恐怖！ 只因养费了两个大号，才不得不下界穷养幼子，寄予了全部的希望！"
+          },
+          {
+            "title": "词条修仙，开局美妇登门赊符",
+            "intro": "陆远穿越修仙界，年轻时摆摊被仇人打伤，八十四岁寿元将近，仍停滞练气三层。 七十四那年觉醒了词条系统，每年可抽取一个词条。 结果抽到的全是白色词条。 这一天，有人来求着他赊符。 命运在此刻发生转变，他抽"
           }
         ],
         "top_risers": [
           {
-            "title": "玄幻：我堕魔后把绝美师尊抓回来",
-            "change": "+7"
+            "title": "我根骨平庸，但分身都是绝世天才",
+            "change": "+4"
           },
           {
-            "title": "逆徒，让你写拜师帖，怎变婚书了",
-            "change": "+6"
+            "title": "魔尊予我足下之辱，反爆一地属性",
+            "change": "+3"
           },
           {
-            "title": "徒弟问我有多强？反手关掉他系统",
+            "title": "诸界归一，还好我早已成仙",
             "change": "+2"
           }
         ],
         "top_fallers": [
           {
-            "title": "啊？什么叫至尊骨已经挖出来了？",
+            "title": "玄幻：我堕魔后把绝美师尊抓回来",
             "change": "-3"
           },
           {
-            "title": "洪荒：穿成通天，紫霄宫我不去了",
+            "title": "逆徒，让你写拜师帖，怎变婚书了",
             "change": "-3"
           },
           {
-            "title": "我根骨平庸，但分身都是绝世天才",
+            "title": "洪荒：我时间魔神，改写开天量劫",
             "change": "-2"
           }
         ],
         "reads_growth": [
           {
             "title": "刚证道混沌天帝，让我身化禁区？",
-            "growth": "+6.3万"
+            "growth": "+5.0万"
+          },
+          {
+            "title": "我根骨平庸，但分身都是绝世天才",
+            "growth": "+1.6万"
           },
           {
             "title": "玄幻：我堕魔后把绝美师尊抓回来",
-            "growth": "+1.7万"
-          },
-          {
-            "title": "徒弟问我有多强？反手关掉他系统",
-            "growth": "+1.1万"
+            "growth": "+1.4万"
           }
         ],
-        "summary": "**🔥 题材趋势** 传统无敌流、洪荒、收徒/反套路系统并存；“关停徒弟系统”“词条修仙”等玩法受青睐。\n**📖 读者偏好** 倾向杀伐果断、不圣母、主角强大且带轻松日常，女帝、迪化、婚书梗热度上升。\n**🆕 新上榜作品** 《词条修仙》以“寿元将尽+词条逆袭”切入，表明寿命局和抽卡式成长仍有空间。\n**📉 掉出榜单** 《转生成龟》出榜，稳健流热度减弱，读者更追求主动强势主线。\n**💡 值得关注** 《堕魔抓师尊》上升最快，强制爱+单女主组合有效；《婚书》上升则验证“女帝+护道人”爽点。"
+        "summary": "**🔥 题材趋势** 高概念“反套路”密集：关系统、身化禁区、分身天才；洪荒、同人续写保持稳定热度。\n**📖 读者偏好** 追求开局即巅峰的爽感与“师父/徒弟”关系反转，对系统、身份错位梗接受度高；字数/更新稳定性影响留存。\n**🆕 新上榜作品** 《封神守关，万界大阵成叹息之墙》将封神与万界召唤融合；《师尊嫌我肮脏？反手退师帖送上》主打微病娇+退婚式反杀。\n**📉 掉出榜单** 《仙榜状元被替》《词条修仙》因叙事偏慢、缺乏强钩子，被快节奏新作挤出Top20。\n**💡 值得关注** 《我根骨平庸，但分身都是绝世天才》升至第7，显示“分身不同身份”的设定具备发酵潜力；洪荒题材需更快进入“穿越者对抗”核心冲突。"
       },
       "books": [
         {
           "title": "刚证道混沌天帝，让我身化禁区？",
           "author": "钰珏玉予",
-          "reads": "68.1万",
+          "reads": "73.1万",
           "intro": "穿越玄幻世界，开局身怀混沌体的陆青云，征战八百年，证道混沌天帝！ 可就在他欲立仙庭，镇压黑暗禁区数十万载之时。 系统到来，开局便让陆青云身化禁区。 对此，他嗤之以鼻！ 堂堂混沌天帝，正值巅峰，何需进入禁区之中苟延残喘！ 【叮——！检测到宿主寿元将尽，垂垂老矣，请身化禁区，于世间长存！】 【奖励：万古真仙经文一部！】 陆青云：“你奖励要是这么丰厚的话，那还说啥！” 自此，仙庭自混沌坠落，成世间第九禁区！ 众生皆寂，深感绝望！ ...... 【于禁区中存世万年，奖励随机十凶宝术×1！】 【于禁区中存世十万年，奖励九道轮回印记，领悟轮回大道！】 【于禁区中存世百万年，奖励唯一道果，俯瞰诸天万界！】 无尽岁月以后，。 黑暗源头，以仙王为兵，仙帝为将，欲要侵吞诸天万界之时。 却是骤然发现，万界之上，一座永恒禁区矗立着，其散发出的黑暗气息，比之黑暗源头都要浓郁无数倍！ 黑暗始祖：“要不.....这黑暗动乱您老来开启？” ......",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o779ea1385c3b1e0f6226c0aaa4a479cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=n3Z22HlIeJ7UG7Ix8X9IS5G3SBU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o779ea1385c3b1e0f6226c0aaa4a479cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=sI8uUVPDDyJOX1b09%2BS97Vf1pfY%3D",
           "url": "https://fanqienovel.com/page/7656783633486711870"
         },
         {
           "title": "徒弟有系统？我反手给他们关掉",
           "author": "幼琳酱",
-          "reads": "20.7万",
+          "reads": "18.5万",
           "intro": "（无敌+爽文+变身+收徒+不圣母+轻松日常+单身）（有在认真讲故事喵，评分刚出会涨喵） 清林穿越到修仙的世界，被坑比师傅变成了一个萝莉，结果师傅飞升跑路了！无奈的清琳金丹后直接摆烂！ 结果自己收到的徒弟怎么都那么奇怪？个个有系统？ 但是不慌，她有的是手段！ 徒弟1：“师傅师傅你到底有多强？” 清琳：“我能把你面前的那个叫系统的面板关掉。” ....... 徒弟2：“师傅，徒儿想回家了。” 清琳：“那我送你回去吧。” 徒弟2：“我家在大夏帝国，朴灵镇。” 清琳：“不，我是把你送回蓝星的大夏国。” ...... 徒弟3：“师傅，您到底有多强啊？” 清琳：“0721。” 徒弟3：“这是啥？您的战力吗师傅？” 清琳：“不，这是送你过来的大运的车牌号。” ...... 徒弟4：“师傅，您现在何等境界？” 清琳：“我可以帮你追到当年那个小姑娘。” 徒弟4：“器宗那位我早已释怀。” 清琳：“不是，我是说你在蓝星喜欢的那个高中坐你前面的小姑娘。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o95242a0dae5262f9a4804978ced0b0c2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=zVfEmoixkrW5DlADXaxlid0es2s%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o95242a0dae5262f9a4804978ced0b0c2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=Sg7pcVA3W8Gc6uV4c5%2BEnYcbSz8%3D",
           "url": "https://fanqienovel.com/page/7659271205207149592"
         },
         {
           "title": "从成为一只白鹿开始的传说",
           "author": "早醒的天蝎",
-          "reads": "23万",
+          "reads": "23.5万",
           "intro": "齐霁穿越重生为一只罕见的白色梅花鹿，靠着拥有的【灵韵珠系统】，每天吃饱后都能获得1点灵韵点，就这样，齐霁走上了一条传奇之路 孙子问爷爷：“爷爷，仙鹿是什么” 爷爷说：“仙鹿是传说中的神兽，它能踏水而行救百姓，能踏碎山峰震魍魉，亦能一鹿鸣，万树拥，葬敌千军万马，还能活死人肉白骨，千年来，无数雄主逐鹿而不得” 孙子再问：“爷爷，那我能见到仙鹿吗” 爷爷说：“不知道，千年来，只有有缘人才能得见，但我们可以去仙鹿庙给它烧香拜佛，传闻中每一个真城敬重仙鹿的人，都能得到仙鹿的赐福”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od6d28b21202fe78eb11200e2914a6c65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=aq7e22NeJJxfuKoQuNypQujO2AU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od6d28b21202fe78eb11200e2914a6c65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=qteWuJrX8sE0M9QkHbxHuYIOObM%3D",
           "url": "https://fanqienovel.com/page/7652903442444192792"
-        },
-        {
-          "title": "洪荒：我时间魔神，改写开天量劫",
-          "author": "秋雨一缕",
-          "reads": "14.9万",
-          "intro": "穿越成时间魔神时辰，得知盘古开天，魔神皆要应劫而死。 可盘古成了我的挚友，开天量劫？我亲手改写！ 联合杨眉，忽悠命运，把三千魔神全变成我的阵营。 洪荒诞生，一切尽在掌握。 直到一群自称“天命之子”的穿越者涌入洪荒，人手一个系统，势必要称霸洪荒， 却发现这个洪荒怎么完全不一样了。 我反手布下弥天大网：“来来来，让本座看看，你们的系统背后，到底藏着什么牛鬼蛇神。” 时间长河在我脚下流淌，诸天万界在我眼中浮沉。 一个个世界被我踏遍，本源吞噬，实力暴涨。 当我终于揪出系统背后那尊冰冷的神祇时，祂问我：“为何不与吾一道于时间中万古高坐？” 我笑了。 “因为” 我就是时间本身。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocf6686043609a0825226a83e96f7d836~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=CbSk5Fbh32Jxyevr%2BI27en4q07U%3D",
-          "url": "https://fanqienovel.com/page/7653877359828814910"
-        },
-        {
-          "title": "玄幻：我堕魔后把绝美师尊抓回来",
-          "author": "旭日如夜长夜破晓",
-          "reads": "18.3万",
-          "intro": "【单女主+爽+魔道+强制爱+主角强大】 （新书，评分刚出，后续会往上涨的） 苏长青遭人陷害后堕入魔道 成为整个东域令人寒风丧胆的魔尊 一次偶然让他遇到了曾经的师尊，东域第一仙子，他回想起往日种种，于是决定把师尊抓了回来 谁知师尊竟然拼命挣扎 看着不听话的师尊，他无奈之下只好进行爱的教育…… 师尊：明明我才是师尊，为什么反而被徒儿教育了？呜呜呜，我可是你师尊…… 无数年后，无数气运之子，正道大能前来营救仙子，结果却发现，他们心中的清冷仙子，已经躺在苏长青怀里羞涩地喊他夫君",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o28cb64592a7a59afc3c3dec5f8985e2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=yQ961LsWjQVAu%2BFDEp2A2Tr1MYY%3D",
-          "url": "https://fanqienovel.com/page/7659863482514295832"
         },
         {
           "title": "诸界归一，还好我早已成仙",
           "author": "叶清闲",
-          "reads": "15.2万",
+          "reads": "14.8万",
           "intro": "【杀伐果断+爽文+半无敌】 十万年前的神魔大战，玄荒大陆被打碎，分裂为灵界、魔界等多重世界。 天道不全，神道缺失，无论人也好、魔也罢，最高只能修到仙境。 二十年前，李安穿越到灵界，拜入清霄宗，踏上修仙之路。 李安本以为仙就是顶点，没想到诸界突然开始并拢，天道竟然开始恢复。 而最让他没想到的是，人界竟是，二十一世纪的地球。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o016295e9ec7a39c726f08b248cee4a73~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=01Vmit6%2FXzAbhUu2cpbfXHBTXwA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o016295e9ec7a39c726f08b248cee4a73~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=czwF%2FDwXjAT1oPFcnm%2FPqHy6hpk%3D",
           "url": "https://fanqienovel.com/page/7650051035230112792"
         },
         {
           "title": "挥刀就变强，长生净身房",
           "author": "湖边七号",
-          "reads": "15.1万",
+          "reads": "15万",
           "intro": "陈鸽拥有神级一刀，一刀挥下就能升级。 他助人为乐。 挥一刀 帮助张二牛净身，奖励十年寿元。 又挥一刀 帮助唐门高手净身，奖励唐门天级功法。 再挥一刀 帮助武道宗师净身，奖励六十年功力。 还挥一刀 帮助修仙者净身，奖励极品天灵根",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o132e0fdcf1ad2f0307e2cae74beb03ad~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=I6yb4GSCH1bG80L2jOJ1IKuS8g8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o132e0fdcf1ad2f0307e2cae74beb03ad~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=WVKczqL5Z%2FyZL9tE1NJ6b7AIctU%3D",
           "url": "https://fanqienovel.com/page/7654135940880813080"
+        },
+        {
+          "title": "洪荒：我时间魔神，改写开天量劫",
+          "author": "秋雨一缕",
+          "reads": "14.8万",
+          "intro": "穿越成时间魔神时辰，得知盘古开天，魔神皆要应劫而死。 可盘古成了我的挚友，开天量劫？我亲手改写！ 联合杨眉，忽悠命运，把三千魔神全变成我的阵营。 洪荒诞生，一切尽在掌握。 直到一群自称“天命之子”的穿越者涌入洪荒，人手一个系统，势必要称霸洪荒， 却发现这个洪荒怎么完全不一样了。 我反手布下弥天大网：“来来来，让本座看看，你们的系统背后，到底藏着什么牛鬼蛇神。” 时间长河在我脚下流淌，诸天万界在我眼中浮沉。 一个个世界被我踏遍，本源吞噬，实力暴涨。 当我终于揪出系统背后那尊冰冷的神祇时，祂问我：“为何不与吾一道于时间中万古高坐？” 我笑了。 “因为” 我就是时间本身。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocf6686043609a0825226a83e96f7d836~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=LetxGiTcHrqRw0wIpQHSY8htQeA%3D",
+          "url": "https://fanqienovel.com/page/7653877359828814910"
+        },
+        {
+          "title": "我根骨平庸，但分身都是绝世天才",
+          "author": "爱吃羊血的苏苓儿",
+          "reads": "17.3万",
+          "intro": "分身一：能变身成大肌霸的极道强者 分身二：受万人敬爱的一宗首席 分身三：消灭魔头和邪神，拯救苍生的救世主 分身四：魔头 分身五：邪神 …… 【分身无自我意识】",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o02d083bf56d34d07f8ca2ba387ba8e23~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=1st3M7Dv3K0M4CvalQ7hnH3g0uI%3D",
+          "url": "https://fanqienovel.com/page/7623051697895525401"
+        },
+        {
+          "title": "玄幻：我堕魔后把绝美师尊抓回来",
+          "author": "旭日如夜长夜破晓",
+          "reads": "19.7万",
+          "intro": "【单女主+爽+魔道+强制爱+主角强大】 （新书，评分刚出，后续会往上涨的） 苏长青遭人陷害后堕入魔道 成为整个东域令人寒风丧胆的魔尊 一次偶然让他遇到了曾经的师尊，东域第一仙子，他回想起往日种种，于是决定把师尊抓了回来 谁知师尊竟然拼命挣扎 看着不听话的师尊，他无奈之下只好进行爱的教育…… 师尊：明明我才是师尊，为什么反而被徒儿教育了？呜呜呜，我可是你师尊…… 无数年后，无数气运之子，正道大能前来营救仙子，结果却发现，他们心中的清冷仙子，已经躺在苏长青怀里羞涩地喊他夫君",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o28cb64592a7a59afc3c3dec5f8985e2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=Wyd8fsi%2B0VGfO3u%2F7tWLgelE5e0%3D",
+          "url": "https://fanqienovel.com/page/7659863482514295832"
         },
         {
           "title": "徒弟问我有多强？反手关掉他系统",
           "author": "小火龙爱喝果粒橙",
-          "reads": "15.9万",
+          "reads": "16.8万",
           "intro": "【史】【窝囊流】【是神农你就来】【全是毒点】【缝合怪】【作者是伪人】 季白五百年前穿越到沧澜界，差点被师父夺舍，幸好觉醒了大爱仙师系统，反向夺舍了师父！ 五百年后季白终于到了大乘期，人称炼天道君，系统提示他可以收徒变强了。 ....... 柳如烟系统宿主：“师父，你到底有多强啊？” 季白：“看我把你的系统关掉。” ....... 绷住系统宿主：“师父，您到底是什么境界呀？” 季白：“看下你的系统。” 绷住系统宿主：“我去，怎么有个糖心APP。” ...... 显圣系统宿主：“师父，您到底有多强啊？” 季白：“3521。” 显圣系统宿主：“我去，您的战力这么高吗？” 季白：“不，回忆一下你和老二一起撞大运的车牌号。” ...... 祖国人系统宿主：“师父，我想家了。” 季白：“我送你回去吧。” 祖国人系统宿主：“是青云镇吗？” 季白：“不是，我说的是那颗蓝色的星球。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeb31ad46d08618f86020aad3c3d15b2c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=urqoVFZBHfZs%2FzZS%2Fs%2F0gUfEp%2B4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeb31ad46d08618f86020aad3c3d15b2c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=0hkHBps1gL1k6mMiQExPKzfidog%3D",
           "url": "https://fanqienovel.com/page/7661230269071903806"
         },
         {
           "title": "跳过跳过！告诉我杀谁就行！",
           "author": "笔辍不耕",
-          "reads": "10.9万",
+          "reads": "11.2万",
           "intro": "【玩家天赋：我爱杀人，本质高手】 【我爱杀人：你是天生的恶魔，杀人对你来说就如吃饭喝水一般，只要杀饱了人，你的心情才会变好】 【本质高手：你具备高手的本质，任何功法对你都没有难度，你可在极短时间内学会一门功法，你可在极短时间内将一门功法修炼至最高境界】 …… 秦牧远误打误撞穿越进玄幻世界，但能看到玩家游戏面板的他，却仍以为自己在游玩一款极其拟真的划时代虚拟游戏。 “世界背景，跳过！” “个人介绍，跳过！” “任务介绍，跳过！” “我不需要知道我是谁，也不需要知道我在哪里，更不需要知道目标是什么。” “我唯一需要的是——战斗爽，杀杀杀！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb594b0f96211b8f79689018735a87e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=oE5vjryd7VJr1SmID0AI1WKtEr4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb594b0f96211b8f79689018735a87e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479323&x-signature=dnbgRKYHPUup%2FRkOasuU1sLBqXQ%3D",
           "url": "https://fanqienovel.com/page/7637546908239531070"
         },
         {
           "title": "啊？什么叫至尊骨已经挖出来了？",
           "author": "想整日逍遥的布逍遥",
-          "reads": "11.1万",
+          "reads": "11万",
           "intro": "“默儿，至尊骨已经从那个杂役身上挖下来了，过段时间就给你接上，谁能想到，区区一个杂役竟然能拥有这等妖孽资质呢，她的尸体我已经找人处理过了，听说是丢河里了冲走了。” “你最近修炼还行吧，太乙天灵根怎么还没有吸收？记住修为不是突破的越快越好，基本功还是要打好的，需要什么灵药直接去灵药阁拿就行，至于那个天灵根弟子不用担心，我亲眼看见他从无归崖跳了下去，那等死地，必然是尸骨无存了。” “前些日子你不是对天剑崖的镇派神剑感兴趣吗？那个小宗门已经灭了，杀的很干净，听人报告说只有一个小家伙被路过的狼叼走了，啧，底下的人下手真不干净，不过也没关系，想来是被吃干净了吧。” “还有那个柳霜月，过些日子就和她完婚吧，她可是天惜玲珑体，天生的炉鼎，好好和她双修，她全家的性命都在我们手里，不怕她不乖乖就范，听说她有个青梅竹马的小子走火入魔了，疯疯癫癫的，每天早上就去晒太阳晚上捡垃圾，真是没出息。” 他说这些话的时候语气很随意，就像在汇报今天买了什么菜。 说完还拍了拍我的肩膀，一脸慈爱地补了一句： “默儿，漫漫修仙路，为父能帮你的本就不多，一切还是要靠你自己啊！” 求助。 人在玄幻刚穿越 同时惹了四个天命之子怎么活 在线等，挺急的",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o2b66e2005ddbd942fe7fa5854093a35f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392494&x-signature=BMdTqBYbHyOYFqdxdJp%2BJQ8xlOw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o2b66e2005ddbd942fe7fa5854093a35f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=lCOBSJ8DFm5UQ8cKEvIQKqq2mKM%3D",
           "url": "https://fanqienovel.com/page/7649227474240277529"
-        },
-        {
-          "title": "我根骨平庸，但分身都是绝世天才",
-          "author": "爱吃羊血的苏苓儿",
-          "reads": "15.7万",
-          "intro": "分身一：能变身成大肌霸的极道强者 分身二：受万人敬爱的一宗首席 分身三：消灭魔头和邪神，拯救苍生的救世主 分身四：魔头 分身五：邪神 …… 【分身无自我意识】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o02d083bf56d34d07f8ca2ba387ba8e23~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=D8luP%2BYlwBhxa%2BIGl6eVSfuubUM%3D",
-          "url": "https://fanqienovel.com/page/7623051697895525401"
-        },
-        {
-          "title": "逆徒，让你写拜师帖，怎变婚书了",
-          "author": "晚棠深秋",
-          "reads": "10.3万",
-          "intro": "【女帝重生、无敌、迪化、收徒、偏日常】 萧尘穿越成玄天宗归墟峰无法修行的废物峰主。 只因归墟峰连续十年未曾收徒，峰主之位即将被废，恰在此时，他觉醒了最强护道人系统，只要收徒就能变强。 收徒大会上： “仙品冰灵根，还是个转世女帝？” 萧尘看着拒绝了所有人后红着脸给自己递上拜师帖的银发美少女，毫不犹豫地签下了自己的名字。 可就在他沾沾自喜以为可以就此拿到系统新手大礼包时： 系统：“宿主请看清楚，这是婚书，不是拜师帖。” 萧尘认真一看，这竟是一封阴阳拜师帖。 萧尘：“你是来拜师的？” 女帝：“嗯！” 萧尘：“那你怎么给我写婚书。” 女帝：“拿错了……不过，签都签了，师尊你以后可要对人家负责哟！” 萧尘一脸懵逼：“不是，我只想收徒啊，骗婚是什么鬼？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o74754654e6f48131c8c14025fc2c2fca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=ajqJN9sF%2BXSLWEFI2Ad1jLncsvg%3D",
-          "url": "https://fanqienovel.com/page/7657742272548588568"
-        },
-        {
-          "title": "成婚后娘子才知，她是我转世师尊",
-          "author": "纯情教父",
-          "reads": "10.8万",
-          "intro": "一千年前，秦明刚出生便觉醒签到系统，获得重瞳和至尊骨，引来当世最强的七位女帝收他为徒。 秦明被虐了整整一千年。 好不容易突破到仙帝，有了能和师尊一战的实力，结果她们说转生就转生了？ “嘿嘿，我的好师尊，一千年的苦，徒儿可一天都没忘呢。” “让我吃了这么多苦，总该补偿我点什么吧？” ...... 若干年后，师尊们恢复记忆，眼神冰冷的看向秦明。 “逆徒！你趁我转生，都对我干了些什么？” “逆徒，你欺师灭祖，今日要你付出代价！” 秦明嘿嘿一笑： “娘子，一家人说什么两家话啊？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o52e048a030735edc4c03123f17425e71~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=%2FX%2FShEh5qV2zoptiX2tYEUD78tA%3D",
-          "url": "https://fanqienovel.com/page/7659080754965531710"
-        },
-        {
-          "title": "仙榜状元被替，父母坦白来自帝族",
-          "author": "起飞一号机",
-          "reads": "8.2万",
-          "intro": "【反派+暴爽+杀伐果断+素质帝子+搞笑】 苏砚君穿越玄幻世界，明面上双亲乃是十六国首富，却不知父母真实身份乃是帝族极位大帝，背景滔天恐怖！ 只因养费了两个大号，才不得不下界穷养幼子，寄予了全部的希望！ 好在苏砚君从小争气，为了振兴家族，参加金榜考核夺得仙门榜首状元，却不料遭遇未婚妻陷害！ 对方不仅替换了自己状元之位，更是与仙门联合想要谋取苏家亿万财富！ 就在四大仙门与皇族之人联手逼迫的绝境。 这一天终于来了！ 【叮！恭喜主人激活反派系统！】 苏砚君轻蔑一笑，”木秀于林风必摧之！想我虽家境优渥，却藏拙十六年，早就已经料到这一天，真当我只有炼气境吗？“ 修为全开，刚想要彻底拔出这群贪得无厌的败类之时，一道恐怖至极的帝威划破天空，坠落而至！ “本帝倒是想要看看，究竟是谁敢动我宝贝儿子！” “他妈的狗屁族规！今日我苏家不演了，吾乃圣皇道域长渊大帝，吾儿乃是当世第一帝子！” …？！ 这一刻，苏砚君有些傻眼了：“不是，爹，你不是凡人吗？” “娘，您怎么也来了！？” “我不吃牛肉！” …",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/b0f4f83e7904b0e979ca1344a8f462df~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=33yfOxIReCVO%2Fz2ctU4BdbujWIs%3D",
-          "url": "https://fanqienovel.com/page/7588446737908386841"
         },
         {
           "title": "魔尊予我足下之辱，反爆一地属性",
           "author": "我不吃梨子",
-          "reads": "11.2万",
+          "reads": "11.9万",
           "intro": "简介： 开局获得强者之证，结果我才是那个证？ 强者都想占有我，也只有强者能占有我？ 现在在你面前的是：剑仙的意中人，魔君的心间宠，女帝的意难平， 道门圣女的白月光，妖族天骄的求不得…… 林旭：“我真不想吃软饭……”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o26067850e31f1132a92fa82feb9381df~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=lt57rUoSpm9Slw%2F%2FBcrVDV9IYh0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o26067850e31f1132a92fa82feb9381df~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=BWF4%2FswQGSskbq%2FMZCOTkHt%2Ff9I%3D",
           "url": "https://fanqienovel.com/page/7646584672113134616"
+        },
+        {
+          "title": "封神守关，万界大阵成叹息之墙",
+          "author": "北冥之鱼",
+          "reads": "13.5万",
+          "intro": "徐芳穿越封神，成为界牌关总兵，此刻刚刚遇到闻仲溃败，身死绝龙岭，大商岌岌可危，身为界牌关总兵的徐芳以万界召唤大阵，层出不穷的万界大能出现阵中，逼得西岐寸步难行，三界各方震惊，圣人被逼疯！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o639c7733217ed386cae5ba458bb8629c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=3ky3rSUTIhtTO%2B3PvJj1iF5VyKE%3D",
+          "url": "https://fanqienovel.com/page/7657361212010679320"
+        },
+        {
+          "title": "成婚后娘子才知，她是我转世师尊",
+          "author": "纯情教父",
+          "reads": "10.5万",
+          "intro": "一千年前，秦明刚出生便觉醒签到系统，获得重瞳和至尊骨，引来当世最强的七位女帝收他为徒。 秦明被虐了整整一千年。 好不容易突破到仙帝，有了能和师尊一战的实力，结果她们说转生就转生了？ “嘿嘿，我的好师尊，一千年的苦，徒儿可一天都没忘呢。” “让我吃了这么多苦，总该补偿我点什么吧？” ...... 若干年后，师尊们恢复记忆，眼神冰冷的看向秦明。 “逆徒！你趁我转生，都对我干了些什么？” “逆徒，你欺师灭祖，今日要你付出代价！” 秦明嘿嘿一笑： “娘子，一家人说什么两家话啊？”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o52e048a030735edc4c03123f17425e71~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=BtLrIPqzVK4Zg0xZqalZFpZJ%2FsI%3D",
+          "url": "https://fanqienovel.com/page/7659080754965531710"
+        },
+        {
+          "title": "逆徒，让你写拜师帖，怎变婚书了",
+          "author": "晚棠深秋",
+          "reads": "10.1万",
+          "intro": "【女帝重生、无敌、迪化、收徒、偏日常】 萧尘穿越成玄天宗归墟峰无法修行的废物峰主。 只因归墟峰连续十年未曾收徒，峰主之位即将被废，恰在此时，他觉醒了最强护道人系统，只要收徒就能变强。 收徒大会上： “仙品冰灵根，还是个转世女帝？” 萧尘看着拒绝了所有人后红着脸给自己递上拜师帖的银发美少女，毫不犹豫地签下了自己的名字。 可就在他沾沾自喜以为可以就此拿到系统新手大礼包时： 系统：“宿主请看清楚，这是婚书，不是拜师帖。” 萧尘认真一看，这竟是一封阴阳拜师帖。 萧尘：“你是来拜师的？” 女帝：“嗯！” 萧尘：“那你怎么给我写婚书。” 女帝：“拿错了……不过，签都签了，师尊你以后可要对人家负责哟！” 萧尘一脸懵逼：“不是，我只想收徒啊，骗婚是什么鬼？”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o74754654e6f48131c8c14025fc2c2fca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=1wu9SeX8p4bt7dK3BlVNJ%2FoMEq0%3D",
+          "url": "https://fanqienovel.com/page/7657742272548588568"
+        },
+        {
+          "title": "师尊嫌我肮脏？反手退师帖送上",
+          "author": "王小疯",
+          "reads": "15.7万",
+          "intro": "【玄幻/单女主/微病娇/另类养成/微虐但爽！】 “你只不过是我捡回来的一个乞丐，再有非分之想便别再称我为师尊了！” 那一天，手捧着冰玫瑰的王玄看着眼前冰冷的绝美师尊愣住了。 他在她心中......原来一直都只不过是个被她捡回来的肮脏乞丐。 也是那一天，系统觉醒了。 随着冰玫瑰的枯萎，第二天一张醒目的退师帖也被人送到了姜漓面前。 退了师的王玄本以为从此不会与绝情的姜漓再有半分瓜葛，本想另寻一位师尊。 可就在他散播出去退师的消息后，正要被数位长老抢着收作弟子时。 王玄却突然猛的感觉眼前一黑。 等他再醒来时，在他瞪大的错愕双眼中。 那绝情的冰冷师尊，一进屋就将他压制到床榻上紧紧的缠上了他！！？？",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc498c6ca539f62ca73b316c33c19c631~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=dZYq0Vvay5n6az%2BNv%2BdGBKMHs08%3D",
+          "url": "https://fanqienovel.com/page/7656607828005620760"
         },
         {
           "title": "连灭六国，开局皇帝夺我未婚妻？",
           "author": "笑风歌",
-          "reads": "8.8万",
+          "reads": "8.6万",
           "intro": "陈长风穿越异界，十年征战，出生入死，率领三十万精锐大军连灭六国，为皇帝定鼎天下！ 就在这时，皇帝连下数道金牌命令陈长风进京，不仅要以谋反罪名将其杀害，更是下旨要纳陈长风的未婚妻为妃！ 匹夫一怒，江山易主，既然你们非说我谋反，那自今日起，我陈长风真反了又如何？ 这天下，你赵家能坐，我就坐不得？ “叮，恭喜宿主获得天命帝皇系统！” “恭喜宿主获得功法《太初帝皇经》！” “恭喜宿主获得仙灵根！” “恭喜宿主获得诛仙剑阵！” …… 推翻皇朝，平定世家，隐世仙门又如何？兵锋所指，莫敢不从！ 我才是真正的帝皇！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c397deb8bee3c453700398f058b4c64~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=gqMMrsAqQ2nSXSizWjoN4aaaY1w%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c397deb8bee3c453700398f058b4c64~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=9SAoBPXImUcxAZ8TXfbMeJ8Ygo4%3D",
           "url": "https://fanqienovel.com/page/7647928781461539864"
+        },
+        {
+          "title": "带着修仙游戏回到古代当神仙",
+          "author": "我是大猪蹄子",
+          "reads": "9.8万",
+          "intro": "（评分刚出，后面会涨）【不立宗，不收徒，不圣母，不虐主，杀伐果断，长生无敌，遗世独立，惟我独仙。】 高云逸带着一款修仙游戏穿越到了古代世界。 在这个普通的古代世界，拥有修仙游戏系统的他成为了世间唯一真仙。 10级炼气期：他低调内敛， 20级筑基期：他重拳出击， 30级金丹期：他不吃牛肉， 40级元婴期：他即是真理。 ......... 他随手扔掉的丹药变成了王公贵族们疯狂争抢仙丹神药， 他淘汰下来的装备被当成神兵仙器在江湖中掀起血雨腥风， 他遗弃的灵宠更是成为了霍乱一方的魔兽，或者守护人间的神兽。 翻手为云，覆手为雨，改朝换代皆在他的一念之间。 世人狂热的崇拜他，虔诚的信仰他，视他为世间唯一的真仙，为他建祠立庙，著书立传。 但高云逸毫不在乎，因为他升级靠的是经验值，并不是香火，世人的信仰与他无关。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0afe9b13e6f1d6cda747560ea0981924~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=N7qLnI3ZOPvOAaZte3zvyHEMs1s%3D",
+          "url": "https://fanqienovel.com/page/7647813358804028441"
         },
         {
           "title": "洪荒：穿成通天，紫霄宫我不去了",
           "author": "云枕书M",
-          "reads": "7.7万",
+          "reads": "6.8万",
           "intro": "徐通穿越成通天教主，鸿钧紫霄宫开讲消息刚传遍洪荒。别人挤破头想去听道，他却一拍大腿——鸿蒙紫气我不要，截教也不立！盘古以力证道摆在那儿，我按自己的路走，天道能奈我何？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8d76b2790887d6053c55a8160e73134b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=fxRutwce8aAvfuJSCdszXNI8kjQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8d76b2790887d6053c55a8160e73134b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=GDPun2XBn8oeo3wD3YnjWWUTb30%3D",
           "url": "https://fanqienovel.com/page/7657048631802858521"
         },
         {
           "title": "仙武：开局紫气东来三万里",
           "author": "缝合师",
-          "reads": "8.5万",
-          "intro": "【词条+仙武+无敌流+不分身+杀伐果断】 苍茫大世，仙武并峙，苍生如刍狗。 林夜穿越降生国公府邸，身负词条面板，每破一重境界便解锁一道本源词条，条条蕴藏本源大道。 【无垢】：身如琉璃净无垢，心似明月照大千 【龙象】：一念龙起承天力，一念象生镇九幽 【不灭】：真灵不灭魂常在，大道长存自在身 【轮回】：御轮回而转六道，踏生死以证长生【雷骨】【蜕凡】【不朽】【烛龙纹】等词条相继解锁。 待到某日，他立于天上，额生神纹，眸演轮回，脚踏龙象，身化魔神，仙武合一。 世人才知，一尊盖世武仙，已然君临玄黄界，超脱天地外！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob4ddfccc88f2ba2b430229d91c468a1f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=tCy%2Fx66RsNSNs4N8FB6DNn6sVoc%3D",
+          "reads": "8.3万",
+          "intro": "【评分刚出+词条+仙武+半无敌流+不分身+杀伐果断】 苍茫大世，仙武并峙，苍生如刍狗。 林夜穿越降生国公府邸，身负词条面板，每破一重境界便解锁一道本源词条，条条蕴藏本源大道。 【无垢】：身如琉璃净无垢，心似明月照大千 【龙象】：一念龙起承天力，一念象生镇九幽 【不灭】：真灵不灭魂常在，大道长存自在身 【轮回】：御轮回而转六道，踏生死以证长生【雷骨】【蜕凡】【不朽】【烛龙纹】等词条相继解锁。 待到某日，他立于天上，额生神纹，眸演轮回，脚踏龙象，身化魔神，仙武合一。 世人才知，一尊盖世武仙，已然君临玄黄界，超脱天地外！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob4ddfccc88f2ba2b430229d91c468a1f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479326&x-signature=vC%2B8bZcXJONDB0yfjqU2k3y%2BOmo%3D",
           "url": "https://fanqienovel.com/page/7657325911187917849"
-        },
-        {
-          "title": "带着修仙游戏回到古代当神仙",
-          "author": "我是大猪蹄子",
-          "reads": "9.5万",
-          "intro": "（评分刚出，后面会涨）【不立宗，不收徒，不圣母，不虐主，杀伐果断，长生无敌，遗世独立，惟我独仙。】 高云逸带着一款修仙游戏穿越到了古代世界。 在这个普通的古代世界，拥有修仙游戏系统的他成为了世间唯一真仙。 10级炼气期：他低调内敛， 20级筑基期：他重拳出击， 30级金丹期：他不吃牛肉， 40级元婴期：他即是真理。 ......... 他随手扔掉的丹药变成了王公贵族们疯狂争抢仙丹神药， 他淘汰下来的装备被当成神兵仙器在江湖中掀起血雨腥风， 他遗弃的灵宠更是成为了霍乱一方的魔兽，或者守护人间的神兽。 翻手为云，覆手为雨，改朝换代皆在他的一念之间。 世人狂热的崇拜他，虔诚的信仰他，视他为世间唯一的真仙，为他建祠立庙，著书立传。 但高云逸毫不在乎，因为他升级靠的是经验值，并不是香火，世人的信仰与他无关。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0afe9b13e6f1d6cda747560ea0981924~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=AILUZpT3QVCVUV7vtMiztN4W9nI%3D",
-          "url": "https://fanqienovel.com/page/7647813358804028441"
-        },
-        {
-          "title": "词条修仙，开局美妇登门赊符",
-          "author": "孤独的进化",
-          "reads": "7.8万",
-          "intro": "陆远穿越修仙界，年轻时摆摊被仇人打伤，八十四岁寿元将近，仍停滞练气三层。 七十四那年觉醒了词条系统，每年可抽取一个词条。 结果抽到的全是白色词条。 这一天，有人来求着他赊符。 命运在此刻发生转变，他抽到彩色词条——",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o600eb5eca4de813cff2dc411e2fd0130~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392497&x-signature=Qe6ej4os7%2FCPag3GzKkSaS9OnYk%3D",
-          "url": "https://fanqienovel.com/page/7644419371195960344"
         }
       ]
     }

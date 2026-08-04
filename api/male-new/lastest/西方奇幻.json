@@ -1,225 +1,230 @@
 {
   "type": "西方奇幻",
-  "date": "2026-08-04",
-  "prev_date": "2026-08-03",
+  "date": "2026-08-05",
+  "prev_date": "2026-08-04",
   "category": {
     "name": "西方奇幻",
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
+      "new_count": 2,
+      "dropped_count": 2,
       "new_books": [
-        "领主：从猎人卡开始"
+        "干翻中世纪，从纯情治安官开始",
+        "据帝国幼态法，与精灵恋爱，电刑"
       ],
       "dropped_books": [
         {
-          "title": "西幻不该这样的？",
-          "intro": "别人穿越西幻。征服世界，退队流，修罗场，白月光，学院流，反派自救…身边全部是妹妹姐姐未婚妻勇者魔女圣女女神精灵亚人。 自己穿越。迷路到边境每天砍砍砍，队友长相狰狞的怪物，酒友邋遢的乞丐，信友讨论亵渎神"
+          "title": "萝莉加护什么鬼？我又不是萝莉控",
+          "intro": "萝莉，我要几个萝莉，这么大的萝莉！ 穿越到西幻游戏世界里带着主角模板，陈青打算不按剧情走，玩出二周目。 开局救下精灵王国的二公主，并成功人士签订契约，绑定亲属关系！ 开始踏上冒险～ 什么叫我不怕被电，"
+        },
+        {
+          "title": "夭寿！刚穿越就被魅魔包围了？",
+          "intro": "李沐风加班猝死，发现自己穿越了！ 再睁眼，他发现身边全是极品魅魔！ 这可是吃人不吐骨头的绝地，凡人落入必死无疑，殊不知... 危急时刻，李沐风觉醒系统，与恶魔互动就能获得神级奖励！ 【叮！被魅魔投喂，"
         }
       ],
       "top_risers": [
         {
-          "title": "穿书成为反派，发现剧情早就崩了",
+          "title": "领主：从猎人卡开始",
           "change": "+4"
         },
         {
-          "title": "领主巫师：从无限魔晶开始求学！",
-          "change": "+1"
+          "title": "夫人：你疯了吧？你管这叫叠装备",
+          "change": "+3"
         },
         {
-          "title": "开局被魅魔收养，异世界尽情攻略",
+          "title": "魔王叫我小同志，那就是世界错了",
           "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "这个恶龙不一样，丰饶巨龙！！！",
-          "change": "-2"
+          "title": "强制扮演圣女的我渴望被魔王支配",
+          "change": "-3"
         },
         {
-          "title": "魔王叫我小同志，那就是世界错了",
+          "title": "领主巫师：从无限魔晶开始求学！",
           "change": "-1"
         },
         {
-          "title": "强制扮演圣女的我渴望被魔王支配",
+          "title": "这个恶龙不一样，丰饶巨龙！！！",
           "change": "-1"
         }
       ],
       "reads_growth": [
         {
-          "title": "人在诡异，靠第四天灾登顶至高",
-          "growth": "+1.7万"
-        },
-        {
-          "title": "开局被魅魔收养，异世界尽情攻略",
+          "title": "夫人：你疯了吧？你管这叫叠装备",
           "growth": "+7000"
         },
         {
-          "title": "夫人：你疯了吧？你管这叫叠装备",
-          "growth": "+5000"
+          "title": "开局被魅魔收养，异世界尽情攻略",
+          "growth": "+4000"
+        },
+        {
+          "title": "领主：从猎人卡开始",
+          "growth": "+4000"
         }
       ],
-      "summary": "**🔥 题材趋势** 领主种田与恶役/魔王题材占据主流，融合学院、巨龙、魅魔等经典元素，西幻缝合怪趋势明显。\n**📖 读者偏好** 偏好“金手指+经营养成”的爽感组合，对评分波动容忍度高，标签中“多女主”“轻松”“杀伐果断”出现频率高。\n**🆕 新上榜作品** 《领主：从猎人卡开始》以卡牌+领主+种田切入，延续热门框架，首日冲榜表现亮眼。\n**📉 掉出榜单** 《西幻不该这样的？》主打多元缝合与修罗场，但概念过杂，缺乏清晰核心卖点，未能稳住热度。\n**💡 值得关注** 非人主角与反套路设定（恶龙、魔王、圣女）持续吸量，但需强化单一记忆点以区别于同类。"
+      "summary": "**🔥 题材趋势** 领主种田、恶役/反派、变身等元素混合，西幻+游戏化设定流行，轻松搞笑与反差人设成为主流卖点。\n**📖 读者偏好** 读者对“评分刚出”容忍度高，偏爱脑洞大开、节奏轻快的故事，对金句标题和标签化简介接受能力强。\n**🆕 新上榜作品** 《干翻中世纪》以治安官底层视角切入，强调逆袭爽感；《据帝国幼态法》以变身精灵+科技树制造新噱头。\n**📉 掉出榜单** 两部魅魔/萝莉题材开局相似，缺乏新鲜设定，热度回落。\n**💡 值得关注** 《魔王叫我小同志》凭金句出圈，在读稳定；领主类多本霸榜，子类竞争激烈但头部集中。"
     },
     "books": [
       {
-        "title": "领主巫师：从无限魔晶开始求学！",
-        "author": "长安轩",
-        "reads": "30.8万",
-        "intro": "【学院】+【领主巫师】+【种田】+【开荒】+【精灵】+【巨龙】 【特色一：地图大！ 四大大陆之—万族大陆：人类开发率仅有百分之一，且比例还在不断缩小。】 【特色二： 因精灵与精灵圣树而诞生的—小精灵：可以批量种植魔植，粮食！ 因巨龙一族栖息而伴生的矿藏。 以及因人类巫师而诞生的时代主角“领主巫师”职业！】 现代大学生“韦恩”携带金手指，偶然穿越到，“剑与魔法”世界。 在这个广袤无垠的“圣域世界”，精灵与生命圣树交织， 巨龙与骑士翱翔天空，巫师追寻着真理！ 万族在这里繁衍生息。 金手指：【无限栏】：每晋升一级，解锁一个格子，放入一件物品，可以达成物品无限！（举例：极品魔晶*♾️）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od0b7597a4ea34d1189573138296d4eaf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=yl382Ny6J%2BvDzgowtIqBPy9e%2FJs%3D",
-        "url": "https://fanqienovel.com/page/7653392559628094488"
-      },
-      {
         "title": "魔王叫我小同志，那就是世界错了",
         "author": "风蝉鸣",
-        "reads": "31.1万",
+        "reads": "29.9万",
         "intro": "【刚开分后面会涨】秦恒被召唤到异世界成为勇者，击败魔王后，魔王叫我小同志，他都叫我小同志了，那能是他的错吗？那一定是世界的错！ PS:本书单或者无女主。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o302cd2fa5839ab4d467d4506142598ca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=XjdqAxi%2BjhB9s06JNkpzj5jS1Mw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o302cd2fa5839ab4d467d4506142598ca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=3VssyS8AxVeNItDpDnzE571lx%2Bk%3D",
         "url": "https://fanqienovel.com/page/7657525266855513112"
+      },
+      {
+        "title": "领主巫师：从无限魔晶开始求学！",
+        "author": "长安轩",
+        "reads": "31.1万",
+        "intro": "【学院】+【领主巫师】+【种田】+【开荒】+【精灵】+【巨龙】 【特色一：地图大！ 四大大陆之—万族大陆：人类开发率仅有百分之一，且比例还在不断缩小。】 【特色二： 因精灵与精灵圣树而诞生的—小精灵：可以批量种植魔植，粮食！ 因巨龙一族栖息而伴生的矿藏。 以及因人类巫师而诞生的时代主角“领主巫师”职业！】 现代大学生“韦恩”携带金手指，偶然穿越到，“剑与魔法”世界。 在这个广袤无垠的“圣域世界”，精灵与生命圣树交织， 巨龙与骑士翱翔天空，巫师追寻着真理！ 万族在这里繁衍生息。 金手指：【无限栏】：每晋升一级，解锁一个格子，放入一件物品，可以达成物品无限！（举例：极品魔晶*♾️）",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od0b7597a4ea34d1189573138296d4eaf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=WJA%2FHHgF9vLbhHzSpCEdVoA0HAk%3D",
+        "url": "https://fanqienovel.com/page/7653392559628094488"
       },
       {
         "title": "领主：开局捡个落魄圣域老骑士",
         "author": "爱吃醋的菠萝",
-        "reads": "16.7万",
+        "reads": "15.7万",
         "intro": "【评分刚出，后续会涨】马丁穿越剑与魔法的魔幻世界，觉醒独一份的神级金手指“本源补全。” 世间无数骑士与法师，或是天资受限卡在境界终身难进半步，或是征战一生根基受损，修为永久定格，余生再无寸进可能。 可只要马丁动用本源之力，便能彻底撕碎桎梏，补全残缺根基，让这群早已走到人生尽头的强者，重回甚至超越当年最巅峰的状态。 唯一条件，便是签下心魂契约，此生永世归其麾下，奉他为主。 整片大陆各大势力争先恐后，砸下重金资源拉拢十几岁崭露头角的年轻天骄，争相培育新生代后辈。 唯独马丁反其道而行，旁人追捧冉冉升起的朝阳新锐，他却只偏爱这些寿命将尽，实力尽失的老头老太。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o54fa6e523fd4cb09b488d9002577a512~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=6xKtkU%2BK5g1c12cSF4SDspOGHwc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o54fa6e523fd4cb09b488d9002577a512~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=uMk3MyBt8oNh4otSGlw%2BXDG2Y5o%3D",
         "url": "https://fanqienovel.com/page/7653621583281392665"
       },
       {
         "title": "希腊神话：从成为微风之神开始",
         "author": "霜火",
-        "reads": "15.7万",
+        "reads": "14.8万",
         "intro": "评分今天刚出，5.9分会涨的 【神力体系更改】【神战！】【多世界】【多女主】【父母健在】【有点慢热】 微风之神——飓风之神——风暴之神——天灾之神（自然系剧情线） 一朝穿越，成为了本不应该存在的东风神欧洛斯之子。 肉体凡胎、孱弱无比。 最悲催的是，直到成神，他才觉醒了前世的记忆。 此时正值宙斯反抗第二代神王克洛诺斯的时期。 命运不定、一切未知。 卡纳斯将一步步攀登，铸就属于自己的永恒史诗。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3723a6f1664551891ea3b03e25885949~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=w0L8c5xGt4Xbw%2B0RG7vFkMTdAps%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3723a6f1664551891ea3b03e25885949~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=pYLd4DqloVrv7xUqu1ktgVSUHP8%3D",
         "url": "https://fanqienovel.com/page/7655292620943412248"
       },
       {
         "title": "开局被魅魔收养，异世界尽情攻略",
         "author": "夜满星空",
-        "reads": "11.6万",
+        "reads": "12万",
         "intro": "【多女】【轻松日常】【各种族】 　　林羽穿越后，被善良的魅魔收养，并有两个不太欢迎的养女姐姐。 　　可寄宿才两天半就收到了增加赋税的消息。 　　“太太，你们家的情况不容乐观，交不出税，恐怕就要被赶出小镇了。” 　　面对满脸愁容的魅魔，【旅行信件】降临。 　　寄信就能得到奖励？ 　　看着面板上唯一可寄出的目标，林羽写下了第一封信… …… ……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o66403f78d94e001dbee9a2db9ccad0e9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=IntKJ2%2FFtRHCXr2ZxB55JMvKXNI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o66403f78d94e001dbee9a2db9ccad0e9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=hEd%2Bj%2BFor1NvaVujgHG9ylJV0RE%3D",
         "url": "https://fanqienovel.com/page/7657823884200119358"
       },
       {
         "title": "恶役领主只想洗白上岸",
         "author": "狐望星",
-        "reads": "8.2万",
+        "reads": "8.3万",
         "intro": "【标签：恶役领主】【评分刚出，会涨的～】 　　【介绍：威风八面杀气飘，种地所得全上交！商人税收九十五，我的手段你清楚！ 　　砍世界树，令天地倒悬；建黑兽佣兵团使八要塞沦陷；引圣女恶堕，教唆公主兵变，纯纯带恶人！】 　　“我有这么坏吗？” 　　罗兰·巴尔看着头顶的标签陷入沉思。 　　...... 　　...... 　　【关键词：西幻缝合怪、骑砍、领主、哈利·波特、兵种升级树】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6bc461eb8f7d5b9b713c9df9f1cd13cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=SW1Ne62Y7kRHvUaBsskUINDLiA8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6bc461eb8f7d5b9b713c9df9f1cd13cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=SFazYZzAl49LqcIe9zKzU8AbU4Q%3D",
         "url": "https://fanqienovel.com/page/7623384483550465049"
+      },
+      {
+        "title": "夫人：你疯了吧？你管这叫叠装备",
+        "author": "墨鹤歆",
+        "reads": "9.7万",
+        "intro": "【年上熟女系＋领主＋多种族＋胎穿＋剑与魔法＋争霸】 先说结论：亚纶现在很慌，非常慌。 胎穿到这个剑与魔法的世界已经十八年，身为家族的嫡长子，本来以为猥琐发育到接替伯爵之后，自己就能混的风生水起。 但没想到就在亚纶十八岁生日的舞会上，他被自己同父异母的弟弟以身入局，献祭自己的母亲，将亚纶拉下了水。 当亚纶睁看眼看到眼前美妇人的时候，整个人都炸了。 果不其然，自己的继承人身份被剥夺，被派去和魅魔联姻。 但就在这时系统终于到账了，那些女人头上的神装竟然可以拿下来。 【梅贾的窃魂卷已掉落！】 【装备神眷者：萨曼莎夫人】 【击杀一人可叠一层，一层提供10点魔力值，与神眷者修炼每次可叠十层。】 第二天亚纶找到了自己的贴身女仆，薇洛。 她头上的装备也被取下。 【神秘之剑已掉落！】 ………… 亚纶发现，装备的品质似乎和……于是……",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42e9896396e6fb8707740c3040b2bf46~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=vFX8achuo08V6FCozuCSG7Kc5Uw%3D",
+        "url": "https://fanqienovel.com/page/7660481490089692185"
       },
       {
         "title": "这个恶龙不一样，丰饶巨龙！！！",
         "author": "书芙",
         "reads": "7.7万",
         "intro": "【巨龙+丰饶+种田+杀伐果断+半群像】【新书评分刚出，后续会涨！】 维里迪安又又穿越了，一世地球普通人，二世丰饶行者，三世一条行走在丰饶命途的绿龙。 一条中立守序的绿龙，一条不一样的绿龙。 落日森林未来的领主、半精灵未来的救世主、赐于万族平等的王、未来的丰饶神龙、龙母又一不孝子。 一切的一切，皆源于那一天的故事。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oec2480291173ecfb73d1a460defdb0bc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=UnvrSbtgpYapxKW22FJBHgRYtms%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oec2480291173ecfb73d1a460defdb0bc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=Rpkbg7ZFCyJxgHjKEkB2Ip34Fb8%3D",
         "url": "https://fanqienovel.com/page/7656758996287622169"
       },
       {
         "title": "天才教授只想逃离帝国学院",
         "author": "用户20741409",
-        "reads": "7.6万",
+        "reads": "7.7万",
         "intro": "【西幻+学院+搞笑+迪化+反差+爽文】 在异世界奋斗多年，李安觉醒了前世的记忆。 醒来第一天，他就发现自己成了帝国学院的教授——七险十五金、朝十晚四、周末双休、年假九十天，地位堪比贵族。 但更要命的是，这里是学院流网文世界！ 恐怖袭击、恶魔渗透、最终BOSS盯上学校……随便哪一条都是教授绞肉机！ “辞职！立刻辞职！这哪是铁饭碗，这是自杀啊！” 为了安全下岗，李安开启了自己的“被开除计划”： 面试时当众歧视考生，结果考生是恶魔卧底； 开课时故意刁难学生，结果挖出帝国最大灵脉； 剑术课上胡言乱语“用心挥剑”，结果学生一剑斩出个剑圣； 贪污公款想坐实罪名，结果学生集体高呼“忠诚”…… 他越想被开除，越被当成救世主。 全班学生（泪流满面）：教授的身体早已千疮百孔，却还在传授我们无上剑术！ 铁血前辈（老泪纵横）：高风亮节、以理服人这才是真正的师德啊！ 帝国学院（高呼“忠诚”）：你不喜欢李安教授？该死的恶魔竟然伪装成人类！！ 从“想润的咸鱼教授”到“李*帝国最强*勇者之师*高风亮节*巨龙骑士*桃李天下*安”，李安的每一次被开除计划都成了史诗级名场面。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9fa07068ffbb3cee3699ccc71a059360~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=DHEgMExvshlzHEfHVfrS09%2BKC8Q%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9fa07068ffbb3cee3699ccc71a059360~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=qvXNo48LBCMCne74gXIDpdG90BE%3D",
         "url": "https://fanqienovel.com/page/7659755523104853017"
       },
       {
         "title": "人在诡异，靠第四天灾登顶至高",
         "author": "我时糕手",
-        "reads": "8.5万",
+        "reads": "8.7万",
         "intro": "(评分刚出，后面会涨的！) 穿越到诡异横行的异界，林恩发现自己成了一尊神力枯竭，即将消散的野鸡伪神。 教堂外，不可名状的恐怖怪物正在撞门，绝望的倒计时开始。 为了自救，林恩咬牙捏造了一款名为《古神苏醒》的全息VR网游，从蓝星召唤了一批硬核玩家当信徒。 本以为这群玩家会在诡异的折磨下瑟瑟发抖，结果事情的发展完全失控了…… 玩家A（狂热）：“兄弟们，这只无头恶灵的物理碰撞体积有BUG，快拿门板卡住它，轮流刮痧拿首杀！” 玩家B（兴奋）：“这旧日支配者的触手有掉落判定！生吃能加5点毒抗，快来咬！” 玩家C（沉思）：“只要我们把这个镇子的NPC全绑了，邪教徒就找不到献祭目标，这叫逻辑通关！” …… 看着门外被玩家们活活吓疯的诡异怪物，以及本地土著们无比敬畏，将其奉为“至高混沌之主”的疯狂眼神。 端坐在神座上的林恩表面威严无上，内心慌如老狗： “别乱脑补了，我真不是什么不可名状的源头，我只是没拦住这群第四天灾啊！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o38e0ac3221c93d255029503b040bb825~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=R%2BgEQXZbfmD1mIohDTEuZoNYkCI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o38e0ac3221c93d255029503b040bb825~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=aBKkfGAwvyqUg3fDO9wWhfyWVHg%3D",
         "url": "https://fanqienovel.com/page/7654593151348247614"
-      },
-      {
-        "title": "夫人：你疯了吧？你管这叫叠装备",
-        "author": "墨鹤歆",
-        "reads": "9万",
-        "intro": "【年上熟女系＋领主＋多种族＋胎穿＋剑与魔法＋争霸】 先说结论：亚纶现在很慌，非常慌。 胎穿到这个剑与魔法的世界已经十八年，身为家族的嫡长子，本来以为猥琐发育到接替伯爵之后，自己就能混的风生水起。 但没想到就在亚纶十八岁生日的舞会上，他被自己同父异母的弟弟以身入局，献祭自己的母亲，将亚纶拉下了水。 当亚纶睁看眼看到眼前美妇人的时候，整个人都炸了。 果不其然，自己的继承人身份被剥夺，被派去和魅魔联姻。 但就在这时系统终于到账了，那些女人头上的神装竟然可以拿下来。 【梅贾的窃魂卷已掉落！】 【装备神眷者：萨曼莎夫人】 【击杀一人可叠一层，一层提供10点魔力值，与神眷者修炼每次可叠十层。】 第二天亚纶找到了自己的贴身女仆，薇洛。 她头上的装备也被取下。 【神秘之剑已掉落！】 ………… 亚纶发现，装备的品质似乎和……于是……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42e9896396e6fb8707740c3040b2bf46~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=cIEqNIx23oa3TL3j5LloqsRwaYw%3D",
-        "url": "https://fanqienovel.com/page/7660481490089692185"
-      },
-      {
-        "title": "魔龙与地下城：恶龙请求出狱",
-        "author": "骷髅殿的五帝龙",
-        "reads": "5.7万",
-        "intro": "【西方奇幻，非人主角，地下城，魔龙，经营，幕后】 曾经令世界恐惧的灭世魔龙在被封印了不知多少岁月后醒来，一脸迷茫。 因为他被夺舍了。 又或者叫被穿越了。 周淼前世是个普普通通的游戏策划，没想到被泥头车送到了一个多种族的西方奇幻世界。 好消息，他成为了一头强大的魔龙。 坏消息，他被封印了，需要勇者神器才能解封。 为了自由，他开始想办法收集勇者的神器，并蛊惑冒险者们出卖灵魂。 他把头顶因自己力量辐射形成的地下生态改成了地下城，还给冒险者们创造了面板系统。 于是，更多的冒险者趋之若鹜，争着抢着出卖灵魂给魔龙，只为拥有自己的面板。 周淼表示，自己不想再步原来那头疯子魔龙的后尘，但多年以后，自己还是无奈地成为了大陆的真正幕后主人。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9837552177b7fce8bb775aa3ad90d3d7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=qa%2BNfvQhJwU2cIxcUYrC08ykA4w%3D",
-        "url": "https://fanqienovel.com/page/7656293050431327256"
       },
       {
         "title": "西幻：从变身少女开始重甲大剑",
         "author": "夕阳下的砂纸",
         "reads": "5.8万",
         "intro": "（分刚出，可能会涨）【变身+单身】【西式奇幻】【公路冒险】【西幻大杂烩】 意外穿越成妈死爹赌的苦逼少女，还绑定了本狗血的虐恋指南。 罗希抗议：“我特么钢铁勇士，变女就算了，还让我虐恋？要不你先死一死？” 虐恋指南当场变成冒险指南。 完成冒险就能获得词条、技能、职业专精…… 罗希就此走上无尽的冒险道路。 什么苦情戏码，和老子的大剑说去吧。 （反正不要钱，多少看一点呗）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0d01d10d1864368b8d8e3c6354a3ed04~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=xBKUQsE7yjJ%2BzAgWGLZ299DoFVo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0d01d10d1864368b8d8e3c6354a3ed04~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=lvcADbnav0Un78k1Qrt5dhlCsZo%3D",
         "url": "https://fanqienovel.com/page/7657231701696842777"
+      },
+      {
+        "title": "魔龙与地下城：恶龙请求出狱",
+        "author": "骷髅殿的五帝龙",
+        "reads": "5.8万",
+        "intro": "【西方奇幻，非人主角，地下城，魔龙，经营，幕后】 曾经令世界恐惧的灭世魔龙在被封印了不知多少岁月后醒来，一脸迷茫。 因为他被夺舍了。 又或者叫被穿越了。 周淼前世是个普普通通的游戏策划，没想到被泥头车送到了一个多种族的西方奇幻世界。 好消息，他成为了一头强大的魔龙。 坏消息，他被封印了，需要勇者神器才能解封。 为了自由，他开始想办法收集勇者的神器，并蛊惑冒险者们出卖灵魂。 他把头顶因自己力量辐射形成的地下生态改成了地下城，还给冒险者们创造了面板系统。 于是，更多的冒险者趋之若鹜，争着抢着出卖灵魂给魔龙，只为拥有自己的面板。 周淼表示，自己不想再步原来那头疯子魔龙的后尘，但多年以后，自己还是无奈地成为了大陆的真正幕后主人。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9837552177b7fce8bb775aa3ad90d3d7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=Aa8Avt1zlIR%2BCXWZV9x1PUDXUaw%3D",
+        "url": "https://fanqienovel.com/page/7656293050431327256"
       },
       {
         "title": "穿越成魔王，结果对面勇者是死士",
         "author": "无限的CPA",
         "reads": "5.5万",
         "intro": "【穿越】+【种田】+【钢铁洪流】+【星辰大海】+【剑与魔法】 雷诺穿越二十年，突然成为魔王，刚统一魔族，人族就召唤了勇者。 召唤也就算了，为什么金牌女神下凡，把要黑化的勇者变成了死士啊？ 于是现在，魔王将要面对的是…… 拥有唯心战力，家人buff，回忆杀，气运之子，坚强意志，死亡回归，战斗圣体，一证永证，天道酬勤等诸多外挂加持的勇者大人。 魔王：嘘，可以和解吗？ 既然和解不了，那我可就要祭出真正的杀招了。 “勇者啊，我要创造一个人人平等，没有压迫，没有战争的世界，我要让无产阶级再次伟大！” “如果你是小爱，那我就是大义！” “你要面对的是，人民的力量啊！！！！！” 总而言之，这是一个赤色魔王在异界征服星辰大海的故事。 …… 金牌女神：该死的魔王，为了我的晋升，勇者召唤勇者召唤勇者召唤勇者召唤口牙！！！！！ ps：架空世界，若有任何现实技术和剧情和团体和人名和历史，纯属巧合ciallo~",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ff4a88132cb24081208ca75bf40fa0e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=dmhzWcPrJirl5xAKyEF38jLArMk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ff4a88132cb24081208ca75bf40fa0e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=GET1DcuUgDAi6B3PtvBkYe%2FiXc0%3D",
         "url": "https://fanqienovel.com/page/7653457755960790041"
       },
       {
-        "title": "强制扮演圣女的我渴望被魔王支配",
-        "author": "兔神",
-        "reads": "4.1万",
-        "intro": "［西幻+圣女×魔王+百+轻松日常+反差人设+内心戏超多］ 穿越维洛利亚大陆，洛璃绑定圣女扮演系统，被迫扮演千年完美圣洁圣女。 千年里她无偿为村民治病、修屋、送粮，分文不取，日日只能啃干面包、喝寡淡土豆汤，连一口肉都碰不到。 所有人都赞颂她慈悲无私，无人知晓这位万人敬仰的圣女，内心早已彻底崩坏。 日复一日无止境的无偿付出，让她满心怨怼，日夜盼着传说中的魔王现身，将她掳走、脱离苦海。 本以为只是无望妄想，深夜魔王诺克西娅竟真的踏碎村庄夜色降临。 以全村人性命相逼，要带她离开。 表面上洛璃沉默隐忍，一副被迫牺牲的为难模样； 内心却疯狂狂喜：太好了！这下顺理成章被魔王带走，终于不用再当免费苦力圣女。 系统：强制维持圣洁人设！ 洛璃（内心痴笑）：终于来了吗？我的魔王大人！ ……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o80dd4cc8b23ccb5ce3e4caf9d737c56c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=Cvzdqa%2F5RaqgR6g1qk%2Byyplc2nE%3D",
-        "url": "https://fanqienovel.com/page/7652605044130335769"
-      },
-      {
-        "title": "文字冒险：开局酒馆地窖偶遇圣女",
-        "author": "杂鱼小将",
-        "reads": "4.2万",
-        "intro": "【文字游戏】【影响现实】【西幻】【杀伐果断】【多女主】【DND】 林恩无意间下载了一款名为《苍白印记》的文字冒险游戏。 他震惊地发现，这个画风复古硬核的小游戏，逼真离奇，甚至于，在游戏里获得的超凡属性与魔法，还会完美同步到现实世界。 而在创建角色时，他不仅抽到了必死的高危身份，还觉醒了唯一专属命格，以初始全属性归0为代价，他可以随时动态调配属性，并且能看穿游戏里所有的致命陷阱与隐藏奇遇！ 【智力检定通过！触发白银级奇遇‘阴影舞者的遗恨’，学会潜行神技‘阴影亲和’。】 【敏捷检定通过！触发黄金级奇遇‘神陨之地的尘埃’，夺取‘神格碎片’，领悟‘晨曦与余烬呼吸法’……】 【体质检定通过！触发史诗级奇遇‘背叛的黎明’……】 当然了，这些其实都不是最重要的。 最重要的是，面对这个跌落地窖、身中深渊魅毒、被教廷高层背叛而即将堕落的绝美圣女，身为0属性流民的林恩觉得，他必须得做点什么了。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4b7466a3a38ffd814d8d10447ff84d33~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=d3%2FxHCVMrpyT0jU9i%2BWJ3pEUHaY%3D",
-        "url": "https://fanqienovel.com/page/7657959468558191678"
+        "title": "领主：从猎人卡开始",
+        "author": "吃青菜的白狼",
+        "reads": "6.1万",
+        "intro": "（西幻、领主、卡牌、建造、种田、驯兽、慢热） 李察德来到了一个中世纪时代的奇幻世界，这里有神奇的卡牌，让人能够获得超凡的力量。 蓝色骑士卡——让人化身战场坦克，于万军之中取敌将首级。 蓝色游侠卡——万箭从中过，片叶不沾身。 蓝色驯兽师卡——一人即一军，有什么话跟我的宠物说去吧。 不过并不是所有的卡牌都那么强大。 李察德出生在自由王国黑马领，是黑马领男爵的第三子，在成年礼上只获得了一张白色猎人卡，又没有领地继承的他，毅然决然选择了荒凉穷苦的北境，建立自己的领地。 起初他只想在这个世界上有自己的一番容身之所，但渐渐的他发现…… 饥饿的狼群、野蛮且强大的山民、游荡的枭兽、神秘且可怕的女巫。 面对多种多样的危机，李察德从一个小营地开始，建立篝火、房屋、围墙、农田、磨坊，逐渐变成一个小村庄，吸纳奴隶、招纳超凡者，北境渐渐多出了一位强大的领主。 多年之后，南方王国的贵族们蓦然回首，北方一个庞然大物正居高临下，俯视众生。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51d67f06727f5b181d07f05ed315e7c7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=7X50krIkOz0YkRVH%2Bcdw3rg%2FruM%3D",
+        "url": "https://fanqienovel.com/page/7559112493956598809"
       },
       {
         "title": "穿书成为反派，发现剧情早就崩了",
         "author": "寒雨连江L",
-        "reads": "5.6万",
+        "reads": "5.9万",
         "intro": "【西幻】+【轻松愉快（应该吧）】+【多女主】+【魔法】+【梦到什么写什么】 （节奏慢见谅）（评分刚出，感觉也不一定涨） 顾陌穿越成了小说的最终大反派：克维恩·塞缪尔。 但令他头疼的是无论在哪条世界线小说的结局都是克维恩的死亡。 为了方便自己活下去，同时抵达最完美的HE，克维恩决定提前介入小说剧情。 因此他打算进入魔法学院，以此来把握剧情走向。 但是—— 突然被俘虏的魔族小公主想要报答你的救命之恩， 终将丧命于钟塔的吸血学姐企图投喂你， 梦想拯救世界的教会圣女试图招募你为伙伴， 高贵的帝国皇女询问你是否愿意和她一起君临天下…… 诶，甚至还开出了隐藏款的病娇角色。 …… 对于以上种种，发现剧情早已偏移原著的克维恩表示—— “其实，我只是想活过大结局。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ddee339f9c38dee989a7a49df9afc8c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=%2F17RAwG35Isvm4RG1PWNdyHp1ZU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ddee339f9c38dee989a7a49df9afc8c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=%2FZ3auAAD51qB%2FaIRbdfoD%2BqZcBI%3D",
         "url": "https://fanqienovel.com/page/7548415343346060313"
+      },
+      {
+        "title": "文字冒险：开局酒馆地窖偶遇圣女",
+        "author": "杂鱼小将",
+        "reads": "3.8万",
+        "intro": "【文字游戏】【影响现实】【西幻】【杀伐果断】【多女主】【DND】 林恩无意间下载了一款名为《苍白印记》的文字冒险游戏。 他震惊地发现，这个画风复古硬核的小游戏，逼真离奇，甚至于，在游戏里获得的超凡属性与魔法，还会完美同步到现实世界。 而在创建角色时，他不仅抽到了必死的高危身份，还觉醒了唯一专属命格，以初始全属性归0为代价，他可以随时动态调配属性，并且能看穿游戏里所有的致命陷阱与隐藏奇遇！ 【智力检定通过！触发白银级奇遇‘阴影舞者的遗恨’，学会潜行神技‘阴影亲和’。】 【敏捷检定通过！触发黄金级奇遇‘神陨之地的尘埃’，夺取‘神格碎片’，领悟‘晨曦与余烬呼吸法’……】 【体质检定通过！触发史诗级奇遇‘背叛的黎明’……】 当然了，这些其实都不是最重要的。 最重要的是，面对这个跌落地窖、身中深渊魅毒、被教廷高层背叛而即将堕落的绝美圣女，身为0属性流民的林恩觉得，他必须得做点什么了。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4b7466a3a38ffd814d8d10447ff84d33~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=mnbpt0hcBCSiiGLi%2BNDlS2TZ1sQ%3D",
+        "url": "https://fanqienovel.com/page/7657959468558191678"
+      },
+      {
+        "title": "强制扮演圣女的我渴望被魔王支配",
+        "author": "兔神",
+        "reads": "3.9万",
+        "intro": "［西幻+圣女×魔王+百+轻松日常+反差人设+内心戏超多］ 穿越维洛利亚大陆，洛璃绑定圣女扮演系统，被迫扮演千年完美圣洁圣女。 千年里她无偿为村民治病、修屋、送粮，分文不取，日日只能啃干面包、喝寡淡土豆汤，连一口肉都碰不到。 所有人都赞颂她慈悲无私，无人知晓这位万人敬仰的圣女，内心早已彻底崩坏。 日复一日无止境的无偿付出，让她满心怨怼，日夜盼着传说中的魔王现身，将她掳走、脱离苦海。 本以为只是无望妄想，深夜魔王诺克西娅竟真的踏碎村庄夜色降临。 以全村人性命相逼，要带她离开。 表面上洛璃沉默隐忍，一副被迫牺牲的为难模样； 内心却疯狂狂喜：太好了！这下顺理成章被魔王带走，终于不用再当免费苦力圣女。 系统：强制维持圣洁人设！ 洛璃（内心痴笑）：终于来了吗？我的魔王大人！ ……",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o80dd4cc8b23ccb5ce3e4caf9d737c56c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=pnCMAHnteg7VzHZqpCnPnGH8D%2B8%3D",
+        "url": "https://fanqienovel.com/page/7652605044130335769"
       },
       {
         "title": "从词条开始的奇幻冒险",
         "author": "雪糕烩面",
         "reads": "4.4万",
         "intro": "【系统】+【多女主】+【冒险】+【词条】 李维穿越了。 穿进了一个剑与魔法的异世界，成为了一名刚踏上旅途的冒险者。 作为一名穿越者，他不仅天赋异禀，运气更是好到爆表，堪称梦幻开局。 想必接下来的冒险之旅会一帆风顺吧？ 那么，接下来，就让我们看看他将要面对的敌人——拥兵自重、试图复兴魅魔一族的魅魔女爵，因背叛而陷入疯狂的灭世魔女！ 还有堕落天使、七罪魔王、病娇女神…… 我打神明？ 尊嘟假嘟！ 幸运的是，李维激活了每日词条系统！ 每天零点，他都能抽取一个词条——不仅能强化自身，还能为任意单位添加词条效果。 【哥布林杀手：我要把哥布林一个不留地驱逐出去！】 【死亡之翼：死亡女神变成了我的翅膀！】 【圣光：净化一切！】 【圣杯：……】 当魔族大军兵临城下时，李维看向精灵女王，微笑开口： “女王陛下，您也不想精灵之森亡国吧？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oda4cbf5e1bc353391988fcbdff27c34d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=AZAZ3tF9qpU29SmEmYPT%2FdoLpSg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oda4cbf5e1bc353391988fcbdff27c34d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=Ct3hzRULQLaoh70Zcgsm2Tnlys0%3D",
         "url": "https://fanqienovel.com/page/7656617278305209406"
       },
       {
-        "title": "领主：从猎人卡开始",
-        "author": "吃青菜的白狼",
-        "reads": "5.7万",
-        "intro": "（西幻、领主、卡牌、建造、种田、驯兽、慢热） 李察德来到了一个中世纪时代的奇幻世界，这里有神奇的卡牌，让人能够获得超凡的力量。 蓝色骑士卡——让人化身战场坦克，于万军之中取敌将首级。 蓝色游侠卡——万箭从中过，片叶不沾身。 蓝色驯兽师卡——一人即一军，有什么话跟我的宠物说去吧。 不过并不是所有的卡牌都那么强大。 李察德出生在自由王国黑马领，是黑马领男爵的第三子，在成年礼上只获得了一张白色猎人卡，又没有领地继承的他，毅然决然选择了荒凉穷苦的北境，建立自己的领地。 起初他只想在这个世界上有自己的一番容身之所，但渐渐的他发现…… 饥饿的狼群、野蛮且强大的山民、游荡的枭兽、神秘且可怕的女巫。 面对多种多样的危机，李察德从一个小营地开始，建立篝火、房屋、围墙、农田、磨坊，逐渐变成一个小村庄，吸纳奴隶、招纳超凡者，北境渐渐多出了一位强大的领主。 多年之后，南方王国的贵族们蓦然回首，北方一个庞然大物正居高临下，俯视众生。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51d67f06727f5b181d07f05ed315e7c7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=OX7RXNN6jIVW5SPEXfkE9Jpjy4s%3D",
-        "url": "https://fanqienovel.com/page/7559112493956598809"
+        "title": "干翻中世纪，从纯情治安官开始",
+        "author": "角鼠",
+        "reads": "4.1万",
+        "intro": "穿越到中世纪，雇佣骑士之子苏诺，成了一名底层治安官。 铲除黑帮、维护治安、保护弱女子，每日干得风生水起。 可时代的浪潮不等人。 王国需要他，民众需要他，寡妇、公主、萝莉、贵妇们需要他，苏诺扛起大剑冲鸭！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obf262408d0092f90abe2f96d9cc97fdc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=L1S%2Bay5QCcCEgEXfsxC%2Fn%2BXpOm0%3D",
+        "url": "https://fanqienovel.com/page/7655512354242710552"
       },
       {
-        "title": "萝莉加护什么鬼？我又不是萝莉控",
-        "author": "黑胡椒太郎",
-        "reads": "2.4万",
-        "intro": "萝莉，我要几个萝莉，这么大的萝莉！ 穿越到西幻游戏世界里带着主角模板，陈青打算不按剧情走，玩出二周目。 开局救下精灵王国的二公主，并成功人士签订契约，绑定亲属关系！ 开始踏上冒险～ 什么叫我不怕被电，抱歉我有免疫雷电加护！ 简介无力，进来看看便知。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o008a9e35c59f6c57480e8c262e134102~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=vZEXotEnE8b2VjAhPhmHS687k5o%3D",
-        "url": "https://fanqienovel.com/page/7656759348302990360"
-      },
-      {
-        "title": "夭寿！刚穿越就被魅魔包围了？",
-        "author": "拥一生入怀",
-        "reads": "3.4万",
-        "intro": "李沐风加班猝死，发现自己穿越了！ 再睁眼，他发现身边全是极品魅魔！ 这可是吃人不吐骨头的绝地，凡人落入必死无疑，殊不知... 危急时刻，李沐风觉醒系统，与恶魔互动就能获得神级奖励！ 【叮！被魅魔投喂，激活神级万物为补药！】 【叮！与魅魔同住，获亿万元素绝对免疫！】 【叮！抚摸猫耳兽，觉醒无上精神领域！】 李沐风机缘不断，一路碾压逆袭成深渊主宰！ 若干年后，九阶魅魔族长跪求：王，今天该赐予我力量了吧？ 李沐风：抱歉，你先排队取号吧！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o568741e542e93204f44bf067e6d1f0d4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=9oSoK8fDQB4El%2BngNLEq95N4J1c%3D",
-        "url": "https://fanqienovel.com/page/7657022451011816473"
+        "title": "据帝国幼态法，与精灵恋爱，电刑",
+        "author": "清水有点忙",
+        "reads": "2.8万",
+        "intro": "【西幻】【变身】【慢堕】【多种族】 … 当龙傲天的剧本变成凤傲天会怎样？ 木棉不知，只是一味地攥紧小裙子，楚楚可怜的看向眼前的羞萝场。 大姐姐实在是太多了！！！！ 她一个男生，怎么会变成香香软软的精灵啊！！这种事你叫她怎么接受？ 变成精灵也就算了，怎么种族天赋也奇奇怪怪的？ 她一个精灵觉醒了科技树…这怎么看都有问题吧？ … 教皇国公主：“哟，这不是为天下人敬仰的炼金大师嘛，怎么哭起来这么可爱？” 龙族小公主：“吾之配偶哟，命你现在帮吾按摩！” 血族萝莉：“木木酱的血真是百喝不腻呢…” 狐族圣女：“夫君，告诉妾身，这些都是谁好么？” 魔族神族…… … 每天零点准时更新，偏剧情，不会上来疯狂贴贴，采用分卷，方便阅读 本书慢堕，慢堕，慢堕！！ 百万长篇，节奏偏缓，还请各位读者宝宝谅解 不会上来几百字就哐哐变妹，然后从头贴贴到尾，哒咩，这是不会的！ … 目前进度：一卷将结束",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o571db5c39d27c5fc5f2743976c74c775~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=BH%2FJnU9gyOhZPV9uppGzEnVAwY0%3D",
+        "url": "https://fanqienovel.com/page/7658561533282094105"
       }
     ]
   },
@@ -227,221 +232,226 @@
     {
       "name": "西方奇幻",
       "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
+        "new_count": 2,
+        "dropped_count": 2,
         "new_books": [
-          "领主：从猎人卡开始"
+          "干翻中世纪，从纯情治安官开始",
+          "据帝国幼态法，与精灵恋爱，电刑"
         ],
         "dropped_books": [
           {
-            "title": "西幻不该这样的？",
-            "intro": "别人穿越西幻。征服世界，退队流，修罗场，白月光，学院流，反派自救…身边全部是妹妹姐姐未婚妻勇者魔女圣女女神精灵亚人。 自己穿越。迷路到边境每天砍砍砍，队友长相狰狞的怪物，酒友邋遢的乞丐，信友讨论亵渎神"
+            "title": "萝莉加护什么鬼？我又不是萝莉控",
+            "intro": "萝莉，我要几个萝莉，这么大的萝莉！ 穿越到西幻游戏世界里带着主角模板，陈青打算不按剧情走，玩出二周目。 开局救下精灵王国的二公主，并成功人士签订契约，绑定亲属关系！ 开始踏上冒险～ 什么叫我不怕被电，"
+          },
+          {
+            "title": "夭寿！刚穿越就被魅魔包围了？",
+            "intro": "李沐风加班猝死，发现自己穿越了！ 再睁眼，他发现身边全是极品魅魔！ 这可是吃人不吐骨头的绝地，凡人落入必死无疑，殊不知... 危急时刻，李沐风觉醒系统，与恶魔互动就能获得神级奖励！ 【叮！被魅魔投喂，"
           }
         ],
         "top_risers": [
           {
-            "title": "穿书成为反派，发现剧情早就崩了",
+            "title": "领主：从猎人卡开始",
             "change": "+4"
           },
           {
-            "title": "领主巫师：从无限魔晶开始求学！",
-            "change": "+1"
+            "title": "夫人：你疯了吧？你管这叫叠装备",
+            "change": "+3"
           },
           {
-            "title": "开局被魅魔收养，异世界尽情攻略",
+            "title": "魔王叫我小同志，那就是世界错了",
             "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "这个恶龙不一样，丰饶巨龙！！！",
-            "change": "-2"
+            "title": "强制扮演圣女的我渴望被魔王支配",
+            "change": "-3"
           },
           {
-            "title": "魔王叫我小同志，那就是世界错了",
+            "title": "领主巫师：从无限魔晶开始求学！",
             "change": "-1"
           },
           {
-            "title": "强制扮演圣女的我渴望被魔王支配",
+            "title": "这个恶龙不一样，丰饶巨龙！！！",
             "change": "-1"
           }
         ],
         "reads_growth": [
           {
-            "title": "人在诡异，靠第四天灾登顶至高",
-            "growth": "+1.7万"
-          },
-          {
-            "title": "开局被魅魔收养，异世界尽情攻略",
+            "title": "夫人：你疯了吧？你管这叫叠装备",
             "growth": "+7000"
           },
           {
-            "title": "夫人：你疯了吧？你管这叫叠装备",
-            "growth": "+5000"
+            "title": "开局被魅魔收养，异世界尽情攻略",
+            "growth": "+4000"
+          },
+          {
+            "title": "领主：从猎人卡开始",
+            "growth": "+4000"
           }
         ],
-        "summary": "**🔥 题材趋势** 领主种田与恶役/魔王题材占据主流，融合学院、巨龙、魅魔等经典元素，西幻缝合怪趋势明显。\n**📖 读者偏好** 偏好“金手指+经营养成”的爽感组合，对评分波动容忍度高，标签中“多女主”“轻松”“杀伐果断”出现频率高。\n**🆕 新上榜作品** 《领主：从猎人卡开始》以卡牌+领主+种田切入，延续热门框架，首日冲榜表现亮眼。\n**📉 掉出榜单** 《西幻不该这样的？》主打多元缝合与修罗场，但概念过杂，缺乏清晰核心卖点，未能稳住热度。\n**💡 值得关注** 非人主角与反套路设定（恶龙、魔王、圣女）持续吸量，但需强化单一记忆点以区别于同类。"
+        "summary": "**🔥 题材趋势** 领主种田、恶役/反派、变身等元素混合，西幻+游戏化设定流行，轻松搞笑与反差人设成为主流卖点。\n**📖 读者偏好** 读者对“评分刚出”容忍度高，偏爱脑洞大开、节奏轻快的故事，对金句标题和标签化简介接受能力强。\n**🆕 新上榜作品** 《干翻中世纪》以治安官底层视角切入，强调逆袭爽感；《据帝国幼态法》以变身精灵+科技树制造新噱头。\n**📉 掉出榜单** 两部魅魔/萝莉题材开局相似，缺乏新鲜设定，热度回落。\n**💡 值得关注** 《魔王叫我小同志》凭金句出圈，在读稳定；领主类多本霸榜，子类竞争激烈但头部集中。"
       },
       "books": [
         {
-          "title": "领主巫师：从无限魔晶开始求学！",
-          "author": "长安轩",
-          "reads": "30.8万",
-          "intro": "【学院】+【领主巫师】+【种田】+【开荒】+【精灵】+【巨龙】 【特色一：地图大！ 四大大陆之—万族大陆：人类开发率仅有百分之一，且比例还在不断缩小。】 【特色二： 因精灵与精灵圣树而诞生的—小精灵：可以批量种植魔植，粮食！ 因巨龙一族栖息而伴生的矿藏。 以及因人类巫师而诞生的时代主角“领主巫师”职业！】 现代大学生“韦恩”携带金手指，偶然穿越到，“剑与魔法”世界。 在这个广袤无垠的“圣域世界”，精灵与生命圣树交织， 巨龙与骑士翱翔天空，巫师追寻着真理！ 万族在这里繁衍生息。 金手指：【无限栏】：每晋升一级，解锁一个格子，放入一件物品，可以达成物品无限！（举例：极品魔晶*♾️）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od0b7597a4ea34d1189573138296d4eaf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=yl382Ny6J%2BvDzgowtIqBPy9e%2FJs%3D",
-          "url": "https://fanqienovel.com/page/7653392559628094488"
-        },
-        {
           "title": "魔王叫我小同志，那就是世界错了",
           "author": "风蝉鸣",
-          "reads": "31.1万",
+          "reads": "29.9万",
           "intro": "【刚开分后面会涨】秦恒被召唤到异世界成为勇者，击败魔王后，魔王叫我小同志，他都叫我小同志了，那能是他的错吗？那一定是世界的错！ PS:本书单或者无女主。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o302cd2fa5839ab4d467d4506142598ca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=XjdqAxi%2BjhB9s06JNkpzj5jS1Mw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o302cd2fa5839ab4d467d4506142598ca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=3VssyS8AxVeNItDpDnzE571lx%2Bk%3D",
           "url": "https://fanqienovel.com/page/7657525266855513112"
+        },
+        {
+          "title": "领主巫师：从无限魔晶开始求学！",
+          "author": "长安轩",
+          "reads": "31.1万",
+          "intro": "【学院】+【领主巫师】+【种田】+【开荒】+【精灵】+【巨龙】 【特色一：地图大！ 四大大陆之—万族大陆：人类开发率仅有百分之一，且比例还在不断缩小。】 【特色二： 因精灵与精灵圣树而诞生的—小精灵：可以批量种植魔植，粮食！ 因巨龙一族栖息而伴生的矿藏。 以及因人类巫师而诞生的时代主角“领主巫师”职业！】 现代大学生“韦恩”携带金手指，偶然穿越到，“剑与魔法”世界。 在这个广袤无垠的“圣域世界”，精灵与生命圣树交织， 巨龙与骑士翱翔天空，巫师追寻着真理！ 万族在这里繁衍生息。 金手指：【无限栏】：每晋升一级，解锁一个格子，放入一件物品，可以达成物品无限！（举例：极品魔晶*♾️）",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od0b7597a4ea34d1189573138296d4eaf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=WJA%2FHHgF9vLbhHzSpCEdVoA0HAk%3D",
+          "url": "https://fanqienovel.com/page/7653392559628094488"
         },
         {
           "title": "领主：开局捡个落魄圣域老骑士",
           "author": "爱吃醋的菠萝",
-          "reads": "16.7万",
+          "reads": "15.7万",
           "intro": "【评分刚出，后续会涨】马丁穿越剑与魔法的魔幻世界，觉醒独一份的神级金手指“本源补全。” 世间无数骑士与法师，或是天资受限卡在境界终身难进半步，或是征战一生根基受损，修为永久定格，余生再无寸进可能。 可只要马丁动用本源之力，便能彻底撕碎桎梏，补全残缺根基，让这群早已走到人生尽头的强者，重回甚至超越当年最巅峰的状态。 唯一条件，便是签下心魂契约，此生永世归其麾下，奉他为主。 整片大陆各大势力争先恐后，砸下重金资源拉拢十几岁崭露头角的年轻天骄，争相培育新生代后辈。 唯独马丁反其道而行，旁人追捧冉冉升起的朝阳新锐，他却只偏爱这些寿命将尽，实力尽失的老头老太。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o54fa6e523fd4cb09b488d9002577a512~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=6xKtkU%2BK5g1c12cSF4SDspOGHwc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o54fa6e523fd4cb09b488d9002577a512~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=uMk3MyBt8oNh4otSGlw%2BXDG2Y5o%3D",
           "url": "https://fanqienovel.com/page/7653621583281392665"
         },
         {
           "title": "希腊神话：从成为微风之神开始",
           "author": "霜火",
-          "reads": "15.7万",
+          "reads": "14.8万",
           "intro": "评分今天刚出，5.9分会涨的 【神力体系更改】【神战！】【多世界】【多女主】【父母健在】【有点慢热】 微风之神——飓风之神——风暴之神——天灾之神（自然系剧情线） 一朝穿越，成为了本不应该存在的东风神欧洛斯之子。 肉体凡胎、孱弱无比。 最悲催的是，直到成神，他才觉醒了前世的记忆。 此时正值宙斯反抗第二代神王克洛诺斯的时期。 命运不定、一切未知。 卡纳斯将一步步攀登，铸就属于自己的永恒史诗。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3723a6f1664551891ea3b03e25885949~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=w0L8c5xGt4Xbw%2B0RG7vFkMTdAps%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3723a6f1664551891ea3b03e25885949~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=pYLd4DqloVrv7xUqu1ktgVSUHP8%3D",
           "url": "https://fanqienovel.com/page/7655292620943412248"
         },
         {
           "title": "开局被魅魔收养，异世界尽情攻略",
           "author": "夜满星空",
-          "reads": "11.6万",
+          "reads": "12万",
           "intro": "【多女】【轻松日常】【各种族】 　　林羽穿越后，被善良的魅魔收养，并有两个不太欢迎的养女姐姐。 　　可寄宿才两天半就收到了增加赋税的消息。 　　“太太，你们家的情况不容乐观，交不出税，恐怕就要被赶出小镇了。” 　　面对满脸愁容的魅魔，【旅行信件】降临。 　　寄信就能得到奖励？ 　　看着面板上唯一可寄出的目标，林羽写下了第一封信… …… ……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o66403f78d94e001dbee9a2db9ccad0e9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=IntKJ2%2FFtRHCXr2ZxB55JMvKXNI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o66403f78d94e001dbee9a2db9ccad0e9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=hEd%2Bj%2BFor1NvaVujgHG9ylJV0RE%3D",
           "url": "https://fanqienovel.com/page/7657823884200119358"
         },
         {
           "title": "恶役领主只想洗白上岸",
           "author": "狐望星",
-          "reads": "8.2万",
+          "reads": "8.3万",
           "intro": "【标签：恶役领主】【评分刚出，会涨的～】 　　【介绍：威风八面杀气飘，种地所得全上交！商人税收九十五，我的手段你清楚！ 　　砍世界树，令天地倒悬；建黑兽佣兵团使八要塞沦陷；引圣女恶堕，教唆公主兵变，纯纯带恶人！】 　　“我有这么坏吗？” 　　罗兰·巴尔看着头顶的标签陷入沉思。 　　...... 　　...... 　　【关键词：西幻缝合怪、骑砍、领主、哈利·波特、兵种升级树】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6bc461eb8f7d5b9b713c9df9f1cd13cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=SW1Ne62Y7kRHvUaBsskUINDLiA8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6bc461eb8f7d5b9b713c9df9f1cd13cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=SFazYZzAl49LqcIe9zKzU8AbU4Q%3D",
           "url": "https://fanqienovel.com/page/7623384483550465049"
+        },
+        {
+          "title": "夫人：你疯了吧？你管这叫叠装备",
+          "author": "墨鹤歆",
+          "reads": "9.7万",
+          "intro": "【年上熟女系＋领主＋多种族＋胎穿＋剑与魔法＋争霸】 先说结论：亚纶现在很慌，非常慌。 胎穿到这个剑与魔法的世界已经十八年，身为家族的嫡长子，本来以为猥琐发育到接替伯爵之后，自己就能混的风生水起。 但没想到就在亚纶十八岁生日的舞会上，他被自己同父异母的弟弟以身入局，献祭自己的母亲，将亚纶拉下了水。 当亚纶睁看眼看到眼前美妇人的时候，整个人都炸了。 果不其然，自己的继承人身份被剥夺，被派去和魅魔联姻。 但就在这时系统终于到账了，那些女人头上的神装竟然可以拿下来。 【梅贾的窃魂卷已掉落！】 【装备神眷者：萨曼莎夫人】 【击杀一人可叠一层，一层提供10点魔力值，与神眷者修炼每次可叠十层。】 第二天亚纶找到了自己的贴身女仆，薇洛。 她头上的装备也被取下。 【神秘之剑已掉落！】 ………… 亚纶发现，装备的品质似乎和……于是……",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42e9896396e6fb8707740c3040b2bf46~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=vFX8achuo08V6FCozuCSG7Kc5Uw%3D",
+          "url": "https://fanqienovel.com/page/7660481490089692185"
         },
         {
           "title": "这个恶龙不一样，丰饶巨龙！！！",
           "author": "书芙",
           "reads": "7.7万",
           "intro": "【巨龙+丰饶+种田+杀伐果断+半群像】【新书评分刚出，后续会涨！】 维里迪安又又穿越了，一世地球普通人，二世丰饶行者，三世一条行走在丰饶命途的绿龙。 一条中立守序的绿龙，一条不一样的绿龙。 落日森林未来的领主、半精灵未来的救世主、赐于万族平等的王、未来的丰饶神龙、龙母又一不孝子。 一切的一切，皆源于那一天的故事。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oec2480291173ecfb73d1a460defdb0bc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=UnvrSbtgpYapxKW22FJBHgRYtms%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oec2480291173ecfb73d1a460defdb0bc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=Rpkbg7ZFCyJxgHjKEkB2Ip34Fb8%3D",
           "url": "https://fanqienovel.com/page/7656758996287622169"
         },
         {
           "title": "天才教授只想逃离帝国学院",
           "author": "用户20741409",
-          "reads": "7.6万",
+          "reads": "7.7万",
           "intro": "【西幻+学院+搞笑+迪化+反差+爽文】 在异世界奋斗多年，李安觉醒了前世的记忆。 醒来第一天，他就发现自己成了帝国学院的教授——七险十五金、朝十晚四、周末双休、年假九十天，地位堪比贵族。 但更要命的是，这里是学院流网文世界！ 恐怖袭击、恶魔渗透、最终BOSS盯上学校……随便哪一条都是教授绞肉机！ “辞职！立刻辞职！这哪是铁饭碗，这是自杀啊！” 为了安全下岗，李安开启了自己的“被开除计划”： 面试时当众歧视考生，结果考生是恶魔卧底； 开课时故意刁难学生，结果挖出帝国最大灵脉； 剑术课上胡言乱语“用心挥剑”，结果学生一剑斩出个剑圣； 贪污公款想坐实罪名，结果学生集体高呼“忠诚”…… 他越想被开除，越被当成救世主。 全班学生（泪流满面）：教授的身体早已千疮百孔，却还在传授我们无上剑术！ 铁血前辈（老泪纵横）：高风亮节、以理服人这才是真正的师德啊！ 帝国学院（高呼“忠诚”）：你不喜欢李安教授？该死的恶魔竟然伪装成人类！！ 从“想润的咸鱼教授”到“李*帝国最强*勇者之师*高风亮节*巨龙骑士*桃李天下*安”，李安的每一次被开除计划都成了史诗级名场面。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9fa07068ffbb3cee3699ccc71a059360~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=DHEgMExvshlzHEfHVfrS09%2BKC8Q%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9fa07068ffbb3cee3699ccc71a059360~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=qvXNo48LBCMCne74gXIDpdG90BE%3D",
           "url": "https://fanqienovel.com/page/7659755523104853017"
         },
         {
           "title": "人在诡异，靠第四天灾登顶至高",
           "author": "我时糕手",
-          "reads": "8.5万",
+          "reads": "8.7万",
           "intro": "(评分刚出，后面会涨的！) 穿越到诡异横行的异界，林恩发现自己成了一尊神力枯竭，即将消散的野鸡伪神。 教堂外，不可名状的恐怖怪物正在撞门，绝望的倒计时开始。 为了自救，林恩咬牙捏造了一款名为《古神苏醒》的全息VR网游，从蓝星召唤了一批硬核玩家当信徒。 本以为这群玩家会在诡异的折磨下瑟瑟发抖，结果事情的发展完全失控了…… 玩家A（狂热）：“兄弟们，这只无头恶灵的物理碰撞体积有BUG，快拿门板卡住它，轮流刮痧拿首杀！” 玩家B（兴奋）：“这旧日支配者的触手有掉落判定！生吃能加5点毒抗，快来咬！” 玩家C（沉思）：“只要我们把这个镇子的NPC全绑了，邪教徒就找不到献祭目标，这叫逻辑通关！” …… 看着门外被玩家们活活吓疯的诡异怪物，以及本地土著们无比敬畏，将其奉为“至高混沌之主”的疯狂眼神。 端坐在神座上的林恩表面威严无上，内心慌如老狗： “别乱脑补了，我真不是什么不可名状的源头，我只是没拦住这群第四天灾啊！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o38e0ac3221c93d255029503b040bb825~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=R%2BgEQXZbfmD1mIohDTEuZoNYkCI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o38e0ac3221c93d255029503b040bb825~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479167&x-signature=aBKkfGAwvyqUg3fDO9wWhfyWVHg%3D",
           "url": "https://fanqienovel.com/page/7654593151348247614"
-        },
-        {
-          "title": "夫人：你疯了吧？你管这叫叠装备",
-          "author": "墨鹤歆",
-          "reads": "9万",
-          "intro": "【年上熟女系＋领主＋多种族＋胎穿＋剑与魔法＋争霸】 先说结论：亚纶现在很慌，非常慌。 胎穿到这个剑与魔法的世界已经十八年，身为家族的嫡长子，本来以为猥琐发育到接替伯爵之后，自己就能混的风生水起。 但没想到就在亚纶十八岁生日的舞会上，他被自己同父异母的弟弟以身入局，献祭自己的母亲，将亚纶拉下了水。 当亚纶睁看眼看到眼前美妇人的时候，整个人都炸了。 果不其然，自己的继承人身份被剥夺，被派去和魅魔联姻。 但就在这时系统终于到账了，那些女人头上的神装竟然可以拿下来。 【梅贾的窃魂卷已掉落！】 【装备神眷者：萨曼莎夫人】 【击杀一人可叠一层，一层提供10点魔力值，与神眷者修炼每次可叠十层。】 第二天亚纶找到了自己的贴身女仆，薇洛。 她头上的装备也被取下。 【神秘之剑已掉落！】 ………… 亚纶发现，装备的品质似乎和……于是……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42e9896396e6fb8707740c3040b2bf46~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392338&x-signature=cIEqNIx23oa3TL3j5LloqsRwaYw%3D",
-          "url": "https://fanqienovel.com/page/7660481490089692185"
-        },
-        {
-          "title": "魔龙与地下城：恶龙请求出狱",
-          "author": "骷髅殿的五帝龙",
-          "reads": "5.7万",
-          "intro": "【西方奇幻，非人主角，地下城，魔龙，经营，幕后】 曾经令世界恐惧的灭世魔龙在被封印了不知多少岁月后醒来，一脸迷茫。 因为他被夺舍了。 又或者叫被穿越了。 周淼前世是个普普通通的游戏策划，没想到被泥头车送到了一个多种族的西方奇幻世界。 好消息，他成为了一头强大的魔龙。 坏消息，他被封印了，需要勇者神器才能解封。 为了自由，他开始想办法收集勇者的神器，并蛊惑冒险者们出卖灵魂。 他把头顶因自己力量辐射形成的地下生态改成了地下城，还给冒险者们创造了面板系统。 于是，更多的冒险者趋之若鹜，争着抢着出卖灵魂给魔龙，只为拥有自己的面板。 周淼表示，自己不想再步原来那头疯子魔龙的后尘，但多年以后，自己还是无奈地成为了大陆的真正幕后主人。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9837552177b7fce8bb775aa3ad90d3d7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=qa%2BNfvQhJwU2cIxcUYrC08ykA4w%3D",
-          "url": "https://fanqienovel.com/page/7656293050431327256"
         },
         {
           "title": "西幻：从变身少女开始重甲大剑",
           "author": "夕阳下的砂纸",
           "reads": "5.8万",
           "intro": "（分刚出，可能会涨）【变身+单身】【西式奇幻】【公路冒险】【西幻大杂烩】 意外穿越成妈死爹赌的苦逼少女，还绑定了本狗血的虐恋指南。 罗希抗议：“我特么钢铁勇士，变女就算了，还让我虐恋？要不你先死一死？” 虐恋指南当场变成冒险指南。 完成冒险就能获得词条、技能、职业专精…… 罗希就此走上无尽的冒险道路。 什么苦情戏码，和老子的大剑说去吧。 （反正不要钱，多少看一点呗）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0d01d10d1864368b8d8e3c6354a3ed04~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=xBKUQsE7yjJ%2BzAgWGLZ299DoFVo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0d01d10d1864368b8d8e3c6354a3ed04~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=lvcADbnav0Un78k1Qrt5dhlCsZo%3D",
           "url": "https://fanqienovel.com/page/7657231701696842777"
+        },
+        {
+          "title": "魔龙与地下城：恶龙请求出狱",
+          "author": "骷髅殿的五帝龙",
+          "reads": "5.8万",
+          "intro": "【西方奇幻，非人主角，地下城，魔龙，经营，幕后】 曾经令世界恐惧的灭世魔龙在被封印了不知多少岁月后醒来，一脸迷茫。 因为他被夺舍了。 又或者叫被穿越了。 周淼前世是个普普通通的游戏策划，没想到被泥头车送到了一个多种族的西方奇幻世界。 好消息，他成为了一头强大的魔龙。 坏消息，他被封印了，需要勇者神器才能解封。 为了自由，他开始想办法收集勇者的神器，并蛊惑冒险者们出卖灵魂。 他把头顶因自己力量辐射形成的地下生态改成了地下城，还给冒险者们创造了面板系统。 于是，更多的冒险者趋之若鹜，争着抢着出卖灵魂给魔龙，只为拥有自己的面板。 周淼表示，自己不想再步原来那头疯子魔龙的后尘，但多年以后，自己还是无奈地成为了大陆的真正幕后主人。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9837552177b7fce8bb775aa3ad90d3d7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=Aa8Avt1zlIR%2BCXWZV9x1PUDXUaw%3D",
+          "url": "https://fanqienovel.com/page/7656293050431327256"
         },
         {
           "title": "穿越成魔王，结果对面勇者是死士",
           "author": "无限的CPA",
           "reads": "5.5万",
           "intro": "【穿越】+【种田】+【钢铁洪流】+【星辰大海】+【剑与魔法】 雷诺穿越二十年，突然成为魔王，刚统一魔族，人族就召唤了勇者。 召唤也就算了，为什么金牌女神下凡，把要黑化的勇者变成了死士啊？ 于是现在，魔王将要面对的是…… 拥有唯心战力，家人buff，回忆杀，气运之子，坚强意志，死亡回归，战斗圣体，一证永证，天道酬勤等诸多外挂加持的勇者大人。 魔王：嘘，可以和解吗？ 既然和解不了，那我可就要祭出真正的杀招了。 “勇者啊，我要创造一个人人平等，没有压迫，没有战争的世界，我要让无产阶级再次伟大！” “如果你是小爱，那我就是大义！” “你要面对的是，人民的力量啊！！！！！” 总而言之，这是一个赤色魔王在异界征服星辰大海的故事。 …… 金牌女神：该死的魔王，为了我的晋升，勇者召唤勇者召唤勇者召唤勇者召唤口牙！！！！！ ps：架空世界，若有任何现实技术和剧情和团体和人名和历史，纯属巧合ciallo~",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ff4a88132cb24081208ca75bf40fa0e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=dmhzWcPrJirl5xAKyEF38jLArMk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ff4a88132cb24081208ca75bf40fa0e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=GET1DcuUgDAi6B3PtvBkYe%2FiXc0%3D",
           "url": "https://fanqienovel.com/page/7653457755960790041"
         },
         {
-          "title": "强制扮演圣女的我渴望被魔王支配",
-          "author": "兔神",
-          "reads": "4.1万",
-          "intro": "［西幻+圣女×魔王+百+轻松日常+反差人设+内心戏超多］ 穿越维洛利亚大陆，洛璃绑定圣女扮演系统，被迫扮演千年完美圣洁圣女。 千年里她无偿为村民治病、修屋、送粮，分文不取，日日只能啃干面包、喝寡淡土豆汤，连一口肉都碰不到。 所有人都赞颂她慈悲无私，无人知晓这位万人敬仰的圣女，内心早已彻底崩坏。 日复一日无止境的无偿付出，让她满心怨怼，日夜盼着传说中的魔王现身，将她掳走、脱离苦海。 本以为只是无望妄想，深夜魔王诺克西娅竟真的踏碎村庄夜色降临。 以全村人性命相逼，要带她离开。 表面上洛璃沉默隐忍，一副被迫牺牲的为难模样； 内心却疯狂狂喜：太好了！这下顺理成章被魔王带走，终于不用再当免费苦力圣女。 系统：强制维持圣洁人设！ 洛璃（内心痴笑）：终于来了吗？我的魔王大人！ ……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o80dd4cc8b23ccb5ce3e4caf9d737c56c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=Cvzdqa%2F5RaqgR6g1qk%2Byyplc2nE%3D",
-          "url": "https://fanqienovel.com/page/7652605044130335769"
-        },
-        {
-          "title": "文字冒险：开局酒馆地窖偶遇圣女",
-          "author": "杂鱼小将",
-          "reads": "4.2万",
-          "intro": "【文字游戏】【影响现实】【西幻】【杀伐果断】【多女主】【DND】 林恩无意间下载了一款名为《苍白印记》的文字冒险游戏。 他震惊地发现，这个画风复古硬核的小游戏，逼真离奇，甚至于，在游戏里获得的超凡属性与魔法，还会完美同步到现实世界。 而在创建角色时，他不仅抽到了必死的高危身份，还觉醒了唯一专属命格，以初始全属性归0为代价，他可以随时动态调配属性，并且能看穿游戏里所有的致命陷阱与隐藏奇遇！ 【智力检定通过！触发白银级奇遇‘阴影舞者的遗恨’，学会潜行神技‘阴影亲和’。】 【敏捷检定通过！触发黄金级奇遇‘神陨之地的尘埃’，夺取‘神格碎片’，领悟‘晨曦与余烬呼吸法’……】 【体质检定通过！触发史诗级奇遇‘背叛的黎明’……】 当然了，这些其实都不是最重要的。 最重要的是，面对这个跌落地窖、身中深渊魅毒、被教廷高层背叛而即将堕落的绝美圣女，身为0属性流民的林恩觉得，他必须得做点什么了。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4b7466a3a38ffd814d8d10447ff84d33~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=d3%2FxHCVMrpyT0jU9i%2BWJ3pEUHaY%3D",
-          "url": "https://fanqienovel.com/page/7657959468558191678"
+          "title": "领主：从猎人卡开始",
+          "author": "吃青菜的白狼",
+          "reads": "6.1万",
+          "intro": "（西幻、领主、卡牌、建造、种田、驯兽、慢热） 李察德来到了一个中世纪时代的奇幻世界，这里有神奇的卡牌，让人能够获得超凡的力量。 蓝色骑士卡——让人化身战场坦克，于万军之中取敌将首级。 蓝色游侠卡——万箭从中过，片叶不沾身。 蓝色驯兽师卡——一人即一军，有什么话跟我的宠物说去吧。 不过并不是所有的卡牌都那么强大。 李察德出生在自由王国黑马领，是黑马领男爵的第三子，在成年礼上只获得了一张白色猎人卡，又没有领地继承的他，毅然决然选择了荒凉穷苦的北境，建立自己的领地。 起初他只想在这个世界上有自己的一番容身之所，但渐渐的他发现…… 饥饿的狼群、野蛮且强大的山民、游荡的枭兽、神秘且可怕的女巫。 面对多种多样的危机，李察德从一个小营地开始，建立篝火、房屋、围墙、农田、磨坊，逐渐变成一个小村庄，吸纳奴隶、招纳超凡者，北境渐渐多出了一位强大的领主。 多年之后，南方王国的贵族们蓦然回首，北方一个庞然大物正居高临下，俯视众生。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51d67f06727f5b181d07f05ed315e7c7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=7X50krIkOz0YkRVH%2Bcdw3rg%2FruM%3D",
+          "url": "https://fanqienovel.com/page/7559112493956598809"
         },
         {
           "title": "穿书成为反派，发现剧情早就崩了",
           "author": "寒雨连江L",
-          "reads": "5.6万",
+          "reads": "5.9万",
           "intro": "【西幻】+【轻松愉快（应该吧）】+【多女主】+【魔法】+【梦到什么写什么】 （节奏慢见谅）（评分刚出，感觉也不一定涨） 顾陌穿越成了小说的最终大反派：克维恩·塞缪尔。 但令他头疼的是无论在哪条世界线小说的结局都是克维恩的死亡。 为了方便自己活下去，同时抵达最完美的HE，克维恩决定提前介入小说剧情。 因此他打算进入魔法学院，以此来把握剧情走向。 但是—— 突然被俘虏的魔族小公主想要报答你的救命之恩， 终将丧命于钟塔的吸血学姐企图投喂你， 梦想拯救世界的教会圣女试图招募你为伙伴， 高贵的帝国皇女询问你是否愿意和她一起君临天下…… 诶，甚至还开出了隐藏款的病娇角色。 …… 对于以上种种，发现剧情早已偏移原著的克维恩表示—— “其实，我只是想活过大结局。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ddee339f9c38dee989a7a49df9afc8c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=%2F17RAwG35Isvm4RG1PWNdyHp1ZU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ddee339f9c38dee989a7a49df9afc8c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=%2FZ3auAAD51qB%2FaIRbdfoD%2BqZcBI%3D",
           "url": "https://fanqienovel.com/page/7548415343346060313"
+        },
+        {
+          "title": "文字冒险：开局酒馆地窖偶遇圣女",
+          "author": "杂鱼小将",
+          "reads": "3.8万",
+          "intro": "【文字游戏】【影响现实】【西幻】【杀伐果断】【多女主】【DND】 林恩无意间下载了一款名为《苍白印记》的文字冒险游戏。 他震惊地发现，这个画风复古硬核的小游戏，逼真离奇，甚至于，在游戏里获得的超凡属性与魔法，还会完美同步到现实世界。 而在创建角色时，他不仅抽到了必死的高危身份，还觉醒了唯一专属命格，以初始全属性归0为代价，他可以随时动态调配属性，并且能看穿游戏里所有的致命陷阱与隐藏奇遇！ 【智力检定通过！触发白银级奇遇‘阴影舞者的遗恨’，学会潜行神技‘阴影亲和’。】 【敏捷检定通过！触发黄金级奇遇‘神陨之地的尘埃’，夺取‘神格碎片’，领悟‘晨曦与余烬呼吸法’……】 【体质检定通过！触发史诗级奇遇‘背叛的黎明’……】 当然了，这些其实都不是最重要的。 最重要的是，面对这个跌落地窖、身中深渊魅毒、被教廷高层背叛而即将堕落的绝美圣女，身为0属性流民的林恩觉得，他必须得做点什么了。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4b7466a3a38ffd814d8d10447ff84d33~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=mnbpt0hcBCSiiGLi%2BNDlS2TZ1sQ%3D",
+          "url": "https://fanqienovel.com/page/7657959468558191678"
+        },
+        {
+          "title": "强制扮演圣女的我渴望被魔王支配",
+          "author": "兔神",
+          "reads": "3.9万",
+          "intro": "［西幻+圣女×魔王+百+轻松日常+反差人设+内心戏超多］ 穿越维洛利亚大陆，洛璃绑定圣女扮演系统，被迫扮演千年完美圣洁圣女。 千年里她无偿为村民治病、修屋、送粮，分文不取，日日只能啃干面包、喝寡淡土豆汤，连一口肉都碰不到。 所有人都赞颂她慈悲无私，无人知晓这位万人敬仰的圣女，内心早已彻底崩坏。 日复一日无止境的无偿付出，让她满心怨怼，日夜盼着传说中的魔王现身，将她掳走、脱离苦海。 本以为只是无望妄想，深夜魔王诺克西娅竟真的踏碎村庄夜色降临。 以全村人性命相逼，要带她离开。 表面上洛璃沉默隐忍，一副被迫牺牲的为难模样； 内心却疯狂狂喜：太好了！这下顺理成章被魔王带走，终于不用再当免费苦力圣女。 系统：强制维持圣洁人设！ 洛璃（内心痴笑）：终于来了吗？我的魔王大人！ ……",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o80dd4cc8b23ccb5ce3e4caf9d737c56c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=pnCMAHnteg7VzHZqpCnPnGH8D%2B8%3D",
+          "url": "https://fanqienovel.com/page/7652605044130335769"
         },
         {
           "title": "从词条开始的奇幻冒险",
           "author": "雪糕烩面",
           "reads": "4.4万",
           "intro": "【系统】+【多女主】+【冒险】+【词条】 李维穿越了。 穿进了一个剑与魔法的异世界，成为了一名刚踏上旅途的冒险者。 作为一名穿越者，他不仅天赋异禀，运气更是好到爆表，堪称梦幻开局。 想必接下来的冒险之旅会一帆风顺吧？ 那么，接下来，就让我们看看他将要面对的敌人——拥兵自重、试图复兴魅魔一族的魅魔女爵，因背叛而陷入疯狂的灭世魔女！ 还有堕落天使、七罪魔王、病娇女神…… 我打神明？ 尊嘟假嘟！ 幸运的是，李维激活了每日词条系统！ 每天零点，他都能抽取一个词条——不仅能强化自身，还能为任意单位添加词条效果。 【哥布林杀手：我要把哥布林一个不留地驱逐出去！】 【死亡之翼：死亡女神变成了我的翅膀！】 【圣光：净化一切！】 【圣杯：……】 当魔族大军兵临城下时，李维看向精灵女王，微笑开口： “女王陛下，您也不想精灵之森亡国吧？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oda4cbf5e1bc353391988fcbdff27c34d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=AZAZ3tF9qpU29SmEmYPT%2FdoLpSg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oda4cbf5e1bc353391988fcbdff27c34d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=Ct3hzRULQLaoh70Zcgsm2Tnlys0%3D",
           "url": "https://fanqienovel.com/page/7656617278305209406"
         },
         {
-          "title": "领主：从猎人卡开始",
-          "author": "吃青菜的白狼",
-          "reads": "5.7万",
-          "intro": "（西幻、领主、卡牌、建造、种田、驯兽、慢热） 李察德来到了一个中世纪时代的奇幻世界，这里有神奇的卡牌，让人能够获得超凡的力量。 蓝色骑士卡——让人化身战场坦克，于万军之中取敌将首级。 蓝色游侠卡——万箭从中过，片叶不沾身。 蓝色驯兽师卡——一人即一军，有什么话跟我的宠物说去吧。 不过并不是所有的卡牌都那么强大。 李察德出生在自由王国黑马领，是黑马领男爵的第三子，在成年礼上只获得了一张白色猎人卡，又没有领地继承的他，毅然决然选择了荒凉穷苦的北境，建立自己的领地。 起初他只想在这个世界上有自己的一番容身之所，但渐渐的他发现…… 饥饿的狼群、野蛮且强大的山民、游荡的枭兽、神秘且可怕的女巫。 面对多种多样的危机，李察德从一个小营地开始，建立篝火、房屋、围墙、农田、磨坊，逐渐变成一个小村庄，吸纳奴隶、招纳超凡者，北境渐渐多出了一位强大的领主。 多年之后，南方王国的贵族们蓦然回首，北方一个庞然大物正居高临下，俯视众生。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51d67f06727f5b181d07f05ed315e7c7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=OX7RXNN6jIVW5SPEXfkE9Jpjy4s%3D",
-          "url": "https://fanqienovel.com/page/7559112493956598809"
+          "title": "干翻中世纪，从纯情治安官开始",
+          "author": "角鼠",
+          "reads": "4.1万",
+          "intro": "穿越到中世纪，雇佣骑士之子苏诺，成了一名底层治安官。 铲除黑帮、维护治安、保护弱女子，每日干得风生水起。 可时代的浪潮不等人。 王国需要他，民众需要他，寡妇、公主、萝莉、贵妇们需要他，苏诺扛起大剑冲鸭！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obf262408d0092f90abe2f96d9cc97fdc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=L1S%2Bay5QCcCEgEXfsxC%2Fn%2BXpOm0%3D",
+          "url": "https://fanqienovel.com/page/7655512354242710552"
         },
         {
-          "title": "萝莉加护什么鬼？我又不是萝莉控",
-          "author": "黑胡椒太郎",
-          "reads": "2.4万",
-          "intro": "萝莉，我要几个萝莉，这么大的萝莉！ 穿越到西幻游戏世界里带着主角模板，陈青打算不按剧情走，玩出二周目。 开局救下精灵王国的二公主，并成功人士签订契约，绑定亲属关系！ 开始踏上冒险～ 什么叫我不怕被电，抱歉我有免疫雷电加护！ 简介无力，进来看看便知。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o008a9e35c59f6c57480e8c262e134102~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=vZEXotEnE8b2VjAhPhmHS687k5o%3D",
-          "url": "https://fanqienovel.com/page/7656759348302990360"
-        },
-        {
-          "title": "夭寿！刚穿越就被魅魔包围了？",
-          "author": "拥一生入怀",
-          "reads": "3.4万",
-          "intro": "李沐风加班猝死，发现自己穿越了！ 再睁眼，他发现身边全是极品魅魔！ 这可是吃人不吐骨头的绝地，凡人落入必死无疑，殊不知... 危急时刻，李沐风觉醒系统，与恶魔互动就能获得神级奖励！ 【叮！被魅魔投喂，激活神级万物为补药！】 【叮！与魅魔同住，获亿万元素绝对免疫！】 【叮！抚摸猫耳兽，觉醒无上精神领域！】 李沐风机缘不断，一路碾压逆袭成深渊主宰！ 若干年后，九阶魅魔族长跪求：王，今天该赐予我力量了吧？ 李沐风：抱歉，你先排队取号吧！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o568741e542e93204f44bf067e6d1f0d4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786392340&x-signature=9oSoK8fDQB4El%2BngNLEq95N4J1c%3D",
-          "url": "https://fanqienovel.com/page/7657022451011816473"
+          "title": "据帝国幼态法，与精灵恋爱，电刑",
+          "author": "清水有点忙",
+          "reads": "2.8万",
+          "intro": "【西幻】【变身】【慢堕】【多种族】 … 当龙傲天的剧本变成凤傲天会怎样？ 木棉不知，只是一味地攥紧小裙子，楚楚可怜的看向眼前的羞萝场。 大姐姐实在是太多了！！！！ 她一个男生，怎么会变成香香软软的精灵啊！！这种事你叫她怎么接受？ 变成精灵也就算了，怎么种族天赋也奇奇怪怪的？ 她一个精灵觉醒了科技树…这怎么看都有问题吧？ … 教皇国公主：“哟，这不是为天下人敬仰的炼金大师嘛，怎么哭起来这么可爱？” 龙族小公主：“吾之配偶哟，命你现在帮吾按摩！” 血族萝莉：“木木酱的血真是百喝不腻呢…” 狐族圣女：“夫君，告诉妾身，这些都是谁好么？” 魔族神族…… … 每天零点准时更新，偏剧情，不会上来疯狂贴贴，采用分卷，方便阅读 本书慢堕，慢堕，慢堕！！ 百万长篇，节奏偏缓，还请各位读者宝宝谅解 不会上来几百字就哐哐变妹，然后从头贴贴到尾，哒咩，这是不会的！ … 目前进度：一卷将结束",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o571db5c39d27c5fc5f2743976c74c775~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786479169&x-signature=BH%2FJnU9gyOhZPV9uppGzEnVAwY0%3D",
+          "url": "https://fanqienovel.com/page/7658561533282094105"
         }
       ]
     }
