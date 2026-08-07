@@ -1,225 +1,230 @@
 {
   "type": "东方仙侠",
-  "date": "2026-08-06",
-  "prev_date": "2026-08-05",
+  "date": "2026-08-07",
+  "prev_date": "2026-08-06",
   "category": {
     "name": "东方仙侠",
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
+      "new_count": 2,
+      "dropped_count": 2,
       "new_books": [
-        "师尊不可以，我们可是师徒啊！"
+        "自卑妈系师尊不是病娇麻麻！",
+        "洪荒巫圣传"
       ],
       "dropped_books": [
         {
-          "title": "从金丹仙族开始的老祖之路！",
-          "intro": "练气筑基起步家族的太多，想写一部关于金丹家族开始中兴的小说。 简介乏力～感兴趣的可以进来看五十章～ 【家族流】【天才流】 境界传统：练气，筑基，金丹，元婴，化神"
+          "title": "全能修仙：我们大师兄什么都会",
+          "intro": "【穿越+苟道+日常+轻松】 枕石真人：“我的大弟子不过是五行杂灵根，怎么可能是天才？” 高见素：“师父，大师兄又开发新法术了。 ” 孟挽月：“师父，你教的炼体方法我都听不懂，我还是找大师兄学吧。 ” "
+        },
+        {
+          "title": "洪荒：穿越女娲肚子，开局圣二代",
+          "intro": "封神刚打完，洪荒大地上，我成了一团出现在女娲腹中的男胎。她炼化不了我，还被我吸走了元神和修为。我刚喊了声“孩儿给娘亲请安”，她愣住了——圣人肚子里出了个打不明的活物。既来之则安之，圣二代这身份我先认了"
         }
       ],
       "top_risers": [
         {
-          "title": "洪荒：开局截胡，我成了玉帝",
-          "change": "+3"
-        },
-        {
-          "title": "洪荒：法不传六耳？我反手证混元",
+          "title": "师承玄都，绝不变成猪",
           "change": "+2"
         },
         {
-          "title": "佛门金蝉子？不，我是通天首徒！",
+          "title": "洪荒：开局截胡，我成了玉帝",
+          "change": "+2"
+        },
+        {
+          "title": "糟了，洪荒第一风流道祖藏不住了",
           "change": "+2"
         }
       ],
       "top_fallers": [
         {
-          "title": "变身小萝莉，我竟是天道傀儡？",
-          "change": "-2"
-        },
-        {
-          "title": "糟了，洪荒第一风流道祖藏不住了",
+          "title": "我只想砍死各位，或者被各位砍死",
           "change": "-1"
         },
         {
-          "title": "变身白虎娘娘，飞升后成坐骑",
+          "title": "洪荒：重生红云，人间清醒！",
+          "change": "-1"
+        },
+        {
+          "title": "洪荒杨戬，盘古第一通天代",
           "change": "-1"
         }
       ],
       "reads_growth": [
         {
-          "title": "西游，你都成了猴子还要什么挂",
-          "growth": "+1.3万"
+          "title": "洪荒：法不传六耳？我反手证混元",
+          "growth": "+1.1万"
         },
         {
-          "title": "封印神源百万年，悟性每天翻倍",
-          "growth": "+8000"
+          "title": "捡来的妹妹修仙后，回来抢亲了",
+          "growth": "+1.0万"
         },
         {
-          "title": "师承玄都，绝不变成猪",
-          "growth": "+6000"
+          "title": "洪荒：开局截胡，我成了玉帝",
+          "growth": "+1.0万"
         }
       ],
-      "summary": "**🔥 题材趋势** 洪荒/西游同人占比极高，近半数作品围绕洪荒、封神、西游展开，侧重反套路与“小人物改写大劫”。\n**📖 读者偏好** 读者热衷“苟道+逆袭+师徒禁忌”，对标题情绪化、带梗的作品点击更强；评分刚出时在读冲高，但后续留存待检验。\n**🆕 新上榜作品** 《师尊不可以，我们可是师徒啊！》新上榜，主打冲师逆徒+多女主，切中细分xp。\n**📉 掉出榜单** 《从金丹仙族开始的老祖之路！》因简介乏力、节奏偏慢跌出榜单。\n**💡 值得关注** 《洪荒：开局截胡，我成了玉帝》+3，玉帝题材配合打神鞭争夺有新意；《洪荒：法不传六耳？我反手证混元》+2，证明“六耳”相关创新设定能有效拉动热度。"
+      "summary": "**🔥 题材趋势** 洪荒/西游封神衍生持续霸榜，截教、杨戬、红云等旧角新编；变身、病娇、妈系等轻恋爱元素侵入仙侠。\n**📖 读者偏好** 读者吃“反套路+爽文”，对“单身”“多女主”等感情线标签敏感；高在读作品多为跨界融合，纯传统修仙增长乏力。\n**🆕 新上榜作品** 《自卑妈系师尊不是病娇麻麻！》《洪荒巫圣传》分别切入妈系师徒与夏末商初洪荒，题材差异化带来增量。\n**📉 掉出榜单** 《全能修仙：我们大师兄什么都会》《洪荒：穿越女娲肚子，开局圣二代》热度回落，创意点未能持续转化为留存。\n**💡 值得关注** 《师承玄都，绝不变成猪》连升2位，说明“西游+拒变猪”的强冲突梗具备持续吸读潜力。"
     },
     "books": [
       {
-        "title": "我只想砍死各位，或者被各位砍死",
-        "author": "鸿轮",
-        "reads": "26.2万",
-        "intro": "［战斗爽+杀伐果断+懒说配听+一魔辈魔］ 我是一个沉沦于杀戮的变态，但是为了避免成为那些正道的敌人，站在世界的对立面，那么就只有一条路—— 黑吃黑！ …… 魔修：“魔修怎么了？魔修就该死吗？你这么肆无忌惮的杀戮，又比魔修好到哪里去？！” 我：“我懒得跟你说道理，你不配听，跟我的天地正义人皇剑说去吧！记住！你一天是魔修，一辈子都是魔修！” …… 我：“他们是急性金属中毒，跟我一点关系也没有。什么这叫被砍死了？信不信我也让你急性金属中毒！” …… “对不起，我还以为是妖兽群呢，飞剑真刹不住车。哎呀，被你们的血雾遮住了眼睛，那是视野盲区啊！不是，正经人谁在魔域散步啊？我们也不容易呀，你说这事儿闹的。哼！那你和我的飞剑说去吧！我们都在用力的~活着~嗯？？？我都这么用力了，你怎么还活着？飞剑掉头，再砍一次！” “不知道啊！他们嘴里嚷着‘欺人太甚’，就冲过来糊在飞剑上，甩也甩不掉。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oea59b79c026f9c73720820e48f8aac31~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=KHVeAvaQyCZplPpX%2B4NCzSqS6nw%3D",
-        "url": "https://fanqienovel.com/page/7637464494632881214"
-      },
-      {
         "title": "封印神源百万年，悟性每天翻倍",
         "author": "爱吃辣的鱼",
-        "reads": "26万",
+        "reads": "24.7万",
         "intro": "陈长青身怀混沌体，伴生至宝混沌青莲，天赋万古无一，却因此界天地规则不全，无法承载他的气运，只好选择封印神源百万年，只为等待仙路重开。 没曾想沉睡前一秒，解锁道祖赐福——悟性每日翻倍。 百万年后，仙门开启！ 这一世，重生女帝、轮回魔尊、系统拥有者、天命气运者遍地皆是，世人称之为“妖孽盛世”。 无数天骄夺造化、争天命、叩仙门，自以为站在时代之巅。 却不知，当陈长青从神源中睁眼，便将这方天地的尽头看穿。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc87784eff8ec50aaffa5de6119ab05f9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=rHYmqKRvj6kHt%2FhbfIwRuU2dzsU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc87784eff8ec50aaffa5de6119ab05f9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=eaCYIO3abMR1fRNWIlVyoJAaYBQ%3D",
         "url": "https://fanqienovel.com/page/7656806334385376280"
+      },
+      {
+        "title": "我只想砍死各位，或者被各位砍死",
+        "author": "鸿轮",
+        "reads": "25.3万",
+        "intro": "［战斗爽+杀伐果断+懒说配听+一魔辈魔］ 我是一个沉沦于杀戮的变态，但是为了避免成为那些正道的敌人，站在世界的对立面，那么就只有一条路—— 黑吃黑！ …… 魔修：“魔修怎么了？魔修就该死吗？你这么肆无忌惮的杀戮，又比魔修好到哪里去？！” 我：“我懒得跟你说道理，你不配听，跟我的天地正义人皇剑说去吧！记住！你一天是魔修，一辈子都是魔修！” …… 我：“他们是急性金属中毒，跟我一点关系也没有。什么这叫被砍死了？信不信我也让你急性金属中毒！” …… “对不起，我还以为是妖兽群呢，飞剑真刹不住车。哎呀，被你们的血雾遮住了眼睛，那是视野盲区啊！不是，正经人谁在魔域散步啊？我们也不容易呀，你说这事儿闹的。哼！那你和我的飞剑说去吧！我们都在用力的~活着~嗯？？？我都这么用力了，你怎么还活着？飞剑掉头，再砍一次！” “不知道啊！他们嘴里嚷着‘欺人太甚’，就冲过来糊在飞剑上，甩也甩不掉。”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oea59b79c026f9c73720820e48f8aac31~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=uWTmDUwd%2BurO2CYzs9RD%2BRgZ%2BmY%3D",
+        "url": "https://fanqienovel.com/page/7637464494632881214"
       },
       {
         "title": "西游，你都成了猴子还要什么挂",
         "author": "槟榔加烟五毒俱全",
-        "reads": "22.5万",
+        "reads": "23.2万",
         "intro": "一个提前三百年学艺的猴子，为了防止自己被压在五行山下做了完全的准备，不知道这次能不能改变命运！ 纯西游世界观，不连封神。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2offa879cdb6fcfa95723f596acf823aa1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=fMvkkQCb8ITRlhVUFsz5a4e7jBU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2offa879cdb6fcfa95723f596acf823aa1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=2XsF7OvEv955aK8GWQDWlmbAEd4%3D",
         "url": "https://fanqienovel.com/page/7659019695885913112"
       },
       {
         "title": "捡来的妹妹修仙后，回来抢亲了",
         "author": "倚竹听风吟",
-        "reads": "11.3万",
+        "reads": "12.3万",
         "intro": "【玄幻】【单女主】【养成】 上元夜，我随手救了一个小乞丐。 脏兮兮的，瘦得像根柴火棍，一双眼睛却漂亮得惊人。 她攥着我的衣角，死也不肯放。 我带她回家，给她起名顾落。教她认字，送她上学，晚上她怕打雷，就缩在我怀里睡。 我以为她只是黏人的妹妹。 后来，宗门来人测资质，她被选中带走。 我本以为，从此山高水远，各自安好。 在父母为我订婚后，她回来了。 道宗第一天才，容貌倾城，修为通玄。 可她的眼神，和当年攥着我衣角时一模一样。 “哥哥，我回来了。” “这次，换我保护你。” “也换我……占有你。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob9adb38136c6ba575170eee59f5766e6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=DvZ6jfdFb04gkBr59rKzscGNHU0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob9adb38136c6ba575170eee59f5766e6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=ytrx2SMnXlOO7aYFYz7JJntFW1w%3D",
         "url": "https://fanqienovel.com/page/7636451670720777241"
-      },
-      {
-        "title": "全能修仙：我们大师兄什么都会",
-        "author": "孤舟钓渔翁",
-        "reads": "9.9万",
-        "intro": "【穿越+苟道+日常+轻松】 枕石真人：“我的大弟子不过是五行杂灵根，怎么可能是天才？” 高见素：“师父，大师兄又开发新法术了。 ” 孟挽月：“师父，你教的炼体方法我都听不懂，我还是找大师兄学吧。 ” 苏青璃：“哼，要是大师兄想教，我也不是不能学。 ” 林破云：“那个，大师兄，你可以教我练剑吗？” 穿越到修真世界，许维安本想苟到天荒地老，不修炼成仙誓不出门，但谁让大劫将至，苟道少年也只能下山闯荡。 妖兽：“呵呵，小小炼气修士，也敢碍事……等等，你那飞剑一直冒蓝光是怎么回事？” 许维安：“请叫我加特林剑圣！” …… 在许维安踏入修真界数十年后，整个九州都知道了听云宗有个神奇的大师兄。 传闻中，他不仅是炼器、炼丹大宗师，剑修、体修、阵法、符篆，修仙百艺无一不精，甚至就连妖族修炼都略懂一二。 妖族：\"啊？你说人族有个修士炼成了天妖不死身，你要不要听听你在说什么？\"",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o525273d7cdf3cfb48fe47355e0ab487b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=WJgwfO6Eu1vQX9Hm1Vpy78o8vtQ%3D",
-        "url": "https://fanqienovel.com/page/7644775022527024190"
       },
       {
         "title": "别再催眠我了，病娇仙子",
         "author": "你们诠释猪",
-        "reads": "6.5万",
+        "reads": "5.3万",
         "intro": "穿越后，顾承鄞发现自己被关在了小黑屋里。 囚禁他的，是一位绝美的病娇仙子。 仙子对他很好，无论多过分的要求都会答应，唯独不允许离开。 并且还总是尝试用各种方法催眠他。 顾承鄞好不容易才从小黑屋里逃了出来，本以为天高任鸟飞，结果却陷入更大的修罗场。 仙门宗主对他围追堵截，人间女帝下了天下通缉令，世家嫡女更是砸出万两黄金只为要他。 每一个都疯得不遑多让，每一个都只想得到他。 哪怕逃到妖族，都有一只猫妖在笑吟吟地等着，舔着嘴唇说： “主人，这次一定要乖乖被我吃掉哦~” 不是，修仙界只有病娇了是吧？ ...... 某天，顾承鄞无意中捡到一本自己亲手写下的笔记，翻开的扉页上赫然写着一行字： “快跑！她们没有被催眠！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9bd4a710fc45c2f17bddf9415b42739b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=FuhdKWEfDhztDDbE5SAyOF%2BObhk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9bd4a710fc45c2f17bddf9415b42739b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=KS1aD51nrqGriCL7GOVv5yyrTLM%3D",
         "url": "https://fanqienovel.com/page/7660820305878731800"
       },
       {
         "title": "洪荒：法不传六耳？我反手证混元",
         "author": "幽冥洛羽",
-        "reads": "7.8万",
+        "reads": "8.9万",
         "intro": "法不传六耳？ 行行行，老鸿，你了不起，你清高。 我证道混元大罗总行了吧！ 巫妖量劫爆发不出来是我的错？ 诽谤啊，这是诽谤，我要告你诽谤。 这和我有啥关系，明明是祖巫爱好和平。 截教一个个都是乖宝宝，不出山？ 扯淡，明明通天教主是爱学习、爱看书三好学生。 满天神佛都叫我洪荒第一老六？ 好好好，都这么玩是吧？ 那就别怪我带三个兄弟一起打麻将了。 如来：不可能，绝对不可能，我那么乖巧的猴儿呢？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oecbac7f3cb533246c98cb49ba72ae3e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=nLvyC8TJDQZ%2BFZxhjUMpy90SIYY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oecbac7f3cb533246c98cb49ba72ae3e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=gTRj7uc2kpCnpBVUlRH8Fz0ZpP8%3D",
         "url": "https://fanqienovel.com/page/7653711555879521305"
-      },
-      {
-        "title": "佛门金蝉子？不，我是通天首徒！",
-        "author": "茶无此人",
-        "reads": "6.7万",
-        "intro": "陆蝉刚穿越，系统就被未知力量磨灭了。 留下他一只深埋地下的“知了猴”，在这个大罗满地走、金仙多如狗的洪荒，瑟瑟发抖。 知道自己未来会成为佛门傀儡，十世轮回当和尚，陆蝉是拒绝的。 为了不当和尚，当接引强行收徒时，陆蝉反手拜入上清门下，成了通天首徒！ 封神大劫，他收徒杨戬、哪吒。 最终跟师父通天一起，保下截教。 西游大劫开始前，陆蝉提前向女娲讨要了五彩石。 等到大劫降临，佛门傻眼了，能带他们大兴的弟子，怎么成了截教弟子？ 如来亲自上门：“道友……” 陆蝉：“你叫我什么？” 如来：“……大师兄，我错了。” 陆蝉大方表示：想借悟空？把他师兄杨戬和哪吒也带上吧。 路上的妖怪表示：你们不要过来啊！！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o074f6899de2852cc0d77b95b35fbdd5c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=mZsUoHDSEwCU9UJf3Ya6fGf3n0o%3D",
-        "url": "https://fanqienovel.com/page/7649209341689482302"
       },
       {
         "title": "师承玄都，绝不变成猪",
         "author": "燕子的鸟",
-        "reads": "7.1万",
+        "reads": "7.6万",
         "intro": "啊！ 这里是哪里？这建筑，这风格，牛逼啊。 “元帅，元帅，玉帝请你参加蟠桃大会呢。” “什么元帅，谁是元帅？” 啊——— 脑袋好痛，我，我穿越到了西游世界。我是天蓬元帅，那个即将变成猪的猪八戒。我不要变成猪啊！ 不对，等等，十分有十二分的不对劲，哈哈哈哈哈。我就说么，作为穿越大军的一员，怎么可能这么背呢。 朱天蓬拍了拍胸脯，还好，还好，这刚刚封神结束，距离西游还有十万八千里呢，自己还有很多的事情可以做。 不对老子师承玄都啊，妥妥的圣教弟子，人教的三代独苗苗啊，朱天蓬抬起头，看着众人，眼神中透露着一丝不屑，老子师父玄都，准圣大能，师祖太清圣人，圣人，你们知道什么是圣人吧，我看你们谁敢动我，谁敢叫我变成猪。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8ece9a735038ef87853281b7a90be297~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=jINEzxCQyK%2BvQEqdtuf5S9tfYBo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8ece9a735038ef87853281b7a90be297~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=2zfONTCx4qS1Yj3iEx9CjJ8x6kY%3D",
         "url": "https://fanqienovel.com/page/7653284648654490686"
+      },
+      {
+        "title": "佛门金蝉子？不，我是通天首徒！",
+        "author": "茶无此人",
+        "reads": "6.1万",
+        "intro": "陆蝉刚穿越，系统就被未知力量磨灭了。 留下他一只深埋地下的“知了猴”，在这个大罗满地走、金仙多如狗的洪荒，瑟瑟发抖。 知道自己未来会成为佛门傀儡，十世轮回当和尚，陆蝉是拒绝的。 为了不当和尚，当接引强行收徒时，陆蝉反手拜入上清门下，成了通天首徒！ 封神大劫，他收徒杨戬、哪吒。 最终跟师父通天一起，保下截教。 西游大劫开始前，陆蝉提前向女娲讨要了五彩石。 等到大劫降临，佛门傻眼了，能带他们大兴的弟子，怎么成了截教弟子？ 如来亲自上门：“道友……” 陆蝉：“你叫我什么？” 如来：“……大师兄，我错了。” 陆蝉大方表示：想借悟空？把他师兄杨戬和哪吒也带上吧。 路上的妖怪表示：你们不要过来啊！！！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o074f6899de2852cc0d77b95b35fbdd5c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=osqyLBdKrmiyb06AmBV6TlClTjM%3D",
+        "url": "https://fanqienovel.com/page/7649209341689482302"
       },
       {
         "title": "变身小萝莉，我竟是天道傀儡？",
         "author": "这就是红月",
-        "reads": "5.9万",
+        "reads": "5.8万",
         "intro": "[变身]+[单身]+[穿越]+[反套路]+[腹黑萝莉]+[修仙]+[诸天万界]+[热血]+[爽文] 穿越为修仙界的小萝莉，你告诉我是天道的替身？ 什么叫为了维持世界安宁让我去猎杀穿越者？ 没杀掉就算了，改过自新就放过你了，为什么一个个都缠着我？ 听好，我不可能同时做你们的恋人挚友敌人妈妈妹妹主人玩偶和人生导师的！ PS: 重申一遍，本书单身！单身！单身！ 求求你们补药再造谣了，别看到其他角色描写多一点就哈气造谣，只是有配角单方面喜欢主角，单方面！单方面！单方面！主角不会喜欢谁的！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of7d23bcf45619f127ba361412fc042a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=mf%2By4mOITd5K8412BXgUFzagx1Q%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of7d23bcf45619f127ba361412fc042a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=vm8nSuxSXpeYMKFSBlynnHi2sM8%3D",
         "url": "https://fanqienovel.com/page/7642266028486954008"
       },
       {
         "title": "求得阳升正炁，证道太阳果位",
         "author": "大人轻一点",
-        "reads": "4.4万",
+        "reads": "4.2万",
         "intro": "只有正炁修士能证道果位长生不朽。青玄宗天才修士宁孝，两年修炼至先天圆满，最后求得太阳果位之中的阳升正炁，道途直指太阳。 直到宁孝真的称为仙道的太阳！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42c9866521b443776a9af4332106227b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=oQMtGCaHX6YTFuxxN0OiLR87vq0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42c9866521b443776a9af4332106227b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=iKkI1fMIbT9PHpRQgdx%2F6GbInP0%3D",
         "url": "https://fanqienovel.com/page/7657875534759611417"
-      },
-      {
-        "title": "洪荒：我，开局觉醒鸿蒙净世阵",
-        "author": "梦知遥8",
-        "reads": "3.5万",
-        "intro": "王修穿成祖巫帝江，鸿钧已成圣，巫妖量劫大幕拉开！眼看巫族注定团灭，他灵魂里炸开鸿蒙净世大阵——带领巫族炼化天地煞气，净化洪荒就能得鸿蒙本源传承！后土来报，族中早有巫崽在炼煞气，帝江当场拍板：咱巫族不修元神，就炼化这方天地！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6532e1b70f43b3e5342934a8248ffa8e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=P38Ed%2Fzwy24d4f6%2BM4z40Pyg348%3D",
-        "url": "https://fanqienovel.com/page/7656708104603569177"
       },
       {
         "title": "洪荒：开局截胡，我成了玉帝",
         "author": "奋笔疾书的奥特曼",
-        "reads": "5.1万",
+        "reads": "6.1万",
         "intro": "封神榜落定，姜子牙傻眼！ 我，张友仁，截胡玉帝位，当众炼化打神鞭。 元始天尊？气得吐血！ 圣人算计，反成我进阶资粮。立三灾、设五衰、斩神台高悬，天庭我说了算！ 这一世，我要这诸天万界，再无人敢称圣！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of2fe54165ef56f6545bc6ac3abbdb376~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=%2FQcR3R6Tn8SaOpmvKniLrKrSOIA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of2fe54165ef56f6545bc6ac3abbdb376~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=GS9litS7tM89eAWo%2Fa5O%2BSK2KCg%3D",
         "url": "https://fanqienovel.com/page/7661171913800043582"
       },
       {
-        "title": "洪荒：重生红云，人间清醒！",
-        "author": "一抹寂寞",
-        "reads": "4.6万",
-        "intro": "无人扶我青云志，我自踏雪自山巅！ 洪云机缘巧合之下重生到洪荒，成了老好人红云。 想到原主未来生机断绝，在紫霄宫让出圣位又得鸿蒙紫气后被众多强者围攻致死的悲惨命运，红云头脑瞬间清醒。 老好人？ 不当，谁爱当谁当。 不关自己的事？ 不管，事不关己，高高挂起。 紫霄宫听道？ 去，但不抢圣位。 　　… 洪荒危险万分，随时都可能有陨落之危。 红云不求无敌世间，只想安稳活着。 他从火云洞起家，苟着种田、默默发育、钻研阵法、经营势力，走出了一条无上大道。 别人争得头破血流，他自守一亩三分地，不争一时锋芒，只求长久安身。 无尽岁月后，红云蓦然回首，这才发现自己已然屹立在大道之巅…",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8c8fb9bc7480c8aa702532b5ffc9fafc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=F5ZXJZ%2BUyLzqiyb7M%2FKXCoVpzm4%3D",
-        "url": "https://fanqienovel.com/page/7655164360175651865"
+        "title": "洪荒：我，开局觉醒鸿蒙净世阵",
+        "author": "梦知遥8",
+        "reads": "3.1万",
+        "intro": "王修穿成祖巫帝江，鸿钧已成圣，巫妖量劫大幕拉开！眼看巫族注定团灭，他灵魂里炸开鸿蒙净世大阵——带领巫族炼化天地煞气，净化洪荒就能得鸿蒙本源传承！后土来报，族中早有巫崽在炼煞气，帝江当场拍板：咱巫族不修元神，就炼化这方天地！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6532e1b70f43b3e5342934a8248ffa8e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=VLw7ZS%2Fy5w%2FIfR1FjNEZmUJkzDQ%3D",
+        "url": "https://fanqienovel.com/page/7656708104603569177"
       },
       {
         "title": "糟了，洪荒第一风流道祖藏不住了",
         "author": "江湖小纯洁",
-        "reads": "4.2万",
+        "reads": "4.3万",
         "intro": "【洪荒】【封神】【三霄】【杨戬】【二郎神】【哪吒】 李长生穿越洪荒。 万花丛中过，片叶不沾身，无人知晓他的来历与去向。 直到封神量劫降临。 三霄仙子找上门，他的往事再也藏不住了！ ……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe396dbbd6b0781e4ea38bddff7cdb6e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=FKn0uLIx%2FVXvSIBMD1LE8UHEbIE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe396dbbd6b0781e4ea38bddff7cdb6e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=ClsXPDbetl%2BZS%2B5VTtvyXIvEggg%3D",
         "url": "https://fanqienovel.com/page/7657566781183101977"
       },
       {
         "title": "洪荒之青莲大道",
         "author": "阳阳小朋友",
-        "reads": "5.3万",
+        "reads": "5.9万",
         "intro": "穿越洪荒，成为二十四品造化青莲…的孩子，九品造化青莲。 刚一化形，就发现，有三名道人上门…… 拜入了截教，却没当上大师兄…… 即便这样，贫道依然要逆天改命。 惨遭暗害的赵公明、被以大欺小的三霄、憋屈至死的龟灵圣母、心灰意冷的无当圣母…… 一部封神史，万仙血泪流。 太多的意难平，且叫贫道一一勘破此局。叫吾截教，永世昌兴……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe86244ca04f896d3c5e506e9a93a3eb0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=DUr%2FNuqKs0Obik4J6etLFUZxVo0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe86244ca04f896d3c5e506e9a93a3eb0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=I%2FdjPNme31V2OVp3Nsbgn%2BSyC5E%3D",
         "url": "https://fanqienovel.com/page/7656439688982432793"
+      },
+      {
+        "title": "洪荒：重生红云，人间清醒！",
+        "author": "一抹寂寞",
+        "reads": "4.9万",
+        "intro": "无人扶我青云志，我自踏雪自山巅！ 洪云机缘巧合之下重生到洪荒，成了老好人红云。 想到原主未来生机断绝，在紫霄宫让出圣位又得鸿蒙紫气后被众多强者围攻致死的悲惨命运，红云头脑瞬间清醒。 老好人？ 不当，谁爱当谁当。 不关自己的事？ 不管，事不关己，高高挂起。 紫霄宫听道？ 去，但不抢圣位。 　　… 洪荒危险万分，随时都可能有陨落之危。 红云不求无敌世间，只想安稳活着。 他从火云洞起家，苟着种田、默默发育、钻研阵法、经营势力，走出了一条无上大道。 别人争得头破血流，他自守一亩三分地，不争一时锋芒，只求长久安身。 无尽岁月后，红云蓦然回首，这才发现自己已然屹立在大道之巅…",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8c8fb9bc7480c8aa702532b5ffc9fafc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=SboI3TmPCP224liEOOJLeUx%2BUkw%3D",
+        "url": "https://fanqienovel.com/page/7655164360175651865"
+      },
+      {
+        "title": "师尊不可以，我们可是师徒啊！",
+        "author": "黑化的狸",
+        "reads": "3.9万",
+        "intro": "【师尊】【冲徒逆师】【多女主】 “徒儿，你是不是嫌弃我老了，觉得我没有用了？居然敢在外面找其她女人？” “没有啊！师尊，我没有说您老啊！而且我也没有找其她女人啊，她只是我在合欢宗认识的一个妹妹而已。” 落休很无奈，自己的师尊最近不知道怎么了，好像是更年期到了还是什么原因，总是莫名其妙挑自己的刺。 最为重要的是不准自己与其他女人接触和交往。 而落休的师尊则是很伤心，因为她一直想表达自己的心意，然落休对自己只有尊敬的心，这不是她想看到的。 但是又拉不下脸面，因为她怕说出来，然后连师尊都没得做。 为此，她只能一步一步的设下埋伏，让自己的好徒儿落入陷阱中。 但她不知道的是，对于好徒弟落休，不仅她有这个心思，她的那些女弟子也抱着这个想法。 高冷二徒弟，粘人的三徒弟，还有古灵精怪的四徒弟，都是她的竞争对手。 （好多读者大大都是通过推流进来的，希望各位大大不要养书，尽量点催更，不然小作者容易暴毙的，在此膜拜大家了。）",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of824dc73bd2509f43f580481a2cd34e9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=46EWB5w%2BtD00PDyp92wBOhZpkJY%3D",
+        "url": "https://fanqienovel.com/page/7657818896002452542"
+      },
+      {
+        "title": "自卑妈系师尊不是病娇麻麻！",
+        "author": "在夏捏",
+        "reads": "3.3万",
+        "intro": "（妈系+爽文+杀伐果断+多女不多） “老东西滚开！别挡着我跟大小姐走！” 我没想到这句话是从我嘴里说出来！ …… 我的师尊夏云官，卡在金丹期三百年了。 她因修为寸步难进，在人后把自己贬到尘埃里。她总说： “青青，师尊资质平庸，给不了你最好的资源，你跟着我，是耽误你了。” 可她不知道，我从未那样想过。 直到中州那位大小姐顾朝歌出现。 她家世显赫、资源无尽，笑得张扬又漂亮。她当着众人的面牵住我的衣袖： “跟着一个金丹期的师尊有什么出息？” “是师尊哪里做得不够好？” 我抬头，看见她眼眶通红，卑微到快要碎掉。 “青青别去……求你……资源、丹药、功法……师尊没有，可师尊只有你了……”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o19a5b0b0c39a1717c33cc0b79df5a1a6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=IMXGjJ0W325incoQo1aPhSju5QQ%3D",
+        "url": "https://fanqienovel.com/page/7664427089017179198"
       },
       {
         "title": "洪荒杨戬，盘古第一通天代",
         "author": "爱种田的小花",
         "reads": "3万",
         "intro": "[洪荒、封神前传、巫法、神话、四只眼、很多骨头] 穿越洪荒世界，成为了杨家二郎杨戬，没有外挂的他选择了自己去给自己开外挂，入朝廷开商道，立道德，修儒法，凭借人道气运一举崛起。 王母，在天庭你说我一家人都是孽障我不挑你的理，可到了人间，老子是大商第一君侯，协领六部，官拜当朝大良造，九鼎平章大元帅。 义兄是圣人之下第一人，天凤唯一血脉，号称瞠目细冠红孔雀，大媳妇是天女魃，曾经也被很多人称之为叫旱魃，昔日的人道第一女战神。 玉鼎真人想要收我为徒？ 我师从祖巫玄冥，聚十二都天开启天眼重瞳，督领巫族气运，开巫法正统，塑符篆大道，掌十二都天大道，号称三界六道肉身之极，十二祖巫真身大圆满，当代巫族族长，盘古洪荒天地第一通天代！ ......",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe90f52eded8a9b9ca1838809ef6a15a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=EXcSDed2MiiDHSAAfyZ2ROGdFq8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe90f52eded8a9b9ca1838809ef6a15a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=9yRkgz%2BQ372tAXSpHJ7q5D6VFQA%3D",
         "url": "https://fanqienovel.com/page/7657932234908765246"
-      },
-      {
-        "title": "师尊不可以，我们可是师徒啊！",
-        "author": "黑化的狸",
-        "reads": "3.8万",
-        "intro": "【师尊】【冲徒逆师】【多女主】 “徒儿，你是不是嫌弃我老了，觉得我没有用了？居然敢在外面找其她女人？” “没有啊！师尊，我没有说您老啊！而且我也没有找其她女人啊，她只是我在合欢宗认识的一个妹妹而已。” 落休很无奈，自己的师尊最近不知道怎么了，好像是更年期到了还是什么原因，总是莫名其妙挑自己的刺。 最为重要的是不准自己与其他女人接触和交往。 而落休的师尊则是很伤心，因为她一直想表达自己的心意，然落休对自己只有尊敬的心，这不是她想看到的。 但是又拉不下脸面，因为她怕说出来，然后连师尊都没得做。 为此，她只能一步一步的设下埋伏，让自己的好徒儿落入陷阱中。 但她不知道的是，对于好徒弟落休，不仅她有这个心思，她的那些女弟子也抱着这个想法。 高冷二徒弟，粘人的三徒弟，还有古灵精怪的四徒弟，都是她的竞争对手。 （好多读者大大都是通过推流进来的，希望各位大大不要养书，尽量点催更，不然小作者容易暴毙的，在此膜拜大家了。）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of824dc73bd2509f43f580481a2cd34e9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=ARDZm3BhhftaQgaIJvvyPPhFSts%3D",
-        "url": "https://fanqienovel.com/page/7657818896002452542"
       },
       {
         "title": "变身白虎娘娘，飞升后成坐骑",
         "author": "仙母娘娘",
-        "reads": "2.6万",
+        "reads": "2.4万",
         "intro": "陆灵君穿越仙侠世界，成为一只白虎，还是母的。 　从宅男到如此大的变化虽然离谱，但是熟读网文的她还是很快适应了。 　虽然没有系统，但是悟性逆天，千年修行，妖族证道大乘。 　虽为妖族，但心怀大善，仁慈无比，不滥杀无辜，普渡众生，因此受人敬仰，被尊为白虎娘娘。 　功德圆满之日，陆灵君突破位面束缚，渡劫飞升【大千世界】。 　本以为好日子来了。 　不曾想刚刚飞升就被苟道无敌流主角李长生打下奴印，收为坐骑。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o65abc2c7af69beb4e1bbffb4c249006b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=TkImS7jSIRs38km2tlKMyGev84A%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o65abc2c7af69beb4e1bbffb4c249006b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=XYjf1f3LLTQOx0nhTTkUyfTRrTU%3D",
         "url": "https://fanqienovel.com/page/7654219972171811902"
       },
       {
-        "title": "洪荒：穿越女娲肚子，开局圣二代",
-        "author": "开始对",
-        "reads": "3.2万",
-        "intro": "封神刚打完，洪荒大地上，我成了一团出现在女娲腹中的男胎。她炼化不了我，还被我吸走了元神和修为。我刚喊了声“孩儿给娘亲请安”，她愣住了——圣人肚子里出了个打不明的活物。既来之则安之，圣二代这身份我先认了再说。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6aad03f801ef2e84dc5b7291b4491606~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=KdpraYyZaZuG6QLgJIKjYb4Cobc%3D",
-        "url": "https://fanqienovel.com/page/7659333024659557401"
+        "title": "洪荒巫圣传",
+        "author": "天空浪花",
+        "reads": "3.6万",
+        "intro": "穿越了，以为是封神，但穿越早了，居然是夏末商初....... 居然还是将要亡国的嫡系夏后氏..... 而且这里不是历史.... 居然是似是而非的洪荒.....",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6d147914371ccf93916ff0d26b521f4f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=7lsGZi9n3Nq1YvtLNifsg9zaSt4%3D",
+        "url": "https://fanqienovel.com/page/7648558676013222936"
       }
     ]
   },
@@ -227,221 +232,226 @@
     {
       "name": "东方仙侠",
       "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
+        "new_count": 2,
+        "dropped_count": 2,
         "new_books": [
-          "师尊不可以，我们可是师徒啊！"
+          "自卑妈系师尊不是病娇麻麻！",
+          "洪荒巫圣传"
         ],
         "dropped_books": [
           {
-            "title": "从金丹仙族开始的老祖之路！",
-            "intro": "练气筑基起步家族的太多，想写一部关于金丹家族开始中兴的小说。 简介乏力～感兴趣的可以进来看五十章～ 【家族流】【天才流】 境界传统：练气，筑基，金丹，元婴，化神"
+            "title": "全能修仙：我们大师兄什么都会",
+            "intro": "【穿越+苟道+日常+轻松】 枕石真人：“我的大弟子不过是五行杂灵根，怎么可能是天才？” 高见素：“师父，大师兄又开发新法术了。 ” 孟挽月：“师父，你教的炼体方法我都听不懂，我还是找大师兄学吧。 ” "
+          },
+          {
+            "title": "洪荒：穿越女娲肚子，开局圣二代",
+            "intro": "封神刚打完，洪荒大地上，我成了一团出现在女娲腹中的男胎。她炼化不了我，还被我吸走了元神和修为。我刚喊了声“孩儿给娘亲请安”，她愣住了——圣人肚子里出了个打不明的活物。既来之则安之，圣二代这身份我先认了"
           }
         ],
         "top_risers": [
           {
-            "title": "洪荒：开局截胡，我成了玉帝",
-            "change": "+3"
-          },
-          {
-            "title": "洪荒：法不传六耳？我反手证混元",
+            "title": "师承玄都，绝不变成猪",
             "change": "+2"
           },
           {
-            "title": "佛门金蝉子？不，我是通天首徒！",
+            "title": "洪荒：开局截胡，我成了玉帝",
+            "change": "+2"
+          },
+          {
+            "title": "糟了，洪荒第一风流道祖藏不住了",
             "change": "+2"
           }
         ],
         "top_fallers": [
           {
-            "title": "变身小萝莉，我竟是天道傀儡？",
-            "change": "-2"
-          },
-          {
-            "title": "糟了，洪荒第一风流道祖藏不住了",
+            "title": "我只想砍死各位，或者被各位砍死",
             "change": "-1"
           },
           {
-            "title": "变身白虎娘娘，飞升后成坐骑",
+            "title": "洪荒：重生红云，人间清醒！",
+            "change": "-1"
+          },
+          {
+            "title": "洪荒杨戬，盘古第一通天代",
             "change": "-1"
           }
         ],
         "reads_growth": [
           {
-            "title": "西游，你都成了猴子还要什么挂",
-            "growth": "+1.3万"
+            "title": "洪荒：法不传六耳？我反手证混元",
+            "growth": "+1.1万"
           },
           {
-            "title": "封印神源百万年，悟性每天翻倍",
-            "growth": "+8000"
+            "title": "捡来的妹妹修仙后，回来抢亲了",
+            "growth": "+1.0万"
           },
           {
-            "title": "师承玄都，绝不变成猪",
-            "growth": "+6000"
+            "title": "洪荒：开局截胡，我成了玉帝",
+            "growth": "+1.0万"
           }
         ],
-        "summary": "**🔥 题材趋势** 洪荒/西游同人占比极高，近半数作品围绕洪荒、封神、西游展开，侧重反套路与“小人物改写大劫”。\n**📖 读者偏好** 读者热衷“苟道+逆袭+师徒禁忌”，对标题情绪化、带梗的作品点击更强；评分刚出时在读冲高，但后续留存待检验。\n**🆕 新上榜作品** 《师尊不可以，我们可是师徒啊！》新上榜，主打冲师逆徒+多女主，切中细分xp。\n**📉 掉出榜单** 《从金丹仙族开始的老祖之路！》因简介乏力、节奏偏慢跌出榜单。\n**💡 值得关注** 《洪荒：开局截胡，我成了玉帝》+3，玉帝题材配合打神鞭争夺有新意；《洪荒：法不传六耳？我反手证混元》+2，证明“六耳”相关创新设定能有效拉动热度。"
+        "summary": "**🔥 题材趋势** 洪荒/西游封神衍生持续霸榜，截教、杨戬、红云等旧角新编；变身、病娇、妈系等轻恋爱元素侵入仙侠。\n**📖 读者偏好** 读者吃“反套路+爽文”，对“单身”“多女主”等感情线标签敏感；高在读作品多为跨界融合，纯传统修仙增长乏力。\n**🆕 新上榜作品** 《自卑妈系师尊不是病娇麻麻！》《洪荒巫圣传》分别切入妈系师徒与夏末商初洪荒，题材差异化带来增量。\n**📉 掉出榜单** 《全能修仙：我们大师兄什么都会》《洪荒：穿越女娲肚子，开局圣二代》热度回落，创意点未能持续转化为留存。\n**💡 值得关注** 《师承玄都，绝不变成猪》连升2位，说明“西游+拒变猪”的强冲突梗具备持续吸读潜力。"
       },
       "books": [
         {
-          "title": "我只想砍死各位，或者被各位砍死",
-          "author": "鸿轮",
-          "reads": "26.2万",
-          "intro": "［战斗爽+杀伐果断+懒说配听+一魔辈魔］ 我是一个沉沦于杀戮的变态，但是为了避免成为那些正道的敌人，站在世界的对立面，那么就只有一条路—— 黑吃黑！ …… 魔修：“魔修怎么了？魔修就该死吗？你这么肆无忌惮的杀戮，又比魔修好到哪里去？！” 我：“我懒得跟你说道理，你不配听，跟我的天地正义人皇剑说去吧！记住！你一天是魔修，一辈子都是魔修！” …… 我：“他们是急性金属中毒，跟我一点关系也没有。什么这叫被砍死了？信不信我也让你急性金属中毒！” …… “对不起，我还以为是妖兽群呢，飞剑真刹不住车。哎呀，被你们的血雾遮住了眼睛，那是视野盲区啊！不是，正经人谁在魔域散步啊？我们也不容易呀，你说这事儿闹的。哼！那你和我的飞剑说去吧！我们都在用力的~活着~嗯？？？我都这么用力了，你怎么还活着？飞剑掉头，再砍一次！” “不知道啊！他们嘴里嚷着‘欺人太甚’，就冲过来糊在飞剑上，甩也甩不掉。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oea59b79c026f9c73720820e48f8aac31~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=KHVeAvaQyCZplPpX%2B4NCzSqS6nw%3D",
-          "url": "https://fanqienovel.com/page/7637464494632881214"
-        },
-        {
           "title": "封印神源百万年，悟性每天翻倍",
           "author": "爱吃辣的鱼",
-          "reads": "26万",
+          "reads": "24.7万",
           "intro": "陈长青身怀混沌体，伴生至宝混沌青莲，天赋万古无一，却因此界天地规则不全，无法承载他的气运，只好选择封印神源百万年，只为等待仙路重开。 没曾想沉睡前一秒，解锁道祖赐福——悟性每日翻倍。 百万年后，仙门开启！ 这一世，重生女帝、轮回魔尊、系统拥有者、天命气运者遍地皆是，世人称之为“妖孽盛世”。 无数天骄夺造化、争天命、叩仙门，自以为站在时代之巅。 却不知，当陈长青从神源中睁眼，便将这方天地的尽头看穿。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc87784eff8ec50aaffa5de6119ab05f9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=rHYmqKRvj6kHt%2FhbfIwRuU2dzsU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc87784eff8ec50aaffa5de6119ab05f9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=eaCYIO3abMR1fRNWIlVyoJAaYBQ%3D",
           "url": "https://fanqienovel.com/page/7656806334385376280"
+        },
+        {
+          "title": "我只想砍死各位，或者被各位砍死",
+          "author": "鸿轮",
+          "reads": "25.3万",
+          "intro": "［战斗爽+杀伐果断+懒说配听+一魔辈魔］ 我是一个沉沦于杀戮的变态，但是为了避免成为那些正道的敌人，站在世界的对立面，那么就只有一条路—— 黑吃黑！ …… 魔修：“魔修怎么了？魔修就该死吗？你这么肆无忌惮的杀戮，又比魔修好到哪里去？！” 我：“我懒得跟你说道理，你不配听，跟我的天地正义人皇剑说去吧！记住！你一天是魔修，一辈子都是魔修！” …… 我：“他们是急性金属中毒，跟我一点关系也没有。什么这叫被砍死了？信不信我也让你急性金属中毒！” …… “对不起，我还以为是妖兽群呢，飞剑真刹不住车。哎呀，被你们的血雾遮住了眼睛，那是视野盲区啊！不是，正经人谁在魔域散步啊？我们也不容易呀，你说这事儿闹的。哼！那你和我的飞剑说去吧！我们都在用力的~活着~嗯？？？我都这么用力了，你怎么还活着？飞剑掉头，再砍一次！” “不知道啊！他们嘴里嚷着‘欺人太甚’，就冲过来糊在飞剑上，甩也甩不掉。”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oea59b79c026f9c73720820e48f8aac31~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=uWTmDUwd%2BurO2CYzs9RD%2BRgZ%2BmY%3D",
+          "url": "https://fanqienovel.com/page/7637464494632881214"
         },
         {
           "title": "西游，你都成了猴子还要什么挂",
           "author": "槟榔加烟五毒俱全",
-          "reads": "22.5万",
+          "reads": "23.2万",
           "intro": "一个提前三百年学艺的猴子，为了防止自己被压在五行山下做了完全的准备，不知道这次能不能改变命运！ 纯西游世界观，不连封神。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2offa879cdb6fcfa95723f596acf823aa1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=fMvkkQCb8ITRlhVUFsz5a4e7jBU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2offa879cdb6fcfa95723f596acf823aa1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=2XsF7OvEv955aK8GWQDWlmbAEd4%3D",
           "url": "https://fanqienovel.com/page/7659019695885913112"
         },
         {
           "title": "捡来的妹妹修仙后，回来抢亲了",
           "author": "倚竹听风吟",
-          "reads": "11.3万",
+          "reads": "12.3万",
           "intro": "【玄幻】【单女主】【养成】 上元夜，我随手救了一个小乞丐。 脏兮兮的，瘦得像根柴火棍，一双眼睛却漂亮得惊人。 她攥着我的衣角，死也不肯放。 我带她回家，给她起名顾落。教她认字，送她上学，晚上她怕打雷，就缩在我怀里睡。 我以为她只是黏人的妹妹。 后来，宗门来人测资质，她被选中带走。 我本以为，从此山高水远，各自安好。 在父母为我订婚后，她回来了。 道宗第一天才，容貌倾城，修为通玄。 可她的眼神，和当年攥着我衣角时一模一样。 “哥哥，我回来了。” “这次，换我保护你。” “也换我……占有你。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob9adb38136c6ba575170eee59f5766e6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=DvZ6jfdFb04gkBr59rKzscGNHU0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob9adb38136c6ba575170eee59f5766e6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=ytrx2SMnXlOO7aYFYz7JJntFW1w%3D",
           "url": "https://fanqienovel.com/page/7636451670720777241"
-        },
-        {
-          "title": "全能修仙：我们大师兄什么都会",
-          "author": "孤舟钓渔翁",
-          "reads": "9.9万",
-          "intro": "【穿越+苟道+日常+轻松】 枕石真人：“我的大弟子不过是五行杂灵根，怎么可能是天才？” 高见素：“师父，大师兄又开发新法术了。 ” 孟挽月：“师父，你教的炼体方法我都听不懂，我还是找大师兄学吧。 ” 苏青璃：“哼，要是大师兄想教，我也不是不能学。 ” 林破云：“那个，大师兄，你可以教我练剑吗？” 穿越到修真世界，许维安本想苟到天荒地老，不修炼成仙誓不出门，但谁让大劫将至，苟道少年也只能下山闯荡。 妖兽：“呵呵，小小炼气修士，也敢碍事……等等，你那飞剑一直冒蓝光是怎么回事？” 许维安：“请叫我加特林剑圣！” …… 在许维安踏入修真界数十年后，整个九州都知道了听云宗有个神奇的大师兄。 传闻中，他不仅是炼器、炼丹大宗师，剑修、体修、阵法、符篆，修仙百艺无一不精，甚至就连妖族修炼都略懂一二。 妖族：\"啊？你说人族有个修士炼成了天妖不死身，你要不要听听你在说什么？\"",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o525273d7cdf3cfb48fe47355e0ab487b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=WJgwfO6Eu1vQX9Hm1Vpy78o8vtQ%3D",
-          "url": "https://fanqienovel.com/page/7644775022527024190"
         },
         {
           "title": "别再催眠我了，病娇仙子",
           "author": "你们诠释猪",
-          "reads": "6.5万",
+          "reads": "5.3万",
           "intro": "穿越后，顾承鄞发现自己被关在了小黑屋里。 囚禁他的，是一位绝美的病娇仙子。 仙子对他很好，无论多过分的要求都会答应，唯独不允许离开。 并且还总是尝试用各种方法催眠他。 顾承鄞好不容易才从小黑屋里逃了出来，本以为天高任鸟飞，结果却陷入更大的修罗场。 仙门宗主对他围追堵截，人间女帝下了天下通缉令，世家嫡女更是砸出万两黄金只为要他。 每一个都疯得不遑多让，每一个都只想得到他。 哪怕逃到妖族，都有一只猫妖在笑吟吟地等着，舔着嘴唇说： “主人，这次一定要乖乖被我吃掉哦~” 不是，修仙界只有病娇了是吧？ ...... 某天，顾承鄞无意中捡到一本自己亲手写下的笔记，翻开的扉页上赫然写着一行字： “快跑！她们没有被催眠！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9bd4a710fc45c2f17bddf9415b42739b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=FuhdKWEfDhztDDbE5SAyOF%2BObhk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9bd4a710fc45c2f17bddf9415b42739b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=KS1aD51nrqGriCL7GOVv5yyrTLM%3D",
           "url": "https://fanqienovel.com/page/7660820305878731800"
         },
         {
           "title": "洪荒：法不传六耳？我反手证混元",
           "author": "幽冥洛羽",
-          "reads": "7.8万",
+          "reads": "8.9万",
           "intro": "法不传六耳？ 行行行，老鸿，你了不起，你清高。 我证道混元大罗总行了吧！ 巫妖量劫爆发不出来是我的错？ 诽谤啊，这是诽谤，我要告你诽谤。 这和我有啥关系，明明是祖巫爱好和平。 截教一个个都是乖宝宝，不出山？ 扯淡，明明通天教主是爱学习、爱看书三好学生。 满天神佛都叫我洪荒第一老六？ 好好好，都这么玩是吧？ 那就别怪我带三个兄弟一起打麻将了。 如来：不可能，绝对不可能，我那么乖巧的猴儿呢？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oecbac7f3cb533246c98cb49ba72ae3e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=nLvyC8TJDQZ%2BFZxhjUMpy90SIYY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oecbac7f3cb533246c98cb49ba72ae3e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=gTRj7uc2kpCnpBVUlRH8Fz0ZpP8%3D",
           "url": "https://fanqienovel.com/page/7653711555879521305"
-        },
-        {
-          "title": "佛门金蝉子？不，我是通天首徒！",
-          "author": "茶无此人",
-          "reads": "6.7万",
-          "intro": "陆蝉刚穿越，系统就被未知力量磨灭了。 留下他一只深埋地下的“知了猴”，在这个大罗满地走、金仙多如狗的洪荒，瑟瑟发抖。 知道自己未来会成为佛门傀儡，十世轮回当和尚，陆蝉是拒绝的。 为了不当和尚，当接引强行收徒时，陆蝉反手拜入上清门下，成了通天首徒！ 封神大劫，他收徒杨戬、哪吒。 最终跟师父通天一起，保下截教。 西游大劫开始前，陆蝉提前向女娲讨要了五彩石。 等到大劫降临，佛门傻眼了，能带他们大兴的弟子，怎么成了截教弟子？ 如来亲自上门：“道友……” 陆蝉：“你叫我什么？” 如来：“……大师兄，我错了。” 陆蝉大方表示：想借悟空？把他师兄杨戬和哪吒也带上吧。 路上的妖怪表示：你们不要过来啊！！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o074f6899de2852cc0d77b95b35fbdd5c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=mZsUoHDSEwCU9UJf3Ya6fGf3n0o%3D",
-          "url": "https://fanqienovel.com/page/7649209341689482302"
         },
         {
           "title": "师承玄都，绝不变成猪",
           "author": "燕子的鸟",
-          "reads": "7.1万",
+          "reads": "7.6万",
           "intro": "啊！ 这里是哪里？这建筑，这风格，牛逼啊。 “元帅，元帅，玉帝请你参加蟠桃大会呢。” “什么元帅，谁是元帅？” 啊——— 脑袋好痛，我，我穿越到了西游世界。我是天蓬元帅，那个即将变成猪的猪八戒。我不要变成猪啊！ 不对，等等，十分有十二分的不对劲，哈哈哈哈哈。我就说么，作为穿越大军的一员，怎么可能这么背呢。 朱天蓬拍了拍胸脯，还好，还好，这刚刚封神结束，距离西游还有十万八千里呢，自己还有很多的事情可以做。 不对老子师承玄都啊，妥妥的圣教弟子，人教的三代独苗苗啊，朱天蓬抬起头，看着众人，眼神中透露着一丝不屑，老子师父玄都，准圣大能，师祖太清圣人，圣人，你们知道什么是圣人吧，我看你们谁敢动我，谁敢叫我变成猪。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8ece9a735038ef87853281b7a90be297~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=jINEzxCQyK%2BvQEqdtuf5S9tfYBo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8ece9a735038ef87853281b7a90be297~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=2zfONTCx4qS1Yj3iEx9CjJ8x6kY%3D",
           "url": "https://fanqienovel.com/page/7653284648654490686"
+        },
+        {
+          "title": "佛门金蝉子？不，我是通天首徒！",
+          "author": "茶无此人",
+          "reads": "6.1万",
+          "intro": "陆蝉刚穿越，系统就被未知力量磨灭了。 留下他一只深埋地下的“知了猴”，在这个大罗满地走、金仙多如狗的洪荒，瑟瑟发抖。 知道自己未来会成为佛门傀儡，十世轮回当和尚，陆蝉是拒绝的。 为了不当和尚，当接引强行收徒时，陆蝉反手拜入上清门下，成了通天首徒！ 封神大劫，他收徒杨戬、哪吒。 最终跟师父通天一起，保下截教。 西游大劫开始前，陆蝉提前向女娲讨要了五彩石。 等到大劫降临，佛门傻眼了，能带他们大兴的弟子，怎么成了截教弟子？ 如来亲自上门：“道友……” 陆蝉：“你叫我什么？” 如来：“……大师兄，我错了。” 陆蝉大方表示：想借悟空？把他师兄杨戬和哪吒也带上吧。 路上的妖怪表示：你们不要过来啊！！！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o074f6899de2852cc0d77b95b35fbdd5c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=osqyLBdKrmiyb06AmBV6TlClTjM%3D",
+          "url": "https://fanqienovel.com/page/7649209341689482302"
         },
         {
           "title": "变身小萝莉，我竟是天道傀儡？",
           "author": "这就是红月",
-          "reads": "5.9万",
+          "reads": "5.8万",
           "intro": "[变身]+[单身]+[穿越]+[反套路]+[腹黑萝莉]+[修仙]+[诸天万界]+[热血]+[爽文] 穿越为修仙界的小萝莉，你告诉我是天道的替身？ 什么叫为了维持世界安宁让我去猎杀穿越者？ 没杀掉就算了，改过自新就放过你了，为什么一个个都缠着我？ 听好，我不可能同时做你们的恋人挚友敌人妈妈妹妹主人玩偶和人生导师的！ PS: 重申一遍，本书单身！单身！单身！ 求求你们补药再造谣了，别看到其他角色描写多一点就哈气造谣，只是有配角单方面喜欢主角，单方面！单方面！单方面！主角不会喜欢谁的！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of7d23bcf45619f127ba361412fc042a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565436&x-signature=mf%2By4mOITd5K8412BXgUFzagx1Q%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of7d23bcf45619f127ba361412fc042a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=vm8nSuxSXpeYMKFSBlynnHi2sM8%3D",
           "url": "https://fanqienovel.com/page/7642266028486954008"
         },
         {
           "title": "求得阳升正炁，证道太阳果位",
           "author": "大人轻一点",
-          "reads": "4.4万",
+          "reads": "4.2万",
           "intro": "只有正炁修士能证道果位长生不朽。青玄宗天才修士宁孝，两年修炼至先天圆满，最后求得太阳果位之中的阳升正炁，道途直指太阳。 直到宁孝真的称为仙道的太阳！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42c9866521b443776a9af4332106227b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=oQMtGCaHX6YTFuxxN0OiLR87vq0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42c9866521b443776a9af4332106227b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667008&x-signature=iKkI1fMIbT9PHpRQgdx%2F6GbInP0%3D",
           "url": "https://fanqienovel.com/page/7657875534759611417"
-        },
-        {
-          "title": "洪荒：我，开局觉醒鸿蒙净世阵",
-          "author": "梦知遥8",
-          "reads": "3.5万",
-          "intro": "王修穿成祖巫帝江，鸿钧已成圣，巫妖量劫大幕拉开！眼看巫族注定团灭，他灵魂里炸开鸿蒙净世大阵——带领巫族炼化天地煞气，净化洪荒就能得鸿蒙本源传承！后土来报，族中早有巫崽在炼煞气，帝江当场拍板：咱巫族不修元神，就炼化这方天地！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6532e1b70f43b3e5342934a8248ffa8e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=P38Ed%2Fzwy24d4f6%2BM4z40Pyg348%3D",
-          "url": "https://fanqienovel.com/page/7656708104603569177"
         },
         {
           "title": "洪荒：开局截胡，我成了玉帝",
           "author": "奋笔疾书的奥特曼",
-          "reads": "5.1万",
+          "reads": "6.1万",
           "intro": "封神榜落定，姜子牙傻眼！ 我，张友仁，截胡玉帝位，当众炼化打神鞭。 元始天尊？气得吐血！ 圣人算计，反成我进阶资粮。立三灾、设五衰、斩神台高悬，天庭我说了算！ 这一世，我要这诸天万界，再无人敢称圣！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of2fe54165ef56f6545bc6ac3abbdb376~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=%2FQcR3R6Tn8SaOpmvKniLrKrSOIA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of2fe54165ef56f6545bc6ac3abbdb376~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=GS9litS7tM89eAWo%2Fa5O%2BSK2KCg%3D",
           "url": "https://fanqienovel.com/page/7661171913800043582"
         },
         {
-          "title": "洪荒：重生红云，人间清醒！",
-          "author": "一抹寂寞",
-          "reads": "4.6万",
-          "intro": "无人扶我青云志，我自踏雪自山巅！ 洪云机缘巧合之下重生到洪荒，成了老好人红云。 想到原主未来生机断绝，在紫霄宫让出圣位又得鸿蒙紫气后被众多强者围攻致死的悲惨命运，红云头脑瞬间清醒。 老好人？ 不当，谁爱当谁当。 不关自己的事？ 不管，事不关己，高高挂起。 紫霄宫听道？ 去，但不抢圣位。 　　… 洪荒危险万分，随时都可能有陨落之危。 红云不求无敌世间，只想安稳活着。 他从火云洞起家，苟着种田、默默发育、钻研阵法、经营势力，走出了一条无上大道。 别人争得头破血流，他自守一亩三分地，不争一时锋芒，只求长久安身。 无尽岁月后，红云蓦然回首，这才发现自己已然屹立在大道之巅…",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8c8fb9bc7480c8aa702532b5ffc9fafc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=F5ZXJZ%2BUyLzqiyb7M%2FKXCoVpzm4%3D",
-          "url": "https://fanqienovel.com/page/7655164360175651865"
+          "title": "洪荒：我，开局觉醒鸿蒙净世阵",
+          "author": "梦知遥8",
+          "reads": "3.1万",
+          "intro": "王修穿成祖巫帝江，鸿钧已成圣，巫妖量劫大幕拉开！眼看巫族注定团灭，他灵魂里炸开鸿蒙净世大阵——带领巫族炼化天地煞气，净化洪荒就能得鸿蒙本源传承！后土来报，族中早有巫崽在炼煞气，帝江当场拍板：咱巫族不修元神，就炼化这方天地！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6532e1b70f43b3e5342934a8248ffa8e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=VLw7ZS%2Fy5w%2FIfR1FjNEZmUJkzDQ%3D",
+          "url": "https://fanqienovel.com/page/7656708104603569177"
         },
         {
           "title": "糟了，洪荒第一风流道祖藏不住了",
           "author": "江湖小纯洁",
-          "reads": "4.2万",
+          "reads": "4.3万",
           "intro": "【洪荒】【封神】【三霄】【杨戬】【二郎神】【哪吒】 李长生穿越洪荒。 万花丛中过，片叶不沾身，无人知晓他的来历与去向。 直到封神量劫降临。 三霄仙子找上门，他的往事再也藏不住了！ ……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe396dbbd6b0781e4ea38bddff7cdb6e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=FKn0uLIx%2FVXvSIBMD1LE8UHEbIE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe396dbbd6b0781e4ea38bddff7cdb6e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=ClsXPDbetl%2BZS%2B5VTtvyXIvEggg%3D",
           "url": "https://fanqienovel.com/page/7657566781183101977"
         },
         {
           "title": "洪荒之青莲大道",
           "author": "阳阳小朋友",
-          "reads": "5.3万",
+          "reads": "5.9万",
           "intro": "穿越洪荒，成为二十四品造化青莲…的孩子，九品造化青莲。 刚一化形，就发现，有三名道人上门…… 拜入了截教，却没当上大师兄…… 即便这样，贫道依然要逆天改命。 惨遭暗害的赵公明、被以大欺小的三霄、憋屈至死的龟灵圣母、心灰意冷的无当圣母…… 一部封神史，万仙血泪流。 太多的意难平，且叫贫道一一勘破此局。叫吾截教，永世昌兴……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe86244ca04f896d3c5e506e9a93a3eb0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=DUr%2FNuqKs0Obik4J6etLFUZxVo0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe86244ca04f896d3c5e506e9a93a3eb0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=I%2FdjPNme31V2OVp3Nsbgn%2BSyC5E%3D",
           "url": "https://fanqienovel.com/page/7656439688982432793"
+        },
+        {
+          "title": "洪荒：重生红云，人间清醒！",
+          "author": "一抹寂寞",
+          "reads": "4.9万",
+          "intro": "无人扶我青云志，我自踏雪自山巅！ 洪云机缘巧合之下重生到洪荒，成了老好人红云。 想到原主未来生机断绝，在紫霄宫让出圣位又得鸿蒙紫气后被众多强者围攻致死的悲惨命运，红云头脑瞬间清醒。 老好人？ 不当，谁爱当谁当。 不关自己的事？ 不管，事不关己，高高挂起。 紫霄宫听道？ 去，但不抢圣位。 　　… 洪荒危险万分，随时都可能有陨落之危。 红云不求无敌世间，只想安稳活着。 他从火云洞起家，苟着种田、默默发育、钻研阵法、经营势力，走出了一条无上大道。 别人争得头破血流，他自守一亩三分地，不争一时锋芒，只求长久安身。 无尽岁月后，红云蓦然回首，这才发现自己已然屹立在大道之巅…",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8c8fb9bc7480c8aa702532b5ffc9fafc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=SboI3TmPCP224liEOOJLeUx%2BUkw%3D",
+          "url": "https://fanqienovel.com/page/7655164360175651865"
+        },
+        {
+          "title": "师尊不可以，我们可是师徒啊！",
+          "author": "黑化的狸",
+          "reads": "3.9万",
+          "intro": "【师尊】【冲徒逆师】【多女主】 “徒儿，你是不是嫌弃我老了，觉得我没有用了？居然敢在外面找其她女人？” “没有啊！师尊，我没有说您老啊！而且我也没有找其她女人啊，她只是我在合欢宗认识的一个妹妹而已。” 落休很无奈，自己的师尊最近不知道怎么了，好像是更年期到了还是什么原因，总是莫名其妙挑自己的刺。 最为重要的是不准自己与其他女人接触和交往。 而落休的师尊则是很伤心，因为她一直想表达自己的心意，然落休对自己只有尊敬的心，这不是她想看到的。 但是又拉不下脸面，因为她怕说出来，然后连师尊都没得做。 为此，她只能一步一步的设下埋伏，让自己的好徒儿落入陷阱中。 但她不知道的是，对于好徒弟落休，不仅她有这个心思，她的那些女弟子也抱着这个想法。 高冷二徒弟，粘人的三徒弟，还有古灵精怪的四徒弟，都是她的竞争对手。 （好多读者大大都是通过推流进来的，希望各位大大不要养书，尽量点催更，不然小作者容易暴毙的，在此膜拜大家了。）",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of824dc73bd2509f43f580481a2cd34e9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=46EWB5w%2BtD00PDyp92wBOhZpkJY%3D",
+          "url": "https://fanqienovel.com/page/7657818896002452542"
+        },
+        {
+          "title": "自卑妈系师尊不是病娇麻麻！",
+          "author": "在夏捏",
+          "reads": "3.3万",
+          "intro": "（妈系+爽文+杀伐果断+多女不多） “老东西滚开！别挡着我跟大小姐走！” 我没想到这句话是从我嘴里说出来！ …… 我的师尊夏云官，卡在金丹期三百年了。 她因修为寸步难进，在人后把自己贬到尘埃里。她总说： “青青，师尊资质平庸，给不了你最好的资源，你跟着我，是耽误你了。” 可她不知道，我从未那样想过。 直到中州那位大小姐顾朝歌出现。 她家世显赫、资源无尽，笑得张扬又漂亮。她当着众人的面牵住我的衣袖： “跟着一个金丹期的师尊有什么出息？” “是师尊哪里做得不够好？” 我抬头，看见她眼眶通红，卑微到快要碎掉。 “青青别去……求你……资源、丹药、功法……师尊没有，可师尊只有你了……”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o19a5b0b0c39a1717c33cc0b79df5a1a6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=IMXGjJ0W325incoQo1aPhSju5QQ%3D",
+          "url": "https://fanqienovel.com/page/7664427089017179198"
         },
         {
           "title": "洪荒杨戬，盘古第一通天代",
           "author": "爱种田的小花",
           "reads": "3万",
           "intro": "[洪荒、封神前传、巫法、神话、四只眼、很多骨头] 穿越洪荒世界，成为了杨家二郎杨戬，没有外挂的他选择了自己去给自己开外挂，入朝廷开商道，立道德，修儒法，凭借人道气运一举崛起。 王母，在天庭你说我一家人都是孽障我不挑你的理，可到了人间，老子是大商第一君侯，协领六部，官拜当朝大良造，九鼎平章大元帅。 义兄是圣人之下第一人，天凤唯一血脉，号称瞠目细冠红孔雀，大媳妇是天女魃，曾经也被很多人称之为叫旱魃，昔日的人道第一女战神。 玉鼎真人想要收我为徒？ 我师从祖巫玄冥，聚十二都天开启天眼重瞳，督领巫族气运，开巫法正统，塑符篆大道，掌十二都天大道，号称三界六道肉身之极，十二祖巫真身大圆满，当代巫族族长，盘古洪荒天地第一通天代！ ......",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe90f52eded8a9b9ca1838809ef6a15a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=EXcSDed2MiiDHSAAfyZ2ROGdFq8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe90f52eded8a9b9ca1838809ef6a15a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=9yRkgz%2BQ372tAXSpHJ7q5D6VFQA%3D",
           "url": "https://fanqienovel.com/page/7657932234908765246"
-        },
-        {
-          "title": "师尊不可以，我们可是师徒啊！",
-          "author": "黑化的狸",
-          "reads": "3.8万",
-          "intro": "【师尊】【冲徒逆师】【多女主】 “徒儿，你是不是嫌弃我老了，觉得我没有用了？居然敢在外面找其她女人？” “没有啊！师尊，我没有说您老啊！而且我也没有找其她女人啊，她只是我在合欢宗认识的一个妹妹而已。” 落休很无奈，自己的师尊最近不知道怎么了，好像是更年期到了还是什么原因，总是莫名其妙挑自己的刺。 最为重要的是不准自己与其他女人接触和交往。 而落休的师尊则是很伤心，因为她一直想表达自己的心意，然落休对自己只有尊敬的心，这不是她想看到的。 但是又拉不下脸面，因为她怕说出来，然后连师尊都没得做。 为此，她只能一步一步的设下埋伏，让自己的好徒儿落入陷阱中。 但她不知道的是，对于好徒弟落休，不仅她有这个心思，她的那些女弟子也抱着这个想法。 高冷二徒弟，粘人的三徒弟，还有古灵精怪的四徒弟，都是她的竞争对手。 （好多读者大大都是通过推流进来的，希望各位大大不要养书，尽量点催更，不然小作者容易暴毙的，在此膜拜大家了。）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of824dc73bd2509f43f580481a2cd34e9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=ARDZm3BhhftaQgaIJvvyPPhFSts%3D",
-          "url": "https://fanqienovel.com/page/7657818896002452542"
         },
         {
           "title": "变身白虎娘娘，飞升后成坐骑",
           "author": "仙母娘娘",
-          "reads": "2.6万",
+          "reads": "2.4万",
           "intro": "陆灵君穿越仙侠世界，成为一只白虎，还是母的。 　从宅男到如此大的变化虽然离谱，但是熟读网文的她还是很快适应了。 　虽然没有系统，但是悟性逆天，千年修行，妖族证道大乘。 　虽为妖族，但心怀大善，仁慈无比，不滥杀无辜，普渡众生，因此受人敬仰，被尊为白虎娘娘。 　功德圆满之日，陆灵君突破位面束缚，渡劫飞升【大千世界】。 　本以为好日子来了。 　不曾想刚刚飞升就被苟道无敌流主角李长生打下奴印，收为坐骑。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o65abc2c7af69beb4e1bbffb4c249006b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=TkImS7jSIRs38km2tlKMyGev84A%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o65abc2c7af69beb4e1bbffb4c249006b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=XYjf1f3LLTQOx0nhTTkUyfTRrTU%3D",
           "url": "https://fanqienovel.com/page/7654219972171811902"
         },
         {
-          "title": "洪荒：穿越女娲肚子，开局圣二代",
-          "author": "开始对",
-          "reads": "3.2万",
-          "intro": "封神刚打完，洪荒大地上，我成了一团出现在女娲腹中的男胎。她炼化不了我，还被我吸走了元神和修为。我刚喊了声“孩儿给娘亲请安”，她愣住了——圣人肚子里出了个打不明的活物。既来之则安之，圣二代这身份我先认了再说。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6aad03f801ef2e84dc5b7291b4491606~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786565440&x-signature=KdpraYyZaZuG6QLgJIKjYb4Cobc%3D",
-          "url": "https://fanqienovel.com/page/7659333024659557401"
+          "title": "洪荒巫圣传",
+          "author": "天空浪花",
+          "reads": "3.6万",
+          "intro": "穿越了，以为是封神，但穿越早了，居然是夏末商初....... 居然还是将要亡国的嫡系夏后氏..... 而且这里不是历史.... 居然是似是而非的洪荒.....",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6d147914371ccf93916ff0d26b521f4f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786667012&x-signature=7lsGZi9n3Nq1YvtLNifsg9zaSt4%3D",
+          "url": "https://fanqienovel.com/page/7648558676013222936"
         }
       ]
     }
