@@ -1,224 +1,224 @@
 {
   "type": "动漫衍生",
-  "date": "2026-08-09",
-  "prev_date": "2026-08-08",
+  "date": "2026-08-10",
+  "prev_date": "2026-08-09",
   "category": {
     "name": "动漫衍生",
     "trend": {
       "new_count": 1,
       "dropped_count": 1,
       "new_books": [
-        "穿越赛尔号谱尼：开局封印三百年"
+        "动物城：开局被大先生捡到"
       ],
       "dropped_books": [
         {
-          "title": "菜月昴的一己之见",
-          "intro": "（后宫，主re0，综漫，拆cp） 菜月昴发现只要他睡着之后，就会来到一个和现实完全不同的异世界，但是只要他在这个异世界死掉，就会在现实世界睡醒。 随时能够回家的异世界，代价是痛苦的死亡。先不说这种金手"
+          "title": "型月，从希腊开始的旅程",
+          "intro": "因为救火而穿越的余烬来到了古希腊这片土地，本以为是古代，但为什么隔壁有个叫阿尔喀德斯的孩子徒手捏死了两条毒蛇？ 当确认这是一个神明尚且行走于世间的英雄时代后，余烬只想过平静的生活，但他总能遇到点奇怪的"
         }
       ],
       "top_risers": [
         {
-          "title": "我都帝皇铠甲了，妹妹国运召唤？",
-          "change": "+7"
+          "title": "奥特：最强债主！借债十倍返还！",
+          "change": "+5"
         },
         {
-          "title": "崩铁：这是我家的令使",
-          "change": "+1"
+          "title": "海贼：都四神了我六道仙人合理吧",
+          "change": "+4"
         },
         {
-          "title": "型月，从希腊开始的旅程",
-          "change": "+1"
+          "title": "穿越赛尔号谱尼：开局封印三百年",
+          "change": "+3"
         }
       ],
       "top_fallers": [
         {
-          "title": "咒回：特级的我去打万业尸仙了",
-          "change": "-2"
+          "title": "一人之下：我非魔修，再说杀你哦",
+          "change": "-7"
         },
         {
-          "title": "Re：死归就变强？先死100次",
-          "change": "-2"
+          "title": "咒术回战：死之执政也要打宿傩？",
+          "change": "-6"
         },
         {
-          "title": "木叶刁民：开局就把三代压力死了",
-          "change": "-2"
+          "title": "崩铁，穿越成怪兽，被爻光买回家",
+          "change": "-3"
         }
       ],
       "reads_growth": [
         {
           "title": "奥特：最强债主！借债十倍返还！",
-          "growth": "+5.4万"
-        },
-        {
-          "title": "我都帝皇铠甲了，妹妹国运召唤？",
-          "growth": "+1.6万"
+          "growth": "+4.0万"
         },
         {
           "title": "崩铁：这是我家的令使",
-          "growth": "+1.1万"
+          "growth": "+1.3万"
+        },
+        {
+          "title": "海贼：都四神了我六道仙人合理吧",
+          "growth": "+8000"
         }
       ],
-      "summary": "**🔥 题材趋势**：崩铁、奥特、咒术、型月等日本IP仍为基本盘，国漫铠甲、一人之下等本土IP融合开始起量；系统穿越、玩梗、伪无敌流是主要创作框架。\n**📖 读者偏好**：青睐高设定强度、快节奏战斗爽文，同时接受沙雕日常与“非人主角”；评分刚出、后续会涨等说明读者对早期数据敏感，多女主与单女主各有受众。\n**🆕 新上榜作品**：《穿越赛尔号谱尼》以“开局封印三百年”反套路破局，补位经典IP改编，显示老IP+新角度仍有潜力。\n**📉 掉出榜单**：掉榜作品为综漫后宫流，题材相对老套，未能持续抓住增量读者。\n**💡 值得关注**：《帝皇铠甲》升7位，国漫IP+全球国运题材爆发力强；《崩铁令使》稳中有升，说明崩铁同人基本盘深厚，但头部竞争激烈。"
+      "summary": "**🔥 题材趋势** 奥特曼、崩铁、海贼王等日漫及国漫IP扎堆，主打“反套路”（如债主、帝皇、怪兽）与跨世界观缝合。\n**📖 读者偏好** 受众对角色梗和战力体系高度熟悉，偏爱“高B格+伪无敌+整活”；评分刚出时包容度较高，但强调“单女主/无女主”标签分化明显。\n**🆕 新上榜作品** 仅《动物城》新入榜，侧面反映头部作品稳定性强，新书突围难度加大。\n**📉 掉出榜单** 型月希腊题材因题材偏冷、缺乏即时爽感而退出，说明小众IP跨界风险高。\n**💡 值得关注** 奥特曼与海贼王题材热度攀升，证明“借梗+系统”模式生命周期长；但一人之下、咒术回战跌幅大，需警惕同质化疲劳。"
     },
     "books": [
       {
         "title": "穿越刘备，死后和我说这是型月？",
         "author": "迦勒底人理保护协会",
-        "reads": "31.9万",
+        "reads": "30.8万",
         "intro": "落榜美术生穿越到汉末三国，发现自己竟然成了刘备。 那么身为现代有志青年的刘备自然不会走原来的老路。 年轻求学时凭借现代文采和各种五花八门的知识结交了各路好友，与曹操，袁绍，袁术，并称洛阳四公子（四混混）。 某次偶然与与甄家甄逸结识，并与其长女甄姜结发，后凭借甄家的门路与渠道彻底展开自己的才华，依靠现代知识赚取到了人生第一和第N缸金。 之后便是黄巾之乱，虽然这次刘备已经是备受信赖的一军统帅了。但刘备还是感觉天塌了，那个山披上呼风唤雨，随手召雷，撒豆成兵的老头是个什么鬼玩意？哦，这是建国前，那没事了。可是我二弟什么时候那么猛了？身上那青龙虚影是真的假的？我穿越的原来是神话三国吗？ 高筑墙，广积粮，攀科技，缓称王。 最后刘备终于凭借绝品打工仔诸葛卧龙和自己运营出的巨大的经济优势一统天下。 多年后病榻上的刘备终于合上了双眼，他本以为自己的意识要么就此消散，要么就回到现代，结果却冒出了一个自称盖亚的家伙问自己要不要拯救人理？ 拯救人理？关我一个噶了的人什么事？我也没什么遗憾啊，要不还是让我正常往生吧。 哈？你拒绝我的拒绝？合着这还是强制的？ 这到底是个什么鬼世界？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe783b18e48b087eaf26c1efc5ad73f36~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=9kLdDbYN40ur574EAb1QkbVgXGM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe783b18e48b087eaf26c1efc5ad73f36~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=sYIlVsPvYMYZXvte5QZa1%2BBzISk%3D",
         "url": "https://fanqienovel.com/page/7647013790642359358"
+      },
+      {
+        "title": "奥特：最强债主！借债十倍返还！",
+        "author": "说来就来",
+        "reads": "31.7万",
+        "intro": "【评分刚出，后续会涨】【奥特精神+伪无敌流+高B格】 穿越奥特宇宙，居然成了某奥特之星的流亡王子？ 刚刚死里逃生，又被困死在时空夹层。 还好最强债主系统觉醒。 让我给人借债？ 租借力量，能十倍返还？ 那些新生代债王呢？ 什么？ 才平成时间线？ 我还等着回去救国呢，哪等得起？ 嗯？谁说平成就不能当债王了？ 迪迦被打倒。 雷克斯：骚年，借债不？ 迪迦向孩子们借光。 雷克斯：骚年，快，我的光拿去不谢。 戴拿看着飞来的光芒怒吼：光芒啊！ 刷！ 迪迦截胡。 戴拿懵逼，破防。 雷克斯声音蛊惑：骚年，借债不？ 哉阿斯世界、盖亚世界、高斯世界、昭和世界观、新生代…… 一借一还间，力量滚雪球越滚越大。 某天，终于破开时空壁垒，再次站在M25星云奥特之星的国土，直面妄图毁灭王国的金色巨人。 雷克斯：“我的子民们呦，借债……啊呸！不必惊慌不必害怕。” “阿布索留特·塔尔塔罗斯！你也是时候还债了！”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe4056d690de9f9dfc3f66e846be57073~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=tDsZG0O4FgRqWuRMaZCjzL8EDcw%3D",
+        "url": "https://fanqienovel.com/page/7651657474658798617"
       },
       {
         "title": "我都帝皇铠甲了，妹妹国运召唤？",
         "author": "提笔便是辉煌",
-        "reads": "30.8万",
+        "reads": "31.2万",
         "intro": "蓝星国运降临，各国狂抢铠甲勇士！鹰酱抢了黑犀，小日子抢了炎龙，龙国却随机到了一个手无缚鸡之力的萌妹子端木蓉！ 全球嘲讽，龙国绝望！ 禁地怪物降临，各国选手大杀四方，妹妹端木蓉却只能缩在角落哭泣：“哥哥，蓉蓉好怕，蓉蓉再也见不到你了呜呜呜……” 绝望之际，一道璀璨到刺瞎全球人狗眼的极光撕裂宇宙！万年前穿越，已修成天道帝皇本尊的端木磊，拎着被打成狗的暗影大帝跨界降临！ 鹰酱选手：“法克！我的黑犀铠甲为什么不受控制了？” 小日子选手：“八嘎！我的炎龙铠甲怎么自己解体给那个龙国男人下跪了？！” 端木磊冷笑一声：“五行铠甲？那只是我掉落的头皮屑罢了！敢欺负我妹妹？天道，给我碾碎他们！” 那一刻，全球震怖，龙国直接起飞！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oda42a18e345910155639b69d5732ecca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=E4MZMNsbfBTuVHKk1dcqxJSn5HQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oda42a18e345910155639b69d5732ecca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=CDFxpJrVk1ibREYUGPM4QHQpsxY%3D",
         "url": "https://fanqienovel.com/page/7664544023293479960"
-      },
-      {
-        "title": "崩铁，穿越成怪兽，被爻光买回家",
-        "author": "被关的lunatic",
-        "reads": "19.8万",
-        "intro": "【崩坏星穹铁道】+【爻光单女主】+【半搞笑】+【系统】+【非人主角】 【评分低是因为刚出，后面慢慢会涨】 艾雨在某一天玩萝莉旮旯给木的时候，被突如其来的天雷一下子给劈到了崩铁世界，并觉醒了怪兽模板系统，开局就是一个艾雷王模板。 但…… 谁家模板是直接把宿主变成模板的啊喂！还是幼年体！ 好消息：穿越崩铁了。 坏消息：自己连人都不是了。 更坏的消息：自己在爻光的菜板上，此刻爻老板正手握菜刀。 穿越成为艾雷王的艾雨开局就被爻老板在仙舟的菜市场上买回家，放在了菜板上，准备做成麻辣黄鳝。 看着爻光手中闪烁着银白色的菜刀，艾雨咽下一口海水。 艾雨：孩子们，你们觉得我还能活下来吗？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o86f78eb7236a32f4db7a41c2d1669dab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=6EFt6ZgoORV5gAYGrD%2BQ2uZWvY8%3D",
-        "url": "https://fanqienovel.com/page/7654917752603298840"
       },
       {
         "title": "这个猫娘？怎么是尼古喵喵啊！！",
         "author": "女仆猫猫可爱呢",
-        "reads": "23.8万",
+        "reads": "23.9万",
         "intro": "【评分刚出，还要涨～🥰】【救赎！👿】【温馨😍】【尼古咪咪😓】【日漫漫综😘】【主角理智🤓】【整活🤔】【三观正直一把尺😎】【反不良嗜好😇】【纯手搓~🤗】【没看过的也无障碍阅读😝】 听着！所谓猫娘一定是世界上最可爱之物！ 无论如何的睿智，如何的作践自己也一定是让人心生怜悯！心痛不已！ 她们生于自然，死于自然。 犹如游走于人间之仙，不食人间烟火位！ 所以拥有猫娘，爱护猫娘！从你我做起！ 然而听此言的林北反手捏着鼻子提起一身臭味的尼古猫猫。 “我看未必！” —— 总之这是一个关于如何艰巨的让几位猫猫戒掉不良爱好的纯良小说！其中的不良嗜好可千万不要学习！😇 还是那句话！吸的赶紧戒！😱",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obeb6cf2f6ea689f7e9f21593ff00a931~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=6iXNQTfX%2BenGD09AeIa%2BOqHOp3Q%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obeb6cf2f6ea689f7e9f21593ff00a931~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=a40CReHoKkqs6SgvPL%2FuWDX125s%3D",
         "url": "https://fanqienovel.com/page/7662595434291923993"
       },
       {
         "title": "超神：我黑龙天！才是众神之主！",
         "author": "一剑独神",
-        "reads": "21.2万",
+        "reads": "20.4万",
         "intro": "顾凡穿越者，融合了黑龙天的角色模板，十万年前杀穿远古神族文明！ 　　沉睡十万年！被饕鬄大军入侵蓝星天河市，惊醒！ 　　当他出手的那一刻，整个宇宙所有文明都震惊了！ 　　琪琳：略微出手便能单杀诺星战神，镇压银河之力？ 　　凉冰：这才是我所追求的强大，我愿以天使之名守护他！ 　　卡尔：什么虚空？什么终极恐惧！他才是！ 　　凯莎：众神之主？我什么档次！竟然跟他用一样的名号！ 　　...... 　　而这，仅仅只是开始！ 　　当远古的盘古文明、女娲族、冥族、虚无文明陆续复苏，整个宇宙才知晓，未知宇宙的文明战斗有多可怕！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o557d7e99e1505be2703e19ac8bc1e3a2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=jLdicLjn7b2giXdmiKMuzat0NGw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o557d7e99e1505be2703e19ac8bc1e3a2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=OkxoyYkJw78w7ThBKlWkueZZngc%3D",
         "url": "https://fanqienovel.com/page/7663484325542775832"
       },
       {
-        "title": "一人之下：我非魔修，再说杀你哦",
-        "author": "天天吃香蕉",
-        "reads": "16.2万",
-        "intro": "你对我产生了杀意？桀桀桀！一只大手探出，一把抓住，顷刻炼化！ 穿越一人之下，陈百万觉醒先天异能吞天食地，十几年就修炼到神莹内敛的境界。 什么？就杀了几百人，公司就要废了我？赵方旭，你想怎么死？ 会双全手我为什么不能统治世界？ 逆生三重和金遁流光更配哦！ 本书轻松愉快，放心食用，最多“吃”点人...",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocf3601c782332418d74788645e08851a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=zXMoYMwoqYvso25r%2B%2Fo07DuorhA%3D",
-        "url": "https://fanqienovel.com/page/7637109018443402302"
-      },
-      {
-        "title": "奥特：最强债主！借债十倍返还！",
-        "author": "说来就来",
-        "reads": "27.7万",
-        "intro": "【评分刚出，后续会涨】【奥特精神+伪无敌流+高B格】 穿越奥特宇宙，居然成了某奥特之星的流亡王子？ 刚刚死里逃生，又被困死在时空夹层。 还好最强债主系统觉醒。 让我给人借债？ 租借力量，能十倍返还？ 那些新生代债王呢？ 什么？ 才平成时间线？ 我还等着回去救国呢，哪等得起？ 嗯？谁说平成就不能当债王了？ 迪迦被打倒。 雷克斯：骚年，借债不？ 迪迦向孩子们借光。 雷克斯：骚年，快，我的光拿去不谢。 戴拿看着飞来的光芒怒吼：光芒啊！ 刷！ 迪迦截胡。 戴拿懵逼，破防。 雷克斯声音蛊惑：骚年，借债不？ 哉阿斯世界、盖亚世界、高斯世界、昭和世界观、新生代…… 一借一还间，力量滚雪球越滚越大。 某天，终于破开时空壁垒，再次站在M25星云奥特之星的国土，直面妄图毁灭王国的金色巨人。 雷克斯：“我的子民们呦，借债……啊呸！不必惊慌不必害怕。” “阿布索留特·塔尔塔罗斯！你也是时候还债了！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe4056d690de9f9dfc3f66e846be57073~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=n1jEhWdeXXLGU0ylKACzmXTMGkc%3D",
-        "url": "https://fanqienovel.com/page/7651657474658798617"
-      },
-      {
-        "title": "咒术回战：死之执政也要打宿傩？",
-        "author": "慵懒的小手",
-        "reads": "16.6万",
-        "intro": "简介： 　　咒术回战+若娜瓦建模+无敌机制与数值！ 　　..... 　　人在咒术，刚成咒灵。 　　还是诞生自人类对死亡，这一终极恐惧当中的概念神级别咒灵。 　　完美开局，可惜出了岔子。 　　谁能想到一时分心，愣是在捏脸的时候，将自己捏成死之执政若娜瓦了呢？ 　　而这还不算完，开局五条悟骑脸怎么打？ 　　刚从泉水出来就要打五条悟吗？ 　　...... 　　当两面宿傩降临世间，等待他的不是五条悟。 　　而是掌握死之权能的咒灵之王，死亡执政若娜瓦！ 　　面对千年前的诅咒之王，若娜瓦自信说道：“宿傩，你才是挑战者！” 　　“生在没有我的时代的凡夫，觐见你的死亡吧！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o17f26745aebaff74a2d41f144a160f1f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=rKilhVEEOktPbg%2BZgLw3ZN1%2BuHQ%3D",
-        "url": "https://fanqienovel.com/page/7659314752245484606"
+        "title": "崩铁，穿越成怪兽，被爻光买回家",
+        "author": "被关的lunatic",
+        "reads": "18.7万",
+        "intro": "【崩坏星穹铁道】+【爻光单女主】+【半搞笑】+【系统】+【非人主角】 【评分低是因为刚出，后面慢慢会涨】 艾雨在某一天玩萝莉旮旯给木的时候，被突如其来的天雷一下子给劈到了崩铁世界，并觉醒了怪兽模板系统，开局就是一个艾雷王模板。 但…… 谁家模板是直接把宿主变成模板的啊喂！还是幼年体！ 好消息：穿越崩铁了。 坏消息：自己连人都不是了。 更坏的消息：自己在爻光的菜板上，此刻爻老板正手握菜刀。 穿越成为艾雷王的艾雨开局就被爻老板在仙舟的菜市场上买回家，放在了菜板上，准备做成麻辣黄鳝。 看着爻光手中闪烁着银白色的菜刀，艾雨咽下一口海水。 艾雨：孩子们，你们觉得我还能活下来吗？",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o86f78eb7236a32f4db7a41c2d1669dab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=mOmofSmhjfwNt8Qdz8CiB1jt09k%3D",
+        "url": "https://fanqienovel.com/page/7654917752603298840"
       },
       {
         "title": "奥特：从迪迦开始当街溜子",
         "author": "爱吃奶酪的苦茶子",
-        "reads": "17.8万",
+        "reads": "17.1万",
         "intro": "因为某个系统的失误，萧晨被带到了奥特宇宙，而且还是迪迦世界。 为了补偿失误，系统送了他一条假面骑士帝骑的腰带。 在萧晨完成致敬乡哥哥之后，赛罗找上了他。 赛罗奥特曼！假面骑士帝骑！集两大该溜子之力于一身的萧晨开始在奥特宇宙当起了真正的该溜子",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9228ddd26276f16ec223ee70ec2b3c5c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=W8mBpU7a%2BKsU40Un59lvmhLKZPM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9228ddd26276f16ec223ee70ec2b3c5c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=wWxph9UycI6xb0W1PuqNhGX0QuQ%3D",
         "url": "https://fanqienovel.com/page/7658947279927118910"
+      },
+      {
+        "title": "海贼：都四神了我六道仙人合理吧",
+        "author": "不会掀桌子的乌鸦",
+        "reads": "18.9万",
+        "intro": "【战斗爽】【洛克斯海贼团的六道仙人】 罗恩穿越到了海贼世界，原本想着加入罗杰海贼团，慢慢提升实力，没想到却以作风有问题被拒绝了。 　　无所谓，转身就加入洛克斯海贼团，一步一步变强的同时，也越来越了解世界的真相。 　　太阳神？雨神？大地之神？森林之神？ 　　罗恩懵逼了，这踏马还是海贼王吗？怎么都进入神话时代了。 　　罗恩：“shinixiankaide(是你先开的)”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob4716ee09f3574dbaa6e0e23119aa51f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=5MYcbILTISDfnkuW%2BuUIyrHo5Kc%3D",
+        "url": "https://fanqienovel.com/page/7642278516741901336"
       },
       {
         "title": "综漫：诸天万界从黑手帮开始",
         "author": "白白白粥",
-        "reads": "17.8万",
+        "reads": "17.5万",
         "intro": "【综漫】【无女主】【热血搞笑】 （新书评分刚出，后面会涨） 获得了平行世界另一个死去的自己的记忆，瓦龙觉醒了。 他拿到了名为记忆的“剧本”和系统这只“笔”。 圣主复活了！圣主背叛了！圣主……被干掉了？ 瓦龙：“老大的头上，不需要另一个老大。” 身负诸天万界最强老大系统，开局能绑定的手下却只有黑手帮贵物三人组。 但意外的，他却发现拉苏阿奋和周这三个家伙竟也有可取之处。 于是乎，铁打的三人组，打铁的瓦龙。 从此，一个名为黑手帮的传说浪进了诸天万界。 瓦龙：“三个蠢货！” 阿奋：“老大说的对！” 周：“阿奋说的对！” 拉苏：“我也一样！” 总而言之，黑手帮，集合！！！ PS：同人向二创，一切以原作为主，在此致歉！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o84756589206d2ba6b2154dd2f05bc3cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=IgoncZYqB%2BX6VCuPD%2B5DJ%2Basqv0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o84756589206d2ba6b2154dd2f05bc3cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=idUT38BURF%2FT%2FTfbJHMTms0c%2FQc%3D",
         "url": "https://fanqienovel.com/page/7655774076736130073"
       },
       {
         "title": "崩铁：这是我家的令使",
         "author": "沢沢zer",
-        "reads": "23.9万",
+        "reads": "25.2万",
         "intro": "【刚评分了会长的！】【单女主，不喜勿入】【崩铁】【太空轻喜剧】【阮梅爱好者勿看】【前期历史信息量大】 因一次意外穿越到了崩铁世界，在一片混沌茫然发神。 ——欢迎，这里是二次元战锤，也是类人群星闪耀时的世界。 从最初之刻降临的外星爷，由普通人堪称突变的进化为了星神，在这个满地神人的崩铁世界，他不得不想起了你牢星的一句话。 “——在寰宇你不能不活，但不能没活。” 什么终极四末，什么寰宇战争、博士尊锚定铁幕的终极时刻的，叽里咕噜的说什么呢！ “身为一个星神我听不懂这些，我只知道我的超级大脑告诉我，它要我行使超级力量了！” ——而，面对一个喜欢的虚无令使时... 却又想起来自后辈的孜孜教导： “你辣卤客daddy曾经说过...” “——要是遇上了喜欢的令使” “就是要拼劲全力去抢口牙！！” ——尽管虚无从不瞥视任何人，作为面相万千表征的伊克斯，却在那一天丢失了还挂在它名下的野生令使。 ...真的是野生的吗？ ——存疑。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o244901c44967735799f1b31d4d10342b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=lVIRIrRIjS3v4i44MnCZzkxq%2F%2BY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o244901c44967735799f1b31d4d10342b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=zH9uILz8j%2FYRqqz9sQUOsx3Cc3c%3D",
         "url": "https://fanqienovel.com/page/7660356734413720601"
-      },
-      {
-        "title": "海贼：都四神了我六道仙人合理吧",
-        "author": "不会掀桌子的乌鸦",
-        "reads": "18.1万",
-        "intro": "【战斗爽】【洛克斯海贼团的六道仙人】 罗恩穿越到了海贼世界，原本想着加入罗杰海贼团，慢慢提升实力，没想到却以作风有问题被拒绝了。 　　无所谓，转身就加入洛克斯海贼团，一步一步变强的同时，也越来越了解世界的真相。 　　太阳神？雨神？大地之神？森林之神？ 　　罗恩懵逼了，这踏马还是海贼王吗？怎么都进入神话时代了。 　　罗恩：“shinixiankaide(是你先开的)”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob4716ee09f3574dbaa6e0e23119aa51f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=29dJpD4KW9z4a%2BSUl3C5lm6%2FbfY%3D",
-        "url": "https://fanqienovel.com/page/7642278516741901336"
-      },
-      {
-        "title": "这个动物城有够疯狂的",
-        "author": "半睡的灰狐",
-        "reads": "16.6万",
-        "intro": "（疯狂动物城+多女主+福瑞）　 穿越到疯狂动物城并且变成哈士奇，并不知道剧情的约克起初相当绝望。 　　约克不是福瑞控，约克也完全不想成为福瑞控。 高中毕业的他来到动物城，本打算安安稳稳打拼，但事与愿违。 黑道，邪教，杀手，家族，政客。 各种纠纷接踵而至。 等到朱迪来到动物城时，发现到处都是约克留下的传奇。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6093fb898eac2ecf8db4faf7f2ac2b84~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=xzyYqQrGuO18yfBNm0%2FfdeTOPT0%3D",
-        "url": "https://fanqienovel.com/page/7648212692712311832"
       },
       {
         "title": "穿越赛尔号谱尼：开局封印三百年",
         "author": "东方赤子",
-        "reads": "17.1万",
+        "reads": "17.8万",
         "intro": "人类少年朴宁穿越成赛尔号宇宙战力榜第一的谱尼，以为自己要开启横推宇宙的养老生活了。 结果一睁开眼，宇宙深渊中，迪恩正拿着恶魔锁链，笑眯眯地看着他。 ？？？ 开局就被封印三百年，你礼貌吗？ 沉淀300年，谱尼破封，重写谱写传奇的赛尔宇宙故事。 索伦森很傲娇？我专治傲娇！各种手段层出不穷，与索白菜重归于好。 揍煞星，抽邪冥兽，制裁宇宙海盗。 不是反派？抱歉，不听话我也要揍，小精灵不打不成器，而且圣灵气息专门锤炼肉身！ 那个叱咤风云的圣灵系真神谱尼回来了！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa3b4c144e63392e3d7c767cdae3da467~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=Xq9umF0X0OZXFtNJ8DdBxqvPzBw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa3b4c144e63392e3d7c767cdae3da467~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=0jBiX2iY3SSAocWdjvEIWxNmqW0%3D",
         "url": "https://fanqienovel.com/page/7660793726754638910"
       },
       {
-        "title": "星穹铁道：if线的我被天幕曝光",
-        "author": "瑞雪罩梧桐",
-        "reads": "13.1万",
-        "intro": "（评分刚出，可能会涨）（多女主）（会有主线但量不确定）（第一篇章有点长）（感情戏不够细腻，有点突兀，只能凑合看，不喜勿喷）（前面部分不算特别惊艳，后面会稍微好点） 白陌穿越到崩坏：星穹铁道世界，成为一名光荣的地衡司职员。 就在他准备混吃等死、摸鱼度日时，一道天幕降临寰宇，当场曝光了有关他的无数if线—— 绝灭大君铁幕，天才俱乐部#85，单杀帝皇三世，毁灭智识之人； 仙舟剑主，昔日云上六晓之一，剑斩丰饶令使倏忽，一人一剑镇压亿万孽物。 ………… 无数if线曝光，寰宇震惊。 白陌看着上门找来的女主们，彻底傻眼了： “我只想混吃等死啊！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oec62cf79950063d406dc72b53b4a3b98~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=N7jsrAiMV%2FOKOxbndvJW2o4kM9Q%3D",
-        "url": "https://fanqienovel.com/page/7617030600007879742"
+        "title": "这个动物城有够疯狂的",
+        "author": "半睡的灰狐",
+        "reads": "16.4万",
+        "intro": "（疯狂动物城+多女主+福瑞）　 穿越到疯狂动物城并且变成哈士奇，并不知道剧情的约克起初相当绝望。 　　约克不是福瑞控，约克也完全不想成为福瑞控。 高中毕业的他来到动物城，本打算安安稳稳打拼，但事与愿违。 黑道，邪教，杀手，家族，政客。 各种纠纷接踵而至。 等到朱迪来到动物城时，发现到处都是约克留下的传奇。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6093fb898eac2ecf8db4faf7f2ac2b84~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=6V%2FXmKUaiGnRROo9QV6kySahT6A%3D",
+        "url": "https://fanqienovel.com/page/7648212692712311832"
       },
       {
-        "title": "咒回：特级的我去打万业尸仙了",
-        "author": "超级无敌哈基人",
-        "reads": "14.7万",
-        "intro": "【系统+诸天+斗傩+战斗爽】 绑定“挑战空间”的夏芥可以挑战诸天万界的所有强者，比如：宿傩、巨鲨天王、奇迹于你、万业尸仙、加坦杰厄、神之手、地狱星、波罗斯、友哈巴赫、反螺旋王…… 挑战空间：“会赢吗？” 夏芥：“包死的，但是死也值回票价！” 好在他每一次死亡都可以回档重来并获得奖励，直到打出满意的结局。 在死灭回游中觉醒记忆术式的夏芥：“先肘赢宿傩再打万业固然不错，但这是废物的思维！来吧，万业，让我看看你这工业糖精有多齁！” cos完减速带后—— 新宿决战，宿傩看着夏芥手上的“记忆再现·三真万法剑”，面目狰狞：“没想到你竟然能做到这一步，夏芥！！！” 夏芥：“别急，打完你还有宿那鬼呢。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa0c732bb83839415217d7fd6191c2198~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=MorEO0F1sbMH8b7vAqEETdIEWUM%3D",
-        "url": "https://fanqienovel.com/page/7651357308248673304"
+        "title": "一人之下：我非魔修，再说杀你哦",
+        "author": "天天吃香蕉",
+        "reads": "15.4万",
+        "intro": "你对我产生了杀意？桀桀桀！一只大手探出，一把抓住，顷刻炼化！ 穿越一人之下，陈百万觉醒先天异能吞天食地，十几年就修炼到神莹内敛的境界。 什么？就杀了几百人，公司就要废了我？赵方旭，你想怎么死？ 会双全手我为什么不能统治世界？ 逆生三重和金遁流光更配哦！ 本书轻松愉快，放心食用，最多“吃”点人...",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocf3601c782332418d74788645e08851a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=byBMdqL3fgPisaxO4WtVM2gzQp4%3D",
+        "url": "https://fanqienovel.com/page/7637109018443402302"
+      },
+      {
+        "title": "咒术回战：死之执政也要打宿傩？",
+        "author": "慵懒的小手",
+        "reads": "14.8万",
+        "intro": "简介： 　　咒术回战+若娜瓦建模+无敌机制与数值！ 　　..... 　　人在咒术，刚成咒灵。 　　还是诞生自人类对死亡，这一终极恐惧当中的概念神级别咒灵。 　　完美开局，可惜出了岔子。 　　谁能想到一时分心，愣是在捏脸的时候，将自己捏成死之执政若娜瓦了呢？ 　　而这还不算完，开局五条悟骑脸怎么打？ 　　刚从泉水出来就要打五条悟吗？ 　　...... 　　当两面宿傩降临世间，等待他的不是五条悟。 　　而是掌握死之权能的咒灵之王，死亡执政若娜瓦！ 　　面对千年前的诅咒之王，若娜瓦自信说道：“宿傩，你才是挑战者！” 　　“生在没有我的时代的凡夫，觐见你的死亡吧！”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o17f26745aebaff74a2d41f144a160f1f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=z1xTICGtCygBtv1kwWTEkG0h82g%3D",
+        "url": "https://fanqienovel.com/page/7659314752245484606"
       },
       {
         "title": "实教：花山薰的实力至上主义教室",
         "author": "AceImpact",
-        "reads": "13.4万",
+        "reads": "13万",
         "intro": "（刚出评分，后续应该会涨） 诸位你们有听过侠客行的故事吗？ 元和二年，一位流浪赌徒来到花山家... 因为组员的恳求以及母亲的期许，花山组组长、全日本最强的打架专家花山薰堂堂在高度育成高等学校开始自己的高中生涯！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3e5f8ad697d3c38a9eb6721d59f23a23~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=VJ5UBOYEaraCzXEX5yTgXxHNt5k%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3e5f8ad697d3c38a9eb6721d59f23a23~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=zKy2JOhlTM41cuu%2BYjMRbGObQuc%3D",
         "url": "https://fanqienovel.com/page/7654462288153283646"
       },
       {
-        "title": "型月，从希腊开始的旅程",
-        "author": "先天牛马",
-        "reads": "11.8万",
-        "intro": "因为救火而穿越的余烬来到了古希腊这片土地，本以为是古代，但为什么隔壁有个叫阿尔喀德斯的孩子徒手捏死了两条毒蛇？ 当确认这是一个神明尚且行走于世间的英雄时代后，余烬只想过平静的生活，但他总能遇到点奇怪的事情，这让他主动或被动走向了一条不凡的道路。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o772b5bd99bba825ade40eddc83b5405c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=fceagXjhu9eQLV%2FNNhJzRmFS3g8%3D",
-        "url": "https://fanqienovel.com/page/7647159346207411262"
+        "title": "咒回：特级的我去打万业尸仙了",
+        "author": "超级无敌哈基人",
+        "reads": "14.6万",
+        "intro": "【系统+诸天+斗傩+战斗爽】 绑定“挑战空间”的夏芥可以挑战诸天万界的所有强者，比如：宿傩、巨鲨天王、奇迹于你、万业尸仙、加坦杰厄、神之手、地狱星、波罗斯、友哈巴赫、反螺旋王…… 挑战空间：“会赢吗？” 夏芥：“包死的，但是死也值回票价！” 好在他每一次死亡都可以回档重来并获得奖励，直到打出满意的结局。 在死灭回游中觉醒记忆术式的夏芥：“先肘赢宿傩再打万业固然不错，但这是废物的思维！来吧，万业，让我看看你这工业糖精有多齁！” cos完减速带后—— 新宿决战，宿傩看着夏芥手上的“记忆再现·三真万法剑”，面目狰狞：“没想到你竟然能做到这一步，夏芥！！！” 夏芥：“别急，打完你还有宿那鬼呢。”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa0c732bb83839415217d7fd6191c2198~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=dQ%2Fj5hqGw0p6BxNwEwnpfqmu8CQ%3D",
+        "url": "https://fanqienovel.com/page/7651357308248673304"
+      },
+      {
+        "title": "星穹铁道：if线的我被天幕曝光",
+        "author": "瑞雪罩梧桐",
+        "reads": "13.9万",
+        "intro": "（评分刚出，可能会涨）（多女主）（会有主线但量不确定）（第一篇章有点长）（感情戏不够细腻，有点突兀，只能凑合看，不喜勿喷）（前面部分不算特别惊艳，后面会稍微好点） 白陌穿越到崩坏：星穹铁道世界，成为一名光荣的地衡司职员。 就在他准备混吃等死、摸鱼度日时，一道天幕降临寰宇，当场曝光了有关他的无数if线—— 绝灭大君铁幕，天才俱乐部#85，单杀帝皇三世，毁灭智识之人； 仙舟剑主，昔日云上六晓之一，剑斩丰饶令使倏忽，一人一剑镇压亿万孽物。 ………… 无数if线曝光，寰宇震惊。 白陌看着上门找来的女主们，彻底傻眼了： “我只想混吃等死啊！”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oec62cf79950063d406dc72b53b4a3b98~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=AjmlHKyEalNFH%2BeHVMAXamfJHxM%3D",
+        "url": "https://fanqienovel.com/page/7617030600007879742"
+      },
+      {
+        "title": "动物城：开局被大先生捡到",
+        "author": "蝈蝈国王",
+        "reads": "21.2万",
+        "intro": "福瑞，阴谋论，原创，纯爱（不是双男）男频，主角男的 男主凯文，对象白狼凯伦（出现比较晚） 刘凯正比赛呢，但突然被肘了，醒来却发现这是一个满是动物的世界……不对，这不动物城吗？ 他有了一个新的名字，凯文 你肘人给我肘好了呀，破机器人。 他在这也有一个新的身份，大先生的义子，沃夫集团的总裁 大先生，我是您的好儿啊。 这叫人情世故，朱迪 我真该霸凌你们这些食草动物了。 历史在左，科技在右，跟随沃夫公司的脚步，走在世界的前沿。 你说你们讨厌食肉动物？我们造的东西你到时别用啊。 在第三章往后就会用它的正式名字凯文 前期没发展起来，软一点，后面就好了",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6007d49b1626cc2c43d37ad8fdff185e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=Xg6fv0gEiS4idolkBAqNrBeLYc8%3D",
+        "url": "https://fanqienovel.com/page/7661277530032196632"
       },
       {
         "title": "Re：死归就变强？先死100次",
         "author": "西风瘦吗",
-        "reads": "11.8万",
+        "reads": "11.3万",
         "intro": "「评分刚出，后续会涨，极致的战斗爽」 陈明意外穿越到Re0世界，还成为了Re0的主角，拥有【死亡回归】能力的菜月昴。 而当系统给出了变强条件，陈明绷不住了。 什么叫死亡回归就变强？还能减少痛觉？ 开局先死他个100次！！ 未来的时刻，经过无数次死归的陈明踩在魔女教的尸骸之山中，徒手掰碎了龙剑。 “剑圣？世界之子？大罪司教？哪里比得过我深蓝加点啊！！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6dfac7390a0b0510e73313d3a603e736~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=8AtkbHPKpj9je0fsvqWg4sfB0EM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6dfac7390a0b0510e73313d3a603e736~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=U1JEZCs88ZInJZTubYIAst1bIrU%3D",
         "url": "https://fanqienovel.com/page/7655237107052465176"
       },
       {
         "title": "木叶刁民：开局就把三代压力死了",
         "author": "奈何桥卖豆浆",
-        "reads": "11.9万",
+        "reads": "11.4万",
         "intro": "三木由也穿越木叶，成了个毫无背景的平民。 坏消息：此时正是木叶崩溃计划期间，三代要死了。 好消息：觉醒了【木叶刁民系统】，只要发癫、搞事、霸凌原著角色就能变强。 懂不懂什么叫做霸气凌驾于一切之上啊，什么火影，什么忍族，什么大筒木，跟我的霸之意志说去吧！ 不为强大而屈服，不因胆怯而退缩，这就是我的霸道！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2550874e5ccedc79bfc142b8bd7c611c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=35bkPF3MJG%2B%2FVP3CQnwVMOKgosg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2550874e5ccedc79bfc142b8bd7c611c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=W1Tia1OhuU1N7xyMnsoWabzOeb8%3D",
         "url": "https://fanqienovel.com/page/7653767450122521625"
       }
     ]
@@ -230,217 +230,217 @@
         "new_count": 1,
         "dropped_count": 1,
         "new_books": [
-          "穿越赛尔号谱尼：开局封印三百年"
+          "动物城：开局被大先生捡到"
         ],
         "dropped_books": [
           {
-            "title": "菜月昴的一己之见",
-            "intro": "（后宫，主re0，综漫，拆cp） 菜月昴发现只要他睡着之后，就会来到一个和现实完全不同的异世界，但是只要他在这个异世界死掉，就会在现实世界睡醒。 随时能够回家的异世界，代价是痛苦的死亡。先不说这种金手"
+            "title": "型月，从希腊开始的旅程",
+            "intro": "因为救火而穿越的余烬来到了古希腊这片土地，本以为是古代，但为什么隔壁有个叫阿尔喀德斯的孩子徒手捏死了两条毒蛇？ 当确认这是一个神明尚且行走于世间的英雄时代后，余烬只想过平静的生活，但他总能遇到点奇怪的"
           }
         ],
         "top_risers": [
           {
-            "title": "我都帝皇铠甲了，妹妹国运召唤？",
-            "change": "+7"
+            "title": "奥特：最强债主！借债十倍返还！",
+            "change": "+5"
           },
           {
-            "title": "崩铁：这是我家的令使",
-            "change": "+1"
+            "title": "海贼：都四神了我六道仙人合理吧",
+            "change": "+4"
           },
           {
-            "title": "型月，从希腊开始的旅程",
-            "change": "+1"
+            "title": "穿越赛尔号谱尼：开局封印三百年",
+            "change": "+3"
           }
         ],
         "top_fallers": [
           {
-            "title": "咒回：特级的我去打万业尸仙了",
-            "change": "-2"
+            "title": "一人之下：我非魔修，再说杀你哦",
+            "change": "-7"
           },
           {
-            "title": "Re：死归就变强？先死100次",
-            "change": "-2"
+            "title": "咒术回战：死之执政也要打宿傩？",
+            "change": "-6"
           },
           {
-            "title": "木叶刁民：开局就把三代压力死了",
-            "change": "-2"
+            "title": "崩铁，穿越成怪兽，被爻光买回家",
+            "change": "-3"
           }
         ],
         "reads_growth": [
           {
             "title": "奥特：最强债主！借债十倍返还！",
-            "growth": "+5.4万"
-          },
-          {
-            "title": "我都帝皇铠甲了，妹妹国运召唤？",
-            "growth": "+1.6万"
+            "growth": "+4.0万"
           },
           {
             "title": "崩铁：这是我家的令使",
-            "growth": "+1.1万"
+            "growth": "+1.3万"
+          },
+          {
+            "title": "海贼：都四神了我六道仙人合理吧",
+            "growth": "+8000"
           }
         ],
-        "summary": "**🔥 题材趋势**：崩铁、奥特、咒术、型月等日本IP仍为基本盘，国漫铠甲、一人之下等本土IP融合开始起量；系统穿越、玩梗、伪无敌流是主要创作框架。\n**📖 读者偏好**：青睐高设定强度、快节奏战斗爽文，同时接受沙雕日常与“非人主角”；评分刚出、后续会涨等说明读者对早期数据敏感，多女主与单女主各有受众。\n**🆕 新上榜作品**：《穿越赛尔号谱尼》以“开局封印三百年”反套路破局，补位经典IP改编，显示老IP+新角度仍有潜力。\n**📉 掉出榜单**：掉榜作品为综漫后宫流，题材相对老套，未能持续抓住增量读者。\n**💡 值得关注**：《帝皇铠甲》升7位，国漫IP+全球国运题材爆发力强；《崩铁令使》稳中有升，说明崩铁同人基本盘深厚，但头部竞争激烈。"
+        "summary": "**🔥 题材趋势** 奥特曼、崩铁、海贼王等日漫及国漫IP扎堆，主打“反套路”（如债主、帝皇、怪兽）与跨世界观缝合。\n**📖 读者偏好** 受众对角色梗和战力体系高度熟悉，偏爱“高B格+伪无敌+整活”；评分刚出时包容度较高，但强调“单女主/无女主”标签分化明显。\n**🆕 新上榜作品** 仅《动物城》新入榜，侧面反映头部作品稳定性强，新书突围难度加大。\n**📉 掉出榜单** 型月希腊题材因题材偏冷、缺乏即时爽感而退出，说明小众IP跨界风险高。\n**💡 值得关注** 奥特曼与海贼王题材热度攀升，证明“借梗+系统”模式生命周期长；但一人之下、咒术回战跌幅大，需警惕同质化疲劳。"
       },
       "books": [
         {
           "title": "穿越刘备，死后和我说这是型月？",
           "author": "迦勒底人理保护协会",
-          "reads": "31.9万",
+          "reads": "30.8万",
           "intro": "落榜美术生穿越到汉末三国，发现自己竟然成了刘备。 那么身为现代有志青年的刘备自然不会走原来的老路。 年轻求学时凭借现代文采和各种五花八门的知识结交了各路好友，与曹操，袁绍，袁术，并称洛阳四公子（四混混）。 某次偶然与与甄家甄逸结识，并与其长女甄姜结发，后凭借甄家的门路与渠道彻底展开自己的才华，依靠现代知识赚取到了人生第一和第N缸金。 之后便是黄巾之乱，虽然这次刘备已经是备受信赖的一军统帅了。但刘备还是感觉天塌了，那个山披上呼风唤雨，随手召雷，撒豆成兵的老头是个什么鬼玩意？哦，这是建国前，那没事了。可是我二弟什么时候那么猛了？身上那青龙虚影是真的假的？我穿越的原来是神话三国吗？ 高筑墙，广积粮，攀科技，缓称王。 最后刘备终于凭借绝品打工仔诸葛卧龙和自己运营出的巨大的经济优势一统天下。 多年后病榻上的刘备终于合上了双眼，他本以为自己的意识要么就此消散，要么就回到现代，结果却冒出了一个自称盖亚的家伙问自己要不要拯救人理？ 拯救人理？关我一个噶了的人什么事？我也没什么遗憾啊，要不还是让我正常往生吧。 哈？你拒绝我的拒绝？合着这还是强制的？ 这到底是个什么鬼世界？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe783b18e48b087eaf26c1efc5ad73f36~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=9kLdDbYN40ur574EAb1QkbVgXGM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe783b18e48b087eaf26c1efc5ad73f36~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=sYIlVsPvYMYZXvte5QZa1%2BBzISk%3D",
           "url": "https://fanqienovel.com/page/7647013790642359358"
+        },
+        {
+          "title": "奥特：最强债主！借债十倍返还！",
+          "author": "说来就来",
+          "reads": "31.7万",
+          "intro": "【评分刚出，后续会涨】【奥特精神+伪无敌流+高B格】 穿越奥特宇宙，居然成了某奥特之星的流亡王子？ 刚刚死里逃生，又被困死在时空夹层。 还好最强债主系统觉醒。 让我给人借债？ 租借力量，能十倍返还？ 那些新生代债王呢？ 什么？ 才平成时间线？ 我还等着回去救国呢，哪等得起？ 嗯？谁说平成就不能当债王了？ 迪迦被打倒。 雷克斯：骚年，借债不？ 迪迦向孩子们借光。 雷克斯：骚年，快，我的光拿去不谢。 戴拿看着飞来的光芒怒吼：光芒啊！ 刷！ 迪迦截胡。 戴拿懵逼，破防。 雷克斯声音蛊惑：骚年，借债不？ 哉阿斯世界、盖亚世界、高斯世界、昭和世界观、新生代…… 一借一还间，力量滚雪球越滚越大。 某天，终于破开时空壁垒，再次站在M25星云奥特之星的国土，直面妄图毁灭王国的金色巨人。 雷克斯：“我的子民们呦，借债……啊呸！不必惊慌不必害怕。” “阿布索留特·塔尔塔罗斯！你也是时候还债了！”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe4056d690de9f9dfc3f66e846be57073~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=tDsZG0O4FgRqWuRMaZCjzL8EDcw%3D",
+          "url": "https://fanqienovel.com/page/7651657474658798617"
         },
         {
           "title": "我都帝皇铠甲了，妹妹国运召唤？",
           "author": "提笔便是辉煌",
-          "reads": "30.8万",
+          "reads": "31.2万",
           "intro": "蓝星国运降临，各国狂抢铠甲勇士！鹰酱抢了黑犀，小日子抢了炎龙，龙国却随机到了一个手无缚鸡之力的萌妹子端木蓉！ 全球嘲讽，龙国绝望！ 禁地怪物降临，各国选手大杀四方，妹妹端木蓉却只能缩在角落哭泣：“哥哥，蓉蓉好怕，蓉蓉再也见不到你了呜呜呜……” 绝望之际，一道璀璨到刺瞎全球人狗眼的极光撕裂宇宙！万年前穿越，已修成天道帝皇本尊的端木磊，拎着被打成狗的暗影大帝跨界降临！ 鹰酱选手：“法克！我的黑犀铠甲为什么不受控制了？” 小日子选手：“八嘎！我的炎龙铠甲怎么自己解体给那个龙国男人下跪了？！” 端木磊冷笑一声：“五行铠甲？那只是我掉落的头皮屑罢了！敢欺负我妹妹？天道，给我碾碎他们！” 那一刻，全球震怖，龙国直接起飞！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oda42a18e345910155639b69d5732ecca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=E4MZMNsbfBTuVHKk1dcqxJSn5HQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oda42a18e345910155639b69d5732ecca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=CDFxpJrVk1ibREYUGPM4QHQpsxY%3D",
           "url": "https://fanqienovel.com/page/7664544023293479960"
-        },
-        {
-          "title": "崩铁，穿越成怪兽，被爻光买回家",
-          "author": "被关的lunatic",
-          "reads": "19.8万",
-          "intro": "【崩坏星穹铁道】+【爻光单女主】+【半搞笑】+【系统】+【非人主角】 【评分低是因为刚出，后面慢慢会涨】 艾雨在某一天玩萝莉旮旯给木的时候，被突如其来的天雷一下子给劈到了崩铁世界，并觉醒了怪兽模板系统，开局就是一个艾雷王模板。 但…… 谁家模板是直接把宿主变成模板的啊喂！还是幼年体！ 好消息：穿越崩铁了。 坏消息：自己连人都不是了。 更坏的消息：自己在爻光的菜板上，此刻爻老板正手握菜刀。 穿越成为艾雷王的艾雨开局就被爻老板在仙舟的菜市场上买回家，放在了菜板上，准备做成麻辣黄鳝。 看着爻光手中闪烁着银白色的菜刀，艾雨咽下一口海水。 艾雨：孩子们，你们觉得我还能活下来吗？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o86f78eb7236a32f4db7a41c2d1669dab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=6EFt6ZgoORV5gAYGrD%2BQ2uZWvY8%3D",
-          "url": "https://fanqienovel.com/page/7654917752603298840"
         },
         {
           "title": "这个猫娘？怎么是尼古喵喵啊！！",
           "author": "女仆猫猫可爱呢",
-          "reads": "23.8万",
+          "reads": "23.9万",
           "intro": "【评分刚出，还要涨～🥰】【救赎！👿】【温馨😍】【尼古咪咪😓】【日漫漫综😘】【主角理智🤓】【整活🤔】【三观正直一把尺😎】【反不良嗜好😇】【纯手搓~🤗】【没看过的也无障碍阅读😝】 听着！所谓猫娘一定是世界上最可爱之物！ 无论如何的睿智，如何的作践自己也一定是让人心生怜悯！心痛不已！ 她们生于自然，死于自然。 犹如游走于人间之仙，不食人间烟火位！ 所以拥有猫娘，爱护猫娘！从你我做起！ 然而听此言的林北反手捏着鼻子提起一身臭味的尼古猫猫。 “我看未必！” —— 总之这是一个关于如何艰巨的让几位猫猫戒掉不良爱好的纯良小说！其中的不良嗜好可千万不要学习！😇 还是那句话！吸的赶紧戒！😱",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obeb6cf2f6ea689f7e9f21593ff00a931~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=6iXNQTfX%2BenGD09AeIa%2BOqHOp3Q%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obeb6cf2f6ea689f7e9f21593ff00a931~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=a40CReHoKkqs6SgvPL%2FuWDX125s%3D",
           "url": "https://fanqienovel.com/page/7662595434291923993"
         },
         {
           "title": "超神：我黑龙天！才是众神之主！",
           "author": "一剑独神",
-          "reads": "21.2万",
+          "reads": "20.4万",
           "intro": "顾凡穿越者，融合了黑龙天的角色模板，十万年前杀穿远古神族文明！ 　　沉睡十万年！被饕鬄大军入侵蓝星天河市，惊醒！ 　　当他出手的那一刻，整个宇宙所有文明都震惊了！ 　　琪琳：略微出手便能单杀诺星战神，镇压银河之力？ 　　凉冰：这才是我所追求的强大，我愿以天使之名守护他！ 　　卡尔：什么虚空？什么终极恐惧！他才是！ 　　凯莎：众神之主？我什么档次！竟然跟他用一样的名号！ 　　...... 　　而这，仅仅只是开始！ 　　当远古的盘古文明、女娲族、冥族、虚无文明陆续复苏，整个宇宙才知晓，未知宇宙的文明战斗有多可怕！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o557d7e99e1505be2703e19ac8bc1e3a2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=jLdicLjn7b2giXdmiKMuzat0NGw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o557d7e99e1505be2703e19ac8bc1e3a2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=OkxoyYkJw78w7ThBKlWkueZZngc%3D",
           "url": "https://fanqienovel.com/page/7663484325542775832"
         },
         {
-          "title": "一人之下：我非魔修，再说杀你哦",
-          "author": "天天吃香蕉",
-          "reads": "16.2万",
-          "intro": "你对我产生了杀意？桀桀桀！一只大手探出，一把抓住，顷刻炼化！ 穿越一人之下，陈百万觉醒先天异能吞天食地，十几年就修炼到神莹内敛的境界。 什么？就杀了几百人，公司就要废了我？赵方旭，你想怎么死？ 会双全手我为什么不能统治世界？ 逆生三重和金遁流光更配哦！ 本书轻松愉快，放心食用，最多“吃”点人...",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocf3601c782332418d74788645e08851a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=zXMoYMwoqYvso25r%2B%2Fo07DuorhA%3D",
-          "url": "https://fanqienovel.com/page/7637109018443402302"
-        },
-        {
-          "title": "奥特：最强债主！借债十倍返还！",
-          "author": "说来就来",
-          "reads": "27.7万",
-          "intro": "【评分刚出，后续会涨】【奥特精神+伪无敌流+高B格】 穿越奥特宇宙，居然成了某奥特之星的流亡王子？ 刚刚死里逃生，又被困死在时空夹层。 还好最强债主系统觉醒。 让我给人借债？ 租借力量，能十倍返还？ 那些新生代债王呢？ 什么？ 才平成时间线？ 我还等着回去救国呢，哪等得起？ 嗯？谁说平成就不能当债王了？ 迪迦被打倒。 雷克斯：骚年，借债不？ 迪迦向孩子们借光。 雷克斯：骚年，快，我的光拿去不谢。 戴拿看着飞来的光芒怒吼：光芒啊！ 刷！ 迪迦截胡。 戴拿懵逼，破防。 雷克斯声音蛊惑：骚年，借债不？ 哉阿斯世界、盖亚世界、高斯世界、昭和世界观、新生代…… 一借一还间，力量滚雪球越滚越大。 某天，终于破开时空壁垒，再次站在M25星云奥特之星的国土，直面妄图毁灭王国的金色巨人。 雷克斯：“我的子民们呦，借债……啊呸！不必惊慌不必害怕。” “阿布索留特·塔尔塔罗斯！你也是时候还债了！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe4056d690de9f9dfc3f66e846be57073~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=n1jEhWdeXXLGU0ylKACzmXTMGkc%3D",
-          "url": "https://fanqienovel.com/page/7651657474658798617"
-        },
-        {
-          "title": "咒术回战：死之执政也要打宿傩？",
-          "author": "慵懒的小手",
-          "reads": "16.6万",
-          "intro": "简介： 　　咒术回战+若娜瓦建模+无敌机制与数值！ 　　..... 　　人在咒术，刚成咒灵。 　　还是诞生自人类对死亡，这一终极恐惧当中的概念神级别咒灵。 　　完美开局，可惜出了岔子。 　　谁能想到一时分心，愣是在捏脸的时候，将自己捏成死之执政若娜瓦了呢？ 　　而这还不算完，开局五条悟骑脸怎么打？ 　　刚从泉水出来就要打五条悟吗？ 　　...... 　　当两面宿傩降临世间，等待他的不是五条悟。 　　而是掌握死之权能的咒灵之王，死亡执政若娜瓦！ 　　面对千年前的诅咒之王，若娜瓦自信说道：“宿傩，你才是挑战者！” 　　“生在没有我的时代的凡夫，觐见你的死亡吧！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o17f26745aebaff74a2d41f144a160f1f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=rKilhVEEOktPbg%2BZgLw3ZN1%2BuHQ%3D",
-          "url": "https://fanqienovel.com/page/7659314752245484606"
+          "title": "崩铁，穿越成怪兽，被爻光买回家",
+          "author": "被关的lunatic",
+          "reads": "18.7万",
+          "intro": "【崩坏星穹铁道】+【爻光单女主】+【半搞笑】+【系统】+【非人主角】 【评分低是因为刚出，后面慢慢会涨】 艾雨在某一天玩萝莉旮旯给木的时候，被突如其来的天雷一下子给劈到了崩铁世界，并觉醒了怪兽模板系统，开局就是一个艾雷王模板。 但…… 谁家模板是直接把宿主变成模板的啊喂！还是幼年体！ 好消息：穿越崩铁了。 坏消息：自己连人都不是了。 更坏的消息：自己在爻光的菜板上，此刻爻老板正手握菜刀。 穿越成为艾雷王的艾雨开局就被爻老板在仙舟的菜市场上买回家，放在了菜板上，准备做成麻辣黄鳝。 看着爻光手中闪烁着银白色的菜刀，艾雨咽下一口海水。 艾雨：孩子们，你们觉得我还能活下来吗？",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o86f78eb7236a32f4db7a41c2d1669dab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=mOmofSmhjfwNt8Qdz8CiB1jt09k%3D",
+          "url": "https://fanqienovel.com/page/7654917752603298840"
         },
         {
           "title": "奥特：从迪迦开始当街溜子",
           "author": "爱吃奶酪的苦茶子",
-          "reads": "17.8万",
+          "reads": "17.1万",
           "intro": "因为某个系统的失误，萧晨被带到了奥特宇宙，而且还是迪迦世界。 为了补偿失误，系统送了他一条假面骑士帝骑的腰带。 在萧晨完成致敬乡哥哥之后，赛罗找上了他。 赛罗奥特曼！假面骑士帝骑！集两大该溜子之力于一身的萧晨开始在奥特宇宙当起了真正的该溜子",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9228ddd26276f16ec223ee70ec2b3c5c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=W8mBpU7a%2BKsU40Un59lvmhLKZPM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9228ddd26276f16ec223ee70ec2b3c5c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=wWxph9UycI6xb0W1PuqNhGX0QuQ%3D",
           "url": "https://fanqienovel.com/page/7658947279927118910"
+        },
+        {
+          "title": "海贼：都四神了我六道仙人合理吧",
+          "author": "不会掀桌子的乌鸦",
+          "reads": "18.9万",
+          "intro": "【战斗爽】【洛克斯海贼团的六道仙人】 罗恩穿越到了海贼世界，原本想着加入罗杰海贼团，慢慢提升实力，没想到却以作风有问题被拒绝了。 　　无所谓，转身就加入洛克斯海贼团，一步一步变强的同时，也越来越了解世界的真相。 　　太阳神？雨神？大地之神？森林之神？ 　　罗恩懵逼了，这踏马还是海贼王吗？怎么都进入神话时代了。 　　罗恩：“shinixiankaide(是你先开的)”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob4716ee09f3574dbaa6e0e23119aa51f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=5MYcbILTISDfnkuW%2BuUIyrHo5Kc%3D",
+          "url": "https://fanqienovel.com/page/7642278516741901336"
         },
         {
           "title": "综漫：诸天万界从黑手帮开始",
           "author": "白白白粥",
-          "reads": "17.8万",
+          "reads": "17.5万",
           "intro": "【综漫】【无女主】【热血搞笑】 （新书评分刚出，后面会涨） 获得了平行世界另一个死去的自己的记忆，瓦龙觉醒了。 他拿到了名为记忆的“剧本”和系统这只“笔”。 圣主复活了！圣主背叛了！圣主……被干掉了？ 瓦龙：“老大的头上，不需要另一个老大。” 身负诸天万界最强老大系统，开局能绑定的手下却只有黑手帮贵物三人组。 但意外的，他却发现拉苏阿奋和周这三个家伙竟也有可取之处。 于是乎，铁打的三人组，打铁的瓦龙。 从此，一个名为黑手帮的传说浪进了诸天万界。 瓦龙：“三个蠢货！” 阿奋：“老大说的对！” 周：“阿奋说的对！” 拉苏：“我也一样！” 总而言之，黑手帮，集合！！！ PS：同人向二创，一切以原作为主，在此致歉！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o84756589206d2ba6b2154dd2f05bc3cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820933&x-signature=IgoncZYqB%2BX6VCuPD%2B5DJ%2Basqv0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o84756589206d2ba6b2154dd2f05bc3cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=idUT38BURF%2FT%2FTfbJHMTms0c%2FQc%3D",
           "url": "https://fanqienovel.com/page/7655774076736130073"
         },
         {
           "title": "崩铁：这是我家的令使",
           "author": "沢沢zer",
-          "reads": "23.9万",
+          "reads": "25.2万",
           "intro": "【刚评分了会长的！】【单女主，不喜勿入】【崩铁】【太空轻喜剧】【阮梅爱好者勿看】【前期历史信息量大】 因一次意外穿越到了崩铁世界，在一片混沌茫然发神。 ——欢迎，这里是二次元战锤，也是类人群星闪耀时的世界。 从最初之刻降临的外星爷，由普通人堪称突变的进化为了星神，在这个满地神人的崩铁世界，他不得不想起了你牢星的一句话。 “——在寰宇你不能不活，但不能没活。” 什么终极四末，什么寰宇战争、博士尊锚定铁幕的终极时刻的，叽里咕噜的说什么呢！ “身为一个星神我听不懂这些，我只知道我的超级大脑告诉我，它要我行使超级力量了！” ——而，面对一个喜欢的虚无令使时... 却又想起来自后辈的孜孜教导： “你辣卤客daddy曾经说过...” “——要是遇上了喜欢的令使” “就是要拼劲全力去抢口牙！！” ——尽管虚无从不瞥视任何人，作为面相万千表征的伊克斯，却在那一天丢失了还挂在它名下的野生令使。 ...真的是野生的吗？ ——存疑。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o244901c44967735799f1b31d4d10342b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=lVIRIrRIjS3v4i44MnCZzkxq%2F%2BY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o244901c44967735799f1b31d4d10342b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907490&x-signature=zH9uILz8j%2FYRqqz9sQUOsx3Cc3c%3D",
           "url": "https://fanqienovel.com/page/7660356734413720601"
-        },
-        {
-          "title": "海贼：都四神了我六道仙人合理吧",
-          "author": "不会掀桌子的乌鸦",
-          "reads": "18.1万",
-          "intro": "【战斗爽】【洛克斯海贼团的六道仙人】 罗恩穿越到了海贼世界，原本想着加入罗杰海贼团，慢慢提升实力，没想到却以作风有问题被拒绝了。 　　无所谓，转身就加入洛克斯海贼团，一步一步变强的同时，也越来越了解世界的真相。 　　太阳神？雨神？大地之神？森林之神？ 　　罗恩懵逼了，这踏马还是海贼王吗？怎么都进入神话时代了。 　　罗恩：“shinixiankaide(是你先开的)”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob4716ee09f3574dbaa6e0e23119aa51f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=29dJpD4KW9z4a%2BSUl3C5lm6%2FbfY%3D",
-          "url": "https://fanqienovel.com/page/7642278516741901336"
-        },
-        {
-          "title": "这个动物城有够疯狂的",
-          "author": "半睡的灰狐",
-          "reads": "16.6万",
-          "intro": "（疯狂动物城+多女主+福瑞）　 穿越到疯狂动物城并且变成哈士奇，并不知道剧情的约克起初相当绝望。 　　约克不是福瑞控，约克也完全不想成为福瑞控。 高中毕业的他来到动物城，本打算安安稳稳打拼，但事与愿违。 黑道，邪教，杀手，家族，政客。 各种纠纷接踵而至。 等到朱迪来到动物城时，发现到处都是约克留下的传奇。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6093fb898eac2ecf8db4faf7f2ac2b84~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=xzyYqQrGuO18yfBNm0%2FfdeTOPT0%3D",
-          "url": "https://fanqienovel.com/page/7648212692712311832"
         },
         {
           "title": "穿越赛尔号谱尼：开局封印三百年",
           "author": "东方赤子",
-          "reads": "17.1万",
+          "reads": "17.8万",
           "intro": "人类少年朴宁穿越成赛尔号宇宙战力榜第一的谱尼，以为自己要开启横推宇宙的养老生活了。 结果一睁开眼，宇宙深渊中，迪恩正拿着恶魔锁链，笑眯眯地看着他。 ？？？ 开局就被封印三百年，你礼貌吗？ 沉淀300年，谱尼破封，重写谱写传奇的赛尔宇宙故事。 索伦森很傲娇？我专治傲娇！各种手段层出不穷，与索白菜重归于好。 揍煞星，抽邪冥兽，制裁宇宙海盗。 不是反派？抱歉，不听话我也要揍，小精灵不打不成器，而且圣灵气息专门锤炼肉身！ 那个叱咤风云的圣灵系真神谱尼回来了！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa3b4c144e63392e3d7c767cdae3da467~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=Xq9umF0X0OZXFtNJ8DdBxqvPzBw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa3b4c144e63392e3d7c767cdae3da467~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=0jBiX2iY3SSAocWdjvEIWxNmqW0%3D",
           "url": "https://fanqienovel.com/page/7660793726754638910"
         },
         {
-          "title": "星穹铁道：if线的我被天幕曝光",
-          "author": "瑞雪罩梧桐",
-          "reads": "13.1万",
-          "intro": "（评分刚出，可能会涨）（多女主）（会有主线但量不确定）（第一篇章有点长）（感情戏不够细腻，有点突兀，只能凑合看，不喜勿喷）（前面部分不算特别惊艳，后面会稍微好点） 白陌穿越到崩坏：星穹铁道世界，成为一名光荣的地衡司职员。 就在他准备混吃等死、摸鱼度日时，一道天幕降临寰宇，当场曝光了有关他的无数if线—— 绝灭大君铁幕，天才俱乐部#85，单杀帝皇三世，毁灭智识之人； 仙舟剑主，昔日云上六晓之一，剑斩丰饶令使倏忽，一人一剑镇压亿万孽物。 ………… 无数if线曝光，寰宇震惊。 白陌看着上门找来的女主们，彻底傻眼了： “我只想混吃等死啊！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oec62cf79950063d406dc72b53b4a3b98~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=N7jsrAiMV%2FOKOxbndvJW2o4kM9Q%3D",
-          "url": "https://fanqienovel.com/page/7617030600007879742"
+          "title": "这个动物城有够疯狂的",
+          "author": "半睡的灰狐",
+          "reads": "16.4万",
+          "intro": "（疯狂动物城+多女主+福瑞）　 穿越到疯狂动物城并且变成哈士奇，并不知道剧情的约克起初相当绝望。 　　约克不是福瑞控，约克也完全不想成为福瑞控。 高中毕业的他来到动物城，本打算安安稳稳打拼，但事与愿违。 黑道，邪教，杀手，家族，政客。 各种纠纷接踵而至。 等到朱迪来到动物城时，发现到处都是约克留下的传奇。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6093fb898eac2ecf8db4faf7f2ac2b84~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=6V%2FXmKUaiGnRROo9QV6kySahT6A%3D",
+          "url": "https://fanqienovel.com/page/7648212692712311832"
         },
         {
-          "title": "咒回：特级的我去打万业尸仙了",
-          "author": "超级无敌哈基人",
-          "reads": "14.7万",
-          "intro": "【系统+诸天+斗傩+战斗爽】 绑定“挑战空间”的夏芥可以挑战诸天万界的所有强者，比如：宿傩、巨鲨天王、奇迹于你、万业尸仙、加坦杰厄、神之手、地狱星、波罗斯、友哈巴赫、反螺旋王…… 挑战空间：“会赢吗？” 夏芥：“包死的，但是死也值回票价！” 好在他每一次死亡都可以回档重来并获得奖励，直到打出满意的结局。 在死灭回游中觉醒记忆术式的夏芥：“先肘赢宿傩再打万业固然不错，但这是废物的思维！来吧，万业，让我看看你这工业糖精有多齁！” cos完减速带后—— 新宿决战，宿傩看着夏芥手上的“记忆再现·三真万法剑”，面目狰狞：“没想到你竟然能做到这一步，夏芥！！！” 夏芥：“别急，打完你还有宿那鬼呢。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa0c732bb83839415217d7fd6191c2198~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=MorEO0F1sbMH8b7vAqEETdIEWUM%3D",
-          "url": "https://fanqienovel.com/page/7651357308248673304"
+          "title": "一人之下：我非魔修，再说杀你哦",
+          "author": "天天吃香蕉",
+          "reads": "15.4万",
+          "intro": "你对我产生了杀意？桀桀桀！一只大手探出，一把抓住，顷刻炼化！ 穿越一人之下，陈百万觉醒先天异能吞天食地，十几年就修炼到神莹内敛的境界。 什么？就杀了几百人，公司就要废了我？赵方旭，你想怎么死？ 会双全手我为什么不能统治世界？ 逆生三重和金遁流光更配哦！ 本书轻松愉快，放心食用，最多“吃”点人...",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocf3601c782332418d74788645e08851a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=byBMdqL3fgPisaxO4WtVM2gzQp4%3D",
+          "url": "https://fanqienovel.com/page/7637109018443402302"
+        },
+        {
+          "title": "咒术回战：死之执政也要打宿傩？",
+          "author": "慵懒的小手",
+          "reads": "14.8万",
+          "intro": "简介： 　　咒术回战+若娜瓦建模+无敌机制与数值！ 　　..... 　　人在咒术，刚成咒灵。 　　还是诞生自人类对死亡，这一终极恐惧当中的概念神级别咒灵。 　　完美开局，可惜出了岔子。 　　谁能想到一时分心，愣是在捏脸的时候，将自己捏成死之执政若娜瓦了呢？ 　　而这还不算完，开局五条悟骑脸怎么打？ 　　刚从泉水出来就要打五条悟吗？ 　　...... 　　当两面宿傩降临世间，等待他的不是五条悟。 　　而是掌握死之权能的咒灵之王，死亡执政若娜瓦！ 　　面对千年前的诅咒之王，若娜瓦自信说道：“宿傩，你才是挑战者！” 　　“生在没有我的时代的凡夫，觐见你的死亡吧！”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o17f26745aebaff74a2d41f144a160f1f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=z1xTICGtCygBtv1kwWTEkG0h82g%3D",
+          "url": "https://fanqienovel.com/page/7659314752245484606"
         },
         {
           "title": "实教：花山薰的实力至上主义教室",
           "author": "AceImpact",
-          "reads": "13.4万",
+          "reads": "13万",
           "intro": "（刚出评分，后续应该会涨） 诸位你们有听过侠客行的故事吗？ 元和二年，一位流浪赌徒来到花山家... 因为组员的恳求以及母亲的期许，花山组组长、全日本最强的打架专家花山薰堂堂在高度育成高等学校开始自己的高中生涯！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3e5f8ad697d3c38a9eb6721d59f23a23~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=VJ5UBOYEaraCzXEX5yTgXxHNt5k%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3e5f8ad697d3c38a9eb6721d59f23a23~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=zKy2JOhlTM41cuu%2BYjMRbGObQuc%3D",
           "url": "https://fanqienovel.com/page/7654462288153283646"
         },
         {
-          "title": "型月，从希腊开始的旅程",
-          "author": "先天牛马",
-          "reads": "11.8万",
-          "intro": "因为救火而穿越的余烬来到了古希腊这片土地，本以为是古代，但为什么隔壁有个叫阿尔喀德斯的孩子徒手捏死了两条毒蛇？ 当确认这是一个神明尚且行走于世间的英雄时代后，余烬只想过平静的生活，但他总能遇到点奇怪的事情，这让他主动或被动走向了一条不凡的道路。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o772b5bd99bba825ade40eddc83b5405c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=fceagXjhu9eQLV%2FNNhJzRmFS3g8%3D",
-          "url": "https://fanqienovel.com/page/7647159346207411262"
+          "title": "咒回：特级的我去打万业尸仙了",
+          "author": "超级无敌哈基人",
+          "reads": "14.6万",
+          "intro": "【系统+诸天+斗傩+战斗爽】 绑定“挑战空间”的夏芥可以挑战诸天万界的所有强者，比如：宿傩、巨鲨天王、奇迹于你、万业尸仙、加坦杰厄、神之手、地狱星、波罗斯、友哈巴赫、反螺旋王…… 挑战空间：“会赢吗？” 夏芥：“包死的，但是死也值回票价！” 好在他每一次死亡都可以回档重来并获得奖励，直到打出满意的结局。 在死灭回游中觉醒记忆术式的夏芥：“先肘赢宿傩再打万业固然不错，但这是废物的思维！来吧，万业，让我看看你这工业糖精有多齁！” cos完减速带后—— 新宿决战，宿傩看着夏芥手上的“记忆再现·三真万法剑”，面目狰狞：“没想到你竟然能做到这一步，夏芥！！！” 夏芥：“别急，打完你还有宿那鬼呢。”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa0c732bb83839415217d7fd6191c2198~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=dQ%2Fj5hqGw0p6BxNwEwnpfqmu8CQ%3D",
+          "url": "https://fanqienovel.com/page/7651357308248673304"
+        },
+        {
+          "title": "星穹铁道：if线的我被天幕曝光",
+          "author": "瑞雪罩梧桐",
+          "reads": "13.9万",
+          "intro": "（评分刚出，可能会涨）（多女主）（会有主线但量不确定）（第一篇章有点长）（感情戏不够细腻，有点突兀，只能凑合看，不喜勿喷）（前面部分不算特别惊艳，后面会稍微好点） 白陌穿越到崩坏：星穹铁道世界，成为一名光荣的地衡司职员。 就在他准备混吃等死、摸鱼度日时，一道天幕降临寰宇，当场曝光了有关他的无数if线—— 绝灭大君铁幕，天才俱乐部#85，单杀帝皇三世，毁灭智识之人； 仙舟剑主，昔日云上六晓之一，剑斩丰饶令使倏忽，一人一剑镇压亿万孽物。 ………… 无数if线曝光，寰宇震惊。 白陌看着上门找来的女主们，彻底傻眼了： “我只想混吃等死啊！”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oec62cf79950063d406dc72b53b4a3b98~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=AjmlHKyEalNFH%2BeHVMAXamfJHxM%3D",
+          "url": "https://fanqienovel.com/page/7617030600007879742"
+        },
+        {
+          "title": "动物城：开局被大先生捡到",
+          "author": "蝈蝈国王",
+          "reads": "21.2万",
+          "intro": "福瑞，阴谋论，原创，纯爱（不是双男）男频，主角男的 男主凯文，对象白狼凯伦（出现比较晚） 刘凯正比赛呢，但突然被肘了，醒来却发现这是一个满是动物的世界……不对，这不动物城吗？ 他有了一个新的名字，凯文 你肘人给我肘好了呀，破机器人。 他在这也有一个新的身份，大先生的义子，沃夫集团的总裁 大先生，我是您的好儿啊。 这叫人情世故，朱迪 我真该霸凌你们这些食草动物了。 历史在左，科技在右，跟随沃夫公司的脚步，走在世界的前沿。 你说你们讨厌食肉动物？我们造的东西你到时别用啊。 在第三章往后就会用它的正式名字凯文 前期没发展起来，软一点，后面就好了",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6007d49b1626cc2c43d37ad8fdff185e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=Xg6fv0gEiS4idolkBAqNrBeLYc8%3D",
+          "url": "https://fanqienovel.com/page/7661277530032196632"
         },
         {
           "title": "Re：死归就变强？先死100次",
           "author": "西风瘦吗",
-          "reads": "11.8万",
+          "reads": "11.3万",
           "intro": "「评分刚出，后续会涨，极致的战斗爽」 陈明意外穿越到Re0世界，还成为了Re0的主角，拥有【死亡回归】能力的菜月昴。 而当系统给出了变强条件，陈明绷不住了。 什么叫死亡回归就变强？还能减少痛觉？ 开局先死他个100次！！ 未来的时刻，经过无数次死归的陈明踩在魔女教的尸骸之山中，徒手掰碎了龙剑。 “剑圣？世界之子？大罪司教？哪里比得过我深蓝加点啊！！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6dfac7390a0b0510e73313d3a603e736~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=8AtkbHPKpj9je0fsvqWg4sfB0EM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6dfac7390a0b0510e73313d3a603e736~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=U1JEZCs88ZInJZTubYIAst1bIrU%3D",
           "url": "https://fanqienovel.com/page/7655237107052465176"
         },
         {
           "title": "木叶刁民：开局就把三代压力死了",
           "author": "奈何桥卖豆浆",
-          "reads": "11.9万",
+          "reads": "11.4万",
           "intro": "三木由也穿越木叶，成了个毫无背景的平民。 坏消息：此时正是木叶崩溃计划期间，三代要死了。 好消息：觉醒了【木叶刁民系统】，只要发癫、搞事、霸凌原著角色就能变强。 懂不懂什么叫做霸气凌驾于一切之上啊，什么火影，什么忍族，什么大筒木，跟我的霸之意志说去吧！ 不为强大而屈服，不因胆怯而退缩，这就是我的霸道！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2550874e5ccedc79bfc142b8bd7c611c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786820936&x-signature=35bkPF3MJG%2B%2FVP3CQnwVMOKgosg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2550874e5ccedc79bfc142b8bd7c611c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786907494&x-signature=W1Tia1OhuU1N7xyMnsoWabzOeb8%3D",
           "url": "https://fanqienovel.com/page/7653767450122521625"
         }
       ]
