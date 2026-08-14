@@ -1,234 +1,217 @@
 {
   "type": "悬疑灵异",
-  "date": "2026-08-14",
-  "prev_date": "2026-08-13",
+  "date": "2026-08-15",
+  "prev_date": "2026-08-14",
   "category": {
     "name": "悬疑灵异",
     "trend": {
-      "new_count": 3,
-      "dropped_count": 3,
-      "new_books": [
-        "我在警局抓鬼",
-        "盗笔，从南部档案馆走出的张家人",
-        "南部档案：家妻张海琪，开局长生"
-      ],
-      "dropped_books": [
-        {
-          "title": "编外法医：重案组抢疯了！",
-          "intro": "预告一下，本剧无CP，在93章的时候，被各位大神读者给投没了，所以放心看吧 火化炉的门都开了。 温则鸣一把按住推车：\"这人是被杀的。\" 所有人都笑了——一个连编制都没有的法医助理。 三天后，凶手落网。"
-        },
-        {
-          "title": "盗墓：横推古墓，从刨人祖坟开始",
-          "intro": "赵涅穿越盗综世界，成了盗墓贼，开局夜刨古坟，借古物萃取特性，敛明器、网罗奇人，在这军阀乱世，他誓要从坟头起步，步步登神！"
-        },
-        {
-          "title": "盗墓：行为越变态我就越强",
-          "intro": "【盗墓+听雷+搞笑】陈安一觉醒来，穿越到了盗墓世界，并且面前还摆着一具湿漉漉的棺材，就在这时金手指激活，只要行为越变态，陈安就越强！ 为了在如此危险的盗墓世界存活，陈安不管了，抓起从棺材里爬出来的尸蟞"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
         {
+          "title": "盗墓：武道通神，从长生开始！",
+          "change": "+3"
+        },
+        {
           "title": "美恐：我，人间真神",
-          "change": "+6"
+          "change": "+1"
         },
         {
-          "title": "女鬼吸我阳气？但我是邪修啊",
-          "change": "+4"
-        },
-        {
-          "title": "什么？任婷婷是我娃娃亲！",
-          "change": "+4"
+          "title": "我天师老祖，被佛爷挖出",
+          "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "盗墓：开局就开了王胖子一局",
-          "change": "-4"
+          "title": "盗墓：你们把我弟扔哪了？！",
+          "change": "-2"
         },
         {
-          "title": "暑假兼职赶尸，749局找上门！",
-          "change": "-3"
+          "title": "盗墓：铁口神算，盗墓捉鬼",
+          "change": "-1"
         },
         {
-          "title": "炼祭我女儿？我成为僵神天灾",
+          "title": "爷爷暴毙后，749局找到了我",
           "change": "-1"
         }
       ],
       "reads_growth": [
         {
           "title": "美恐：我，人间真神",
-          "growth": "+1.0万"
+          "growth": "+1.7万"
         },
         {
-          "title": "南部档案：我真不想当张家主事人",
+          "title": "我在警局抓鬼",
           "growth": "+5000"
         },
         {
           "title": "盗墓：武道通神，从长生开始！",
-          "growth": "+4000"
+          "growth": "+3000"
         }
       ],
-      "summary": "**🔥 题材趋势** 盗笔同人统治榜单，融合南部档案、九门、749局等元素；真实案件与灵异探案结合的现实向内容占第二极。\n**📖 读者偏好** 偏好强世界观联动、主角身份高能（张家血脉、老祖、真神），同时接受无CP或专注剧情；惊悚中带幽默更易突围。\n**🆕 新上榜作品** 三本新书均属盗笔衍生：《我在警局抓鬼》走刑侦灵异，《盗笔张家人》与《家妻张海琪》深挖张家族谱，垂直细分明显。\n**📉 掉出榜单** 《编外法医》《横推古墓》《行为越变态》均因题材同质化或搞笑过度，缺乏联动背景支撑，热度被头部吸走。\n**💡 值得关注** 《美恐》飙升最快，混搭美恐IP+击杀变强系统，验证“西式恐怖+中式爽文”的融合潜力；《女鬼吸阳气》靠邪修反套路持续上升。"
+      "summary": "**🔥 题材趋势** 盗墓同人（盗笔、鬼吹灯、南部档案）近乎垄断榜单，占Top20半壁江山；其次为真实刑侦纪实、749局/民俗灵异。\n**📖 读者偏好** 强世界观依赖（铁三角、九门、张家人），偏好“穿越/觉醒+熟悉剧情”的补完与颠覆；追求爽感提升，如武道通神、老祖出棺。\n**🆕 新上榜作品** 本期无新上榜，头部格局稳定；榜单末位竞争激烈，新书需借经典角色“蹭认知”+给出明确创新点（如家妻张海琪、开王胖子一局）。\n**📉 掉出榜单** 无掉榜，说明该分类头部作品沉淀强，读者黏性高；新增流量主要被盗墓同人吸收，原创灵异冲榜难度加大。\n**💡 值得关注** 《南部档案》系列持续霸榜，但同质化风险已现；《爷爷暴毙后，749局找到了我》以“别信白”悬念出圈，证明“现实机关+民俗”仍能破局。"
     },
     "books": [
       {
         "title": "南部档案：我真不想当张家主事人",
         "author": "铁骑大哥",
-        "reads": "17.2万",
+        "reads": "17.1万",
         "intro": "【盗墓笔记】【老九门】【盗墓多元世界融合】 张海云穿越到盗笔世界，成为南部档案馆张海琪徒弟，成为麒麟纹身拥有者，被誉为张家武学一途天赋最高的人。不久后，师父领回两个师弟，一个是拆家比格张海楼，一个是聪明体贴边牧张海侠，只是..说好的高冷美女师父呢？怎么师父性格也是拆家比格啊？这日子没法过了啊，另外，小哥你站住，我没说我想成为张家主事人啊！！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe61671b50bc42047c5f9554f0ffa40fc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=jEDdDeqO2eNDl1ocntglbAgE0zw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe61671b50bc42047c5f9554f0ffa40fc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=mgeng4xJU3ySmsI1FVbt134GsNY%3D",
         "url": "https://fanqienovel.com/page/7657092987398147134"
       },
       {
         "title": "悬疑凶案：公安局长重案手记",
         "author": "氰呓语",
-        "reads": "12.2万",
+        "reads": "12.4万",
         "intro": "一场针对县长的暗杀，误杀了清江首富的独生女。 五年形同陌路的夫妻，因女儿的惨死再次联手。 母亲在官场强势反击，父亲在商场全面打压，誓要血债血偿。 为破此案，女战神陆清霜空降公安局，却陷入地方势力织就的天罗地网。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8341dad177aad65ab88e46ded9b1f21e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=COlj2ZrfRjMafIVXEQYe3UBD8mo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8341dad177aad65ab88e46ded9b1f21e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=TncHTG0QOI6cRUvAokJpxDUpw1c%3D",
         "url": "https://fanqienovel.com/page/7659390162392075289"
       },
       {
         "title": "惊天大案：六省大追凶",
         "author": "神州龙剑",
-        "reads": "9万",
+        "reads": "8.7万",
         "intro": "公安部三次挂牌督办！豫皖鲁苏冀滇六省流窜作案！七年跨省大追捕！六十七起连环血案，二十二条无辜人命！ 九十年代豫皖交界国道省道管控薄弱，一场持枪劫车杀人案拉开横跨六省的连环犯罪序幕。项城周向阳因监守自盗被开除，纠集邓永梁、韩垒、张果强三个走投无路的底层人，从国道拦车起步，一步步突破底线，持枪越货、杀人灭口，彻底踏上亡命之路。 团伙行事狡诈，专挑偏僻乡镇、夜间货车下手，窝点轮换、现场清痕，数次从天罗地网中全身而退。邓永梁贪财妄为埋下覆灭隐患，韩垒缜密反侦察屡次带队脱险，内部裂痕与外部围剿同步滋生。 周口民警王振天从零星报案切入，循着弹壳、撬痕拼凑线索，从属地排查到跨省协查，与悍匪展开长达七年的猫鼠游戏。从豫东追捕到南溪河最终围毙，从四人散兵到六人武装团伙，六十七桩血案串联起九十年代中原刑侦史上最沉重的一页。 悍匪如何一步步走向覆灭？这场七年追凶，藏着多少不为人知的博弈与裂痕？ 真实大案改编，还原九十年代最原生态的悍匪成长史与警匪生死较量。 声明： 本书依据公开刑侦档案文学改编，书中大部分地名、人名、机构名称均为艺术虚构，情节经过二次创作。如有雷同，纯属巧合，请勿对号入座。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3a701d17130cb832e6f1ac23c00e2593~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=fxE3jJAbySNDtIVvMOOs78d3uiE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3a701d17130cb832e6f1ac23c00e2593~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=diYUNBt75NHRdTwwYXKUNUhr1oU%3D",
         "url": "https://fanqienovel.com/page/7632789813057293337"
-      },
-      {
-        "title": "盗墓：你们把我弟扔哪了？！",
-        "author": "许六顺",
-        "reads": "6.6万",
-        "intro": "（评分刚出，莫理它m(._.)m）【快穿局的人+盗笔同人+无cp+微弟控+爱怼人+原创剧情】 项濯，在原生世界离世后和弟弟一同被快穿局选中，弟弟项尘因三魂七魄少一魂，导致神志不清，反应缓慢，项濯便从没让他去做过任务。 直到一次任务做的时间太长，回来后发现……老弟不见了。 “我*****！亖老头子！我弟呢？！” “呃，不……不见了。” “沃……🌞你大爷！！！” “唉！！不能赖我们，他自己说不想成为你的累赘要去做任务的，而且我们给他找的世界还是和他在原生世界的职业搭伙的呢！虽然……不知道为什么断联了，你先别骂我，现在不仅你弟找不着了，你弟去的那个世界也崩的不像样了，还有几个快嗝屁了，所以，是时候该你上场了！” “爸了个根的，出事了你知道找我了！” 于是项濯来到了盗墓的世界，却发现好像回到了久违的原生世界，而且更加有趣和烧脑，和墓有关呐……不对！我是来找老弟的，修复世界线是其次的！ 项濯：你们见过我老弟不? 张启灵：找他，一起。 无邪：相依为命的兄弟吗？好感人呜呜呜 黑瞎子：找人？诚惠二百万。 花爷：我可以帮你找他，算是合作共赢。 所以你们到底给我弟扔哪了！！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc45391be3a9be7534403fc24c4079677~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=W4VzIWS2JsrOAtpna9tt7kKJ7vw%3D",
-        "url": "https://fanqienovel.com/page/7580031762030414910"
       },
       {
         "title": "美恐：我，人间真神",
         "author": "白黄白",
-        "reads": "6.3万",
+        "reads": "8万",
         "intro": "【风格偏轻松诙谐，不是那种严肃压抑的类型】 这是一个由美恐影视混杂融合的世界。 洛恩自浑浑噩噩中苏醒，面前是一台老式电视机，屏幕中央的木偶咧开嘴：“我想跟你们玩个游戏。” 平整的公路旁跑出了食人魔，露营的水晶湖爬出了杀人狂杰森，短暂歇脚的榆树街流传着弗莱迪的故事，寂静岭的灰烬飘到了纽约，地狱里七十二柱魔神蠢蠢欲动。 好消息是，他发现自己亲手杀死的怪物，其力量将化为己用。 杀了一只食人魔，他的力量超越了泰森；杀了一只狼人，他的嗅觉能追踪百里之外的血迹；杀了一只高阶恶魔，地狱在他面前关上了门。 起初，人间称呼他为猎食者，天堂视他为异类，地狱视他为死敌。 后来，他们意识到，这不是天使与恶魔的时代，这是猎食者的时代。 【目前已有：电锯惊魂、致命弯道、惊声尖叫、德州电锯杀人狂3D、十三号星期五、柜魔、鬼玩人、生化危机……持续更新中】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odddf48096d8d0d6ee458772ce86b440a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=FtsrFVt29Y%2FHaaljd1hp5k9LZAQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odddf48096d8d0d6ee458772ce86b440a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=N1%2BAXXEzhV01HgqmsK1E7aa%2Feq4%3D",
         "url": "https://fanqienovel.com/page/7660178481057123353"
+      },
+      {
+        "title": "盗墓：武道通神，从长生开始！",
+        "author": "覃爸重出江湖",
+        "reads": "6.3万",
+        "intro": "穿越盗墓世界，成了武道宗师庄叡，本想低调搞钱修武，却意外卷入新月饭店与九门的纷争。他以武破局，在鉴宝与倒斗的跨界之路上，踏出了一条无敌长生之路！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8ceea6f1e0d8c4f09b4d4aa125c16950~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=xIOEDUgAEeYbSQpqkfFTNZILx14%3D",
+        "url": "https://fanqienovel.com/page/7663849436837055550"
+      },
+      {
+        "title": "盗墓：你们把我弟扔哪了？！",
+        "author": "许六顺",
+        "reads": "6.3万",
+        "intro": "（评分刚出，莫理它m(._.)m）【快穿局的人+盗笔同人+无cp+微弟控+爱怼人+原创剧情】 项濯，在原生世界离世后和弟弟一同被快穿局选中，弟弟项尘因三魂七魄少一魂，导致神志不清，反应缓慢，项濯便从没让他去做过任务。 直到一次任务做的时间太长，回来后发现……老弟不见了。 “我*****！亖老头子！我弟呢？！” “呃，不……不见了。” “沃……🌞你大爷！！！” “唉！！不能赖我们，他自己说不想成为你的累赘要去做任务的，而且我们给他找的世界还是和他在原生世界的职业搭伙的呢！虽然……不知道为什么断联了，你先别骂我，现在不仅你弟找不着了，你弟去的那个世界也崩的不像样了，还有几个快嗝屁了，所以，是时候该你上场了！” “爸了个根的，出事了你知道找我了！” 于是项濯来到了盗墓的世界，却发现好像回到了久违的原生世界，而且更加有趣和烧脑，和墓有关呐……不对！我是来找老弟的，修复世界线是其次的！ 项濯：你们见过我老弟不? 张启灵：找他，一起。 无邪：相依为命的兄弟吗？好感人呜呜呜 黑瞎子：找人？诚惠二百万。 花爷：我可以帮你找他，算是合作共赢。 所以你们到底给我弟扔哪了！！！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc45391be3a9be7534403fc24c4079677~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=l4FUFYEeLsHNoxLfmp%2BKuUrRgto%3D",
+        "url": "https://fanqienovel.com/page/7580031762030414910"
       },
       {
         "title": "盗墓：铁口神算，盗墓捉鬼",
         "author": "小敏不吃虾",
-        "reads": "6万",
+        "reads": "6.1万",
         "intro": "【南部档案】+【九门】+【鬼吹灯】+【爽文】+【捉鬼】+【僵尸】+【多女主】 穿越鬼怪，妖魔横行的高配盗墓世界 成为了“贼猫”张三链子的三弟子。 习得一身风水玄术，奇门八卦，相术推运，可观世间万物，人物，文物气运。 自那之后，北平多出了一位神机妙算的算命先生，外号“神仙落” 观面相、测八字、断凶吉，避祸福！ 捉鬼降妖，逍遥度日。 原本以为生活就这么悠闲过下之时，一路路人马，却是纷纷找上门来，请他出山相助。 南部档案馆的张馆长、九门之首张大佛爷，湘西之主陈总把头，搬山魁首鹧鸪哨。 苏凡：“有事啊？先排队！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5bf5b24e709165e3ab68c1ee4327a10c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=IPVlBprTqxxvxBnPEtSOnZJmRQ0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5bf5b24e709165e3ab68c1ee4327a10c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=7XQz8OWUmqibr9bK0zlk%2BPhRrc8%3D",
         "url": "https://fanqienovel.com/page/7664148735122754585"
       },
       {
         "title": "爷爷暴毙后，749局找到了我",
         "author": "青禾雨时",
-        "reads": "5.8万",
+        "reads": "5.6万",
         "intro": "爷爷暴毙后，749局找到了我。 他们说，爷爷不是病死的，而是被秦岭里的东西“点了名”。 我原本不信。 直到我在爷爷遗骸旁，发现了他临死前留下的三个字： 别信白。 749局的人看到这三个字后，脸色全变了。 他们告诉我，爷爷生前是秦岭龙脉守护人，守了一辈子的不是山，而是一条沉睡在秦岭地下的“龙”。 如今爷爷被害，龙脉封印松动，秦岭深处的怪谈开始一个个复苏。 山神庙里的跪尸，白河古井里的哭声，黑鳞村里长鳞的人，悬棺中死而复生的尸体…… 而这一切，都指向一个被749局封存多年的秘密。 爷爷临死前留下线索，不是让我替他报仇。 是让我千万别让那条龙醒来",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1add22ba87c12da41a4145541daf8495~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=rsFBCwCgHI%2FpGVu4f%2FL8uHjJTsw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1add22ba87c12da41a4145541daf8495~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=2xXSeW62xhuDWBjpWCR%2F2EJWNGk%3D",
         "url": "https://fanqienovel.com/page/7644373271537781822"
-      },
-      {
-        "title": "盗墓：武道通神，从长生开始！",
-        "author": "覃爸重出江湖",
-        "reads": "6万",
-        "intro": "穿越盗墓世界，成了武道宗师庄叡，本想低调搞钱修武，却意外卷入新月饭店与九门的纷争。他以武破局，在鉴宝与倒斗的跨界之路上，踏出了一条无敌长生之路！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8ceea6f1e0d8c4f09b4d4aa125c16950~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=J%2FN8fzmMMObQuoY2pBUWUCztw1Q%3D",
-        "url": "https://fanqienovel.com/page/7663849436837055550"
-      },
-      {
-        "title": "暑假兼职赶尸，749局找上门！",
-        "author": "爆辣糖豆",
-        "reads": "5.4万",
-        "intro": "暑假兼职，李青禾靠着祖传手艺在山里赶尸。 摇招魂铃，敲开道锣，行走阴阳，鬼神皆避！ 结果刚进山就撞倒了案发现场，并且被当成连环杀人犯抓了。 警察：“为什么杀人？” 李青禾：“我说我在赶尸，你信吗？” 警察：“怎么证明？” 李青禾：“尸体就在这里，让我试试不就知道了？” 招魂铃响，尸体猛地坐起，现场鸦雀无声。 从此，青州市多了一个特殊警员。 某天，749局找上门。 “李青禾，我们需要你的帮助！” 李青禾：得加钱！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o559a1af9ec48e9f0a6532659a4896211~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=VcMDwvfNMiZvJ0CVaSRdHg1rDVw%3D",
-        "url": "https://fanqienovel.com/page/7657210794022554649"
       },
       {
         "title": "我天师老祖，被佛爷挖出",
         "author": "治愈疗草芯",
         "reads": "5.2万",
         "intro": "张清霄穿越明朝，成了东北张家与龙虎山天师的“双血脉禁忌”。 为镇压青铜门后的终极恐怖，他闭死关修炼无上道法。 结果几百年后，棺材板被人硬生生撬开了！ 墓室里，三拨人面面相觑。 长沙张大佛爷看着他身上的纯血黑金麒麟，扑通跪地：“张、张家老祖宗？！” 茅山九叔看着他随手捏出的护体金光咒，倒吸凉气：“金光化实，单手五雷法，这是哪位道门祖师爷？” 驱魔马家传人看着他一巴掌拍碎千年血尸，直接怀疑人生。 张清霄从棺材里坐起身，拍了拍身上的明代飞鱼服，叹了口气：“汪藏海死了没？” 佛爷：？ 九叔：？ 这一日，满级天师老祖破棺而出！ 从老九门到青铜门，从湘西尸王到将臣之躯。 张清霄双手插兜：不管倒斗还是抓僵尸，在座的各位，都是晚辈！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o700636ac20c81b4bd2362b3f321a870e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=OFa%2F5ZVJVXwQSveSbBMssw58Muk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o700636ac20c81b4bd2362b3f321a870e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=%2BWGvkaFFez0tF7jdnPUg7r85zhM%3D",
         "url": "https://fanqienovel.com/page/7667026935188294681"
+      },
+      {
+        "title": "暑假兼职赶尸，749局找上门！",
+        "author": "爆辣糖豆",
+        "reads": "4.6万",
+        "intro": "暑假兼职，李青禾靠着祖传手艺在山里赶尸。 摇招魂铃，敲开道锣，行走阴阳，鬼神皆避！ 结果刚进山就撞倒了案发现场，并且被当成连环杀人犯抓了。 警察：“为什么杀人？” 李青禾：“我说我在赶尸，你信吗？” 警察：“怎么证明？” 李青禾：“尸体就在这里，让我试试不就知道了？” 招魂铃响，尸体猛地坐起，现场鸦雀无声。 从此，青州市多了一个特殊警员。 某天，749局找上门。 “李青禾，我们需要你的帮助！” 李青禾：得加钱！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o559a1af9ec48e9f0a6532659a4896211~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=08aDwrQtO4QxChCCNMZyG1u9Nl0%3D",
+        "url": "https://fanqienovel.com/page/7657210794022554649"
       },
       {
         "title": "炼祭我女儿？我成为僵神天灾",
         "author": "九关麒麟",
-        "reads": "4.8万",
+        "reads": "4.3万",
         "intro": "【评分刚出，后面会涨】 【杀伐果断+复仇+不圣母+尸山血海+无敌+僵尸】 那天晚上，他的女儿惨死家中，被人生生炼成了红衣。 唯一的亲人死去，韩彻彻底疯魔了。 他用一位名叫“茅山道兄”网友提供的偏方，把自己炼成了僵尸。 佛门的秃驴要超渡他。 道教的牛鼻子要诛灭他。 就连洋教的耶稣信徒也要抓他。 所有正道、佛门、教廷，全都想置他于死地！ “我只想报仇，你们凭什么拦我？” “那些权贵想活命，就要拿我女儿的命去续吗？” “既然这个世界脏透了，那就由我亲手清洗一遍吧！” 那一日，韩彻破棺而出，带着冲天怨气，背负尸山血海。 那一日，佛门首座当场圆寂，紫袍天师暴毙而亡。 僵神出世，杀戮席卷全球！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o61597a1baa85bdc6f11a7a235043ae3f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=3CshK5ZW4OtoQuNyy4g1nWLF2%2Bc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o61597a1baa85bdc6f11a7a235043ae3f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=rqsGE1lLKl5CLx%2B7ZLffQSmeVNU%3D",
         "url": "https://fanqienovel.com/page/7652173620810091545"
       },
       {
         "title": "女鬼吸我阳气？但我是邪修啊",
         "author": "墨染江",
-        "reads": "3.7万",
+        "reads": "4万",
         "intro": "【捉鬼+僵尸+伪系统+悬疑灵异+都市+多女主+都市传说+民间鬼怪传说】 只因一本邪修功法，林墨成了一名都市邪修，从此开启了林墨的邪修生活。 女鬼趴在林墨身上想要吸林墨阳气，没想到林墨反手直接将其顷刻炼化。 【本文多女主，介意者勿扰！】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o11fc2d7676cd42fee74063a2085d43b6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=BIr9FxtpfMUn1xsBEpSf9YBDDDA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o11fc2d7676cd42fee74063a2085d43b6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=88ZudczKp%2Bf8Wl21up12AJOGK70%3D",
         "url": "https://fanqienovel.com/page/7642276585336212505"
       },
       {
         "title": "什么？任婷婷是我娃娃亲！",
         "author": "萝卜饼",
-        "reads": "3.5万",
+        "reads": "3.7万",
         "intro": "林乾：我只想好好修道，不想成家！ 九叔：晚了，你师父定下的娃娃亲，女方是任家任婷婷。 就这样，林乾稀里糊涂当上任家姑爷。 本以为是享福生活，谁料僵尸出没、邪修作祟，怪事源源不断。 收服厉鬼，雷灭凶僵，顺带训练两个不成器的师侄。 任婷婷：堂妹珠珠，不如和我一起…… 林乾：？？这发展是不是有点不对劲！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8b17202aae50c2572ccbfe35459c2324~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=ddfRWZZkzmuKUhHsn1hEvhelHUs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8b17202aae50c2572ccbfe35459c2324~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=rNfleUPiIaK3I9iia%2B%2FhyPCTSkA%3D",
         "url": "https://fanqienovel.com/page/7664995347474680894"
-      },
-      {
-        "title": "盗墓贼的真实笔录",
-        "author": "小城古道",
-        "reads": "3.3万",
-        "intro": "无CP，真实盗墓记录，哪里都去过，来看看去没去给你们老家。 想要富去盗墓，一夜干成万元户，这是我们那年代的写照。 就算是半大孩子，也知道盗墓挣钱，在这种熏陶下，怎么可能不学坏。 我能进入盗墓这行，还是跟着四叔学的。 进墓一次少说几万，多的几十万，上百万也有。 干这行没什么本钱，他比赌博更刺激。 这墓里啊，没机关，没鬼怪，需要防着的，不是死人，是活人。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od77988c34595ddb8488fa088e7ef22ee~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=RK3opHYpxY7jfJ7sq%2BCtKUlgqrA%3D",
-        "url": "https://fanqienovel.com/page/7617577350347099161"
       },
       {
         "title": "我在警局抓鬼",
         "author": "傅家大少爷",
-        "reads": "3.2万",
+        "reads": "3.7万",
         "intro": "我叫林哲，警校毕业后，上班第一天就遇上离奇命案——女尸腹部被掏空，内刻诡异符纹，还在验尸房亲眼见到红裙女鬼。师傅博哥带我去找民间术士四爷，他说那是“引”字诀，若集齐七具，将解开某种封印，届时必将天下大乱。很快第二具尸体随之出现，死因竟是被术法“三钉灭魂”所害。可让我没想到的是，一只女鬼却缠上了我，甚至还上了室友张一凡的身，留下一些莫名其妙的线索。我被迫卷入这场人与鬼、术法与阴谋的漩涡之中......",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4c3107faf1613ad7a2b9f14677c170cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=kU7E3HgI6GFPqjpURCxsr4PRmZs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4c3107faf1613ad7a2b9f14677c170cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=gatQFfpCWsBzRmH4tQtHpLKu9rc%3D",
         "url": "https://fanqienovel.com/page/7653314316728273982"
       },
       {
-        "title": "悬案真凶竟然是他",
-        "author": "李毛德皇",
+        "title": "盗墓贼的真实笔录",
+        "author": "小城古道",
         "reads": "3.2万",
-        "intro": "一具烧焦的男尸，一辆消失的红摩托。 我哥死于一场被定性为“抢劫”的谋杀，但案件一直未破。 生活还要继续，我以为此案已经翻篇。 直到后来我才发现真正的杀人凶手，竟然是他…… 本故事的剧情，包括时间、地点、人物、地名全是虚构，但有少数故事来源于我身边的一些真实事情改编。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o16badaf3be0dbdc6a7f6790de5eb9eef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=xOQT3VlTM6FyFoqoz88xGjvaK8U%3D",
-        "url": "https://fanqienovel.com/page/7640286965010549822"
+        "intro": "无CP，真实盗墓记录，哪里都去过，来看看去没去给你们老家。 想要富去盗墓，一夜干成万元户，这是我们那年代的写照。 就算是半大孩子，也知道盗墓挣钱，在这种熏陶下，怎么可能不学坏。 我能进入盗墓这行，还是跟着四叔学的。 进墓一次少说几万，多的几十万，上百万也有。 干这行没什么本钱，他比赌博更刺激。 这墓里啊，没机关，没鬼怪，需要防着的，不是死人，是活人。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od77988c34595ddb8488fa088e7ef22ee~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=HW2vfPBzspId8DCmKCoQbP4jpd4%3D",
+        "url": "https://fanqienovel.com/page/7617577350347099161"
       },
       {
         "title": "盗墓：老祖出棺，带飞铁三角",
         "author": "星空呀呀呀",
         "reads": "3.1万",
         "intro": "张景玄身负张家麒麟血与天师度，是令九门敬畏、与九叔论道的修仙老祖。 百年前，为镇压终极异动，他带着绝美千年女魃躺入九龙沉香棺中闭关。 谁知百年后，沉睡的绝世凶墓迎来了一群不速之客。 铁三角历经千辛万苦，终于撬开了这口极品棺椁。 入眼的一幕，却让三人当场惊掉下巴，怀疑人生。 只见棺材里，一个俊美青年左手搂着绝美女尸，右手把玩着失传的天师印。 青年正一脸起床气地看着他们。 王胖子吓得魂飞魄散，大喊诈尸，疯狂往棺材里狂塞黑驴蹄子。 吴邪双腿发软，瘫坐在地，惊呼这凶墓里怎么还有个大活人。 而号称战力天花板的张起灵，刚拔出黑金古刀准备迎战。 下一秒，他便感受到了源自灵魂深处的绝对血脉压制。 只听“哐当”一声，黑金古刀掉落。 小哥双膝一软，直接跪地叩首：“不肖子孙张起灵，拜见老祖宗！” 胖子和吴邪见状，当场石化在原地。 从此，满级出棺的张景玄带着铁三角，在这个妖邪横行的综墓世界里，开启了降维打击与爆笑横推的无敌之旅。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdef46418536d9395250fe3406d807c4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=gwUd3p8q6zUz7sQnjIDbIPCxPvE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdef46418536d9395250fe3406d807c4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=QK66Xn%2FgEl79%2B2pjJKR5LFRBizA%3D",
         "url": "https://fanqienovel.com/page/7666343919545748505"
       },
       {
-        "title": "盗墓：开局就开了王胖子一局",
-        "author": "半盏深秋",
+        "title": "悬案真凶竟然是他",
+        "author": "李毛德皇",
         "reads": "3.1万",
-        "intro": "【致敬鬼吹灯系列】+【茅山道】+【系统】 墨知白开局就被冤种室友送去撞大运，刚穿越到熟悉剧情的盗墓世界，又被王胖子一个肘击差点再次见太奶。 众所周知，主角穿越，必是孤儿，必有系统，必当骑骏马踏平川之志。 墨知白看着面前只有自己能看见的系统光幕，露出果然如此的表情，仿佛一切尽在掌握。 然而看着手里的铜钱剑和镇尸符之后，墨知白直接懵了，这是个正经系统吗？是不是穿错世界了？墨知白表示怀疑人生。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0a3053b23e013f218c92866b963a2de4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=Y9R72iYOE0wOznN2Bg%2Ft5pwuGQw%3D",
-        "url": "https://fanqienovel.com/page/7650718254737919038"
+        "intro": "一具烧焦的男尸，一辆消失的红摩托。 我哥死于一场被定性为“抢劫”的谋杀，但案件一直未破。 生活还要继续，我以为此案已经翻篇。 直到后来我才发现真正的杀人凶手，竟然是他…… 本故事的剧情，包括时间、地点、人物、地名全是虚构，但有少数故事来源于我身边的一些真实事情改编。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o16badaf3be0dbdc6a7f6790de5eb9eef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=r1wcuq0uaX9WaA0c6iA2OLaoTm8%3D",
+        "url": "https://fanqienovel.com/page/7640286965010549822"
       },
       {
         "title": "盗笔，从南部档案馆走出的张家人",
         "author": "戏潮",
-        "reads": "2.9万",
-        "intro": "【盗笔同人】【HE】【正剧】【慢热】【群像】【主角无cp】【抚平遗憾】 预计写六卷。 【南部档案】正在更新。 【九门】 【终极笔记】 【藏海花】 【沙海】 【重启】 涉及改变结局人物：张海侠，张瑞朴，张海娇，张海云，黑背老六，阿宁，潘子，张九日，汪灿……（后续待补充） —— 张海烬，从张家本家出生的张家人，因父亲通敌泄露张家机密被连累，在族人的厌恶和唾弃中长大。 后来张家本部被瓦解，张起灵担任族长，族人们纷纷离开族地追寻自由，而他，则被一名长老临了发配到南洋的南部档案馆分部，隶属于张海琪手下。 数月来，他并未见到那所谓的南部档案馆馆长，反倒自己所在分部被一伙不知名势力尽数剿灭，他迫不得已踏上了寻找馆长的旅程。 而在这中途他来到了坝隆洲，遇到了了无音讯多年的亲叔叔张瑞朴，还有那两个叫做张海楼，张海侠的年轻人。 至此，他也踏上了那艘名为南安号的船，等待他的将会是什么？且看下回分晓。 —— 注：作者有写文经验，在别的网站上已完结一篇26万字盗笔同人，保证不会烂尾，求加入书架收藏。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc428951664611cd48affc97ec9b6b571~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=wWOmBpu0iBkz17nnaOIeqs9ABOQ%3D",
+        "reads": "3.1万",
+        "intro": "【盗笔同人】【HE】【正剧】【慢热】【群像】【主角无cp】【抚平遗憾】 涉及改变结局人物：张海侠，张瑞朴，张海娇，张海云…… —— 张海烬，从张家本家出生的张家人，因父亲通敌泄露张家机密被连累，在族人的厌恶和唾弃中长大。 后来张家本部被瓦解，张起灵担任族长，族人们纷纷离开族地追寻自由，而他，则被一名长老临了发配到南洋的南部档案馆分部，隶属于张海琪手下。 数月来，他并未见到那所谓的南部档案馆馆长，反倒自己所在分部被一伙不知名势力尽数剿灭，他迫不得已踏上了寻找馆长的旅程。 而在这中途他来到了坝隆洲，遇到了了无音讯多年的亲叔叔张瑞朴，还有那两个叫做张海楼，张海侠的年轻人。 至此，他也踏上了那艘名为南安号的船，等待他的将会是什么？且看下回分晓。 —— 注：作者有写文经验，在别的网站上已完结一篇26万字盗笔同人，保证不会烂尾，求加入书架收藏。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc428951664611cd48affc97ec9b6b571~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=%2Bts2ZvK%2FpGMDpC6lnoh2mEXv2mM%3D",
         "url": "https://fanqienovel.com/page/7652769432145497113"
+      },
+      {
+        "title": "盗墓：开局就开了王胖子一局",
+        "author": "半盏深秋",
+        "reads": "2.9万",
+        "intro": "【致敬鬼吹灯系列】+【茅山道】+【系统】 墨知白开局就被冤种室友送去撞大运，刚穿越到熟悉剧情的盗墓世界，又被王胖子一个肘击差点再次见太奶。 众所周知，主角穿越，必是孤儿，必有系统，必当骑骏马踏平川之志。 墨知白看着面前只有自己能看见的系统光幕，露出果然如此的表情，仿佛一切尽在掌握。 然而看着手里的铜钱剑和镇尸符之后，墨知白直接懵了，这是个正经系统吗？是不是穿错世界了？墨知白表示怀疑人生。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0a3053b23e013f218c92866b963a2de4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=PUR%2Fj1Gkg3TGYXz%2FZ5ARlXEx5YQ%3D",
+        "url": "https://fanqienovel.com/page/7650718254737919038"
       },
       {
         "title": "南部档案：家妻张海琪，开局长生",
         "author": "天浮生",
         "reads": "2.8万",
         "intro": "盗墓笔记×南部档案×老九门×沙海 张家收尸堂最低贱的杂役，实则是上古黑龙血脉唯一传人。 竖瞳一开，麒麟血？吞了。凤凰血？吞了。尸蟞丹？当糖豆嚼。 从南洋盘花海礁到七星鲁王宫，从西沙海底墓到秦岭神树，从云顶天宫到蛇沼鬼城，再到格尔木疗养院",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1206eca4cf3bf5ef44d917fe8b5b9575~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=fUdCYDkAN5ZXGiJjLat15H%2FvWIw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1206eca4cf3bf5ef44d917fe8b5b9575~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=rnJqBHXHxlqVCBKMI%2FlMYi5eYwA%3D",
         "url": "https://fanqienovel.com/page/7666749698618706968"
       }
     ]
@@ -237,230 +220,213 @@
     {
       "name": "悬疑灵异",
       "trend": {
-        "new_count": 3,
-        "dropped_count": 3,
-        "new_books": [
-          "我在警局抓鬼",
-          "盗笔，从南部档案馆走出的张家人",
-          "南部档案：家妻张海琪，开局长生"
-        ],
-        "dropped_books": [
-          {
-            "title": "编外法医：重案组抢疯了！",
-            "intro": "预告一下，本剧无CP，在93章的时候，被各位大神读者给投没了，所以放心看吧 火化炉的门都开了。 温则鸣一把按住推车：\"这人是被杀的。\" 所有人都笑了——一个连编制都没有的法医助理。 三天后，凶手落网。"
-          },
-          {
-            "title": "盗墓：横推古墓，从刨人祖坟开始",
-            "intro": "赵涅穿越盗综世界，成了盗墓贼，开局夜刨古坟，借古物萃取特性，敛明器、网罗奇人，在这军阀乱世，他誓要从坟头起步，步步登神！"
-          },
-          {
-            "title": "盗墓：行为越变态我就越强",
-            "intro": "【盗墓+听雷+搞笑】陈安一觉醒来，穿越到了盗墓世界，并且面前还摆着一具湿漉漉的棺材，就在这时金手指激活，只要行为越变态，陈安就越强！ 为了在如此危险的盗墓世界存活，陈安不管了，抓起从棺材里爬出来的尸蟞"
-          }
-        ],
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
         "top_risers": [
           {
+            "title": "盗墓：武道通神，从长生开始！",
+            "change": "+3"
+          },
+          {
             "title": "美恐：我，人间真神",
-            "change": "+6"
+            "change": "+1"
           },
           {
-            "title": "女鬼吸我阳气？但我是邪修啊",
-            "change": "+4"
-          },
-          {
-            "title": "什么？任婷婷是我娃娃亲！",
-            "change": "+4"
+            "title": "我天师老祖，被佛爷挖出",
+            "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "盗墓：开局就开了王胖子一局",
-            "change": "-4"
+            "title": "盗墓：你们把我弟扔哪了？！",
+            "change": "-2"
           },
           {
-            "title": "暑假兼职赶尸，749局找上门！",
-            "change": "-3"
+            "title": "盗墓：铁口神算，盗墓捉鬼",
+            "change": "-1"
           },
           {
-            "title": "炼祭我女儿？我成为僵神天灾",
+            "title": "爷爷暴毙后，749局找到了我",
             "change": "-1"
           }
         ],
         "reads_growth": [
           {
             "title": "美恐：我，人间真神",
-            "growth": "+1.0万"
+            "growth": "+1.7万"
           },
           {
-            "title": "南部档案：我真不想当张家主事人",
+            "title": "我在警局抓鬼",
             "growth": "+5000"
           },
           {
             "title": "盗墓：武道通神，从长生开始！",
-            "growth": "+4000"
+            "growth": "+3000"
           }
         ],
-        "summary": "**🔥 题材趋势** 盗笔同人统治榜单，融合南部档案、九门、749局等元素；真实案件与灵异探案结合的现实向内容占第二极。\n**📖 读者偏好** 偏好强世界观联动、主角身份高能（张家血脉、老祖、真神），同时接受无CP或专注剧情；惊悚中带幽默更易突围。\n**🆕 新上榜作品** 三本新书均属盗笔衍生：《我在警局抓鬼》走刑侦灵异，《盗笔张家人》与《家妻张海琪》深挖张家族谱，垂直细分明显。\n**📉 掉出榜单** 《编外法医》《横推古墓》《行为越变态》均因题材同质化或搞笑过度，缺乏联动背景支撑，热度被头部吸走。\n**💡 值得关注** 《美恐》飙升最快，混搭美恐IP+击杀变强系统，验证“西式恐怖+中式爽文”的融合潜力；《女鬼吸阳气》靠邪修反套路持续上升。"
+        "summary": "**🔥 题材趋势** 盗墓同人（盗笔、鬼吹灯、南部档案）近乎垄断榜单，占Top20半壁江山；其次为真实刑侦纪实、749局/民俗灵异。\n**📖 读者偏好** 强世界观依赖（铁三角、九门、张家人），偏好“穿越/觉醒+熟悉剧情”的补完与颠覆；追求爽感提升，如武道通神、老祖出棺。\n**🆕 新上榜作品** 本期无新上榜，头部格局稳定；榜单末位竞争激烈，新书需借经典角色“蹭认知”+给出明确创新点（如家妻张海琪、开王胖子一局）。\n**📉 掉出榜单** 无掉榜，说明该分类头部作品沉淀强，读者黏性高；新增流量主要被盗墓同人吸收，原创灵异冲榜难度加大。\n**💡 值得关注** 《南部档案》系列持续霸榜，但同质化风险已现；《爷爷暴毙后，749局找到了我》以“别信白”悬念出圈，证明“现实机关+民俗”仍能破局。"
       },
       "books": [
         {
           "title": "南部档案：我真不想当张家主事人",
           "author": "铁骑大哥",
-          "reads": "17.2万",
+          "reads": "17.1万",
           "intro": "【盗墓笔记】【老九门】【盗墓多元世界融合】 张海云穿越到盗笔世界，成为南部档案馆张海琪徒弟，成为麒麟纹身拥有者，被誉为张家武学一途天赋最高的人。不久后，师父领回两个师弟，一个是拆家比格张海楼，一个是聪明体贴边牧张海侠，只是..说好的高冷美女师父呢？怎么师父性格也是拆家比格啊？这日子没法过了啊，另外，小哥你站住，我没说我想成为张家主事人啊！！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe61671b50bc42047c5f9554f0ffa40fc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=jEDdDeqO2eNDl1ocntglbAgE0zw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe61671b50bc42047c5f9554f0ffa40fc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=mgeng4xJU3ySmsI1FVbt134GsNY%3D",
           "url": "https://fanqienovel.com/page/7657092987398147134"
         },
         {
           "title": "悬疑凶案：公安局长重案手记",
           "author": "氰呓语",
-          "reads": "12.2万",
+          "reads": "12.4万",
           "intro": "一场针对县长的暗杀，误杀了清江首富的独生女。 五年形同陌路的夫妻，因女儿的惨死再次联手。 母亲在官场强势反击，父亲在商场全面打压，誓要血债血偿。 为破此案，女战神陆清霜空降公安局，却陷入地方势力织就的天罗地网。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8341dad177aad65ab88e46ded9b1f21e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=COlj2ZrfRjMafIVXEQYe3UBD8mo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8341dad177aad65ab88e46ded9b1f21e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=TncHTG0QOI6cRUvAokJpxDUpw1c%3D",
           "url": "https://fanqienovel.com/page/7659390162392075289"
         },
         {
           "title": "惊天大案：六省大追凶",
           "author": "神州龙剑",
-          "reads": "9万",
+          "reads": "8.7万",
           "intro": "公安部三次挂牌督办！豫皖鲁苏冀滇六省流窜作案！七年跨省大追捕！六十七起连环血案，二十二条无辜人命！ 九十年代豫皖交界国道省道管控薄弱，一场持枪劫车杀人案拉开横跨六省的连环犯罪序幕。项城周向阳因监守自盗被开除，纠集邓永梁、韩垒、张果强三个走投无路的底层人，从国道拦车起步，一步步突破底线，持枪越货、杀人灭口，彻底踏上亡命之路。 团伙行事狡诈，专挑偏僻乡镇、夜间货车下手，窝点轮换、现场清痕，数次从天罗地网中全身而退。邓永梁贪财妄为埋下覆灭隐患，韩垒缜密反侦察屡次带队脱险，内部裂痕与外部围剿同步滋生。 周口民警王振天从零星报案切入，循着弹壳、撬痕拼凑线索，从属地排查到跨省协查，与悍匪展开长达七年的猫鼠游戏。从豫东追捕到南溪河最终围毙，从四人散兵到六人武装团伙，六十七桩血案串联起九十年代中原刑侦史上最沉重的一页。 悍匪如何一步步走向覆灭？这场七年追凶，藏着多少不为人知的博弈与裂痕？ 真实大案改编，还原九十年代最原生态的悍匪成长史与警匪生死较量。 声明： 本书依据公开刑侦档案文学改编，书中大部分地名、人名、机构名称均为艺术虚构，情节经过二次创作。如有雷同，纯属巧合，请勿对号入座。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3a701d17130cb832e6f1ac23c00e2593~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=fxE3jJAbySNDtIVvMOOs78d3uiE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3a701d17130cb832e6f1ac23c00e2593~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=diYUNBt75NHRdTwwYXKUNUhr1oU%3D",
           "url": "https://fanqienovel.com/page/7632789813057293337"
-        },
-        {
-          "title": "盗墓：你们把我弟扔哪了？！",
-          "author": "许六顺",
-          "reads": "6.6万",
-          "intro": "（评分刚出，莫理它m(._.)m）【快穿局的人+盗笔同人+无cp+微弟控+爱怼人+原创剧情】 项濯，在原生世界离世后和弟弟一同被快穿局选中，弟弟项尘因三魂七魄少一魂，导致神志不清，反应缓慢，项濯便从没让他去做过任务。 直到一次任务做的时间太长，回来后发现……老弟不见了。 “我*****！亖老头子！我弟呢？！” “呃，不……不见了。” “沃……🌞你大爷！！！” “唉！！不能赖我们，他自己说不想成为你的累赘要去做任务的，而且我们给他找的世界还是和他在原生世界的职业搭伙的呢！虽然……不知道为什么断联了，你先别骂我，现在不仅你弟找不着了，你弟去的那个世界也崩的不像样了，还有几个快嗝屁了，所以，是时候该你上场了！” “爸了个根的，出事了你知道找我了！” 于是项濯来到了盗墓的世界，却发现好像回到了久违的原生世界，而且更加有趣和烧脑，和墓有关呐……不对！我是来找老弟的，修复世界线是其次的！ 项濯：你们见过我老弟不? 张启灵：找他，一起。 无邪：相依为命的兄弟吗？好感人呜呜呜 黑瞎子：找人？诚惠二百万。 花爷：我可以帮你找他，算是合作共赢。 所以你们到底给我弟扔哪了！！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc45391be3a9be7534403fc24c4079677~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=W4VzIWS2JsrOAtpna9tt7kKJ7vw%3D",
-          "url": "https://fanqienovel.com/page/7580031762030414910"
         },
         {
           "title": "美恐：我，人间真神",
           "author": "白黄白",
-          "reads": "6.3万",
+          "reads": "8万",
           "intro": "【风格偏轻松诙谐，不是那种严肃压抑的类型】 这是一个由美恐影视混杂融合的世界。 洛恩自浑浑噩噩中苏醒，面前是一台老式电视机，屏幕中央的木偶咧开嘴：“我想跟你们玩个游戏。” 平整的公路旁跑出了食人魔，露营的水晶湖爬出了杀人狂杰森，短暂歇脚的榆树街流传着弗莱迪的故事，寂静岭的灰烬飘到了纽约，地狱里七十二柱魔神蠢蠢欲动。 好消息是，他发现自己亲手杀死的怪物，其力量将化为己用。 杀了一只食人魔，他的力量超越了泰森；杀了一只狼人，他的嗅觉能追踪百里之外的血迹；杀了一只高阶恶魔，地狱在他面前关上了门。 起初，人间称呼他为猎食者，天堂视他为异类，地狱视他为死敌。 后来，他们意识到，这不是天使与恶魔的时代，这是猎食者的时代。 【目前已有：电锯惊魂、致命弯道、惊声尖叫、德州电锯杀人狂3D、十三号星期五、柜魔、鬼玩人、生化危机……持续更新中】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odddf48096d8d0d6ee458772ce86b440a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=FtsrFVt29Y%2FHaaljd1hp5k9LZAQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odddf48096d8d0d6ee458772ce86b440a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=N1%2BAXXEzhV01HgqmsK1E7aa%2Feq4%3D",
           "url": "https://fanqienovel.com/page/7660178481057123353"
+        },
+        {
+          "title": "盗墓：武道通神，从长生开始！",
+          "author": "覃爸重出江湖",
+          "reads": "6.3万",
+          "intro": "穿越盗墓世界，成了武道宗师庄叡，本想低调搞钱修武，却意外卷入新月饭店与九门的纷争。他以武破局，在鉴宝与倒斗的跨界之路上，踏出了一条无敌长生之路！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8ceea6f1e0d8c4f09b4d4aa125c16950~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=xIOEDUgAEeYbSQpqkfFTNZILx14%3D",
+          "url": "https://fanqienovel.com/page/7663849436837055550"
+        },
+        {
+          "title": "盗墓：你们把我弟扔哪了？！",
+          "author": "许六顺",
+          "reads": "6.3万",
+          "intro": "（评分刚出，莫理它m(._.)m）【快穿局的人+盗笔同人+无cp+微弟控+爱怼人+原创剧情】 项濯，在原生世界离世后和弟弟一同被快穿局选中，弟弟项尘因三魂七魄少一魂，导致神志不清，反应缓慢，项濯便从没让他去做过任务。 直到一次任务做的时间太长，回来后发现……老弟不见了。 “我*****！亖老头子！我弟呢？！” “呃，不……不见了。” “沃……🌞你大爷！！！” “唉！！不能赖我们，他自己说不想成为你的累赘要去做任务的，而且我们给他找的世界还是和他在原生世界的职业搭伙的呢！虽然……不知道为什么断联了，你先别骂我，现在不仅你弟找不着了，你弟去的那个世界也崩的不像样了，还有几个快嗝屁了，所以，是时候该你上场了！” “爸了个根的，出事了你知道找我了！” 于是项濯来到了盗墓的世界，却发现好像回到了久违的原生世界，而且更加有趣和烧脑，和墓有关呐……不对！我是来找老弟的，修复世界线是其次的！ 项濯：你们见过我老弟不? 张启灵：找他，一起。 无邪：相依为命的兄弟吗？好感人呜呜呜 黑瞎子：找人？诚惠二百万。 花爷：我可以帮你找他，算是合作共赢。 所以你们到底给我弟扔哪了！！！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc45391be3a9be7534403fc24c4079677~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=l4FUFYEeLsHNoxLfmp%2BKuUrRgto%3D",
+          "url": "https://fanqienovel.com/page/7580031762030414910"
         },
         {
           "title": "盗墓：铁口神算，盗墓捉鬼",
           "author": "小敏不吃虾",
-          "reads": "6万",
+          "reads": "6.1万",
           "intro": "【南部档案】+【九门】+【鬼吹灯】+【爽文】+【捉鬼】+【僵尸】+【多女主】 穿越鬼怪，妖魔横行的高配盗墓世界 成为了“贼猫”张三链子的三弟子。 习得一身风水玄术，奇门八卦，相术推运，可观世间万物，人物，文物气运。 自那之后，北平多出了一位神机妙算的算命先生，外号“神仙落” 观面相、测八字、断凶吉，避祸福！ 捉鬼降妖，逍遥度日。 原本以为生活就这么悠闲过下之时，一路路人马，却是纷纷找上门来，请他出山相助。 南部档案馆的张馆长、九门之首张大佛爷，湘西之主陈总把头，搬山魁首鹧鸪哨。 苏凡：“有事啊？先排队！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5bf5b24e709165e3ab68c1ee4327a10c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=IPVlBprTqxxvxBnPEtSOnZJmRQ0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5bf5b24e709165e3ab68c1ee4327a10c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=7XQz8OWUmqibr9bK0zlk%2BPhRrc8%3D",
           "url": "https://fanqienovel.com/page/7664148735122754585"
         },
         {
           "title": "爷爷暴毙后，749局找到了我",
           "author": "青禾雨时",
-          "reads": "5.8万",
+          "reads": "5.6万",
           "intro": "爷爷暴毙后，749局找到了我。 他们说，爷爷不是病死的，而是被秦岭里的东西“点了名”。 我原本不信。 直到我在爷爷遗骸旁，发现了他临死前留下的三个字： 别信白。 749局的人看到这三个字后，脸色全变了。 他们告诉我，爷爷生前是秦岭龙脉守护人，守了一辈子的不是山，而是一条沉睡在秦岭地下的“龙”。 如今爷爷被害，龙脉封印松动，秦岭深处的怪谈开始一个个复苏。 山神庙里的跪尸，白河古井里的哭声，黑鳞村里长鳞的人，悬棺中死而复生的尸体…… 而这一切，都指向一个被749局封存多年的秘密。 爷爷临死前留下线索，不是让我替他报仇。 是让我千万别让那条龙醒来",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1add22ba87c12da41a4145541daf8495~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=rsFBCwCgHI%2FpGVu4f%2FL8uHjJTsw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1add22ba87c12da41a4145541daf8495~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=2xXSeW62xhuDWBjpWCR%2F2EJWNGk%3D",
           "url": "https://fanqienovel.com/page/7644373271537781822"
-        },
-        {
-          "title": "盗墓：武道通神，从长生开始！",
-          "author": "覃爸重出江湖",
-          "reads": "6万",
-          "intro": "穿越盗墓世界，成了武道宗师庄叡，本想低调搞钱修武，却意外卷入新月饭店与九门的纷争。他以武破局，在鉴宝与倒斗的跨界之路上，踏出了一条无敌长生之路！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8ceea6f1e0d8c4f09b4d4aa125c16950~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=J%2FN8fzmMMObQuoY2pBUWUCztw1Q%3D",
-          "url": "https://fanqienovel.com/page/7663849436837055550"
-        },
-        {
-          "title": "暑假兼职赶尸，749局找上门！",
-          "author": "爆辣糖豆",
-          "reads": "5.4万",
-          "intro": "暑假兼职，李青禾靠着祖传手艺在山里赶尸。 摇招魂铃，敲开道锣，行走阴阳，鬼神皆避！ 结果刚进山就撞倒了案发现场，并且被当成连环杀人犯抓了。 警察：“为什么杀人？” 李青禾：“我说我在赶尸，你信吗？” 警察：“怎么证明？” 李青禾：“尸体就在这里，让我试试不就知道了？” 招魂铃响，尸体猛地坐起，现场鸦雀无声。 从此，青州市多了一个特殊警员。 某天，749局找上门。 “李青禾，我们需要你的帮助！” 李青禾：得加钱！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o559a1af9ec48e9f0a6532659a4896211~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=VcMDwvfNMiZvJ0CVaSRdHg1rDVw%3D",
-          "url": "https://fanqienovel.com/page/7657210794022554649"
         },
         {
           "title": "我天师老祖，被佛爷挖出",
           "author": "治愈疗草芯",
           "reads": "5.2万",
           "intro": "张清霄穿越明朝，成了东北张家与龙虎山天师的“双血脉禁忌”。 为镇压青铜门后的终极恐怖，他闭死关修炼无上道法。 结果几百年后，棺材板被人硬生生撬开了！ 墓室里，三拨人面面相觑。 长沙张大佛爷看着他身上的纯血黑金麒麟，扑通跪地：“张、张家老祖宗？！” 茅山九叔看着他随手捏出的护体金光咒，倒吸凉气：“金光化实，单手五雷法，这是哪位道门祖师爷？” 驱魔马家传人看着他一巴掌拍碎千年血尸，直接怀疑人生。 张清霄从棺材里坐起身，拍了拍身上的明代飞鱼服，叹了口气：“汪藏海死了没？” 佛爷：？ 九叔：？ 这一日，满级天师老祖破棺而出！ 从老九门到青铜门，从湘西尸王到将臣之躯。 张清霄双手插兜：不管倒斗还是抓僵尸，在座的各位，都是晚辈！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o700636ac20c81b4bd2362b3f321a870e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254228&x-signature=OFa%2F5ZVJVXwQSveSbBMssw58Muk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o700636ac20c81b4bd2362b3f321a870e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=%2BWGvkaFFez0tF7jdnPUg7r85zhM%3D",
           "url": "https://fanqienovel.com/page/7667026935188294681"
+        },
+        {
+          "title": "暑假兼职赶尸，749局找上门！",
+          "author": "爆辣糖豆",
+          "reads": "4.6万",
+          "intro": "暑假兼职，李青禾靠着祖传手艺在山里赶尸。 摇招魂铃，敲开道锣，行走阴阳，鬼神皆避！ 结果刚进山就撞倒了案发现场，并且被当成连环杀人犯抓了。 警察：“为什么杀人？” 李青禾：“我说我在赶尸，你信吗？” 警察：“怎么证明？” 李青禾：“尸体就在这里，让我试试不就知道了？” 招魂铃响，尸体猛地坐起，现场鸦雀无声。 从此，青州市多了一个特殊警员。 某天，749局找上门。 “李青禾，我们需要你的帮助！” 李青禾：得加钱！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o559a1af9ec48e9f0a6532659a4896211~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340253&x-signature=08aDwrQtO4QxChCCNMZyG1u9Nl0%3D",
+          "url": "https://fanqienovel.com/page/7657210794022554649"
         },
         {
           "title": "炼祭我女儿？我成为僵神天灾",
           "author": "九关麒麟",
-          "reads": "4.8万",
+          "reads": "4.3万",
           "intro": "【评分刚出，后面会涨】 【杀伐果断+复仇+不圣母+尸山血海+无敌+僵尸】 那天晚上，他的女儿惨死家中，被人生生炼成了红衣。 唯一的亲人死去，韩彻彻底疯魔了。 他用一位名叫“茅山道兄”网友提供的偏方，把自己炼成了僵尸。 佛门的秃驴要超渡他。 道教的牛鼻子要诛灭他。 就连洋教的耶稣信徒也要抓他。 所有正道、佛门、教廷，全都想置他于死地！ “我只想报仇，你们凭什么拦我？” “那些权贵想活命，就要拿我女儿的命去续吗？” “既然这个世界脏透了，那就由我亲手清洗一遍吧！” 那一日，韩彻破棺而出，带着冲天怨气，背负尸山血海。 那一日，佛门首座当场圆寂，紫袍天师暴毙而亡。 僵神出世，杀戮席卷全球！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o61597a1baa85bdc6f11a7a235043ae3f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=3CshK5ZW4OtoQuNyy4g1nWLF2%2Bc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o61597a1baa85bdc6f11a7a235043ae3f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=rqsGE1lLKl5CLx%2B7ZLffQSmeVNU%3D",
           "url": "https://fanqienovel.com/page/7652173620810091545"
         },
         {
           "title": "女鬼吸我阳气？但我是邪修啊",
           "author": "墨染江",
-          "reads": "3.7万",
+          "reads": "4万",
           "intro": "【捉鬼+僵尸+伪系统+悬疑灵异+都市+多女主+都市传说+民间鬼怪传说】 只因一本邪修功法，林墨成了一名都市邪修，从此开启了林墨的邪修生活。 女鬼趴在林墨身上想要吸林墨阳气，没想到林墨反手直接将其顷刻炼化。 【本文多女主，介意者勿扰！】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o11fc2d7676cd42fee74063a2085d43b6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=BIr9FxtpfMUn1xsBEpSf9YBDDDA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o11fc2d7676cd42fee74063a2085d43b6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=88ZudczKp%2Bf8Wl21up12AJOGK70%3D",
           "url": "https://fanqienovel.com/page/7642276585336212505"
         },
         {
           "title": "什么？任婷婷是我娃娃亲！",
           "author": "萝卜饼",
-          "reads": "3.5万",
+          "reads": "3.7万",
           "intro": "林乾：我只想好好修道，不想成家！ 九叔：晚了，你师父定下的娃娃亲，女方是任家任婷婷。 就这样，林乾稀里糊涂当上任家姑爷。 本以为是享福生活，谁料僵尸出没、邪修作祟，怪事源源不断。 收服厉鬼，雷灭凶僵，顺带训练两个不成器的师侄。 任婷婷：堂妹珠珠，不如和我一起…… 林乾：？？这发展是不是有点不对劲！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8b17202aae50c2572ccbfe35459c2324~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=ddfRWZZkzmuKUhHsn1hEvhelHUs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8b17202aae50c2572ccbfe35459c2324~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=rNfleUPiIaK3I9iia%2B%2FhyPCTSkA%3D",
           "url": "https://fanqienovel.com/page/7664995347474680894"
-        },
-        {
-          "title": "盗墓贼的真实笔录",
-          "author": "小城古道",
-          "reads": "3.3万",
-          "intro": "无CP，真实盗墓记录，哪里都去过，来看看去没去给你们老家。 想要富去盗墓，一夜干成万元户，这是我们那年代的写照。 就算是半大孩子，也知道盗墓挣钱，在这种熏陶下，怎么可能不学坏。 我能进入盗墓这行，还是跟着四叔学的。 进墓一次少说几万，多的几十万，上百万也有。 干这行没什么本钱，他比赌博更刺激。 这墓里啊，没机关，没鬼怪，需要防着的，不是死人，是活人。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od77988c34595ddb8488fa088e7ef22ee~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=RK3opHYpxY7jfJ7sq%2BCtKUlgqrA%3D",
-          "url": "https://fanqienovel.com/page/7617577350347099161"
         },
         {
           "title": "我在警局抓鬼",
           "author": "傅家大少爷",
-          "reads": "3.2万",
+          "reads": "3.7万",
           "intro": "我叫林哲，警校毕业后，上班第一天就遇上离奇命案——女尸腹部被掏空，内刻诡异符纹，还在验尸房亲眼见到红裙女鬼。师傅博哥带我去找民间术士四爷，他说那是“引”字诀，若集齐七具，将解开某种封印，届时必将天下大乱。很快第二具尸体随之出现，死因竟是被术法“三钉灭魂”所害。可让我没想到的是，一只女鬼却缠上了我，甚至还上了室友张一凡的身，留下一些莫名其妙的线索。我被迫卷入这场人与鬼、术法与阴谋的漩涡之中......",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4c3107faf1613ad7a2b9f14677c170cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=kU7E3HgI6GFPqjpURCxsr4PRmZs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4c3107faf1613ad7a2b9f14677c170cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=gatQFfpCWsBzRmH4tQtHpLKu9rc%3D",
           "url": "https://fanqienovel.com/page/7653314316728273982"
         },
         {
-          "title": "悬案真凶竟然是他",
-          "author": "李毛德皇",
+          "title": "盗墓贼的真实笔录",
+          "author": "小城古道",
           "reads": "3.2万",
-          "intro": "一具烧焦的男尸，一辆消失的红摩托。 我哥死于一场被定性为“抢劫”的谋杀，但案件一直未破。 生活还要继续，我以为此案已经翻篇。 直到后来我才发现真正的杀人凶手，竟然是他…… 本故事的剧情，包括时间、地点、人物、地名全是虚构，但有少数故事来源于我身边的一些真实事情改编。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o16badaf3be0dbdc6a7f6790de5eb9eef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=xOQT3VlTM6FyFoqoz88xGjvaK8U%3D",
-          "url": "https://fanqienovel.com/page/7640286965010549822"
+          "intro": "无CP，真实盗墓记录，哪里都去过，来看看去没去给你们老家。 想要富去盗墓，一夜干成万元户，这是我们那年代的写照。 就算是半大孩子，也知道盗墓挣钱，在这种熏陶下，怎么可能不学坏。 我能进入盗墓这行，还是跟着四叔学的。 进墓一次少说几万，多的几十万，上百万也有。 干这行没什么本钱，他比赌博更刺激。 这墓里啊，没机关，没鬼怪，需要防着的，不是死人，是活人。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od77988c34595ddb8488fa088e7ef22ee~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=HW2vfPBzspId8DCmKCoQbP4jpd4%3D",
+          "url": "https://fanqienovel.com/page/7617577350347099161"
         },
         {
           "title": "盗墓：老祖出棺，带飞铁三角",
           "author": "星空呀呀呀",
           "reads": "3.1万",
           "intro": "张景玄身负张家麒麟血与天师度，是令九门敬畏、与九叔论道的修仙老祖。 百年前，为镇压终极异动，他带着绝美千年女魃躺入九龙沉香棺中闭关。 谁知百年后，沉睡的绝世凶墓迎来了一群不速之客。 铁三角历经千辛万苦，终于撬开了这口极品棺椁。 入眼的一幕，却让三人当场惊掉下巴，怀疑人生。 只见棺材里，一个俊美青年左手搂着绝美女尸，右手把玩着失传的天师印。 青年正一脸起床气地看着他们。 王胖子吓得魂飞魄散，大喊诈尸，疯狂往棺材里狂塞黑驴蹄子。 吴邪双腿发软，瘫坐在地，惊呼这凶墓里怎么还有个大活人。 而号称战力天花板的张起灵，刚拔出黑金古刀准备迎战。 下一秒，他便感受到了源自灵魂深处的绝对血脉压制。 只听“哐当”一声，黑金古刀掉落。 小哥双膝一软，直接跪地叩首：“不肖子孙张起灵，拜见老祖宗！” 胖子和吴邪见状，当场石化在原地。 从此，满级出棺的张景玄带着铁三角，在这个妖邪横行的综墓世界里，开启了降维打击与爆笑横推的无敌之旅。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdef46418536d9395250fe3406d807c4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=gwUd3p8q6zUz7sQnjIDbIPCxPvE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdef46418536d9395250fe3406d807c4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=QK66Xn%2FgEl79%2B2pjJKR5LFRBizA%3D",
           "url": "https://fanqienovel.com/page/7666343919545748505"
         },
         {
-          "title": "盗墓：开局就开了王胖子一局",
-          "author": "半盏深秋",
+          "title": "悬案真凶竟然是他",
+          "author": "李毛德皇",
           "reads": "3.1万",
-          "intro": "【致敬鬼吹灯系列】+【茅山道】+【系统】 墨知白开局就被冤种室友送去撞大运，刚穿越到熟悉剧情的盗墓世界，又被王胖子一个肘击差点再次见太奶。 众所周知，主角穿越，必是孤儿，必有系统，必当骑骏马踏平川之志。 墨知白看着面前只有自己能看见的系统光幕，露出果然如此的表情，仿佛一切尽在掌握。 然而看着手里的铜钱剑和镇尸符之后，墨知白直接懵了，这是个正经系统吗？是不是穿错世界了？墨知白表示怀疑人生。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0a3053b23e013f218c92866b963a2de4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=Y9R72iYOE0wOznN2Bg%2Ft5pwuGQw%3D",
-          "url": "https://fanqienovel.com/page/7650718254737919038"
+          "intro": "一具烧焦的男尸，一辆消失的红摩托。 我哥死于一场被定性为“抢劫”的谋杀，但案件一直未破。 生活还要继续，我以为此案已经翻篇。 直到后来我才发现真正的杀人凶手，竟然是他…… 本故事的剧情，包括时间、地点、人物、地名全是虚构，但有少数故事来源于我身边的一些真实事情改编。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o16badaf3be0dbdc6a7f6790de5eb9eef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=r1wcuq0uaX9WaA0c6iA2OLaoTm8%3D",
+          "url": "https://fanqienovel.com/page/7640286965010549822"
         },
         {
           "title": "盗笔，从南部档案馆走出的张家人",
           "author": "戏潮",
-          "reads": "2.9万",
-          "intro": "【盗笔同人】【HE】【正剧】【慢热】【群像】【主角无cp】【抚平遗憾】 预计写六卷。 【南部档案】正在更新。 【九门】 【终极笔记】 【藏海花】 【沙海】 【重启】 涉及改变结局人物：张海侠，张瑞朴，张海娇，张海云，黑背老六，阿宁，潘子，张九日，汪灿……（后续待补充） —— 张海烬，从张家本家出生的张家人，因父亲通敌泄露张家机密被连累，在族人的厌恶和唾弃中长大。 后来张家本部被瓦解，张起灵担任族长，族人们纷纷离开族地追寻自由，而他，则被一名长老临了发配到南洋的南部档案馆分部，隶属于张海琪手下。 数月来，他并未见到那所谓的南部档案馆馆长，反倒自己所在分部被一伙不知名势力尽数剿灭，他迫不得已踏上了寻找馆长的旅程。 而在这中途他来到了坝隆洲，遇到了了无音讯多年的亲叔叔张瑞朴，还有那两个叫做张海楼，张海侠的年轻人。 至此，他也踏上了那艘名为南安号的船，等待他的将会是什么？且看下回分晓。 —— 注：作者有写文经验，在别的网站上已完结一篇26万字盗笔同人，保证不会烂尾，求加入书架收藏。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc428951664611cd48affc97ec9b6b571~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=wWOmBpu0iBkz17nnaOIeqs9ABOQ%3D",
+          "reads": "3.1万",
+          "intro": "【盗笔同人】【HE】【正剧】【慢热】【群像】【主角无cp】【抚平遗憾】 涉及改变结局人物：张海侠，张瑞朴，张海娇，张海云…… —— 张海烬，从张家本家出生的张家人，因父亲通敌泄露张家机密被连累，在族人的厌恶和唾弃中长大。 后来张家本部被瓦解，张起灵担任族长，族人们纷纷离开族地追寻自由，而他，则被一名长老临了发配到南洋的南部档案馆分部，隶属于张海琪手下。 数月来，他并未见到那所谓的南部档案馆馆长，反倒自己所在分部被一伙不知名势力尽数剿灭，他迫不得已踏上了寻找馆长的旅程。 而在这中途他来到了坝隆洲，遇到了了无音讯多年的亲叔叔张瑞朴，还有那两个叫做张海楼，张海侠的年轻人。 至此，他也踏上了那艘名为南安号的船，等待他的将会是什么？且看下回分晓。 —— 注：作者有写文经验，在别的网站上已完结一篇26万字盗笔同人，保证不会烂尾，求加入书架收藏。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc428951664611cd48affc97ec9b6b571~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=%2Bts2ZvK%2FpGMDpC6lnoh2mEXv2mM%3D",
           "url": "https://fanqienovel.com/page/7652769432145497113"
+        },
+        {
+          "title": "盗墓：开局就开了王胖子一局",
+          "author": "半盏深秋",
+          "reads": "2.9万",
+          "intro": "【致敬鬼吹灯系列】+【茅山道】+【系统】 墨知白开局就被冤种室友送去撞大运，刚穿越到熟悉剧情的盗墓世界，又被王胖子一个肘击差点再次见太奶。 众所周知，主角穿越，必是孤儿，必有系统，必当骑骏马踏平川之志。 墨知白看着面前只有自己能看见的系统光幕，露出果然如此的表情，仿佛一切尽在掌握。 然而看着手里的铜钱剑和镇尸符之后，墨知白直接懵了，这是个正经系统吗？是不是穿错世界了？墨知白表示怀疑人生。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0a3053b23e013f218c92866b963a2de4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=PUR%2Fj1Gkg3TGYXz%2FZ5ARlXEx5YQ%3D",
+          "url": "https://fanqienovel.com/page/7650718254737919038"
         },
         {
           "title": "南部档案：家妻张海琪，开局长生",
           "author": "天浮生",
           "reads": "2.8万",
           "intro": "盗墓笔记×南部档案×老九门×沙海 张家收尸堂最低贱的杂役，实则是上古黑龙血脉唯一传人。 竖瞳一开，麒麟血？吞了。凤凰血？吞了。尸蟞丹？当糖豆嚼。 从南洋盘花海礁到七星鲁王宫，从西沙海底墓到秦岭神树，从云顶天宫到蛇沼鬼城，再到格尔木疗养院",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1206eca4cf3bf5ef44d917fe8b5b9575~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787254231&x-signature=fUdCYDkAN5ZXGiJjLat15H%2FvWIw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1206eca4cf3bf5ef44d917fe8b5b9575~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1787340256&x-signature=rnJqBHXHxlqVCBKMI%2FlMYi5eYwA%3D",
           "url": "https://fanqienovel.com/page/7666749698618706968"
         }
       ]
