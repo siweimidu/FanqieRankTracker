@@ -1,13 +1,13 @@
 {
   "slug": "female-read",
-  "date": "2026-08-15",
-  "prev_date": "2026-08-14",
+  "date": "2026-08-16",
+  "prev_date": "2026-08-15",
   "types": [
     {
       "type": "all",
       "url": "api/female-read/lastest/all.json",
       "category_count": 18,
-      "book_count": 330
+      "book_count": 360
     },
     {
       "type": "古风世情",
@@ -22,7 +22,7 @@
     {
       "type": "游戏体育",
       "url": "api/female-read/lastest/%E6%B8%B8%E6%88%8F%E4%BD%93%E8%82%B2.json",
-      "book_count": 10
+      "book_count": 20
     },
     {
       "type": "女频衍生",
@@ -42,7 +42,7 @@
     {
       "type": "年代",
       "url": "api/female-read/lastest/%E5%B9%B4%E4%BB%A3.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "现言脑洞",
