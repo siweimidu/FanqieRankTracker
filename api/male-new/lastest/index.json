@@ -7,7 +7,7 @@
       "type": "all",
       "url": "api/male-new/lastest/all.json",
       "category_count": 19,
-      "book_count": 380
+      "book_count": 360
     },
     {
       "type": "西方奇幻",
@@ -92,7 +92,7 @@
     {
       "type": "游戏体育",
       "url": "api/male-new/lastest/%E6%B8%B8%E6%88%8F%E4%BD%93%E8%82%B2.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "动漫衍生",

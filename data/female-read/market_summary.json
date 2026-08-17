@@ -26,11 +26,11 @@
         },
         {
           "name": "古风言情",
-          "score": 1325000,
+          "score": 1348000,
           "new_count": 27,
           "dropped_count": 26,
           "read_count": 84,
-          "read_growth_total": 1325000.0,
+          "read_growth_total": 1348000.0,
           "active_days": 28,
           "lead_category": "古言脑洞",
           "categories": [
@@ -42,11 +42,11 @@
         },
         {
           "name": "年代民国",
-          "score": 688000,
+          "score": 705000,
           "new_count": 32,
           "dropped_count": 32,
           "read_count": 36,
-          "read_growth_total": 688000.0,
+          "read_growth_total": 705000.0,
           "active_days": 14,
           "lead_category": "年代",
           "categories": [
@@ -56,11 +56,11 @@
         },
         {
           "name": "幻想言情",
-          "score": 639000,
+          "score": 662000,
           "new_count": 63,
           "dropped_count": 63,
           "read_count": 78,
-          "read_growth_total": 639000.0,
+          "read_growth_total": 662000.0,
           "active_days": 28,
           "lead_category": "玄幻言情",
           "categories": [
@@ -72,11 +72,11 @@
         },
         {
           "name": "快穿衍生",
-          "score": 494000,
+          "score": 506000,
           "new_count": 21,
           "dropped_count": 21,
           "read_count": 42,
-          "read_growth_total": 494000.0,
+          "read_growth_total": 506000.0,
           "active_days": 14,
           "lead_category": "快穿",
           "categories": [
@@ -114,30 +114,30 @@
           "active_days": 7
         },
         {
+          "name": "快穿",
+          "score": 401000,
+          "new_count": 11,
+          "dropped_count": 11,
+          "read_count": 21,
+          "read_growth_total": 401000.0,
+          "active_days": 7
+        },
+        {
+          "name": "种田",
+          "score": 400000,
+          "new_count": 6,
+          "dropped_count": 6,
+          "read_count": 21,
+          "read_growth_total": 400000.0,
+          "active_days": 7
+        },
+        {
           "name": "青春甜宠",
           "score": 395000,
           "new_count": 4,
           "dropped_count": 4,
           "read_count": 21,
           "read_growth_total": 395000.0,
-          "active_days": 7
-        },
-        {
-          "name": "种田",
-          "score": 389000,
-          "new_count": 6,
-          "dropped_count": 6,
-          "read_count": 21,
-          "read_growth_total": 389000.0,
-          "active_days": 7
-        },
-        {
-          "name": "快穿",
-          "score": 389000,
-          "new_count": 11,
-          "dropped_count": 11,
-          "read_count": 21,
-          "read_growth_total": 389000.0,
           "active_days": 7
         }
       ],
@@ -238,11 +238,11 @@
         },
         {
           "name": "古风言情",
-          "score": 2204000,
+          "score": 2227000,
           "new_count": 54,
           "dropped_count": 54,
           "read_count": 168,
-          "read_growth_total": 2204000.0,
+          "read_growth_total": 2227000.0,
           "active_days": 56,
           "lead_category": "古言脑洞",
           "categories": [
@@ -254,11 +254,11 @@
         },
         {
           "name": "幻想言情",
-          "score": 1528000,
+          "score": 1551000,
           "new_count": 81,
           "dropped_count": 81,
           "read_count": 162,
-          "read_growth_total": 1528000.0,
+          "read_growth_total": 1551000.0,
           "active_days": 56,
           "lead_category": "玄幻言情",
           "categories": [
@@ -270,11 +270,11 @@
         },
         {
           "name": "年代民国",
-          "score": 1048000,
+          "score": 1065000,
           "new_count": 46,
           "dropped_count": 46,
           "read_count": 78,
-          "read_growth_total": 1048000.0,
+          "read_growth_total": 1065000.0,
           "active_days": 28,
           "lead_category": "年代",
           "categories": [
@@ -284,11 +284,11 @@
         },
         {
           "name": "游戏体育",
-          "score": 885000,
+          "score": 888000,
           "new_count": 16,
           "dropped_count": 16,
           "read_count": 42,
-          "read_growth_total": 885000.0,
+          "read_growth_total": 888000.0,
           "active_days": 14,
           "lead_category": "游戏体育",
           "categories": [
@@ -308,11 +308,11 @@
         },
         {
           "name": "游戏体育",
-          "score": 885000,
+          "score": 888000,
           "new_count": 16,
           "dropped_count": 16,
           "read_count": 42,
-          "read_growth_total": 885000.0,
+          "read_growth_total": 888000.0,
           "active_days": 14
         },
         {
@@ -344,11 +344,11 @@
         },
         {
           "name": "种田",
-          "score": 691000,
+          "score": 702000,
           "new_count": 13,
           "dropped_count": 13,
           "read_count": 42,
-          "read_growth_total": 691000.0,
+          "read_growth_total": 702000.0,
           "active_days": 14
         }
       ],
@@ -449,11 +449,11 @@
         },
         {
           "name": "幻想言情",
-          "score": 4849000,
+          "score": 4872000,
           "new_count": 131,
           "dropped_count": 131,
           "read_count": 342,
-          "read_growth_total": 4849000.0,
+          "read_growth_total": 4872000.0,
           "active_days": 120,
           "lead_category": "玄幻言情",
           "categories": [
@@ -465,11 +465,11 @@
         },
         {
           "name": "古风言情",
-          "score": 4429000,
+          "score": 4452000,
           "new_count": 110,
           "dropped_count": 110,
           "read_count": 348,
-          "read_growth_total": 4429000.0,
+          "read_growth_total": 4452000.0,
           "active_days": 120,
           "lead_category": "种田",
           "categories": [
@@ -481,11 +481,11 @@
         },
         {
           "name": "游戏体育",
-          "score": 3865000,
+          "score": 3868000,
           "new_count": 28,
           "dropped_count": 28,
           "read_count": 87,
-          "read_growth_total": 3865000.0,
+          "read_growth_total": 3868000.0,
           "active_days": 30,
           "lead_category": "游戏体育",
           "categories": [
@@ -494,11 +494,11 @@
         },
         {
           "name": "年代民国",
-          "score": 2426000,
+          "score": 2443000,
           "new_count": 77,
           "dropped_count": 77,
           "read_count": 168,
-          "read_growth_total": 2426000.0,
+          "read_growth_total": 2443000.0,
           "active_days": 60,
           "lead_category": "年代",
           "categories": [
@@ -510,11 +510,11 @@
       "hot_types": [
         {
           "name": "游戏体育",
-          "score": 3865000,
+          "score": 3868000,
           "new_count": 28,
           "dropped_count": 28,
           "read_count": 87,
-          "read_growth_total": 3865000.0,
+          "read_growth_total": 3868000.0,
           "active_days": 30
         },
         {
@@ -528,11 +528,11 @@
         },
         {
           "name": "玄幻言情",
-          "score": 1846000,
+          "score": 1869000,
           "new_count": 63,
           "dropped_count": 63,
           "read_count": 81,
-          "read_growth_total": 1846000.0,
+          "read_growth_total": 1869000.0,
           "active_days": 30
         },
         {
@@ -545,21 +545,21 @@
           "active_days": 30
         },
         {
+          "name": "种田",
+          "score": 1615000,
+          "new_count": 31,
+          "dropped_count": 31,
+          "read_count": 87,
+          "read_growth_total": 1615000.0,
+          "active_days": 30
+        },
+        {
           "name": "职场婚恋",
           "score": 1607000,
           "new_count": 31,
           "dropped_count": 31,
           "read_count": 87,
           "read_growth_total": 1607000.0,
-          "active_days": 30
-        },
-        {
-          "name": "种田",
-          "score": 1604000,
-          "new_count": 31,
-          "dropped_count": 31,
-          "read_count": 87,
-          "read_growth_total": 1604000.0,
           "active_days": 30
         }
       ],
@@ -660,11 +660,11 @@
         },
         {
           "name": "幻想言情",
-          "score": 9304000,
+          "score": 9327000,
           "new_count": 180,
           "dropped_count": 180,
           "read_count": 594,
-          "read_growth_total": 9304000.0,
+          "read_growth_total": 9327000.0,
           "active_days": 204,
           "lead_category": "玄幻言情",
           "categories": [
@@ -676,11 +676,11 @@
         },
         {
           "name": "古风言情",
-          "score": 8429000,
+          "score": 8452000,
           "new_count": 170,
           "dropped_count": 170,
           "read_count": 600,
-          "read_growth_total": 8429000.0,
+          "read_growth_total": 8452000.0,
           "active_days": 204,
           "lead_category": "种田",
           "categories": [
@@ -692,11 +692,11 @@
         },
         {
           "name": "年代民国",
-          "score": 4411000,
+          "score": 4428000,
           "new_count": 111,
           "dropped_count": 111,
           "read_count": 294,
-          "read_growth_total": 4411000.0,
+          "read_growth_total": 4428000.0,
           "active_days": 102,
           "lead_category": "年代",
           "categories": [
@@ -706,11 +706,11 @@
         },
         {
           "name": "游戏体育",
-          "score": 4196000,
+          "score": 4199000,
           "new_count": 39,
           "dropped_count": 39,
           "read_count": 149,
-          "read_growth_total": 4196000.0,
+          "read_growth_total": 4199000.0,
           "active_days": 51,
           "lead_category": "游戏体育",
           "categories": [
@@ -721,11 +721,11 @@
       "hot_types": [
         {
           "name": "游戏体育",
-          "score": 4196000,
+          "score": 4199000,
           "new_count": 39,
           "dropped_count": 39,
           "read_count": 149,
-          "read_growth_total": 4196000.0,
+          "read_growth_total": 4199000.0,
           "active_days": 51
         },
         {
@@ -739,11 +739,11 @@
         },
         {
           "name": "玄幻言情",
-          "score": 3526000,
+          "score": 3549000,
           "new_count": 77,
           "dropped_count": 77,
           "read_count": 144,
-          "read_growth_total": 3526000.0,
+          "read_growth_total": 3549000.0,
           "active_days": 51
         },
         {
@@ -766,11 +766,11 @@
         },
         {
           "name": "种田",
-          "score": 3001000,
+          "score": 3012000,
           "new_count": 51,
           "dropped_count": 51,
           "read_count": 150,
-          "read_growth_total": 3001000.0,
+          "read_growth_total": 3012000.0,
           "active_days": 51
         }
       ],
