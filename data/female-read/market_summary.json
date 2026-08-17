@@ -11,8 +11,8 @@
         {
           "name": "现代言情",
           "score": 1512000,
-          "new_count": 62,
-          "dropped_count": 62,
+          "new_count": 63,
+          "dropped_count": 63,
           "read_count": 78,
           "read_growth_total": 1512000.0,
           "active_days": 28,
@@ -57,8 +57,8 @@
         {
           "name": "幻想言情",
           "score": 604000,
-          "new_count": 62,
-          "dropped_count": 62,
+          "new_count": 63,
+          "dropped_count": 63,
           "read_count": 78,
           "read_growth_total": 604000.0,
           "active_days": 28,
@@ -149,7 +149,7 @@
         },
         {
           "name": "系统",
-          "count": 21,
+          "count": 20,
           "category_count": 10
         },
         {
@@ -169,7 +169,7 @@
         },
         {
           "name": "空间",
-          "count": 9,
+          "count": 10,
           "category_count": 5
         },
         {
@@ -193,6 +193,11 @@
           "category_count": 6
         },
         {
+          "name": "末世",
+          "count": 8,
+          "category_count": 4
+        },
+        {
           "name": "团宠",
           "count": 6,
           "category_count": 6
@@ -204,11 +209,6 @@
         },
         {
           "name": "甜宠",
-          "count": 6,
-          "category_count": 4
-        },
-        {
-          "name": "无CP",
           "count": 6,
           "category_count": 4
         }
@@ -223,8 +223,8 @@
         {
           "name": "现代言情",
           "score": 2820000,
-          "new_count": 105,
-          "dropped_count": 105,
+          "new_count": 106,
+          "dropped_count": 106,
           "read_count": 159,
           "read_growth_total": 2820000.0,
           "active_days": 56,
@@ -255,8 +255,8 @@
         {
           "name": "幻想言情",
           "score": 1493000,
-          "new_count": 80,
-          "dropped_count": 80,
+          "new_count": 81,
+          "dropped_count": 81,
           "read_count": 162,
           "read_growth_total": 1493000.0,
           "active_days": 56,
@@ -360,7 +360,7 @@
         },
         {
           "name": "系统",
-          "count": 35,
+          "count": 33,
           "category_count": 11
         },
         {
@@ -400,8 +400,13 @@
         },
         {
           "name": "空间",
-          "count": 15,
+          "count": 16,
           "category_count": 7
+        },
+        {
+          "name": "末世",
+          "count": 14,
+          "category_count": 4
         },
         {
           "name": "豪门",
@@ -412,11 +417,6 @@
           "name": "先婚后爱",
           "count": 12,
           "category_count": 4
-        },
-        {
-          "name": "末世",
-          "count": 12,
-          "category_count": 3
         },
         {
           "name": "反派",
@@ -434,8 +434,8 @@
         {
           "name": "现代言情",
           "score": 6309000,
-          "new_count": 183,
-          "dropped_count": 183,
+          "new_count": 184,
+          "dropped_count": 184,
           "read_count": 336,
           "read_growth_total": 6309000.0,
           "active_days": 120,
@@ -450,8 +450,8 @@
         {
           "name": "幻想言情",
           "score": 4814000,
-          "new_count": 130,
-          "dropped_count": 130,
+          "new_count": 131,
+          "dropped_count": 131,
           "read_count": 342,
           "read_growth_total": 4814000.0,
           "active_days": 120,
@@ -571,7 +571,7 @@
         },
         {
           "name": "系统",
-          "count": 55,
+          "count": 53,
           "category_count": 13
         },
         {
@@ -601,12 +601,12 @@
         },
         {
           "name": "末世",
-          "count": 28,
-          "category_count": 4
+          "count": 30,
+          "category_count": 5
         },
         {
           "name": "空间",
-          "count": 26,
+          "count": 27,
           "category_count": 8
         },
         {
@@ -621,7 +621,7 @@
         },
         {
           "name": "星际",
-          "count": 18,
+          "count": 19,
           "category_count": 5
         },
         {
@@ -639,14 +639,14 @@
     "all": {
       "period": "全部样本",
       "source": "rule",
-      "summary": "全部样本里，现代言情、幻想言情 的阅读增长更强，具体分类以 游戏体育、豪门总裁、玄幻言情 的新增在读更集中；新书题材上 重生、系统、快穿、双洁、女配、末世 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "全部样本里，现代言情、幻想言情 的阅读增长更强，具体分类以 游戏体育、豪门总裁、玄幻言情 的新增在读更集中；新书题材上 重生、系统、快穿、双洁、女配、末世 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "全部样本里，现代言情、幻想言情 的阅读增长更强，具体分类以 游戏体育、豪门总裁、玄幻言情 的新增在读更集中；新书题材上 重生、系统、快穿、双洁、末世、女配 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "fallback_summary": "全部样本里，现代言情、幻想言情 的阅读增长更强，具体分类以 游戏体育、豪门总裁、玄幻言情 的新增在读更集中；新书题材上 重生、系统、快穿、双洁、末世、女配 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "现代言情",
           "score": 11311000,
-          "new_count": 246,
-          "dropped_count": 246,
+          "new_count": 247,
+          "dropped_count": 247,
           "read_count": 588,
           "read_growth_total": 11311000.0,
           "active_days": 204,
@@ -661,8 +661,8 @@
         {
           "name": "幻想言情",
           "score": 9269000,
-          "new_count": 179,
-          "dropped_count": 179,
+          "new_count": 180,
+          "dropped_count": 180,
           "read_count": 594,
           "read_growth_total": 9269000.0,
           "active_days": 204,
@@ -758,8 +758,8 @@
         {
           "name": "科幻末世",
           "score": 3012000,
-          "new_count": 42,
-          "dropped_count": 42,
+          "new_count": 43,
+          "dropped_count": 43,
           "read_count": 150,
           "read_growth_total": 3012000.0,
           "active_days": 51
@@ -782,7 +782,7 @@
         },
         {
           "name": "系统",
-          "count": 74,
+          "count": 72,
           "category_count": 13
         },
         {
@@ -796,14 +796,14 @@
           "category_count": 12
         },
         {
+          "name": "末世",
+          "count": 45,
+          "category_count": 7
+        },
+        {
           "name": "女配",
           "count": 43,
           "category_count": 11
-        },
-        {
-          "name": "末世",
-          "count": 43,
-          "category_count": 6
         },
         {
           "name": "炮灰",
@@ -812,7 +812,7 @@
         },
         {
           "name": "空间",
-          "count": 36,
+          "count": 37,
           "category_count": 8
         },
         {

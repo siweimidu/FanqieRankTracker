@@ -151,7 +151,7 @@
         },
         {
           "name": "系统",
-          "count": 68,
+          "count": 67,
           "category_count": 19
         },
         {
@@ -206,8 +206,8 @@
         },
         {
           "name": "都市",
-          "count": 6,
-          "category_count": 4
+          "count": 7,
+          "category_count": 5
         },
         {
           "name": "末世",
@@ -365,7 +365,7 @@
         },
         {
           "name": "系统",
-          "count": 113,
+          "count": 112,
           "category_count": 19
         },
         {
@@ -425,8 +425,8 @@
         },
         {
           "name": "都市",
-          "count": 11,
-          "category_count": 5
+          "count": 12,
+          "category_count": 6
         }
       ]
     },
@@ -579,7 +579,7 @@
         },
         {
           "name": "系统",
-          "count": 160,
+          "count": 158,
           "category_count": 19
         },
         {
@@ -638,9 +638,9 @@
           "category_count": 4
         },
         {
-          "name": "直播",
-          "count": 17,
-          "category_count": 8
+          "name": "都市",
+          "count": 18,
+          "category_count": 6
         }
       ]
     },
@@ -793,7 +793,7 @@
         },
         {
           "name": "系统",
-          "count": 180,
+          "count": 178,
           "category_count": 19
         },
         {
@@ -847,14 +847,14 @@
           "category_count": 7
         },
         {
+          "name": "都市",
+          "count": 26,
+          "category_count": 6
+        },
+        {
           "name": "历史",
           "count": 25,
           "category_count": 8
-        },
-        {
-          "name": "都市",
-          "count": 25,
-          "category_count": 6
         }
       ]
     }

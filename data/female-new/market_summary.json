@@ -27,8 +27,8 @@
         {
           "name": "幻想言情",
           "score": 461000,
-          "new_count": 35,
-          "dropped_count": 35,
+          "new_count": 36,
+          "dropped_count": 36,
           "read_count": 84,
           "read_growth_total": 461000.0,
           "active_days": 28,
@@ -154,7 +154,7 @@
         },
         {
           "name": "甜宠",
-          "count": 18,
+          "count": 19,
           "category_count": 9
         },
         {
@@ -193,14 +193,14 @@
           "category_count": 8
         },
         {
+          "name": "豪门",
+          "count": 10,
+          "category_count": 6
+        },
+        {
           "name": "年代",
           "count": 10,
           "category_count": 2
-        },
-        {
-          "name": "豪门",
-          "count": 9,
-          "category_count": 6
         },
         {
           "name": "无CP",
@@ -239,8 +239,8 @@
         {
           "name": "幻想言情",
           "score": 1074000,
-          "new_count": 82,
-          "dropped_count": 82,
+          "new_count": 83,
+          "dropped_count": 83,
           "read_count": 168,
           "read_growth_total": 1074000.0,
           "active_days": 56,
@@ -360,7 +360,7 @@
         },
         {
           "name": "炮灰",
-          "count": 32,
+          "count": 33,
           "category_count": 12
         },
         {
@@ -375,13 +375,18 @@
         },
         {
           "name": "甜宠",
-          "count": 29,
+          "count": 30,
           "category_count": 12
         },
         {
           "name": "团宠",
           "count": 29,
           "category_count": 10
+        },
+        {
+          "name": "女配",
+          "count": 24,
+          "category_count": 11
         },
         {
           "name": "空间",
@@ -392,11 +397,6 @@
           "name": "快穿",
           "count": 24,
           "category_count": 4
-        },
-        {
-          "name": "女配",
-          "count": 23,
-          "category_count": 11
         },
         {
           "name": "穿书",
@@ -415,12 +415,12 @@
         },
         {
           "name": "无CP",
-          "count": 14,
+          "count": 15,
           "category_count": 9
         },
         {
           "name": "豪门",
-          "count": 13,
+          "count": 14,
           "category_count": 6
         }
       ]
@@ -450,8 +450,8 @@
         {
           "name": "幻想言情",
           "score": 2205000,
-          "new_count": 182,
-          "dropped_count": 182,
+          "new_count": 183,
+          "dropped_count": 183,
           "read_count": 348,
           "read_growth_total": 2205000.0,
           "active_days": 120,
@@ -577,7 +577,7 @@
         },
         {
           "name": "女配",
-          "count": 53,
+          "count": 54,
           "category_count": 13
         },
         {
@@ -592,7 +592,7 @@
         },
         {
           "name": "炮灰",
-          "count": 46,
+          "count": 47,
           "category_count": 14
         },
         {
@@ -601,14 +601,14 @@
           "category_count": 12
         },
         {
+          "name": "甜宠",
+          "count": 38,
+          "category_count": 13
+        },
+        {
           "name": "空间",
           "count": 37,
           "category_count": 10
-        },
-        {
-          "name": "甜宠",
-          "count": 35,
-          "category_count": 13
         },
         {
           "name": "末世",
@@ -627,7 +627,7 @@
         },
         {
           "name": "无CP",
-          "count": 25,
+          "count": 26,
           "category_count": 13
         },
         {
@@ -678,8 +678,8 @@
         {
           "name": "幻想言情",
           "score": 10390000,
-          "new_count": 706,
-          "dropped_count": 706,
+          "new_count": 707,
+          "dropped_count": 707,
           "read_count": 1511,
           "read_growth_total": 10390000.0,
           "active_days": 508,
@@ -794,17 +794,17 @@
         },
         {
           "name": "女配",
-          "count": 150,
+          "count": 151,
           "category_count": 16
         },
         {
           "name": "炮灰",
-          "count": 107,
+          "count": 108,
           "category_count": 16
         },
         {
           "name": "末世",
-          "count": 96,
+          "count": 95,
           "category_count": 9
         },
         {
@@ -813,14 +813,14 @@
           "category_count": 13
         },
         {
-          "name": "空间",
-          "count": 76,
-          "category_count": 11
-        },
-        {
           "name": "反派",
           "count": 75,
           "category_count": 16
+        },
+        {
+          "name": "空间",
+          "count": 75,
+          "category_count": 11
         },
         {
           "name": "双洁",
@@ -838,14 +838,14 @@
           "category_count": 14
         },
         {
+          "name": "豪门",
+          "count": 51,
+          "category_count": 9
+        },
+        {
           "name": "强制爱",
           "count": 49,
           "category_count": 10
-        },
-        {
-          "name": "豪门",
-          "count": 48,
-          "category_count": 9
         }
       ]
     }
