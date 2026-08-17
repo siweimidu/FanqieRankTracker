@@ -1,13 +1,13 @@
 {
   "slug": "male-new",
-  "date": "2026-08-17",
-  "prev_date": "2026-08-16",
+  "date": "2026-08-18",
+  "prev_date": "2026-08-17",
   "types": [
     {
       "type": "all",
       "url": "api/male-new/lastest/all.json",
       "category_count": 19,
-      "book_count": 360
+      "book_count": 380
     },
     {
       "type": "西方奇幻",
@@ -92,7 +92,7 @@
     {
       "type": "游戏体育",
       "url": "api/male-new/lastest/%E6%B8%B8%E6%88%8F%E4%BD%93%E8%82%B2.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "动漫衍生",
