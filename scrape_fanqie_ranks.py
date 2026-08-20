@@ -247,6 +247,7 @@ def _save_state(state_file: str, completed_cats: list):
 
 
 def run_scraper(limit=30, sleep_sec=5):
+    deadline = int(os.environ.get("SCRAPE_DEADLINE_SEC", "0")) or None
     os.makedirs(DATA_DIR, exist_ok=True)
     boards = enabled_boards()
     if not boards:
@@ -254,6 +255,7 @@ def run_scraper(limit=30, sleep_sec=5):
         return
 
     print(f"开始抓取 {len(boards)} 个榜单：{'、'.join(b['name'] for b in boards)}")
+    t0 = time.time()
     with sync_playwright() as p:
         if os.environ.get("GITHUB_ACTIONS"):
             browser = p.chromium.launch(headless=True)
@@ -268,8 +270,13 @@ def run_scraper(limit=30, sleep_sec=5):
                         "Chrome/120.0.0.0 Safari/537.36")
         )
         page = context.new_page()
+        # 限制单次操作超时，避免 WAF 卡住时每个分类都干等 30s
+        page.set_default_timeout(20000)
 
         for board in boards:
+            if deadline and (time.time() - t0) > deadline:
+                print(f"⏰ 已达时间预算 {deadline}s，停止后续榜单，保留已抓取数据")
+                break
             try:
                 scrape_board(page, board, limit, sleep_sec)
             except Exception as e:
