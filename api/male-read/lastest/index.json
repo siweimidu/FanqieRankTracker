@@ -1,13 +1,13 @@
 {
   "slug": "male-read",
-  "date": "2026-08-24",
-  "prev_date": "2026-08-23",
+  "date": "2026-08-25",
+  "prev_date": "2026-08-24",
   "types": [
     {
       "type": "all",
       "url": "api/male-read/lastest/all.json",
       "category_count": 19,
-      "book_count": 370
+      "book_count": 379
     },
     {
       "type": "西方奇幻",
@@ -47,7 +47,7 @@
     {
       "type": "战神赘婿",
       "url": "api/male-read/lastest/%E6%88%98%E7%A5%9E%E8%B5%98%E5%A9%BF.json",
-      "book_count": 10
+      "book_count": 20
     },
     {
       "type": "都市种田",
@@ -67,7 +67,7 @@
     {
       "type": "悬疑脑洞",
       "url": "api/male-read/lastest/%E6%82%AC%E7%96%91%E8%84%91%E6%B4%9E.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "都市脑洞",
