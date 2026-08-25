@@ -1,13 +1,13 @@
 {
   "slug": "female-new",
-  "date": "2026-08-25",
-  "prev_date": "2026-08-24",
+  "date": "2026-08-26",
+  "prev_date": "2026-08-25",
   "types": [
     {
       "type": "all",
       "url": "api/female-new/lastest/all.json",
       "category_count": 18,
-      "book_count": 340
+      "book_count": 360
     },
     {
       "type": "古风世情",
@@ -92,7 +92,7 @@
     {
       "type": "豪门总裁",
       "url": "api/female-new/lastest/%E8%B1%AA%E9%97%A8%E6%80%BB%E8%A3%81.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "民国言情",
