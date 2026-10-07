@@ -1,13 +1,13 @@
 {
   "slug": "male-new",
-  "date": "2026-10-05",
-  "prev_date": "2026-10-04",
+  "date": "2026-10-07",
+  "prev_date": "2026-10-05",
   "types": [
     {
       "type": "all",
       "url": "api/male-new/lastest/all.json",
       "category_count": 19,
-      "book_count": 380
+      "book_count": 350
     },
     {
       "type": "西方奇幻",
@@ -37,7 +37,7 @@
     {
       "type": "都市高武",
       "url": "api/male-new/lastest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "历史古代",
@@ -57,7 +57,7 @@
     {
       "type": "传统玄幻",
       "url": "api/male-new/lastest/%E4%BC%A0%E7%BB%9F%E7%8E%84%E5%B9%BB.json",
-      "book_count": 20
+      "book_count": 10
     },
     {
       "type": "历史脑洞",
