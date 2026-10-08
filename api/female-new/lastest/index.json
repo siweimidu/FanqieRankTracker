@@ -1,13 +1,13 @@
 {
   "slug": "female-new",
-  "date": "2026-10-07",
-  "prev_date": "2026-10-05",
+  "date": "2026-10-08",
+  "prev_date": "2026-10-07",
   "types": [
     {
       "type": "all",
       "url": "api/female-new/lastest/all.json",
       "category_count": 18,
-      "book_count": 340
+      "book_count": 360
     },
     {
       "type": "古风世情",
@@ -72,7 +72,7 @@
     {
       "type": "青春甜宠",
       "url": "api/female-new/lastest/%E9%9D%92%E6%98%A5%E7%94%9C%E5%AE%A0.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "星光璀璨",
